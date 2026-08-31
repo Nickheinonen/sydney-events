@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What's on in Sydney</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink:      #0E2A2B;
+    --surface:  #143638;
+    --line:     #24504F;
+    --sand:     #EDE4D3;
+    --muted:    #8CA8A3;
+    --ferry:    #F2C230;
+    --display: "Bricolage Grotesque", Georgia, serif;
+    --body: "Instrument Sans", system-ui, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--ink);
+    color: var(--sand);
+    font-family: var(--body);
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 70rem; margin: 0 auto; padding: 0 1.25rem 5rem; }
+
+  /* ---------- masthead ---------- */
+
+  .masthead { padding: 3rem 0 1.5rem; }
+
+  .masthead h1 {
+    font-family: var(--display);
+    font-weight: 800;
+    font-size: clamp(2.75rem, 11vw, 5.5rem);
+    line-height: 0.92;
+    letter-spacing: -0.03em;
+    margin: 0;
+  }
+
+  .masthead h1 .harbour { display: block; color: var(--ferry); }
+  .masthead .freshness { margin: 1rem 0 0; color: var(--muted); font-size: 0.875rem; }
+
+  /* ---------- toolbar ---------- */
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
+    padding: 1rem 0;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    position: sticky;
+    top: 0;
+    background: var(--ink);
+    z-index: 10;
+  }
+
+  #search {
+    flex: 1 1 14rem;
+    font-family: var(--body);
+    font-size: 0.9375rem;
+    padding: 0.55rem 0.7rem;
+    border-radius: 3px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--sand);
+  }
+
+  #search::placeholder { color: #5F7C79; }
+
+  .views { display: flex; border: 1px solid var(--line); border-radius: 3px; overflow: hidden; }
+
+  .views button {
+    font-family: var(--body);
+    font-size: 0.875rem;
+    padding: 0.55rem 0.9rem;
+    border: 0;
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+  }
+
+  .views button[aria-pressed="true"] { background: var(--sand); color: var(--ink); }
+
+  :is(#search, .views button):focus-visible { outline: 2px solid var(--ferry); outline-offset: 2px; }
+
+  /* ---------- catalogue shelves ---------- */
+
+  .shelf { padding: 2.25rem 0 0.5rem; }
+
+  .shelf-head { display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 1rem; }
+
+  .shelf-head h2 {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 1.5rem;
+    letter-spacing: -0.015em;
+    margin: 0;
+  }
+
+  .shelf-head .n { color: var(--muted); font-size: 0.875rem; }
+
+  .rail {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scroll-snap-type: x proximity;
+    padding-bottom: 0.75rem;
+    scrollbar-width: thin;
+    scrollbar-color: var(--line) transparent;
+  }
+
+  .rail::-webkit-scrollbar { height: 6px; }
+  .rail::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
+
+  .card {
+    flex: 0 0 15rem;
+    scroll-snap-align: start;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+
+  .thumb {
+    height: 9rem;
+    border-radius: 3px;
+    overflow: hidden;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    display: flex;
+    align-items: flex-end;
+    padding: 0.75rem;
+  }
+
+  .thumb.has-img { padding: 0; }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; }
+
+  .thumb .glyph {
+    font-family: var(--display);
+    font-weight: 800;
+    font-size: 2.25rem;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    opacity: 0.4;
+  }
+
+  .card h3 {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.25;
+    margin: 0.6rem 0 0.2rem;
+  }
+
+  .card:hover h3 { text-decoration: underline; text-underline-offset: 3px; }
+  .card:focus-visible { outline: 2px solid var(--ferry); outline-offset: 4px; }
+  .card .meta { margin: 0; font-size: 0.8125rem; color: var(--muted); }
+  .card .when { color: var(--ferry); }
+
+  /* ---------- date view ---------- */
+
+  .day {
+    display: grid;
+    grid-template-columns: 5.5rem 1fr;
+    gap: 1.5rem;
+    padding: 2rem 0;
+    border-top: 1px solid var(--line);
+  }
+
+  .daterail .dow { display: block; font-size: 0.8125rem; color: var(--muted); }
+
+  .daterail .dnum {
+    display: block;
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 2.75rem;
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+
+  .daterail .mon { display: block; font-size: 0.8125rem; color: var(--muted); }
+
+  .events { list-style: none; margin: 0; padding: 0; }
+  .event { padding: 0.9rem 0; }
+  .event + .event { border-top: 1px solid rgba(36, 80, 79, 0.55); }
+
+  .event h3 {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.25;
+    margin: 0 0 0.25rem;
+  }
+
+  .event a { color: inherit; text-decoration: none; }
+  .event a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .event .meta { margin: 0; font-size: 0.875rem; color: var(--muted); }
+  .event .when { color: var(--ferry); }
+  .via { opacity: 0.6; }
+
+  /* ---------- search results ---------- */
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+    gap: 1.5rem 1rem;
+    padding-top: 2rem;
+  }
+
+  .grid .card { flex: none; }
+
+  /* ---------- status ---------- */
+
+  .status { padding: 3rem 0; max-width: 34rem; }
+  .status h2 { font-family: var(--display); font-weight: 600; margin: 0 0 0.5rem; }
+  .status p { color: var(--muted); margin: 0 0 0.5rem; }
+  .status code { background: var(--surface); padding: 0.15rem 0.4rem; border-radius: 2px; color: var(--sand); }
+
+  @media (max-width: 34rem) {
+    .day { grid-template-columns: 1fr; gap: 0.75rem; }
+    .daterail { display: flex; align-items: baseline; gap: 0.5rem; }
+    .daterail .dnum { font-size: 1.5rem; }
+    .card { flex-basis: 11rem; }
+    .thumb { height: 7rem; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <h1>What's on<span class="harbour">in Sydney</span></h1>
+    <p class="freshness" id="freshness"></p>
+  </header>
+
+  <div class="toolbar" id="toolbar" hidden>
+    <input id="search" type="search" placeholder="Search events, venues, categories" autocomplete="off">
+    <div class="views">
+      <button id="btn-browse" aria-pressed="true">Browse</button>
+      <button id="btn-date" aria-pressed="false">By date</button>
+    </div>
+  </div>
+
+  <main id="results"></main>
+
+</div>
+
+<script src="events.js" onerror="window.EVENT_DATA = null"></script>
+<script>
+"use strict";
+
+// Helpers are declared as functions, not const, so they exist before use
+// no matter where they appear in the file. This is what was broken before.
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"]/g, function (c) {
+    return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+  });
+}
+
+function formatTime(t) {
+  const parts = t.split(":");
+  const h = Number(parts[0]);
+  const m = Number(parts[1]);
+  const suffix = h >= 12 ? "pm" : "am";
+  const hour = h % 12 || 12;
+  return m ? hour + "." + String(m).padStart(2, "0") + suffix : hour + suffix;
+}
+
+function shortDate(dateStr) {
+  const d = new Date(dateStr + "T12:00:00");
+  return d.toLocaleDateString("en-AU", { weekday: "short", day: "numeric", month: "short" });
+}
+
+const data = window.EVENT_DATA;
+const results = document.getElementById("results");
+const freshness = document.getElementById("freshness");
+
+let view = "browse";
+let query = "";
+
+if (!data || !data.events || !data.events.length) {
+  freshness.textContent = "No data yet";
+  results.innerHTML =
+    '<div class="status"><h2>No events loaded</h2>' +
+    '<p>The <code>events.js</code> file is missing or has no events in it.</p>' +
+    '<p>Check the Actions tab on GitHub to see what the collector found.</p></div>';
+} else {
+  start();
+}
+
+function start() {
+  const when = new Date(data.generated);
+  freshness.textContent =
+    data.events.length + " events · updated " +
+    when.toLocaleDateString("en-AU", { day: "numeric", month: "long" });
+
+  document.getElementById("toolbar").hidden = false;
+
+  document.getElementById("btn-browse").addEventListener("click", function () { setView("browse"); });
+  document.getElementById("btn-date").addEventListener("click", function () { setView("date"); });
+
+  document.getElementById("search").addEventListener("input", function (e) {
+    query = e.target.value.trim().toLowerCase();
+    render();
+  });
+
+  render();
+}
+
+function setView(v) {
+  view = v;
+  document.getElementById("btn-browse").setAttribute("aria-pressed", String(v === "browse"));
+  document.getElementById("btn-date").setAttribute("aria-pressed", String(v === "date"));
+  render();
+}
+
+function render() {
+  const shown = data.events.filter(function (e) {
+    if (!query) return true;
+    return (e.name + " " + e.venue + " " + e.category).toLowerCase().includes(query);
+  });
+
+  if (!shown.length) {
+    results.innerHTML =
+      '<div class="status"><h2>Nothing matches "' + escapeHtml(query) + '"</h2>' +
+      '<p>Try a venue name, or a word like market, jazz or comedy.</p></div>';
+    return;
+  }
+
+  if (query) {
+    results.innerHTML = '<div class="grid">' + shown.map(card).join("") + "</div>";
+    return;
+  }
+
+  results.innerHTML = view === "browse" ? browseView(shown) : dateView(shown);
+}
+
+function browseView(events) {
+  const byCat = new Map();
+  events.forEach(function (e) {
+    const cat = e.category || "Other";
+    if (!byCat.has(cat)) byCat.set(cat, []);
+    byCat.get(cat).push(e);
+  });
+
+  const shelves = Array.from(byCat.entries()).sort(function (a, b) {
+    return b[1].length - a[1].length;
+  });
+
+  const html = [shelf("Coming up", events.slice(0, 12), "")];
+  shelves.forEach(function (entry) {
+    html.push(shelf(entry[0], entry[1], String(entry[1].length)));
+  });
+
+  return html.join("");
+}
+
+function shelf(title, events, count) {
+  return '<section class="shelf"><div class="shelf-head"><h2>' +
+    escapeHtml(title) + "</h2>" +
+    (count ? '<span class="n">' + count + "</span>" : "") +
+    '</div><div class="rail">' + events.map(card).join("") + "</div></section>";
+}
+
+function card(e) {
+  const thumb = e.image
+    ? '<div class="thumb has-img"><img src="' + escapeHtml(e.image) + '" alt="" loading="lazy"></div>'
+    : '<div class="thumb"><span class="glyph">' +
+      escapeHtml((e.category || "Ev").slice(0, 2).toUpperCase()) + "</span></div>";
+
+  return '<a class="card" href="' + escapeHtml(e.url) + '" target="_blank" rel="noopener">' +
+    thumb +
+    "<h3>" + escapeHtml(e.name) + "</h3>" +
+    '<p class="meta"><span class="when">' + shortDate(e.date) + "</span> · " +
+    escapeHtml(e.venue) + "</p></a>";
+}
+
+function dateView(events) {
+  const byDay = new Map();
+  events.forEach(function (e) {
+    if (!byDay.has(e.date)) byDay.set(e.date, []);
+    byDay.get(e.date).push(e);
+  });
+
+  return Array.from(byDay.entries()).map(function (entry) {
+    const d = new Date(entry[0] + "T12:00:00");
+    return '<section class="day"><div class="daterail">' +
+      '<span class="dow">' + d.toLocaleDateString("en-AU", { weekday: "short" }) + "</span>" +
+      '<span class="dnum">' + String(d.getDate()).padStart(2, "0") + "</span>" +
+      '<span class="mon">' + d.toLocaleDateString("en-AU", { month: "short" }) + "</span>" +
+      '</div><ul class="events">' + entry[1].map(row).join("") + "</ul></section>";
+  }).join("");
+}
+
+function row(e) {
+  return '<li class="event"><h3><a href="' + escapeHtml(e.url) +
+    '" target="_blank" rel="noopener">' + escapeHtml(e.name) + "</a></h3>" +
+    '<p class="meta"><span class="when">' +
+    (e.time ? formatTime(e.time) : "Time TBA") + "</span> · " +
+    escapeHtml(e.venue) + ' <span class="via">· ' + escapeHtml(e.category) + "</span></p></li>";
+}
+</script>
+</body>
+</html>
