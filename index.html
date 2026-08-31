@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What's on in Sydney</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink:      #0E2A2B;
+    --surface:  #143638;
+    --line:     #24504F;
+    --sand:     #EDE4D3;
+    --muted:    #8CA8A3;
+    --ferry:    #F2C230;
+    --display: "Bricolage Grotesque", Georgia, serif;
+    --body: "Instrument Sans", system-ui, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--ink);
+    color: var(--sand);
+    font-family: var(--body);
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 62rem; margin: 0 auto; padding: 0 1.25rem 5rem; }
+
+  /* ---------- masthead ---------- */
+
+  .masthead { padding: 3rem 0 1.5rem; }
+
+  .masthead h1 {
+    font-family: var(--display);
+    font-weight: 800;
+    font-size: clamp(2.75rem, 11vw, 5.5rem);
+    line-height: 0.92;
+    letter-spacing: -0.03em;
+    margin: 0;
+  }
+
+  .masthead h1 .harbour { display: block; color: var(--ferry); }
+
+  .masthead .freshness {
+    margin: 1rem 0 0;
+    color: var(--muted);
+    font-size: 0.875rem;
+  }
+
+  /* ---------- search + chips ---------- */
+
+  .toolbar {
+    padding: 1.25rem 0;
+    border-top: 1px solid var(--line);
+  }
+
+  #search {
+    width: 100%;
+    max-width: 22rem;
+    font-family: var(--body);
+    font-size: 0.9375rem;
+    padding: 0.55rem 0.7rem;
+    border-radius: 3px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--sand);
+  }
+
+  #search::placeholder { color: #5F7C79; }
+  #search:focus-visible { outline: 2px solid var(--ferry); outline-offset: 2px; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; }
+
+  .chip {
+    background: transparent;
+    border: 1px solid var(--line);
+    color: var(--muted);
+    padding: 0.35rem 0.85rem;
+    border-radius: 100px;
+    font-family: var(--body);
+    font-size: 0.875rem;
+    cursor: pointer;
+  }
+
+  .chip:hover { color: var(--sand); }
+  .chip:focus-visible { outline: 2px solid var(--ferry); outline-offset: 2px; }
+
+  .chip[aria-pressed="true"] {
+    background: var(--sand);
+    border-color: var(--sand);
+    color: var(--ink);
+  }
+
+  .chip .count { opacity: 0.55; margin-left: 0.35rem; }
+
+  /* ---------- day groups ---------- */
+
+  .day {
+    display: grid;
+    grid-template-columns: 5.5rem 1fr;
+    gap: 1.5rem;
+    padding: 2rem 0;
+    border-top: 1px solid var(--line);
+  }
+
+  .rail { position: sticky; top: 1.5rem; align-self: start; }
+  .rail .dow { display: block; font-size: 0.8125rem; color: var(--muted); }
+
+  .rail .dnum {
+    display: block;
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 2.75rem;
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+
+  .rail .mon { display: block; font-size: 0.8125rem; color: var(--muted); }
+
+  .events { list-style: none; margin: 0; padding: 0; }
+
+  .event { display: flex; gap: 1rem; align-items: flex-start; padding: 0.9rem 0; }
+  .event + .event { border-top: 1px solid rgba(36, 80, 79, 0.55); }
+
+  .event img {
+    width: 5.5rem;
+    height: 3.5rem;
+    object-fit: cover;
+    border-radius: 2px;
+    flex-shrink: 0;
+    background: var(--surface);
+  }
+
+  .event .detail { flex: 1; min-width: 0; }
+
+  .event h3 {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.25;
+    margin: 0 0 0.25rem;
+  }
+
+  .event a { color: inherit; text-decoration: none; }
+  .event a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .event a:focus-visible { outline: 2px solid var(--ferry); outline-offset: 3px; }
+
+  .event .meta { margin: 0; font-size: 0.875rem; color: var(--muted); }
+  .event .time { color: var(--ferry); }
+  .event .via { opacity: 0.6; }
+
+  /* ---------- status ---------- */
+
+  .status { padding: 3rem 0; max-width: 32rem; }
+  .status h2 { font-family: var(--display); font-weight: 600; margin: 0 0 0.5rem; }
+  .status p { color: var(--muted); margin: 0 0 0.5rem; }
+  .status code {
+    background: var(--surface);
+    padding: 0.15rem 0.4rem;
+    border-radius: 2px;
+    color: var(--sand);
+  }
+
+  @media (max-width: 34rem) {
+    .day { grid-template-columns: 1fr; gap: 0.75rem; }
+    .rail { position: static; display: flex; align-items: baseline; gap: 0.5rem; }
+    .rail .dnum { font-size: 1.5rem; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <h1>What's on<span class="harbour">in Sydney</span></h1>
+    <p class="freshness" id="freshness"></p>
+  </header>
+
+  <div class="toolbar" id="toolbar" hidden>
+    <input id="search" type="search" placeholder="Search events and venues" autocomplete="off">
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <main id="results"></main>
+
+</div>
+
+<script src="events.js" onerror="window.EVENT_DATA = null"></script>
+<script>
+const data = window.EVENT_DATA;
+const results = document.getElementById("results");
+const chipBox = document.getElementById("chips");
+const searchBox = document.getElementById("search");
+
+let active = new Set();
+let query = "";
+
+if (!data || !data.events?.length) {
+  document.getElementById("freshness").textContent = "No data yet";
+  results.innerHTML = `
+    <div class="status">
+      <h2>Run the collector first</h2>
+      <p>In this folder, run <code>node fetch-events.js</code>.</p>
+      <p>It writes an <code>events.js</code> alongside this page. Refresh once it finishes.</p>
+    </div>`;
+} else {
+  start();
+}
+
+function start() {
+  const when = new Date(data.generated);
+  document.getElementById("freshness").textContent =
+    `${data.events.length} events · updated ${when.toLocaleDateString("en-AU", {
+      day: "numeric", month: "long"
+    })}`;
+
+  const counts = {};
+  for (const e of data.events) counts[e.category] = (counts[e.category] ?? 0) + 1;
+
+  const cats = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+  active = new Set(cats);
+
+  document.getElementById("toolbar").hidden = false;
+
+  chipBox.innerHTML = cats
+    .map((c) =>
+      `<button class="chip" aria-pressed="true" data-cat="${attr(c)}">${escape(c)}<span class="count">${counts[c]}</span></button>`
+    )
+    .join("");
+
+  chipBox.querySelectorAll(".chip").forEach((chip) => {
+    chip.addEventListener("click", () => {
+      const cat = chip.dataset.cat;
+      if (active.has(cat)) {
+        active.delete(cat);
+        chip.setAttribute("aria-pressed", "false");
+      } else {
+        active.add(cat);
+        chip.setAttribute("aria-pressed", "true");
+      }
+      render();
+    });
+  });
+
+  searchBox.addEventListener("input", () => {
+    query = searchBox.value.trim().toLowerCase();
+    render();
+  });
+
+  render();
+}
+
+function render() {
+  const shown = data.events.filter((e) => {
+    if (!active.has(e.category)) return false;
+    if (!query) return true;
+    return (e.name + " " + e.venue).toLowerCase().includes(query);
+  });
+
+  if (!shown.length) {
+    results.innerHTML = `
+      <div class="status">
+        <h2>Nothing matches</h2>
+        <p>Widen your search or turn a category back on.</p>
+      </div>`;
+    return;
+  }
+
+  const byDay = new Map();
+  for (const e of shown) {
+    if (!byDay.has(e.date)) byDay.set(e.date, []);
+    byDay.get(e.date).push(e);
+  }
+
+  results.innerHTML = [...byDay.entries()]
+    .map(([date, events]) => dayGroup(date, events))
+    .join("");
+}
+
+function dayGroup(date, events) {
+  const d = new Date(date + "T12:00:00");
+
+  return `
+    <section class="day">
+      <div class="rail">
+        <span class="dow">${d.toLocaleDateString("en-AU", { weekday: "short" })}</span>
+        <span class="dnum">${String(d.getDate()).padStart(2, "0")}</span>
+        <span class="mon">${d.toLocaleDateString("en-AU", { month: "short" })}</span>
+      </div>
+      <ul class="events">${events.map(row).join("")}</ul>
+    </section>`;
+}
+
+function row(e) {
+  const time = e.time ? formatTime(e.time) : "Time TBA";
+
+  return `
+    <li class="event">
+      ${e.image ? `<img src="${attr(e.image)}" alt="" loading="lazy">` : ""}
+      <div class="detail">
+        <h3><a href="${attr(e.url)}" target="_blank" rel="noopener">${escape(e.name)}</a></h3>
+        <p class="meta">
+          <span class="time">${time}</span> · ${escape(e.venue)}
+          <span class="via">· ${escape(e.source)}</span>
+        </p>
+      </div>
+    </li>`;
+}
+
+function formatTime(t) {
+  const [h, m] = t.split(":").map(Number);
+  const suffix = h >= 12 ? "pm" : "am";
+  const hour = h % 12 || 12;
+  return m ? `${hour}.${String(m).padStart(2, "0")}${suffix}` : `${hour}${suffix}`;
+}
+
+function escape(s) {
+  return String(s).replace(/[&<>"]/g, (c) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])
+  );
+}
+
+const attr = escape;
+</script>
+</body>
+</html>
