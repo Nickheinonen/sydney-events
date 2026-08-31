@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-08-31T12:08:13.651Z",
+ "generated": "2026-08-31T12:20:40.328Z",
  "events": [
   {
    "name": "Madjawa Maangi: First Nations Exhibition and Events Program",
