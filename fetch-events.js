@@ -407,6 +407,149 @@ async function cityOfSydney() {
   return out;
 }
 
+// ---------------------------------------------------------- source: Moshtix
+// Moshtix run an open GraphQL API that allows anonymous queries for public
+// events. Docs: https://developer.moshtix.com/docs/our-api
+// Their terms ask that integrations don't hammer the API, so this runs once
+// a day, pages politely, and stops as soon as it passes our date window.
+
+const MOSHTIX_API = "https://api.moshtix.com/v1/graphql";
+const MOSHTIX_MAX_PAGES = 60;
+
+// The API has no location filter, so we pull events in date order and keep
+// the ones in Sydney localities.
+const SYDNEY = new Set([
+  "sydney","haymarket","ultimo","pyrmont","chippendale","glebe","redfern",
+  "surry hills","darlinghurst","potts point","kings cross","woolloomooloo",
+  "paddington","woollahra","alexandria","waterloo","zetland","rosebery",
+  "erskineville","newtown","enmore","camperdown","annandale","stanmore",
+  "petersham","lewisham","summer hill","ashfield","croydon","burwood",
+  "strathfield","homebush","sydney olympic park","marrickville","sydenham",
+  "st peters","dulwich hill","leichhardt","lilyfield","rozelle","balmain",
+  "drummoyne","five dock","concord","north sydney","crows nest","kirribilli",
+  "st leonards","chatswood","manly","brookvale","dee why","mosman","neutral bay",
+  "bondi","bondi junction","bondi beach","coogee","randwick","kensington",
+  "kingsford","maroubra","mascot","botany","moore park","double bay",
+  "rushcutters bay","parramatta","granville","auburn","blacktown","penrith",
+  "liverpool","bankstown","hurstville","kogarah","rockdale","cronulla",
+  "miranda","caringbah","sutherland","campbelltown","camden","ryde",
+  "gladesville","epping","hornsby","castle hill","rouse hill","the rocks",
+  "barangaroo","darling harbour","millers point","walsh bay"
+]);
+
+/** Moshtix's own slug rule, from their documentation. */
+function moshtixSlug(name) {
+  if (!name) return "";
+  return name
+    .trim()
+    .toLowerCase()
+    .replace(/([^0-9a-zA-Z-\u4e00-\u9eff])+/g, "-")
+    .replace(/-+/g, "-");
+}
+
+async function moshtixQuery(query) {
+  const res = await fetch(MOSHTIX_API, {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "User-Agent": UA },
+    body: JSON.stringify({ query })
+  });
+
+  if (!res.ok) throw new Error(res.status + " " + res.statusText);
+
+  const json = await res.json();
+  if (json.errors && json.errors.length) {
+    throw new Error(json.errors.map((e) => e.message).join("; "));
+  }
+  return json.data;
+}
+
+function moshtixPage(pageIndex, pageSize) {
+  return `query {
+    viewer {
+      getEvents(pageIndex: ${pageIndex}, pageSize: ${pageSize}, sortBy: STARTDATE, sortByDirection: ASC) {
+        totalCount
+        pageInfo { hasNextPage pageIndex pageSize }
+        items {
+          id
+          name
+          startDate
+          venue { name address { locality } }
+          genre { name }
+        }
+      }
+    }
+  }`;
+}
+
+async function moshtix(cutoffIso) {
+  const out = [];
+  let pageSize = 100;
+  let pageIndex = 0;
+  let scanned = 0;
+
+  while (pageIndex < MOSHTIX_MAX_PAGES) {
+    let data;
+    try {
+      data = await moshtixQuery(moshtixPage(pageIndex, pageSize));
+    } catch (err) {
+      // Most likely the page size exceeds their maximum — back off once.
+      if (pageSize > 25) {
+        console.log("  page size " + pageSize + " rejected (" + err.message + "), retrying at 25");
+        pageSize = 25;
+        continue;
+      }
+      console.log("  failed on page " + pageIndex + ": " + err.message);
+      break;
+    }
+
+    const conn = data && data.viewer && data.viewer.getEvents;
+    if (!conn || !conn.items || !conn.items.length) break;
+
+    if (INSPECT && pageIndex === 0) {
+      console.log("  sample event:", JSON.stringify(conn.items[0], null, 2).slice(0, 600));
+      console.log("  totalCount:", conn.totalCount);
+    }
+
+    let pastCutoff = false;
+
+    for (const ev of conn.items) {
+      scanned++;
+      const when = parseWhen(ev.startDate);
+      if (!when) continue;
+
+      if (when.date > cutoffIso) { pastCutoff = true; continue; }
+
+      const locality = ev.venue && ev.venue.address && ev.venue.address.locality;
+      if (!locality || !SYDNEY.has(String(locality).trim().toLowerCase())) continue;
+
+      out.push({
+        name: String(ev.name).trim(),
+        date: when.date,
+        time: when.time,
+        venue: (ev.venue && ev.venue.name) ? String(ev.venue.name).trim() : String(locality),
+        category: (ev.genre && ev.genre.name) ? String(ev.genre.name).trim() : "Music",
+        url: "https://www.moshtix.com.au/v2/event/" + moshtixSlug(ev.name) + "/" + ev.id,
+        image: "",
+        source: "Moshtix"
+      });
+    }
+
+    // Results are date-ordered, so once we're past the window we can stop.
+    if (pastCutoff) {
+      console.log("  reached the end of the date window at page " + pageIndex);
+      break;
+    }
+
+    if (!conn.pageInfo || !conn.pageInfo.hasNextPage) break;
+
+    pageIndex++;
+    await sleep(500);
+  }
+
+  console.log("  scanned " + scanned + " national events, kept " + out.length + " in Sydney");
+  return out;
+}
+
 // -------------------------------------------------------------------- main
 
 function dedupe(events) {
@@ -440,7 +583,14 @@ async function main() {
   });
   console.log("  " + cos.length + " events\n");
 
-  const all = dedupe(tm.concat(cos))
+  console.log("Moshtix:");
+  const mox = await moshtix(cutoff).catch((e) => {
+    console.log("  failed: " + e.message);
+    return [];
+  });
+  console.log("  " + mox.length + " events\n");
+
+  const all = dedupe(tm.concat(cos).concat(mox))
     .filter((e) => e.date >= today && e.date <= cutoff)
     .sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
 
@@ -471,6 +621,7 @@ if (require.main === module) {
 }
 
 module.exports = {
+  moshtix, moshtixSlug, moshtixPage, SYDNEY,
   harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
