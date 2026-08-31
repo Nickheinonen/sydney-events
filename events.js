@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-08-31T23:43:57.606Z",
+ "generated": "2026-08-31T23:57:57.729Z",
  "events": [
   {
    "name": "Madjawa Maangi: First Nations Exhibition and Events Program",
@@ -4832,6 +4832,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Little Sydney Lives Exhibition",
+   "date": "2026-09-26",
+   "time": "",
+   "venue": "Customs House",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/little-sydney-lives-exhibition",
+   "image": "",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Seidler Session 1: Knowing Harry",
    "date": "2026-09-26",
    "time": "",
@@ -4908,16 +4918,6 @@ window.EVENT_DATA = {
    "venue": "Joynton Avenue Creative Centre",
    "category": "Community & Causes",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-moon-festival-celebration",
-   "image": "",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Little Sydney Lives Exhibition",
-   "date": "2026-09-26",
-   "time": "",
-   "venue": "Customs House",
-   "category": "Talks Courses & Workshops",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/little-sydney-lives-exhibition",
    "image": "",
    "source": "City of Sydney"
   },
