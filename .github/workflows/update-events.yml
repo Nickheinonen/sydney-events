@@ -1,0 +1,52 @@
+name: Update events
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Get the files
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Collect events
+        env:
+          TM_KEY: ${{ secrets.TM_KEY }}
+        run: node fetch-events.js
+
+      - name: Save the results
+        run: |
+          git config user.name "events bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add events.js
+          git diff --staged --quiet || git commit -m "Update events"
+          git push
+
+      - name: Package the site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Publish the site
+        id: deploy
+        uses: actions/deploy-pages@v4
