@@ -92,6 +92,31 @@
 
   .views button[aria-pressed="true"] { background: var(--sand); color: var(--ink); }
 
+  .timebar { display: flex; flex-wrap: wrap; gap: 0.5rem; width: 100%; }
+
+  .chip {
+    font-family: var(--body);
+    font-size: 0.875rem;
+    padding: 0.4rem 0.9rem;
+    border-radius: 100px;
+    border: 1px solid var(--line);
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+  }
+
+  .chip:hover { color: var(--sand); }
+  .chip:focus-visible { outline: 2px solid var(--ferry); outline-offset: 2px; }
+
+  .chip[aria-pressed="true"] {
+    background: var(--ferry);
+    border-color: var(--ferry);
+    color: var(--ink);
+    font-weight: 500;
+  }
+
+  .chip .n { opacity: 0.6; margin-left: 0.35rem; }
+
   :is(#search, .views button):focus-visible { outline: 2px solid var(--ferry); outline-offset: 2px; }
 
   /* ---------- catalogue shelves ---------- */
@@ -249,6 +274,7 @@
       <button id="btn-browse" aria-pressed="true">Browse</button>
       <button id="btn-date" aria-pressed="false">By date</button>
     </div>
+    <div class="timebar" id="timebar"></div>
   </div>
 
   <main id="results"></main>
@@ -276,6 +302,41 @@ function formatTime(t) {
   return m ? hour + "." + String(m).padStart(2, "0") + suffix : hour + suffix;
 }
 
+function isoLocal(d) {
+  return d.getFullYear() + "-" +
+    String(d.getMonth() + 1).padStart(2, "0") + "-" +
+    String(d.getDate()).padStart(2, "0");
+}
+
+function addDays(d, n) {
+  const out = new Date(d);
+  out.setDate(d.getDate() + n);
+  return out;
+}
+
+/**
+ * "This weekend" means the Friday-to-Sunday you're heading into.
+ * On a Friday or Saturday that's the one you're already in; on a Sunday
+ * it's just today, not a weekend five days away.
+ */
+function dateWindow(key) {
+  const now = new Date();
+  const dow = now.getDay();          // 0 Sunday ... 6 Saturday
+
+  if (key === "today") return { from: isoLocal(now), to: isoLocal(now) };
+  if (key === "week")  return { from: isoLocal(now), to: isoLocal(addDays(now, 7)) };
+
+  if (key === "weekend") {
+    if (dow === 0) return { from: isoLocal(now), to: isoLocal(now) };
+    if (dow === 6) return { from: isoLocal(now), to: isoLocal(addDays(now, 1)) };
+    if (dow === 5) return { from: isoLocal(now), to: isoLocal(addDays(now, 2)) };
+    const friday = addDays(now, 5 - dow);
+    return { from: isoLocal(friday), to: isoLocal(addDays(friday, 2)) };
+  }
+
+  return null;                        // "all"
+}
+
 function shortDate(dateStr) {
   const d = new Date(dateStr + "T12:00:00");
   return d.toLocaleDateString("en-AU", { weekday: "short", day: "numeric", month: "short" });
@@ -287,6 +348,7 @@ const freshness = document.getElementById("freshness");
 
 let view = "browse";
 let query = "";
+let when = "all";
 
 if (!data || !data.events || !data.events.length) {
   freshness.textContent = "No data yet";
@@ -309,6 +371,33 @@ function start() {
   document.getElementById("btn-browse").addEventListener("click", function () { setView("browse"); });
   document.getElementById("btn-date").addEventListener("click", function () { setView("date"); });
 
+  const TIMES = [
+    { key: "all", label: "All" },
+    { key: "today", label: "Today" },
+    { key: "weekend", label: "This weekend" },
+    { key: "week", label: "Next 7 days" }
+  ];
+
+  const timebar = document.getElementById("timebar");
+  timebar.innerHTML = TIMES.map(function (t) {
+    const w = dateWindow(t.key);
+    const n = w
+      ? data.events.filter(function (e) { return e.date >= w.from && e.date <= w.to; }).length
+      : data.events.length;
+    return '<button class="chip" data-when="' + t.key + '" aria-pressed="' +
+      (t.key === "all") + '">' + t.label + '<span class="n">' + n + "</span></button>";
+  }).join("");
+
+  timebar.querySelectorAll(".chip").forEach(function (chip) {
+    chip.addEventListener("click", function () {
+      when = chip.dataset.when;
+      timebar.querySelectorAll(".chip").forEach(function (c) {
+        c.setAttribute("aria-pressed", String(c.dataset.when === when));
+      });
+      render();
+    });
+  });
+
   document.getElementById("search").addEventListener("input", function (e) {
     query = e.target.value.trim().toLowerCase();
     render();
@@ -325,15 +414,20 @@ function setView(v) {
 }
 
 function render() {
+  const w = dateWindow(when);
   const shown = data.events.filter(function (e) {
+    if (w && (e.date < w.from || e.date > w.to)) return false;
     if (!query) return true;
     return (e.name + " " + e.venue + " " + e.category).toLowerCase().includes(query);
   });
 
   if (!shown.length) {
-    results.innerHTML =
-      '<div class="status"><h2>Nothing matches "' + escapeHtml(query) + '"</h2>' +
-      '<p>Try a venue name, or a word like market, jazz or comedy.</p></div>';
+    const label = { today: "today", weekend: "this weekend", week: "in the next 7 days" }[when];
+    results.innerHTML = query
+      ? '<div class="status"><h2>Nothing matches "' + escapeHtml(query) + '"' +
+        (label ? " " + label : "") + '</h2><p>Try a wider date range, or a word like market, jazz or comedy.</p></div>'
+      : '<div class="status"><h2>Nothing on ' + (label || "right now") + '</h2>' +
+        '<p>Try a wider date range.</p></div>';
     return;
   }
 

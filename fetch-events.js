@@ -706,8 +706,8 @@ const CATEGORY_MAP = {
   "exhibitions": "Exhibitions",
   "fashion": "Exhibitions",
 
-  "food & drink": "Food & Markets",
-  "shopping markets & fairs": "Food & Markets",
+  "food & drink": "Food & Drink",
+  "shopping markets & fairs": "Markets & Festivals",
 
   "talks courses & workshops": "Learn & Do",
   "talks, courses & workshops": "Learn & Do",
@@ -734,8 +734,9 @@ const SHELF_ORDER = [
   "Comedy",
   "Nightlife & Electronic",
   "Stage & Screen",
-  "Food & Markets",
+  "Food & Drink",
   "Soul, Jazz & Global",
+  "Markets & Festivals",
   "Exhibitions",
   "Learn & Do",
   "Classical & Opera",
@@ -892,6 +893,31 @@ function refineActive(ev) {
   return null;
 }
 
+// --------------------------------------------- markets and festivals sweep
+// Markets and general festivals are scattered across the community, family
+// and food shelves. Gather them — but leave genre festivals where they are,
+// since a film festival is still film and a music festival is still music.
+
+const MARKET_WORDS = /\b(markets?|fair|fayre|fete|bazaar|car boot|flea market|farmers?'? ?market|night market|craft market|makers market)\b/i;
+
+const FESTIVAL_WORDS = /\b(festival|fiesta|carnival|street party|block party|street feast)\b/i;
+
+// Festivals that belong to a genre shelf rather than here.
+const GENRE_FESTIVAL = /\b(film|music|comedy|writers?|literary|jazz|opera|dance|theatre|art) festival\b/i;
+
+/** Shelves general enough that a market or festival is better filed here. */
+function eligibleForMarkets(category) {
+  const c = String(category).toLowerCase();
+  return c === "food & drink" || c === "community" || c === "family" ||
+         c === "learn & do" || c === "other";
+}
+
+function isMarketOrFestival(ev) {
+  if (!eligibleForMarkets(ev.category)) return false;
+  if (GENRE_FESTIVAL.test(ev.name)) return false;
+  return MARKET_WORDS.test(ev.name) || FESTIVAL_WORDS.test(ev.name);
+}
+
 // -------------------------------------------------------------------- main
 
 function dedupe(events) {
@@ -973,6 +999,15 @@ async function main() {
     console.log("Reclassified " + toComedy + " events as Comedy");
   }
 
+  let toMarkets = 0;
+  all.forEach((e) => {
+    if (e.category !== "Markets & Festivals" && isMarketOrFestival(e)) {
+      e.category = "Markets & Festivals";
+      toMarkets++;
+    }
+  });
+  if (toMarkets) console.log("Gathered " + toMarkets + " into Markets & Festivals");
+
   let moved = 0;
   all.forEach((e) => {
     const shelf = refineActive(e);
@@ -1036,7 +1071,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  refineActive, refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
+  isMarketOrFestival, refineActive, refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
   isNightlife, matchesVenue, findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
