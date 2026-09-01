@@ -483,6 +483,218 @@ async function cityOfSydney() {
   return out;
 }
 
+// ---------------------------------------------------------- source: Moshtix
+// Moshtix run an open GraphQL API allowing anonymous queries for public
+// events: https://developer.moshtix.com/docs/our-api
+// Ticketmaster owns Moshtix and carries some of its events, but not all —
+// dedupe by name and date sorts out the overlap.
+
+const MOSHTIX_API = "https://api.moshtix.com/v1/graphql";
+const MOSHTIX_MAX_PAGES = 40;
+
+const SYDNEY = new Set([
+  "sydney","haymarket","ultimo","pyrmont","chippendale","glebe","redfern",
+  "surry hills","darlinghurst","potts point","kings cross","woolloomooloo",
+  "paddington","woollahra","alexandria","waterloo","zetland","rosebery",
+  "erskineville","newtown","enmore","camperdown","annandale","stanmore",
+  "petersham","lewisham","summer hill","ashfield","croydon","burwood",
+  "strathfield","homebush","sydney olympic park","marrickville","sydenham",
+  "st peters","dulwich hill","leichhardt","lilyfield","rozelle","balmain",
+  "drummoyne","five dock","concord","north sydney","crows nest","kirribilli",
+  "st leonards","chatswood","manly","brookvale","dee why","mosman",
+  "neutral bay","bondi","bondi junction","bondi beach","coogee","randwick",
+  "kensington","kingsford","maroubra","mascot","botany","moore park",
+  "double bay","rushcutters bay","parramatta","granville","auburn",
+  "blacktown","penrith","liverpool","bankstown","hurstville","kogarah",
+  "rockdale","cronulla","miranda","caringbah","sutherland","campbelltown",
+  "camden","ryde","gladesville","epping","hornsby","castle hill",
+  "rouse hill","the rocks","barangaroo","darling harbour","millers point",
+  "walsh bay","eveleigh","alexandria","banksmeadow","st leonards"
+]);
+
+/**
+ * Moshtix's date format isn't documented publicly, so handle the plausible
+ * shapes: epoch seconds, epoch milliseconds, or ISO with or without a zone.
+ */
+function parseMoshtixDate(value) {
+  if (value === null || value === undefined || value === "") return null;
+  const str = String(value).trim();
+
+  // "2026-09-13T19:30:00" with no zone means wall-clock time at the venue.
+  const bare = str.match(/^(\d{4}-\d{2}-\d{2})[T ](\d{2}:\d{2})/);
+  if (bare && !/[Zz]|[+-]\d{2}:?\d{2}$/.test(str)) {
+    return { date: bare[1], time: bare[2] === "00:00" ? "" : bare[2] };
+  }
+  if (/^\d{4}-\d{2}-\d{2}$/.test(str)) return { date: str, time: "" };
+
+  let d;
+  if (typeof value === "number" || /^\d+$/.test(str)) {
+    let n = Number(value);
+    if (n < 1e11) n *= 1000;          // seconds, not milliseconds
+    d = new Date(n);
+  } else {
+    d = new Date(value);
+  }
+
+  if (isNaN(d.getTime())) return null;
+  const year = d.getFullYear();
+  if (year < 2000 || year > 2100) return null;
+
+  const date = d.toLocaleDateString("en-CA", { timeZone: "Australia/Sydney" });
+  const time = d.toLocaleTimeString("en-GB", {
+    timeZone: "Australia/Sydney", hour: "2-digit", minute: "2-digit"
+  });
+  return { date: date, time: time === "00:00" ? "" : time };
+}
+
+/** Moshtix's own slug rule, from their documentation. */
+function moshtixSlug(name) {
+  if (!name) return "";
+  return name.trim().toLowerCase()
+    .replace(/([^0-9a-zA-Z-\u4e00-\u9eff])+/g, "-")
+    .replace(/-+/g, "-");
+}
+
+function moshtixPage(pageIndex, pageSize) {
+  return "query { viewer { getEvents(pageIndex: " + pageIndex +
+    ", pageSize: " + pageSize + ", sortBy: STARTDATE, sortByDirection: ASC) { " +
+    "totalCount pageInfo { hasNextPage } items { id name startDate " +
+    "venue { name address { locality } } genre { name } } } } }";
+}
+
+async function moshtixQuery(query) {
+  const res = await fetch(MOSHTIX_API, {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "User-Agent": UA },
+    body: JSON.stringify({ query: query })
+  });
+  if (!res.ok) throw new Error(res.status + " " + res.statusText);
+  const json = await res.json();
+  if (json.errors && json.errors.length) {
+    throw new Error(json.errors.map((e) => e.message).join("; "));
+  }
+  return json.data;
+}
+
+async function moshtix(cutoffIso) {
+  const out = [];
+  let pageSize = 100;
+  let pageIndex = 0;
+  let scanned = 0;
+  let unparsed = 0;
+  let hitCap = false;
+
+  while (true) {
+    if (pageIndex >= MOSHTIX_MAX_PAGES) { hitCap = true; break; }
+
+    let data;
+    try {
+      data = await moshtixQuery(moshtixPage(pageIndex, pageSize));
+    } catch (err) {
+      if (pageSize > 25) {
+        console.log("  pageSize " + pageSize + " rejected, retrying at 25");
+        pageSize = 25;
+        continue;
+      }
+      console.log("  failed on page " + pageIndex + ": " + err.message);
+      break;
+    }
+
+    const conn = data && data.viewer && data.viewer.getEvents;
+    if (!conn || !conn.items || !conn.items.length) break;
+
+    let pastCutoff = false;
+
+    for (const ev of conn.items) {
+      scanned++;
+      if (scanned === 1) {
+        console.log("  raw startDate looks like: " + JSON.stringify(ev.startDate));
+      }
+
+      const when = parseMoshtixDate(ev.startDate);
+      if (!when) { unparsed++; continue; }
+      if (when.date > cutoffIso) { pastCutoff = true; continue; }
+
+      const locality = ev.venue && ev.venue.address && ev.venue.address.locality;
+      if (!locality || !SYDNEY.has(String(locality).trim().toLowerCase())) continue;
+
+      out.push({
+        name: String(ev.name).trim(),
+        date: when.date,
+        time: when.time,
+        venue: (ev.venue && ev.venue.name) ? String(ev.venue.name).trim() : String(locality),
+        category: (ev.genre && ev.genre.name) ? String(ev.genre.name).trim() : "Music",
+        url: "https://www.moshtix.com.au/v2/event/" + moshtixSlug(ev.name) + "/" + ev.id,
+        image: "",
+        source: "Moshtix"
+      });
+    }
+
+    if (pastCutoff) break;                        // sorted by date, so we're done
+    if (!conn.pageInfo || !conn.pageInfo.hasNextPage) break;
+
+    pageIndex++;
+    await sleep(500);
+  }
+
+  if (unparsed) console.log("  WARNING: " + unparsed + " unreadable dates");
+  if (hitCap) console.log("  WARNING: hit the " + MOSHTIX_MAX_PAGES + " page cap");
+  console.log("  scanned " + scanned + " national events, kept " + out.length + " in Sydney");
+  return out;
+}
+
+// ------------------------------------------------- nightlife reclassification
+// Ticketmaster has no nightlife segment, so club nights arrive labelled
+// "Music". Move the clear cases across.
+
+// Venues where essentially everything on is a club night.
+const CLUB_VENUES = [
+  "chinese laundry", "civic underground", "home nightclub", "marquee",
+  "club 77", "burdekin", "the burdekin", "kings cross hotel", "world bar",
+  "goros", "tokyo sing song", "the cliff dive", "sly fox", "freda's",
+  "the bearded tit", "since i left you", "greenwood hotel", "ivy"
+];
+
+// Live venues: nightlife only with a late start or an explicit signal.
+const LIVE_VENUES = [
+  "oxford art factory", "the lansdowne", "lansdowne hotel", "enmore theatre",
+  "metro theatre", "the metro", "factory theatre", "camelot lounge",
+  "the vanguard", "manning bar", "the chippo", "chippo hotel",
+  "marlborough hotel", "the marly", "waywards", "crowbar", "the golden age",
+  "phoenix central park", "liberty hall", "the great club", "django",
+  "the red rattler", "the bank hotel", "york hotel", "hotel hollywood"
+];
+
+const NIGHTLIFE_WORDS = /\b(djs?|b2b|back to back|techno|house music|drum ?(and|&|n) ?bass|dnb|rave|club ?night|disco|warehouse party|after ?party|afters|nightclub|selectors|boiler room|all ?nighter|dance ?floor|til+ late|dusk ?til|late ?night session)\b/i;
+
+// Words that look like nightlife but aren't.
+const NOT_NIGHTLIFE = /\b(trivia|quiz|opening night|closing night|family|kids|children|matinee|workshop|market|breakfast|brunch|morning|storytime|school holiday|toddler|seniors|book club)\b/i;
+
+function matchesVenue(venue, list) {
+  const v = String(venue).toLowerCase();
+  return list.some((name) => v.indexOf(name) !== -1);
+}
+
+/** Only reclassify things already in a music-ish bucket — never a workshop. */
+function eligibleForNightlife(category) {
+  const c = String(category).toLowerCase();
+  return c === "music" || c === "other" || c === "nightlife" ||
+         c === "concerts and performances";
+}
+
+function isNightlife(ev) {
+  if (!eligibleForNightlife(ev.category)) return false;
+  if (NOT_NIGHTLIFE.test(ev.name)) return false;
+
+  if (NIGHTLIFE_WORDS.test(ev.name)) return true;
+  if (matchesVenue(ev.venue, CLUB_VENUES)) return true;
+
+  const startsLate = ev.time && ev.time >= "20:00";
+  if (startsLate && matchesVenue(ev.venue, LIVE_VENUES)) return true;
+
+  return false;
+}
+
 // -------------------------------------------------------------------- main
 
 function dedupe(events) {
@@ -516,7 +728,15 @@ async function main() {
   });
   console.log("  " + cos.length + " events\n");
 
-  const all = dedupe(tm.concat(cos))
+  console.log("Moshtix:");
+  const mox = await moshtix(cutoff).catch((e) => {
+    console.log("  failed: " + e.message);
+    return [];
+  });
+  console.log("  " + mox.length + " events\n");
+
+  // Ticketmaster first, so its richer records win any duplicate.
+  const all = dedupe(tm.concat(cos).concat(mox))
     .filter((e) => e.date >= today && e.date <= cutoff)
     .sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
 
@@ -526,6 +746,17 @@ async function main() {
       JSON.stringify({ generated: new Date().toISOString(), events: all }, null, 1) +
       ";\n"
   );
+
+  let reclassified = 0;
+  all.forEach((e) => {
+    if (e.category !== "Nightlife" && isNightlife(e)) {
+      e.category = "Nightlife";
+      reclassified++;
+    }
+  });
+  if (reclassified) {
+    console.log("Reclassified " + reclassified + " events as Nightlife\n");
+  }
 
   const bySource = {};
   const byCat = {};
@@ -556,6 +787,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
+  moshtix, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
+  isNightlife, matchesVenue, findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
