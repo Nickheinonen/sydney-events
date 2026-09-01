@@ -741,10 +741,10 @@ const CATEGORY_MAP = {
   "food & drink": "Food & Drink",
   "shopping markets & fairs": "Markets & Festivals",
 
-  "talks courses & workshops": "Learn & Do",
-  "talks, courses & workshops": "Learn & Do",
-  "educational / pd / workshop": "Learn & Do",
-  "tours & experiences": "Learn & Do",
+  "talks courses & workshops": "Workshops & Classes",
+  "talks, courses & workshops": "Workshops & Classes",
+  "educational / pd / workshop": "Workshops & Classes",
+  "tours & experiences": "Tours & Walks",
 
   "sport & fitness": "Fitness",
   "sports": "Sport",
@@ -756,8 +756,9 @@ const CATEGORY_MAP = {
 
   // Aliases, so events carried over from an older run still land correctly.
   "markets": "Markets & Festivals",
-  "tours": "Learn & Do",
-  "talks & workshops": "Learn & Do",
+  "tours": "Tours & Walks",
+  "talks & workshops": "Workshops & Classes",
+  "learn & do": "Workshops & Classes",
   "food & markets": "Food & Drink",
   "active": "Fitness",
   "electronic": "Nightlife & Electronic",
@@ -780,9 +781,11 @@ const SHELF_ORDER = [
   "Soul, Jazz & Global",
   "Markets & Festivals",
   "Exhibitions",
-  "Learn & Do",
+  "Workshops & Classes",
   "Classical & Opera",
+  "Talks & Ideas",
   "Fitness",
+  "Tours & Walks",
   "Family",
   "Sport",
   "Community",
@@ -956,7 +959,8 @@ const GENRE_FESTIVAL = /\b(film|music|comedy|writers?|literary|jazz|opera|dance|
 function eligibleForMarkets(category) {
   const c = String(category).toLowerCase();
   return c === "food & drink" || c === "community" || c === "family" ||
-         c === "learn & do" || c === "other";
+         c === "workshops & classes" || c === "tours & walks" ||
+         c === "talks & ideas" || c === "other";
 }
 
 function isMarketOrFestival(ev) {
@@ -984,6 +988,32 @@ function readPreviousEvents() {
     console.log("Could not read the previous events.js: " + err.message);
     return [];
   }
+}
+
+// ------------------------------------------------ talks, workshops and tours
+// The council files all three under one label, so separate them by title.
+
+const TALK_WORDS = /\b(talk|talks|panel|lecture|in conversation|q ?& ?a|seminar|forum|symposium|keynote|debate|book launch|author|reading|discussion|screening and discussion|meet the)\b/i;
+
+const TOUR_WORDS = /\b(tour|tours|walks?|guided walk|walking tour|heritage walk|trail|expedition|cruise|behind the scenes|open day|open house|stargazing|foraging|scavenger hunt)\b/i;
+
+const MAKING_WORDS = /\b(workshop|class|classes|course|masterclass|learn to|make your own|hands[- ]on|intro(duction)? to|beginners|drop[- ]in|craft|sewing|pottery|ceramics|painting|drawing|watercolour|printmaking|weaving|cooking|baking|coding|3d print)\b/i;
+
+/**
+ * Returns the right shelf for a Learn & Do style event.
+ * Making wins over talking, because "printmaking workshop and talk" is a
+ * workshop. Tours are checked first since a "walking tour talk" is a tour.
+ */
+function refineLearning(ev) {
+  const c = String(ev.category).toLowerCase();
+  if (c !== "workshops & classes" && c !== "talks & ideas" && c !== "tours & walks") {
+    return null;
+  }
+
+  if (TOUR_WORDS.test(ev.name)) return "Tours & Walks";
+  if (MAKING_WORDS.test(ev.name)) return "Workshops & Classes";
+  if (TALK_WORDS.test(ev.name)) return "Talks & Ideas";
+  return null;
 }
 
 // -------------------------------------------------------------------- main
@@ -1085,6 +1115,13 @@ async function main() {
     console.log("Reclassified " + toComedy + " events as Comedy");
   }
 
+  let sorted = 0;
+  all.forEach((e) => {
+    const shelf = refineLearning(e);
+    if (shelf && shelf !== e.category) { e.category = shelf; sorted++; }
+  });
+  if (sorted) console.log("Sorted " + sorted + " into talks, workshops or tours");
+
   let toMarkets = 0;
   all.forEach((e) => {
     if (e.category !== "Markets & Festivals" && isMarketOrFestival(e)) {
@@ -1157,7 +1194,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  readPreviousEvents, isMarketOrFestival, refineActive, refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
+  refineLearning, readPreviousEvents, isMarketOrFestival, refineActive, refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
   isNightlife, matchesVenue, findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
