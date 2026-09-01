@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-09-01T00:04:47.656Z",
+ "generated": "2026-09-01T00:33:48.806Z",
  "events": [
   {
    "name": "Unlock The Rocks Art & Culture Month",
@@ -5949,6 +5949,16 @@ window.EVENT_DATA = {
    "category": "Music",
    "url": "https://www.moshtix.com.au/v2/event/dnb-allstars-sydney-kanine-camo-krooked-more/196251",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "betcover!! new portrait tour Australia 2026",
+   "date": "2026-10-05",
+   "time": "16:00",
+   "venue": "Oxford Art Factory",
+   "category": "Music",
+   "url": "https://www.moshtix.com.au/v2/event/betcover-new-portrait-tour-australia-2026/197446",
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
   {
