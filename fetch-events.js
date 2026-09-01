@@ -714,8 +714,8 @@ const CATEGORY_MAP = {
   "educational / pd / workshop": "Learn & Do",
   "tours & experiences": "Learn & Do",
 
-  "sport & fitness": "Active",
-  "sports": "Active",
+  "sport & fitness": "Fitness",
+  "sports": "Sport",
 
   "children & family": "Family",
   "all ages": "Family",
@@ -739,9 +739,10 @@ const SHELF_ORDER = [
   "Exhibitions",
   "Learn & Do",
   "Classical & Opera",
+  "Fitness",
   "Family",
+  "Sport",
   "Community",
-  "Active",
   "Other Music",
   "Other"
 ];
@@ -875,6 +876,22 @@ function refineMusic(ev) {
   return null;
 }
 
+// -------------------------------------------------- sport vs fitness
+// Watching a game and doing exercise are different intents. Source
+// categories don't reliably separate them, so check the title too.
+
+const SPECTATOR = /\b(vs\.?|versus|match|fixture|grand final|semi[- ]final|test match|derby|round \d+|nrl|afl|a[- ]league|w[- ]league|super rugby|shield|cup final|championship|title fight|race day|raceday|grand prix)\b/i;
+
+const PARTICIPATORY = /\b(class|classes|session|workshop|yoga|pilates|tai chi|qigong|bootcamp|boot camp|parkrun|park run|fun run|walk|walking|hike|swim|swimming|cycle|cycling|zumba|barre|stretch|meditation|dance fit|learn to|beginners|come and try|social sport)\b/i;
+
+/** Returns "Sport", "Fitness", or null to leave the mapped value alone. */
+function refineActive(ev) {
+  if (ev.category !== "Sport" && ev.category !== "Fitness") return null;
+  if (SPECTATOR.test(ev.name)) return "Sport";
+  if (PARTICIPATORY.test(ev.name)) return "Fitness";
+  return null;
+}
+
 // -------------------------------------------------------------------- main
 
 function dedupe(events) {
@@ -956,6 +973,13 @@ async function main() {
     console.log("Reclassified " + toComedy + " events as Comedy");
   }
 
+  let moved = 0;
+  all.forEach((e) => {
+    const shelf = refineActive(e);
+    if (shelf && shelf !== e.category) { e.category = shelf; moved++; }
+  });
+  if (moved) console.log("Moved " + moved + " events between Sport and Fitness");
+
   let refined = 0;
   let leftover = 0;
   all.forEach((e) => {
@@ -1012,7 +1036,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
+  refineActive, refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
   isNightlife, matchesVenue, findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
