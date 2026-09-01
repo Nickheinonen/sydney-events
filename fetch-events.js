@@ -555,11 +555,22 @@ function moshtixSlug(name) {
     .replace(/-+/g, "-");
 }
 
-function moshtixPage(pageIndex, pageSize) {
+/**
+ * getEvents supports eventStartDateFrom / eventStartDateTo, so we ask for the
+ * window directly rather than paging through their whole history.
+ * Schema: https://github.com/moshtix/graphql-api-definition
+ */
+function moshtixPage(pageIndex, pageSize, fromIso, toIso) {
+  const dateArgs = fromIso
+    ? ', eventStartDateFrom: "' + fromIso + 'T00:00:00.000Z"' +
+      ', eventStartDateTo: "' + toIso + 'T23:59:59.000Z"'
+    : "";
+
   return "query { viewer { getEvents(pageIndex: " + pageIndex +
-    ", pageSize: " + pageSize + ", sortBy: STARTDATE, sortByDirection: DESC) { " +
-    "totalCount pageInfo { hasNextPage } items { id name startDate " +
-    "venue { name address { locality } } genre { name } } } } }";
+    ", pageSize: " + pageSize + ", sortBy: STARTDATE, sortByDirection: ASC" +
+    dateArgs + ") { totalCount pageInfo { hasNextPage } items { id name startDate " +
+    "venue { name imageUrl address { locality } } genre { name } " +
+    "images { items { url type } } } } } }";
 }
 
 async function moshtixQuery(query) {
@@ -576,12 +587,19 @@ async function moshtixQuery(query) {
   return json.data;
 }
 
+function moshtixImage(ev) {
+  const fromEvent = pickImage(ev.images && ev.images.items);
+  if (fromEvent) return fromEvent;
+  return pickImage(ev.venue && ev.venue.imageUrl) || "";
+}
+
 async function moshtix(todayIso, cutoffIso) {
   const out = [];
   let pageSize = 100;
   let pageIndex = 0;
   let scanned = 0;
   let unparsed = 0;
+  let useDates = true;      // drop to false if the API rejects the date args
   let hitCap = false;
 
   while (true) {
@@ -589,8 +607,17 @@ async function moshtix(todayIso, cutoffIso) {
 
     let data;
     try {
-      data = await moshtixQuery(moshtixPage(pageIndex, pageSize));
+      data = await moshtixQuery(
+        useDates
+          ? moshtixPage(pageIndex, pageSize, todayIso, cutoffIso)
+          : moshtixPage(pageIndex, pageSize)
+      );
     } catch (err) {
+      if (useDates && pageIndex === 0) {
+        console.log("  date filtering rejected (" + err.message + "), falling back");
+        useDates = false;
+        continue;
+      }
       if (pageSize > 25) {
         console.log("  pageSize " + pageSize + " rejected, retrying at 25");
         pageSize = 25;
@@ -603,21 +630,20 @@ async function moshtix(todayIso, cutoffIso) {
     const conn = data && data.viewer && data.viewer.getEvents;
     if (!conn || !conn.items || !conn.items.length) break;
 
-    let reachedPast = false;
+    if (pageIndex === 0) {
+      console.log("  " + (useDates ? "date-filtered" : "unfiltered") +
+        ", totalCount " + conn.totalCount);
+    }
+
+    let pastCutoff = false;
 
     for (const ev of conn.items) {
       scanned++;
-      if (scanned === 1) {
-        console.log("  raw startDate looks like: " + JSON.stringify(ev.startDate));
-      }
-
       const when = parseMoshtixDate(ev.startDate);
       if (!when) { unparsed++; continue; }
 
-      // Descending order: skip anything beyond the window, stop once we
-      // pass today going backwards.
-      if (when.date > cutoffIso) continue;
-      if (when.date < todayIso) { reachedPast = true; continue; }
+      if (when.date > cutoffIso) { pastCutoff = true; continue; }
+      if (when.date < todayIso) continue;
 
       const locality = ev.venue && ev.venue.address && ev.venue.address.locality;
       if (!locality || !SYDNEY.has(String(locality).trim().toLowerCase())) continue;
@@ -629,12 +655,12 @@ async function moshtix(todayIso, cutoffIso) {
         venue: (ev.venue && ev.venue.name) ? String(ev.venue.name).trim() : String(locality),
         category: (ev.genre && ev.genre.name) ? String(ev.genre.name).trim() : "Music",
         url: "https://www.moshtix.com.au/v2/event/" + moshtixSlug(ev.name) + "/" + ev.id,
-        image: "",
+        image: sizeImage(fixUrl(moshtixImage(ev))),
         source: "Moshtix"
       });
     }
 
-    if (reachedPast) break;         // walked back past today, nothing older matters
+    if (pastCutoff) break;
     if (!conn.pageInfo || !conn.pageInfo.hasNextPage) break;
 
     pageIndex++;
@@ -643,7 +669,7 @@ async function moshtix(todayIso, cutoffIso) {
 
   if (unparsed) console.log("  WARNING: " + unparsed + " unreadable dates");
   if (hitCap) console.log("  WARNING: hit the " + MOSHTIX_MAX_PAGES + " page cap");
-  console.log("  scanned " + scanned + " national events, kept " + out.length + " in Sydney");
+  console.log("  scanned " + scanned + " events, kept " + out.length + " in Sydney");
   return out;
 }
 
@@ -791,7 +817,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  moshtix, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
+  moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
   isNightlife, matchesVenue, findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
