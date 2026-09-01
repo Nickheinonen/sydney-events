@@ -1,12 +1,13 @@
 window.EVENT_DATA = {
- "generated": "2026-09-01T02:51:23.643Z",
+ "generated": "2026-09-01T02:57:10.356Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
   "Nightlife & Electronic",
   "Stage & Screen",
-  "Food & Markets",
+  "Food & Drink",
   "Soul, Jazz & Global",
+  "Markets & Festivals",
   "Exhibitions",
   "Learn & Do",
   "Classical & Opera",
@@ -83,7 +84,7 @@ window.EVENT_DATA = {
    "date": "2026-09-01",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/georgia-in-three-colours-firepop-wine-club-goodstock-wine",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787709182/k7h9gk6i1z6d/17DgSvOQxtoMWACvgt9ljI/3ec26b01-a0f0-11f1-a003-ebc1dc77b164--Georgia-in-Three-Colours--Firepop-Wine-Club---Goodstock-Wine-tile.jpg",
    "source": "City of Sydney"
@@ -93,7 +94,7 @@ window.EVENT_DATA = {
    "date": "2026-09-01",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/opera-in-the-pub-at-the-union-north-sydney-opera-bingo",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1684277620/k7h9gk6i1z6d/4oT3gWsCH5CqYeaf8sXuTF/0e2738e1-f43c-11ed-9476-110935f76fed--Opera-in-the-Pub-at-The-Union-North-Sydney----Opera-Bingo--tile.jpg",
    "source": "City of Sydney"
@@ -203,7 +204,7 @@ window.EVENT_DATA = {
    "date": "2026-09-01",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fjaellraeven-spring-swap-giveaway",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787899225/k7h9gk6i1z6d/7civOe02eHZ3fkhRFllyZE/57ca93f1-a2aa-11f1-8a5d-cd1024a73c86--Fj-llr-ven-Spring-Swap-Giveaway-tile.jpg",
    "source": "City of Sydney"
@@ -303,7 +304,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/hay-in-bloom-at-hay-st",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787895939/k7h9gk6i1z6d/1ntaQ3EzIsbigUs4ngfAnO/18b8f6e1-a2a3-11f1-9fad-8d6b9343c46a--Hay-in-Bloom-at-Hay-St-tile.jpg",
    "source": "City of Sydney"
@@ -313,7 +314,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/paxton-wine-dinner-at-the-rocks-teppanyaki",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787484431/k7h9gk6i1z6d/6MaqJACiKyUdtXWLao6Rz7/7a60c391-9ee4-11f1-92b7-d7024ffd24be--Paxton-Wine-Dinner-at-The-Rocks-Teppanyaki-tile.jpg",
    "source": "City of Sydney"
@@ -323,7 +324,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/surry-hills-dining-walk-for-locals",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1664158650/k7h9gk6i1z6d/3pcASmvInoH8KTut2VezuO/eabe1341-3d40-11ed-a6ee-178042387a0e--Surry-Hills-dining-tour--tile.jpg",
    "source": "City of Sydney"
@@ -333,7 +334,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/darlinghurst-dining-walk-for-locals",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1664159350/k7h9gk6i1z6d/6waetojsbd1V6oMoFbO0RU/6a83c5b0-3d42-11ed-a6ee-178042387a0e--Darlinghurst-dining-tour-tile.jpg",
    "source": "City of Sydney"
@@ -343,7 +344,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/potts-point-dining-walk-for-locals",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1664159059/k7h9gk6i1z6d/1P96fPVHkxkN5pHpmzzyVZ/934eb190-3d41-11ed-a6ee-178042387a0e--Potts-Point-dining-tour--tile.jpg",
    "source": "City of Sydney"
@@ -693,7 +694,7 @@ window.EVENT_DATA = {
    "date": "2026-09-03",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/masterchefs-audra-morrice-x-javed-khan-heritage-dinner",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786505530/k7h9gk6i1z6d/1l3QzTHhAdBVnDN51fAKBq/1fddd6e0-95fe-11f1-bd80-bbe2ac0fb181--Masterchef-s-Audra-Morrice-x-Javed-Khan-Heritage-Dinner-tile.jpg",
    "source": "City of Sydney"
@@ -703,7 +704,7 @@ window.EVENT_DATA = {
    "date": "2026-09-03",
    "time": "",
    "venue": "Martin Place",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/van-cleef-and-arpels-spring-is-blooming-at-martin-place",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787528846/k7h9gk6i1z6d/3iPp7ox1nYgU2N7iL6LAYZ/41ddecb0-9f4c-11f1-992a-75f7ed29e267--Van-Cleef---Arpels--Spring-is-Blooming-at-Martin-Place-tile.jpg",
    "source": "City of Sydney"
@@ -913,7 +914,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-fathers-day-of-joyful-disobedience",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787282280/k7h9gk6i1z6d/19FAuZaS0ZHWlzDzAgbadZ/e083e801-9d0e-11f1-bcde-77f6dca7692a--A-Father-s-Day-of-Joyful-Disobedience-tile.jpg",
    "source": "City of Sydney"
@@ -923,7 +924,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "Green Square Public School and Community Spaces",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-community-morning-tea-and-games",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787282669/k7h9gk6i1z6d/4lQARNUa4RC4nNOVOcNL96/b16a73d1-9d0f-11f1-945f-5fe5ef5af8aa--Green-Square-community-morning-tea-and-games--tile.jpg",
    "source": "City of Sydney"
@@ -983,7 +984,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/barangaroo-markets",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787628712/k7h9gk6i1z6d/3bfFIDv5GzteanH6Ux9JbG/d08f1ea1-a034-11f1-b079-091423ba38e6--Barangaroo-Markets-tile.jpg",
    "source": "City of Sydney"
@@ -1303,7 +1304,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "Sydney City Farm",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/bush-food-discovery-tour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1709248983/k7h9gk6i1z6d/5oLvymMY9ajIroGccS2KoN/038fc901-d759-11ee-911f-81d817ace361--Bush-food-discovery-tour-tile.jpg",
    "source": "City of Sydney"
@@ -1313,7 +1314,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-lotus-dumpling-bar-circular-quay",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785997442/k7h9gk6i1z6d/4dnvsvyVNWB0Oimqwvltih/0a103131-915f-11f1-8464-df2b131c8a37--Father-s-Day-at-Lotus-Dumpling-Bar-Circular-Quay-tile.jpg",
    "source": "City of Sydney"
@@ -1323,7 +1324,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/moon-paw-ty-at-iiko-mazesoba",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787483583/k7h9gk6i1z6d/5PXvdrEUBqmVei9Vqtwf0X/e789eed1-9ee2-11f1-95a9-bb72b74be2f8--Moon-Paw-ty-at-IIKO-Mazesoba-tile.jpg",
    "source": "City of Sydney"
@@ -1333,7 +1334,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/nespresso-martini-hour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787556477/k7h9gk6i1z6d/2AWNvlbkdGMlBRRVFe7p14/d91bc671-9f8c-11f1-9024-ad57ba56f60a--Nespresso-Martini-Hour-tile.jpg",
    "source": "City of Sydney"
@@ -1343,7 +1344,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "Dove &amp; Olive",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/gennarosity-abroads-wine-and-cheese-masterclass",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786835808/k7h9gk6i1z6d/3dIB04gVTZe5unxCfez0ER/470aab40-98ff-11f1-bf98-b354e052c475--Gennarosity-Abroad-s-Wine---Cheese-Masterclass-tile.jpg",
    "source": "City of Sydney"
@@ -1783,7 +1784,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-foys-kirribilli",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785985207/k7h9gk6i1z6d/2XNRWrrW4zpvRTxXZeT5Jh/c927b341-9141-11f1-a50c-f3d5bee6b8c4--Father-s-Day-at-Foys-Kirribilli-tile.jpg",
    "source": "City of Sydney"
@@ -1793,7 +1794,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-lotus-dumpling-bar-summer-hill",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785997892/k7h9gk6i1z6d/2GQiVX84RURENRmedepg9J/0c5a2bc1-9160-11f1-8f3b-1db8fa6b7aca--Father-s-Day-at-Lotus-Dumpling-Bar-Summer-Hill-tile.jpg",
    "source": "City of Sydney"
@@ -1803,7 +1804,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-palazzo-salato",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786335201/k7h9gk6i1z6d/7FjLMSlbkEFI5i7bouT2ci/84636dc1-9471-11f1-9d2a-c5bcbd37c099--Father-s-Day-at-Palazzo-Salato-tile.jpg",
    "source": "City of Sydney"
@@ -1813,7 +1814,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-rk-san",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786506518/k7h9gk6i1z6d/3mr7OHZPyz06aPD2JExVQb/713c2711-9600-11f1-9d24-2fbd945bf37c--Father-s-Day-at-RK-San-tile.jpg",
    "source": "City of Sydney"
@@ -1823,7 +1824,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-the-palomar",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786677079/k7h9gk6i1z6d/BjKoZJveKKTyQ4kCbvCyD/73439d71-978d-11f1-885f-99bd28d3145f--Father-s-Day-at-The-Palomar-tile.jpg",
    "source": "City of Sydney"
@@ -1833,7 +1834,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "Castlereagh Boutique Hotel",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-buffet-and-live-jazz-in-cellos-grand-dining-room",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787558824/k7h9gk6i1z6d/77GDzFIXkPPcdwwuUAHlhQ/275db411-9f92-11f1-909c-f906d8899364--Father-s-Day-Buffet---Live-Jazz-in-Cellos-Grand-Dining-Room-tile.jpg",
    "source": "City of Sydney"
@@ -1843,7 +1844,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-diy-hand-roll-experience-at-mee-so",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786317257/k7h9gk6i1z6d/8HA0hKFH84JrQD9TRtE4x/6f0fbd01-9446-11f1-a3bd-5b746c9fe422--Father-s-Day-DIY-Hand-Roll-Experience-at-Mee-So-tile.jpg",
    "source": "City of Sydney"
@@ -1853,7 +1854,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/vagabond-cruises-fathers-day-lunch-cruise",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778568295/k7h9gk6i1z6d/3A544xscBZ4xsuctiw4RzQ/c8b1b581-4dcd-11f1-97cc-df6635cde887--Father-s-Day-Lunch-Cruise-tile.jpg",
    "source": "City of Sydney"
@@ -1863,7 +1864,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/celebrate-fathers-day-at-lotus-barangaroo",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785998035/k7h9gk6i1z6d/68zF3bICkqLN1Z6Cm9ND4n/b3e6c791-9160-11f1-b1b4-73da685a5043--Celebrate-Father-s-Day-at-Lotus-Barangaroo--tile.jpg",
    "source": "City of Sydney"
@@ -1873,7 +1874,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-delhi-o-delhi",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786505763/k7h9gk6i1z6d/3dmVX1Nhu7SDLIcSjp76FK/cf27f451-95fe-11f1-a547-c570d10ca398--Father-s-Day-At-Delhi--O--Delhi-tile.jpg",
    "source": "City of Sydney"
@@ -1883,7 +1884,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-jimmys-kitchen-bay-nine",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786944809/k7h9gk6i1z6d/430Y5k9AyzZDiWwlIl0WXs/a2af93e1-99fc-11f1-ab7a-87b078904249--Father-s-Day-at-Jimmy-s-Kitchen-Bay-Nine-tile.jpg",
    "source": "City of Sydney"
@@ -1893,7 +1894,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-lunch-at-amora-hotel-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786159991/k7h9gk6i1z6d/3G6nfr4BuseT5NwyF53FB/a5418890-92d9-11f1-9031-83cb067d9c58--Father-s-Day-Buffet-with-Briskets-and-Beers-at-Amora-Hotel-tile.jpg",
    "source": "City of Sydney"
@@ -1903,7 +1904,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-dining-at-harbourfront-seafood",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786518709/k7h9gk6i1z6d/7wGA6EJaqgxcRUsIuEQIUd/911a59f1-961c-11f1-bb84-d1e974ae3045--Father-s-Day-Dining-at-Harbourfront-Seafood-Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -1913,7 +1914,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fathers-day-at-bar-lettera",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786164416/k7h9gk6i1z6d/1qKiW2cJO8mo2ftOt6Hz2R/f33d0511-92e3-11f1-a962-fb7a51ec7141--Father-s-Day-Lunch-at-Bar-Lettera-tile.jpg",
    "source": "City of Sydney"
@@ -2103,7 +2104,7 @@ window.EVENT_DATA = {
    "date": "2026-09-07",
    "time": "",
    "venue": "Chau Chak Wing Museum",
-   "category": "Learn & Do",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/festival-of-translocal-urbanism",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786854307/k7h9gk6i1z6d/2Wn4gUkRRtPGfS3bSJ2EiO/17a288c1-992a-11f1-a38b-b54d5e5a58cc--Festival-of-Translocal-Urbanism-tile.jpg",
    "source": "City of Sydney"
@@ -2173,7 +2174,7 @@ window.EVENT_DATA = {
    "date": "2026-09-08",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/love-tilly-group-x-ru-ok-all-star-chef-charity-dinner",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787013547/k7h9gk6i1z6d/2l0RnZC2Ts6F2QYG8tTeWF/b7c2f921-9a9c-11f1-940c-df99ab1cae76--Love-Tilly-Group-x-RU-OK--All-Star-Chef-Charity-Dinner-tile.jpg",
    "source": "City of Sydney"
@@ -2183,7 +2184,7 @@ window.EVENT_DATA = {
    "date": "2026-09-08",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/speed-dating-for-ages-42-55-neutral-bay",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1650599955/k7h9gk6i1z6d/2SwBrPZRlmbBzEHRxw6kGX/fd8458a1-7720-11eb-997e-8d7383ddd24b--Speed-dating-for-ages-42-55--Neutral-Bay-tile.jpg",
    "source": "City of Sydney"
@@ -2333,7 +2334,7 @@ window.EVENT_DATA = {
    "date": "2026-09-09",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/borgogno-barolo-wine-dinner-2021-crus",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786080099/k7h9gk6i1z6d/4xvsCFqxMMmgswCt3OsjID/6a1f6581-921f-11f1-8341-ad6f0dc3d40a--Borgogno-Barolo-Wine-Dinner--2021-Crus-tile.jpg",
    "source": "City of Sydney"
@@ -2503,7 +2504,7 @@ window.EVENT_DATA = {
    "date": "2026-09-09",
    "time": "",
    "venue": "Sydney",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/cassandra-mamone-trunk-show",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785307787/k7h9gk6i1z6d/25y95PHEf7XfRU2RSynYu8/37c16321-8b19-11f1-aad2-bd099463e487--Cassandra-Mamone-Trunk-Show-tile.jpg",
    "source": "City of Sydney"
@@ -2623,7 +2624,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "",
    "venue": "St Helen’s Community Centre",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/blokes-brunch",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787098366/k7h9gk6i1z6d/7aw4b6JRjagTdUKIf2AIP0/515dfb51-9b62-11f1-96a1-cd6af32133e8--Blokes-Brunch--tile.jpg",
    "source": "City of Sydney"
@@ -2633,7 +2634,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/dumpling-making-workshop-with-award-winning-guangdong-chefs",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786088312/k7h9gk6i1z6d/4cvJvwkO0EhTRHDb6cDqul/daef4510-9232-11f1-b9b3-5b8a1f007e1f--Dumpling-Making-Workshop-with-Award-Winning-Guangdong-Chefs-tile.jpg",
    "source": "City of Sydney"
@@ -2903,7 +2904,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "",
    "venue": "St Helen’s Community Centre",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/st-helens-community-morning-tea",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787096071/k7h9gk6i1z6d/3vBdFR3tPWvpauPfUSNP71/319e2e71-9b5d-11f1-8b59-6b28ace2e751---Community-morning-tea---Nepalese-theme-tile.jpg",
    "source": "City of Sydney"
@@ -2913,7 +2914,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/bbq-and-crispy-pork-workshop-with-award-winning-guangdong-chefs",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786089335/k7h9gk6i1z6d/6qvrOj29RMVEwgPXvf3hDM/6d49e4f1-9234-11f1-bd21-cf3caa05b8a0--BBQ--Crispy-Pork-Workshop-with-Award-Winning-Guangdong-Chefs-tile.jpg",
    "source": "City of Sydney"
@@ -3233,7 +3234,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "Sydney Community College",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fermenting-and-pickling-for-the-seasons-course",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1748496801/k7h9gk6i1z6d/1zvW6lHpC949kIW21dNxYX/2a85c1d1-3c4e-11f0-b682-cfe8fb15c899--Fermenting---Pickling-for-the-Seasons-Course-tile.jpg",
    "source": "City of Sydney"
@@ -3243,7 +3244,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/introduction-to-wine-course",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787914500/k7h9gk6i1z6d/7ilOOismR7ON3KdwVIH2Gh/a80f81e1-a2cd-11f1-92bc-9b9180f1c3d9--Introduction-to-Wine-Course-tile.jpg",
    "source": "City of Sydney"
@@ -3253,7 +3254,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/retro-party",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783774214/k7h9gk6i1z6d/4HooyEN3FLyc5fHeGDANw8/3758e270-7d25-11f1-b8db-057ca885ce2c--Abba-Night-tile.jpg",
    "source": "City of Sydney"
@@ -3273,7 +3274,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "Sydney Opera House",
-   "category": "Family",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/carnival-of-the-animals",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781745964/k7h9gk6i1z6d/3d2oU2V7iwsNxmMznO1mUu/6066dc00-6ab3-11f1-80f2-f5abe68128a6--Carnival-of-the-Animals-tile.jpg",
    "source": "City of Sydney"
@@ -3403,7 +3404,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/hobbycon-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782380955/k7h9gk6i1z6d/41tXlnqF6GzgEEUz3Uaim7/b0a63680-707a-11f1-ba37-1159e65bb610--HobbyCon-Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -3413,7 +3414,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/rozelles-furniture-and-decor-pop-up",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786498772/k7h9gk6i1z6d/3LaDLWth4DFLsYr4zmsaah/4a5a4121-95ee-11f1-a464-472fe500a5df--Rozelle-s-Furniture---Decor-Pop-Up---September-tile.jpg",
    "source": "City of Sydney"
@@ -3703,7 +3704,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "",
    "venue": "Bondi Beach",
-   "category": "Family",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/festival-of-the-winds",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785983322/k7h9gk6i1z6d/16UrQ9GXT8SZ2LN3QSYiZ7/46bce361-913e-11f1-95c1-01581a3d1618--Festival-of-the-Winds-tile.jpg",
    "source": "City of Sydney"
@@ -3893,7 +3894,7 @@ window.EVENT_DATA = {
    "date": "2026-09-14",
    "time": "",
    "venue": "Sydney Fish Market",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-culinary-journey-by-chefs-luke-nguyen-and-mark-olive",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787895040/k7h9gk6i1z6d/5kj1D8YsJd9tbi5hgq90xP/89053411-a2a1-11f1-835e-59989380d692--A-Culinary-Journey-by-Chefs-Luke-Nguyen---Mark-Olive-tile.jpg",
    "source": "City of Sydney"
@@ -3903,7 +3904,7 @@ window.EVENT_DATA = {
    "date": "2026-09-14",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/food-and-wine-trivia-quiz",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778558136/k7h9gk6i1z6d/71ndmE9mxxd6twgcdmB9Y0/94c12020-4db5-11f1-ac9e-4328522b1e51--Food---wine-trivia-quiz-night-tile.jpg",
    "source": "City of Sydney"
@@ -4033,7 +4034,7 @@ window.EVENT_DATA = {
    "date": "2026-09-15",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/cheese-and-wine-night",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1753331459/k7h9gk6i1z6d/1NikgTh3AfIKzqRQQ6hQaV/faaa43e0-6845-11f0-bd07-6b06b36b99b7--Cheese-and-Wine-Night-tile.jpg",
    "source": "City of Sydney"
@@ -4153,7 +4154,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/discover-italian-wines",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787988826/k7h9gk6i1z6d/1aPiabhgRkml33pYTyBHca/ed751021-a371-11f1-98da-db2da1d9a91e--Discover-Italian-Wines-tile.jpg",
    "source": "City of Sydney"
@@ -4163,7 +4164,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-explorers-pour-a-world-whiskey-masterclass",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779945844/k7h9gk6i1z6d/2iTwswGmWrWc0m3oOywnHT/ffce0300-5a54-11f1-86b9-2505cb4a6089--The-Explorer-s-Pour--A-World-Whiskey-Masterclass-tile.jpg",
    "source": "City of Sydney"
@@ -4173,7 +4174,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/two-raw-sisters-how-we-cook-tour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787799531/k7h9gk6i1z6d/5Ib2yN9tJ214h4plggjBCH/b95e7a21-a1c2-11f1-b8fe-ffb3d0481e31--Two-Raw-Sisters---How-We-Cook-Tour---Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -4653,7 +4654,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "",
    "venue": "Carriageworks",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-big-design-market",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787701627/k7h9gk6i1z6d/7hqqdZPKInpo5DucaJc5oQ/5f2af270-a0de-11f1-bb98-2f1bb434afa4--The-Big-Design-Market-tile.jpg",
    "source": "City of Sydney"
@@ -4873,7 +4874,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-chandon-christmas-on-the-harbour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1759383215/k7h9gk6i1z6d/7BT2izdM8MTrgNoFbjf61H/cc41b890-9f4e-11f0-b35b-d1e6b6b4ca3a--Chandon-Harbour-Long-Lunch-tile.jpg",
    "source": "City of Sydney"
@@ -4883,7 +4884,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "Royal Randwick Racecourse",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/might-and-power-race-day-event",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781143854/k7h9gk6i1z6d/1grw6TDVlGyjfzU6Gn2a4K/b84fd031-6530-11f1-815c-43dc6f8fa429--Might-and-Power-Race-Day-Event-tile.jpg",
    "source": "City of Sydney"
@@ -4893,7 +4894,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/veuve-clicquot-in-the-sun",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1724981096/k7h9gk6i1z6d/36jqS31fvvm1aklgTv5TPY/531498c1-666a-11ef-bc9d-73792c5fbffb--Veuve-Clicquot-in-the-Sun-tile.jpg",
    "source": "City of Sydney"
@@ -5293,7 +5294,7 @@ window.EVENT_DATA = {
    "date": "2026-09-20",
    "time": "",
    "venue": "Cardea Barangaroo",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-night-in-balkans-ft-alex-milan-and-louie-live",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781055045/k7h9gk6i1z6d/5olngyDNTvkuuqVJjmgVG4/b8aa41c0-646b-11f1-9a24-6b289759dc58--Night-in-the-Balkans---Live-Music-Show---Dinner--tile.jpg",
    "source": "City of Sydney"
@@ -5633,7 +5634,7 @@ window.EVENT_DATA = {
    "date": "2026-09-23",
    "time": "",
    "venue": "PACT",
-   "category": "Community",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/girls-gone-wild-sydney-fringe-festival",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785130996/k7h9gk6i1z6d/hih7IllEukMHrnvpeLrOg/0934dce0-897e-11f1-a1c4-c7c3a1ad0810--GIRLS-GONE-WILD-by-Bonnie-Curtis-Projects---Sydney-Fringe-tile.jpg",
    "source": "City of Sydney"
@@ -6003,7 +6004,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "",
    "venue": "Sydney Cricket Ground",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-lbw-trust-20th-anniversary-dinner",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783556385/k7h9gk6i1z6d/6dRQhdScec0GXFrib2Nycv/81a9d570-7b2a-11f1-9910-9f383c8e18e7--The-LBW-Trust-20th-Anniversary-DInner-tile.jpg",
    "source": "City of Sydney"
@@ -6513,7 +6514,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/nsw-wine-cellar-door-at-the-rocks-markets",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1750311266/k7h9gk6i1z6d/6ykCMyoRwbqK85LRFGB4IV/04bb0f21-4ccd-11f0-9c30-b5ccaa02dac0--NSW-Wine-Cellar-Door-at-The-Rocks-Markets--tile.jpg",
    "source": "City of Sydney"
@@ -6523,7 +6524,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/australian-native-food-festival",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786669611/k7h9gk6i1z6d/5rii1tmQbeNq1cRNwsqETt/ba609761-977b-11f1-b715-e5fd101369f1--Australian-Native-Food-Festival-tile.jpg",
    "source": "City of Sydney"
@@ -6533,7 +6534,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/oktoberfeast-2023-at-frenchies",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1695084646/k7h9gk6i1z6d/7zjH2WN1ccQmoEVysDirSm/fa8a22a1-5685-11ee-a8c8-23761b57ba36--Oktoberfeast-2023-at-Frenchies-tile.jpg",
    "source": "City of Sydney"
@@ -6543,7 +6544,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "See listing",
-   "category": "Family",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/chuseok-korean-culture-festival",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787708832/k7h9gk6i1z6d/7PT9HfmPLDrpQQLlyRoWz/665b8da1-a0ef-11f1-a91d-07839ab55eb8--2026-Chuseok-Korean-Culture-Festival-tile.jpg",
    "source": "City of Sydney"
@@ -6573,7 +6574,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "Joynton Avenue Creative Centre",
-   "category": "Community",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-moon-festival-celebration",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787550672/k7h9gk6i1z6d/5mKHWvu15f5dFz8cN8shjs/e9219c01-9f75-11f1-b59a-1ba0d0ff3f55--Green-Square-Moon-Festival-tile.jpg",
    "source": "City of Sydney"
@@ -6633,7 +6634,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-art-and-object-market",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787293884/k7h9gk6i1z6d/oKXDtkcneUXzpDaxQvcy6/8288f631-9d29-11f1-91f1-01f64438865b--The-Art---Object-Market-tile.jpg",
    "source": "City of Sydney"
@@ -6883,7 +6884,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-nano-symphony-with-jack-garzonio",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787577124/k7h9gk6i1z6d/Gag8dXBp7f33GedUXNuG6/400a3eb1-9fbb-11f1-9165-b92875f758f7--The-Nano-Symphony-with-Jack-Garzonio-tile.jpg",
    "source": "City of Sydney"
@@ -6893,7 +6894,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "",
    "venue": "Polish Club Ashfield",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-rodric-white-trio-feat-peter-kohlhoff-and-steve-ley",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775277456/k7h9gk6i1z6d/4kWDQpvS7J34JUprahUKD9/c36c7960-2fdd-11f1-b632-4b8612f6c762--The-RODRIC-WHITE-Trio-feat--CRAIG-SCOTT-and-ANDREW-DICKESON-tile.jpg",
    "source": "City of Sydney"
@@ -7843,7 +7844,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/urban-cocktail-trail-surry-hills",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785287179/k7h9gk6i1z6d/2znfns4M3DaTjuLfnucTc1/67905000-8ae9-11f1-b840-ab5cf0641bda--Hola-Margarita--I-Surry-Hills-tile.jpg",
    "source": "City of Sydney"
@@ -7853,7 +7854,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "",
    "venue": "Sydney Community College",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/cupcake-decorating-beginner-workshop",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773190312/k7h9gk6i1z6d/74fs8gplcKZ1egabkKfeqF/4c012261-1ce4-11f1-812e-91daf82dbf05--Cupcake-Decorating--Beginner-Workshop-tile.jpg",
    "source": "City of Sydney"
@@ -8813,7 +8814,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/wine-n-dine-or-surry-hills-nsw",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778648127/k7h9gk6i1z6d/6BkiojWQIrxMR4MS26NVKe/c6965b10-4e87-11f1-98e9-13ca81e63e9f--Wine-N--Dine---Surry-Hills--NSW--tile.jpg",
    "source": "City of Sydney"
@@ -8833,7 +8834,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "",
    "venue": "UNSW Art & Design",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/makers-market",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787794766/k7h9gk6i1z6d/3gm0a0hPFCxPO04pPGqGMU/f8f63c50-a1b7-11f1-a3ff-89865960d6e7--Makers--Market-tile.jpg",
    "source": "City of Sydney"
@@ -9283,7 +9284,7 @@ window.EVENT_DATA = {
    "date": "2026-10-15",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/harbour-and-vine-a-wine-pairing-dinner",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786945218/k7h9gk6i1z6d/4faqzUDdQyB9zKn9XNC2ms/c78cdff1-99fd-11f1-b40e-e917389f2225--Harbour---Vine---A-Wine-Pairing-Dinner-tile.jpg",
    "source": "City of Sydney"
@@ -9293,7 +9294,7 @@ window.EVENT_DATA = {
    "date": "2026-10-15",
    "time": "",
    "venue": "Cardea Barangaroo",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/vintage-soul-and-rock-n-roll-ft-double-shot-band",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782098528/k7h9gk6i1z6d/1eTWB1R07mnTt5eCcL6DjI/65857a51-6de9-11f1-990a-fd1423edc815--Women-of-Soul---Song---Live-Music-Show---Dinner--tile.jpg",
    "source": "City of Sydney"
@@ -9533,7 +9534,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "",
    "venue": "Martin Place",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/pure-pours-a-new-zealand-wine-festival",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1758254922/k7h9gk6i1z6d/363kVvc2OA7SlegnLn5Cmv/21b2eba1-950e-11f0-8510-cb53fa01654e--Pure-Pours--A-New-Zealand-Wine-Festival-tile.jpg",
    "source": "City of Sydney"
@@ -9543,7 +9544,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "",
    "venue": "Crows Nest Centre",
-   "category": "Family",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/big-japanese-market",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788008448/k7h9gk6i1z6d/41O4ULlBQbjwJE8bHYiz5J/85aeb000-a3a7-11f1-81e8-0d9029cde0a8--Big-Japanese-Market-vol-3---3-spaces-to-explore--tile.jpg",
    "source": "City of Sydney"
@@ -9573,7 +9574,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "",
    "venue": "The Addison Road Community Centre",
-   "category": "Community",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/addi-road-fiesta",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787793083/k7h9gk6i1z6d/5TcI9vd1GBBFBj1GRzKDsi/c5cde8e1-a1b3-11f1-a81d-455befc40b23--Addi-Road-Fiesta-tile.jpg",
    "source": "City of Sydney"
@@ -9593,7 +9594,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/open-studio-jennifer-newton",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787554655/k7h9gk6i1z6d/5Hyms2kPe7UDvarZkXKBux/e388ad71-9f88-11f1-978f-bb5c16578e1e--Open-Studio---Jennifer-Newton-tile.jpg",
    "source": "City of Sydney"
@@ -9763,7 +9764,7 @@ window.EVENT_DATA = {
    "date": "2026-10-18",
    "time": "",
    "venue": "UTS Great Hall",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-destash-market",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786705078/k7h9gk6i1z6d/2R9MUyxup3ucWzHqCdk2Mu/6b4f43d1-97ce-11f1-b517-f1e15d27b3a9--Sydney-Destash-Market--tile.jpg",
    "source": "City of Sydney"
@@ -9913,7 +9914,7 @@ window.EVENT_DATA = {
    "date": "2026-10-21",
    "time": "",
    "venue": "Sydney Community College",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fondant-cake-decorating-workshop",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779948385/k7h9gk6i1z6d/637nsffm0qoZszyD4mmoT7/32293080-5a5b-11f1-8334-ed21747d57ad--Fondant-Cake-Decorating-Workshop-tile.jpg",
    "source": "City of Sydney"
@@ -10533,7 +10534,7 @@ window.EVENT_DATA = {
    "date": "2026-10-28",
    "time": "",
    "venue": "Martin Place",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/love-food-fair-2025",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1760863496/k7h9gk6i1z6d/ek9JKNKM5tWYPvDsp9FUb/7f01c590-acc6-11f0-a2f4-27c5344c2e2c--LOVE-Food-Fair-2025-tile.jpg",
    "source": "City of Sydney"
@@ -10543,7 +10544,7 @@ window.EVENT_DATA = {
    "date": "2026-10-28",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/oiche-shamhna-haunted-whiskey-masterclass",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779947038/k7h9gk6i1z6d/FRaXMmGtYpTWvKi6i9k5p/a9129d21-5a57-11f1-b1ba-b5892e22669a--O-che-Shamhna--Haunted-Whiskey-Masterclass-tile.jpg",
    "source": "City of Sydney"
@@ -10853,7 +10854,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "",
    "venue": "Circular Quay",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ultimate-halloween-boat-party-free-after-party",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787584314/k7h9gk6i1z6d/LVHlIWgX4Vq5mpdItvGR0/5f226370-9fcc-11f1-9b6f-9b14ace4e694--The-Ultimate-Halloween-Boat-Party---Free-After-Party-tile.jpg",
    "source": "City of Sydney"
@@ -11043,7 +11044,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-lunch-4-course-italian-banquet",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787885822/k7h9gk6i1z6d/4AGn1bdlmDptRmupuSjKtB/df572460-a28b-11f1-a8d5-cf95d17c2de6--Melbourne-Cup-Lunch-4-course-Italian-Banquet--tile.jpg",
    "source": "City of Sydney"
@@ -11053,7 +11054,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-lunch-at-harbourfront-seafood-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1761007597/k7h9gk6i1z6d/37Y0V4RONrK8bY5MpzpMPK/515c9c31-ae17-11f0-b8ce-ddf5d69503f8--Melbourne-Cup-Lunch-at-Harbourfront-Seafood-Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -11063,7 +11064,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "Strangers' Restaurant",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-luncheon-at-nsw-parliament",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781223355/k7h9gk6i1z6d/2mMQHr1M0QkGD9AnLPcRLe/bf62af50-65f3-11f1-8ee7-2b41df70e433--Melbourne-Cup-Luncheon-2026-at-NSW-Parliament-tile.jpg",
    "source": "City of Sydney"
@@ -11073,7 +11074,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "Shangri-La Hotel",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-luncheon-shangri-la-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785911998/k7h9gk6i1z6d/6IU1ntG8ljlTEBf6Xw87Ru/dfb8cb41-9096-11f1-9e5a-177bf7667675--Melbourne-Cup-Luncheon--Shangri-La-Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -11083,7 +11084,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/vagabond-cruises-sydney-harbour-melbourne-cup-lunch-cruise",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778568833/k7h9gk6i1z6d/izh2FRH1ZpZDSmt1OzzSN/13ed64d0-4dcf-11f1-b46f-cb142904328a--Sydney-Harbour-Melbourne-Cup-Lunch-Cruise-tile.jpg",
    "source": "City of Sydney"
@@ -11093,7 +11094,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-2026-at-zaffi-the-rose-garden-lunch",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786501998/k7h9gk6i1z6d/4SvWHxoWIXTDGe0kjxbEuM/12e72e31-95f6-11f1-ad8f-0b38c2847491--Melbourne-Cup-2026-at-Zaffi--The-Ros--Garden-Lunch-tile.jpg",
    "source": "City of Sydney"
@@ -11103,7 +11104,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-lunch-buffet",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786161534/k7h9gk6i1z6d/4tnQIGpNX4qtfmjVB8qy5o/053d57d0-92dd-11f1-bed4-cb86500f4e04--Melbourne-Cup-Lunch-Buffet-at-Amora-Jamison-Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -11203,7 +11204,7 @@ window.EVENT_DATA = {
    "date": "2026-11-04",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/nsw-wine-month-lunch-experience-at-nsw-parliament",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787025324/k7h9gk6i1z6d/5zKgjN8QbfdN8gBrq0YM72/2ba2de31-9ab8-11f1-bead-f3d1e64d10a0--NSW-Wine-Month-Lunch-Experience-at-NSW-Parliament-tile.jpg",
    "source": "City of Sydney"
@@ -11473,7 +11474,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "",
    "venue": "Sydney Community College",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/handmade-ravioli-workshop",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1748839233/k7h9gk6i1z6d/GzNo4zCFcYrURE9GjIfRh/7e97e621-3f6b-11f0-9cdc-3de5b2dc35d4--Handmade-Ravioli-Workshop-tile.jpg",
    "source": "City of Sydney"
@@ -11503,7 +11504,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "",
    "venue": "Sydney Showground",
-   "category": "Food & Markets",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/book-fair-australia-sydney-2026-presented-by-book-addiction",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1776140852/k7h9gk6i1z6d/59M3E1GQGOPZAyygqixrdl/bc3c1e51-37b9-11f1-9fed-83992dbbef50--Book-Fair-Australia-Sydney-2026--presented-by-Book-Addiction-tile.jpg",
    "source": "City of Sydney"
@@ -11673,7 +11674,7 @@ window.EVENT_DATA = {
    "date": "2026-11-08",
    "time": "",
    "venue": "North Sydney Oval",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/summer-session-or-sixers-v-thunder-or-wbbl-double-header",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782975085/k7h9gk6i1z6d/1294pRK1mopywOm5zJQ6aW/56607751-75e1-11f1-b948-ad6c1da706ec--Summer-Session---Sixers-v-Sydney---WBBL-Double-Header-tile.jpg",
    "source": "City of Sydney"
@@ -11773,7 +11774,7 @@ window.EVENT_DATA = {
    "date": "2026-11-11",
    "time": "",
    "venue": "Sydney Community College",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/handmade-gnocchi-workshop",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1756276278/k7h9gk6i1z6d/3z3ZqFqLhwA2hKl86VcOii/2bf54dd1-830f-11f0-9abd-7fd5872a1d3d--Handmade-Gnocchi-Workshop-tile.jpg",
    "source": "City of Sydney"
@@ -12273,7 +12274,7 @@ window.EVENT_DATA = {
    "date": "2026-11-19",
    "time": "",
    "venue": "See listing",
-   "category": "Community",
+   "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/lindesay-christmas-gift-fair",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1723594548/k7h9gk6i1z6d/PLGgQ0mrbkhHlDzeRohqd/ab12aee1-59d1-11ef-a8ec-85b0fd69ec28--Lindesay-Christmas-Gift-Fair-tile.jpg",
    "source": "City of Sydney"
@@ -13103,7 +13104,7 @@ window.EVENT_DATA = {
    "date": "2026-11-30",
    "time": "",
    "venue": "Strangers' Restaurant",
-   "category": "Food & Markets",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-lunch-special-at-nsw-parliament-house",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784166908/k7h9gk6i1z6d/2BEWuGDkG5WJ0N0siSPkzh/dd4c02c1-80b8-11f1-a634-1707dc6ccec6--Christmas-Lunch-Special-at-NSW-Parliament-House-tile.jpg",
    "source": "City of Sydney"
