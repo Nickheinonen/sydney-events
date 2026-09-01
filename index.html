@@ -361,10 +361,10 @@ if (!data || !data.events || !data.events.length) {
 }
 
 function start() {
-  const when = new Date(data.generated);
+  const updated = new Date(data.generated);
   freshness.textContent =
     data.events.length + " events · updated " +
-    when.toLocaleDateString("en-AU", { day: "numeric", month: "long" });
+    updated.toLocaleDateString("en-AU", { day: "numeric", month: "long" });
 
   document.getElementById("toolbar").hidden = false;
 
