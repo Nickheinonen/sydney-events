@@ -1,56 +1,6 @@
 window.EVENT_DATA = {
- "generated": "2026-08-31T23:57:57.729Z",
+ "generated": "2026-09-01T00:04:47.656Z",
  "events": [
-  {
-   "name": "Madjawa Maangi: First Nations Exhibition and Events Program",
-   "date": "2026-08-31",
-   "time": "",
-   "venue": "University of New South Wales",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/madjawa-maangi-first-nations-exhibition-and-events-program",
-   "image": "",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Suicide prevention workshop",
-   "date": "2026-08-31",
-   "time": "",
-   "venue": "Redfern Community Centre",
-   "category": "Talks Courses & Workshops",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/suicide-prevention-workshop",
-   "image": "",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Learn to DJ: beginners Course",
-   "date": "2026-08-31",
-   "time": "",
-   "venue": "Sydney Community College",
-   "category": "Talks Courses & Workshops",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-dj-beginners-course",
-   "image": "",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Portraiture Drawing Course for Beginners",
-   "date": "2026-08-31",
-   "time": "",
-   "venue": "Sydney Community College",
-   "category": "Talks Courses & Workshops",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/portraiture-drawing-course-for-beginners",
-   "image": "",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sewing Essentials Course",
-   "date": "2026-08-31",
-   "time": "",
-   "venue": "Sydney Community College",
-   "category": "Talks Courses & Workshops",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sewing-essentials-course",
-   "image": "",
-   "source": "City of Sydney"
-  },
   {
    "name": "Unlock The Rocks Art & Culture Month",
    "date": "2026-09-01",
@@ -698,6 +648,16 @@ window.EVENT_DATA = {
    "venue": "Sydney City Farm",
    "category": "Community & Causes",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-city-farm-new-volunteer-induction-session",
+   "image": "",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sydney City Farm volunteer working bees",
+   "date": "2026-09-03",
+   "time": "",
+   "venue": "Sydney City Farm",
+   "category": "Community & Causes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/city-farm-volunteer-working-bees",
    "image": "",
    "source": "City of Sydney"
   },
@@ -9080,6 +9040,26 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-29-11-2026/event/13006373871D5C41",
    "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Christmas Lunch Special at NSW Parliament House",
+   "date": "2026-11-30",
+   "time": "",
+   "venue": "Strangers' Restaurant",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-lunch-special-at-nsw-parliament-house",
+   "image": "",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "James temp event -TEST PRODtest",
+   "date": "2026-11-30",
+   "time": "",
+   "venue": "Abraham Mott Hall",
+   "category": "Community & Causes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/james-temp-event-test-prodtest",
+   "image": "",
+   "source": "City of Sydney"
   }
  ]
 };
