@@ -673,6 +673,71 @@ async function moshtix(todayIso, cutoffIso) {
   return out;
 }
 
+// ------------------------------------------------------ category consolidation
+// Three sources use three vocabularies, and Moshtix reports music genres.
+// Collapse them onto a fixed set of shelves.
+
+const CATEGORY_MAP = {
+  // music, kept in a few sized shelves rather than one huge one
+  "music": "Live Music",
+  "festivals": "Live Music",
+  "rock / pop": "Rock & Indie",
+  "indie": "Rock & Indie",
+  "hard rock / metal": "Rock & Indie",
+  "punk": "Rock & Indie",
+  "acoustic": "Rock & Indie",
+  "electronic / dance": "Electronic",
+  "soul / rnb": "Soul, Jazz & Roots",
+  "jazz": "Soul, Jazz & Roots",
+  "blues / roots": "Soul, Jazz & Roots",
+  "hip hop": "Soul, Jazz & Roots",
+  "reggae": "Soul, Jazz & Roots",
+  "world / latin": "Soul, Jazz & Roots",
+  "country": "Soul, Jazz & Roots",
+
+  "nightlife": "Nightlife",
+  "comedy": "Comedy",
+
+  "theatre dance & film": "Stage & Screen",
+  "theatre, dance & film": "Stage & Screen",
+  "arts & theatre": "Stage & Screen",
+  "theatre": "Stage & Screen",
+
+  "exhibitions": "Exhibitions",
+  "fashion": "Exhibitions",
+
+  "food & drink": "Food & Markets",
+  "shopping markets & fairs": "Food & Markets",
+
+  "talks courses & workshops": "Learn & Do",
+  "talks, courses & workshops": "Learn & Do",
+  "educational / pd / workshop": "Learn & Do",
+  "tours & experiences": "Learn & Do",
+
+  "sport & fitness": "Active",
+  "sports": "Active",
+
+  "children & family": "Family",
+  "all ages": "Family",
+
+  "community & causes": "Community",
+
+  "miscellaneous": "Other",
+  "other": "Other"
+};
+
+/** Shelf order on the page — most useful first, Other last. */
+const SHELF_ORDER = [
+  "Live Music", "Rock & Indie", "Electronic", "Soul, Jazz & Roots",
+  "Nightlife", "Comedy", "Stage & Screen", "Exhibitions",
+  "Food & Markets", "Learn & Do", "Active", "Family", "Community", "Other"
+];
+
+function consolidateCategory(raw) {
+  const key = String(raw || "").trim().toLowerCase().replace(/\s+/g, " ");
+  return CATEGORY_MAP[key] || null;      // null means we've not seen it before
+}
+
 // ------------------------------------------------- nightlife reclassification
 // Ticketmaster has no nightlife segment, so club nights arrive labelled
 // "Music". Move the clear cases across.
@@ -708,8 +773,8 @@ function matchesVenue(venue, list) {
 /** Only reclassify things already in a music-ish bucket — never a workshop. */
 function eligibleForNightlife(category) {
   const c = String(category).toLowerCase();
-  return c === "music" || c === "other" || c === "nightlife" ||
-         c === "concerts and performances";
+  return c === "live music" || c === "rock & indie" || c === "electronic" ||
+         c === "soul, jazz & roots" || c === "nightlife" || c === "other";
 }
 
 function isNightlife(ev) {
@@ -770,12 +835,19 @@ async function main() {
     .filter((e) => e.date >= today && e.date <= cutoff)
     .sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
 
-  fs.writeFileSync(
-    path.join(__dirname, "events.js"),
-    "window.EVENT_DATA = " +
-      JSON.stringify({ generated: new Date().toISOString(), events: all }, null, 1) +
-      ";\n"
-  );
+  const unmapped = {};
+  all.forEach((e) => {
+    const shelf = consolidateCategory(e.category);
+    if (shelf) {
+      e.category = shelf;
+    } else {
+      unmapped[e.category] = (unmapped[e.category] || 0) + 1;
+      e.category = "Other";
+    }
+  });
+  if (Object.keys(unmapped).length) {
+    console.log("Categories I did not recognise (filed as Other):", unmapped);
+  }
 
   let reclassified = 0;
   all.forEach((e) => {
@@ -787,6 +859,17 @@ async function main() {
   if (reclassified) {
     console.log("Reclassified " + reclassified + " events as Nightlife\n");
   }
+
+  // Written only now — after consolidation and reclassification, not before.
+  fs.writeFileSync(
+    path.join(__dirname, "events.js"),
+    "window.EVENT_DATA = " +
+      JSON.stringify(
+        { generated: new Date().toISOString(), shelfOrder: SHELF_ORDER, events: all },
+        null, 1
+      ) +
+      ";\n"
+  );
 
   const bySource = {};
   const byCat = {};
@@ -817,7 +900,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
+  consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
   isNightlife, matchesVenue, findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };

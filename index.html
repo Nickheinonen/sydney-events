@@ -353,7 +353,15 @@ function browseView(events) {
     byCat.get(cat).push(e);
   });
 
+  // Honour the collector's shelf order when present, else fall back to size.
+  const order = (data.shelfOrder && data.shelfOrder.length) ? data.shelfOrder : null;
   const shelves = Array.from(byCat.entries()).sort(function (a, b) {
+    if (order) {
+      const ai = order.indexOf(a[0]), bi = order.indexOf(b[0]);
+      if (ai !== -1 && bi !== -1) return ai - bi;
+      if (ai !== -1) return -1;
+      if (bi !== -1) return 1;
+    }
     return b[1].length - a[1].length;
   });
 
