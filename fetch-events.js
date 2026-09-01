@@ -28,10 +28,33 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // ------------------------------------------------------------- small helpers
 
+/**
+ * A 504 from a busy API shouldn't cost us a whole source, so retry the
+ * transient failures. 4xx (bad key, missing page) are permanent — fail fast.
+ */
 async function get(url) {
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
-  if (!res.ok) throw new Error(res.status + " " + res.statusText);
-  return res;
+  let lastError;
+
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const res = await fetch(url, { headers: { "User-Agent": UA } });
+
+      if (res.ok) return res;
+
+      const transient = res.status >= 500 || res.status === 429 || res.status === 408;
+      const err = new Error(res.status + " " + res.statusText);
+      if (!transient) { err.permanent = true; }
+      throw err;
+    } catch (err) {
+      lastError = err;
+      if (err.permanent || attempt === 3) break;
+      const wait = attempt * 2000;
+      console.log("    " + err.message + " — retrying in " + (wait / 1000) + "s");
+      await sleep(wait);
+    }
+  }
+
+  throw lastError;
 }
 
 function isoDate(d) {
@@ -317,10 +340,19 @@ async function ticketmaster(start, end) {
       endDateTime: end.toISOString().split(".")[0] + "Z"
     });
 
-    const res = await get(
-      "https://app.ticketmaster.com/discovery/v2/events.json?" + params
-    );
-    const data = await res.json();
+    let data;
+    try {
+      const res = await get(
+        "https://app.ticketmaster.com/discovery/v2/events.json?" + params
+      );
+      data = await res.json();
+    } catch (err) {
+      // Keep the pages that did come back rather than losing the lot.
+      console.log("  page " + page + " failed (" + err.message + "), keeping " +
+        out.length + " events collected so far");
+      break;
+    }
+
     const events = (data._embedded && data._embedded.events) || [];
     if (!events.length) break;
 
@@ -722,6 +754,16 @@ const CATEGORY_MAP = {
 
   "community & causes": "Community",
 
+  // Aliases, so events carried over from an older run still land correctly.
+  "markets": "Markets & Festivals",
+  "tours": "Learn & Do",
+  "talks & workshops": "Learn & Do",
+  "food & markets": "Food & Drink",
+  "active": "Fitness",
+  "electronic": "Nightlife & Electronic",
+  "live music": "Other Music",
+  "soul, jazz & roots": "Soul, Jazz & Global",
+
   "miscellaneous": "Other",
   "other": "Other"
 };
@@ -749,7 +791,12 @@ const SHELF_ORDER = [
 ];
 
 function consolidateCategory(raw) {
-  const key = String(raw || "").trim().toLowerCase().replace(/\s+/g, " ");
+  const value = String(raw || "").trim();
+
+  // Events carried over from a previous run are already consolidated.
+  if (SHELF_ORDER.indexOf(value) !== -1 || value === "Live Music") return value;
+
+  const key = value.toLowerCase().replace(/\s+/g, " ");
   return CATEGORY_MAP[key] || null;      // null means we've not seen it before
 }
 
@@ -918,6 +965,27 @@ function isMarketOrFestival(ev) {
   return MARKET_WORDS.test(ev.name) || FESTIVAL_WORDS.test(ev.name);
 }
 
+/**
+ * Reads the events.js from the last run. Used as a safety net: if a source
+ * returns nothing because its API was down, we keep yesterday's events for
+ * that source rather than publishing a site with a quarter of it missing.
+ */
+function readPreviousEvents() {
+  try {
+    const file = path.join(__dirname, "events.js");
+    if (!fs.existsSync(file)) return [];
+    const text = fs.readFileSync(file, "utf8");
+    const first = text.indexOf("{");
+    const last = text.lastIndexOf("}");
+    if (first === -1 || last === -1) return [];
+    const parsed = JSON.parse(text.slice(first, last + 1));
+    return Array.isArray(parsed.events) ? parsed.events : [];
+  } catch (err) {
+    console.log("Could not read the previous events.js: " + err.message);
+    return [];
+  }
+}
+
 // -------------------------------------------------------------------- main
 
 function dedupe(events) {
@@ -958,8 +1026,26 @@ async function main() {
   });
   console.log("  " + mox.length + " events\n");
 
+  // If a source came back empty, fall back to what it gave us last time.
+  const collected = { "Ticketmaster": tm, "City of Sydney": cos, "Moshtix": mox };
+  const previous = readPreviousEvents();
+
+  Object.keys(collected).forEach(function (source) {
+    if (collected[source].length) return;
+    const carried = previous.filter(function (e) {
+      return e.source === source && e.date >= today && e.date <= cutoff;
+    });
+    if (carried.length) {
+      console.log("WARNING: " + source + " returned nothing this run — keeping " +
+        carried.length + " events from the previous one");
+      collected[source] = carried;
+    }
+  });
+
   // Ticketmaster first, so its richer records win any duplicate.
-  const all = dedupe(tm.concat(cos).concat(mox))
+  const all = dedupe(
+    collected["Ticketmaster"].concat(collected["City of Sydney"]).concat(collected["Moshtix"])
+  )
     .filter((e) => e.date >= today && e.date <= cutoff)
     .sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
 
@@ -1071,7 +1157,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  isMarketOrFestival, refineActive, refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
+  readPreviousEvents, isMarketOrFestival, refineActive, refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
   isNightlife, matchesVenue, findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
