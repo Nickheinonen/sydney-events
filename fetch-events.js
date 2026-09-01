@@ -168,6 +168,55 @@ function fixUrl(u) {
   return u;
 }
 
+/**
+ * Image fields come in many shapes: a bare string, an array, {url}, {src},
+ * or Contentful's nested {fields:{file:{url}}}. Try them all.
+ */
+function pickImage(node, depth = 0) {
+  if (!node || depth > 4) return "";
+
+  if (typeof node === "string") {
+    return /^(https?:)?\/\//.test(node) || node.startsWith("/") ? node : "";
+  }
+
+  if (Array.isArray(node)) {
+    for (const item of node) {
+      const found = pickImage(item, depth + 1);
+      if (found) return found;
+    }
+    return "";
+  }
+
+  if (typeof node !== "object") return "";
+
+  // Contentful and similar nested asset shapes
+  const nested =
+    (node.fields && node.fields.file) ||
+    node.file ||
+    node.asset ||
+    node.image ||
+    node.heroImage ||
+    node.featuredImage ||
+    node.listingImage ||
+    node.thumbnail ||
+    node.media;
+
+  const direct = node.url || node.src || node.secure_url || node.imageUrl;
+  if (typeof direct === "string") {
+    const found = pickImage(direct, depth + 1);
+    if (found) return found;
+  }
+
+  return nested ? pickImage(nested, depth + 1) : "";
+}
+
+/** Ask Contentful for a sensibly sized image instead of the full original. */
+function sizeImage(url) {
+  if (!url || url.indexOf("ctfassets.net") === -1) return url;
+  if (url.indexOf("?") !== -1) return url;
+  return url + "?w=600&fm=jpg&q=75";
+}
+
 function fromNextData(raw, category) {
   const name = pick(raw, ["name", "title", "eventName", "heading"]);
   const slug = pick(raw, ["slug", "urlSlug", "path"]);
@@ -186,8 +235,14 @@ function fromNextData(raw, category) {
     "See listing";
 
   const image =
-    pick(raw.image || raw.heroImage || {}, ["url", "src"]) ||
-    pick(raw, ["imageUrl", "thumbnail"]) ||
+    pickImage(raw.image) ||
+    pickImage(raw.heroImage) ||
+    pickImage(raw.featuredImage) ||
+    pickImage(raw.listingImage) ||
+    pickImage(raw.thumbnail) ||
+    pickImage(raw.imageUrl) ||
+    pickImage(raw.media) ||
+    pickImage(raw.images) ||
     "";
 
   return {
@@ -197,7 +252,7 @@ function fromNextData(raw, category) {
     venue: String(venue).trim(),
     category,
     url: COS + "/events/" + String(slug).replace(/^\/?(events\/)?/, ""),
-    image: fixUrl(String(image)),
+    image: sizeImage(fixUrl(String(image))),
     source: "City of Sydney"
   };
 }
@@ -214,10 +269,7 @@ function fromJsonLd(ev, slug, category) {
       venue;
   }
 
-  let image = "";
-  if (typeof ev.image === "string") image = ev.image;
-  else if (Array.isArray(ev.image)) image = ev.image[0];
-  else if (ev.image && ev.image.url) image = ev.image.url;
+  const image = pickImage(ev.image) || pickImage(ev.thumbnailUrl);
 
   return {
     name: String(ev.name).trim(),
@@ -226,7 +278,7 @@ function fromJsonLd(ev, slug, category) {
     venue: String(venue).trim(),
     category,
     url: ev.url || COS + "/events/" + slug,
-    image: fixUrl(String(image || "")),
+    image: sizeImage(fixUrl(String(image || ""))),
     source: "City of Sydney"
   };
 }
@@ -458,8 +510,17 @@ async function main() {
     byCat[e.category] = (byCat[e.category] || 0) + 1;
   });
 
+  const withImage = {};
+  all.forEach((e) => {
+    if (e.image) withImage[e.source] = (withImage[e.source] || 0) + 1;
+  });
+
   console.log("Wrote events.js — " + all.length + " events");
   console.log("By source:", bySource);
+  Object.keys(bySource).forEach((s) => {
+    const n = withImage[s] || 0;
+    console.log("  " + s + ": " + n + "/" + bySource[s] + " have images");
+  });
   console.log("By category:", byCat);
 }
 
@@ -471,6 +532,6 @@ if (require.main === module) {
 }
 
 module.exports = {
-  harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
+  pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
