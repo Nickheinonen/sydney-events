@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-09-01T02:47:14.708Z",
+ "generated": "2026-09-01T02:51:23.643Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -10,9 +10,10 @@ window.EVENT_DATA = {
   "Exhibitions",
   "Learn & Do",
   "Classical & Opera",
+  "Fitness",
   "Family",
+  "Sport",
   "Community",
-  "Active",
   "Other Music",
   "Other"
  ],
@@ -112,7 +113,7 @@ window.EVENT_DATA = {
    "date": "2026-09-01",
    "time": "",
    "venue": "King George V (KGV) Recreation Centre",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/kgv-basketball-competitions",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1718675623/k7h9gk6i1z6d/6CwccV0mMk5t2oSoZucsop/2d834c30-2d14-11ef-b1c7-13e8149be86d--KGV-Basketball-Competitions-tile.jpg",
    "source": "City of Sydney"
@@ -752,7 +753,7 @@ window.EVENT_DATA = {
    "date": "2026-09-03",
    "time": "",
    "venue": "St Helen’s Community Centre",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/r-u-ok-day-mens-exercise-class",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787273143/k7h9gk6i1z6d/4O3thMSDdHp2q9vdyKclvW/670ab221-9cf9-11f1-9f3e-937734fa3f39--R-U-OK--Men-s-exercise--tile.jpg",
    "source": "City of Sydney"
@@ -942,7 +943,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "See listing",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/barangaroo-hiit",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787016095/k7h9gk6i1z6d/4tXKG1LSgQ6oS8glgjTdNc/aa7aa5a1-9aa2-11f1-b3cf-07800f2ea28c--Barangaroo-HIIT-tile.jpg",
    "source": "City of Sydney"
@@ -952,7 +953,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "Cook+Phillip Park Aquatic and Fitness Centre",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/cook-phillip-park-pool-lunch-basketball-competitions",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782964377/k7h9gk6i1z6d/7Koli2zjGObkYTNnGveJjW/50bc05f0-75c6-11f1-bbfc-6d0d84a73c5c--Basketball-competitions-at-Cook---Phillip-Park-Pool-tile.jpg",
    "source": "City of Sydney"
@@ -1132,7 +1133,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "20:00",
    "venue": "Allianz Stadium",
-   "category": "Active",
+   "category": "Sport",
    "url": "https://www.ticketmaster.com.au/2026-nrl-telstra-premiership-rabbitohs-v-sydney-04-09-2026/event/2500644B42A89E4E",
    "image": "https://s1.ticketm.net/dam/a/f2c/4ddc6dd6-3de1-4a7f-95aa-7821000a6f2c_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1392,7 +1393,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "See listing",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/barefoot-bowling-for-singles-40-or-balmain",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786441462/k7h9gk6i1z6d/7DyfqwC01L33FD8bTUJJyK/b2ca3611-9568-11f1-8356-813f5a20ae57--Barefoot-Bowling-for-Singles-40----Balmain-tile.jpg",
    "source": "City of Sydney"
@@ -2092,7 +2093,7 @@ window.EVENT_DATA = {
    "date": "2026-09-07",
    "time": "",
    "venue": "Pyrmont Community Centre",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/womens-health-week-at-pyrmont-community-centre",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786336895/k7h9gk6i1z6d/wne6KAid02vAqcWKahsfW/21c3f191-9475-11f1-9be7-af4c1d6d4f49--Women-s-Health-Week-2026-at-Pyrmont-Community-Centre-tile.jpg",
    "source": "City of Sydney"
@@ -2682,7 +2683,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "",
    "venue": "See listing",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/thursday-thrive-with-the-jungle-body-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787015606/k7h9gk6i1z6d/6ENfuDG7lwM3KtpH0t0Po8/c372d151-9aa1-11f1-9c89-f14932b62102--Thursday-Thrive-with-The-Jungle-Body-Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -2822,7 +2823,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "19:45",
    "venue": "Allianz Stadium",
-   "category": "Active",
+   "category": "Sport",
    "url": "https://www.ticketmaster.com.au/2026-nrlw-telstra-premiership-sydney-roosters-sydney-10-09-2026/event/250064BBD94ED39C",
    "image": "https://s1.ticketm.net/dam/a/d5d/9a960d51-3668-4d7e-a23b-726a0dc87d5d_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -2952,7 +2953,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "",
    "venue": "ICC Sydney",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/ausfitness-expo",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783483474/k7h9gk6i1z6d/3KBV9WmufXP0DzFF7hSkbu/ce168bf1-7a81-11f1-8143-47c45ac6af78--AusFitness-Expo--tile.jpg",
    "source": "City of Sydney"
@@ -3342,7 +3343,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "See listing",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/barangaroo-bootcamp",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787016393/k7h9gk6i1z6d/1kaZv6gKz6xrYJARud3N0l/82c96721-9aa3-11f1-b2f0-e76a3feaf282--Barangaroo-Bootcamp-tile.jpg",
    "source": "City of Sydney"
@@ -4342,7 +4343,7 @@ window.EVENT_DATA = {
    "date": "2026-09-17",
    "time": "",
    "venue": "Juanita Nielsen Community Centre",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/aerobics-class",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787798301/k7h9gk6i1z6d/3BTmakWMsl7pZpYDfeVw69/f1938b41-a1bf-11f1-9773-2330d30b1d1e--Aerobics-class-tile.jpg",
    "source": "City of Sydney"
@@ -7352,7 +7353,7 @@ window.EVENT_DATA = {
    "date": "2026-09-30",
    "time": "",
    "venue": "Bondi Pavilion",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/mick-fanning-all-heart",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784162603/k7h9gk6i1z6d/49VSbjVqAwcqMJWhIcgNZw/e7437a60-80ae-11f1-a267-474e9e8ff6cd--Mick-Fanning--All-Heart-tile.jpg",
    "source": "City of Sydney"
@@ -8092,7 +8093,7 @@ window.EVENT_DATA = {
    "date": "2026-10-04",
    "time": "",
    "venue": "See listing",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/meditation-course-an-eight-week-journey",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787376238/k7h9gk6i1z6d/6axyHUphAHbEBA6kzLqfm8/41f84841-9de8-11f1-9734-8545a4741721--Meditation-Course--An-Eight-Week-Journey-tile.jpg",
    "source": "City of Sydney"
@@ -9362,7 +9363,7 @@ window.EVENT_DATA = {
    "date": "2026-10-15",
    "time": "20:05",
    "venue": "Allianz Stadium",
-   "category": "Active",
+   "category": "Sport",
    "url": "https://www.ticketmaster.com.au/rlwc26-mens-australia-v-new-zealand-sydney-15-10-2026/event/25006363964B742B",
    "image": "https://s1.ticketm.net/dam/e/a6c/8721b0aa-4cab-4c74-a091-be6b82b1da6c_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9472,7 +9473,7 @@ window.EVENT_DATA = {
    "date": "2026-10-16",
    "time": "20:00",
    "venue": "Allianz Stadium",
-   "category": "Active",
+   "category": "Sport",
    "url": "https://www.ticketmaster.com.au/202627-aleague-sydney-fc-v-western-sydney-16-10-2026/event/250064FFCEE19C87",
    "image": "https://s1.ticketm.net/dam/e/124/1b7f3464-5899-4c79-91be-bd96283d7124_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -9932,7 +9933,7 @@ window.EVENT_DATA = {
    "date": "2026-10-21",
    "time": "",
    "venue": "Sydney Community College",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/tai-chi-course-for-beginners",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1750730474/k7h9gk6i1z6d/3pyzZK96ery3I1SLhkt7jb/db421001-509e-11f0-8004-b951fab3ce89--Tai-Chi-Course-for-Beginners-tile.jpg",
    "source": "City of Sydney"
@@ -10102,7 +10103,7 @@ window.EVENT_DATA = {
    "date": "2026-10-23",
    "time": "",
    "venue": "See listing",
-   "category": "Active",
+   "category": "Sport",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-international-darts-cup-15-aus-vs-nz",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786940347/k7h9gk6i1z6d/39asTsLVj1ygR3pl1X9SSu/1d58c141-99f1-11f1-81c1-31f82ac1c58b--SYDNEY-INTERNATIONAL-DARTS-CUP--15---Aus-vs-NZ--tile.jpg",
    "source": "City of Sydney"
@@ -10392,7 +10393,7 @@ window.EVENT_DATA = {
    "date": "2026-10-25",
    "time": "15:00",
    "venue": "Allianz Stadium",
-   "category": "Active",
+   "category": "Sport",
    "url": "https://www.ticketmaster.com.au/202627-aleague-sydney-fc-v-adelaide-sydney-25-10-2026/event/250064FDDD74947C",
    "image": "https://s1.ticketm.net/dam/e/72a/6f7e351a-28a9-4232-b452-893b3237572a_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -11122,7 +11123,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "See listing",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-2026-at-coogee-bay-hotel",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786413242/k7h9gk6i1z6d/5wtY7GjWXQIX6lgjDUh3Jt/3d347ff1-9527-11f1-a26c-3f4644c20090--Melbourne-Cup-2026-At-Coogee-Bay-Hotel-tile.jpg",
    "source": "City of Sydney"
@@ -11132,7 +11133,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "Cruise Bar",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-2026-at-cruise-bar-and-restaurant",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786412582/k7h9gk6i1z6d/m04AebtpLhbRTYOMvQy90/4b09d461-9525-11f1-bf34-192e98f63e5d--Melbourne-Cup-2026-at-Cruise-Bar---Restaurant-tile.jpg",
    "source": "City of Sydney"
@@ -11402,7 +11403,7 @@ window.EVENT_DATA = {
    "date": "2026-11-06",
    "time": "19:40",
    "venue": "Allianz Stadium",
-   "category": "Active",
+   "category": "Sport",
    "url": "https://www.ticketmaster.com.au/202627-aleague-sydney-fc-v-central-sydney-06-11-2026/event/250064FFC3178DDC",
    "image": "https://s1.ticketm.net/dam/e/287/cab57cea-67c3-485d-9ac3-cdb1ae3fc287_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11712,7 +11713,7 @@ window.EVENT_DATA = {
    "date": "2026-11-08",
    "time": "17:55",
    "venue": "Allianz Stadium",
-   "category": "Active",
+   "category": "Sport",
    "url": "https://www.ticketmaster.com.au/rlwc26-mens-womens-semi-final-2-sydney-08-11-2026/event/2500636C77792617",
    "image": "https://s1.ticketm.net/dam/e/851/29cb83b2-e457-48a0-b471-ac3e9d1e6851_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12012,7 +12013,7 @@ window.EVENT_DATA = {
    "date": "2026-11-14",
    "time": "",
    "venue": "Centennial Park",
-   "category": "Active",
+   "category": "Fitness",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/f3-polo-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1749686339/k7h9gk6i1z6d/01caeIsAsFOJtHTAanZS7/bb6a2bd1-4718-11f0-87db-ab7d1ceb27f6--F3-Polo-Sydney---8-November-2025---Centennial-Park--Sydney-tile.jpg",
    "source": "City of Sydney"
