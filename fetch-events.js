@@ -686,16 +686,16 @@ const CATEGORY_MAP = {
   "hard rock / metal": "Rock & Indie",
   "punk": "Rock & Indie",
   "acoustic": "Rock & Indie",
-  "electronic / dance": "Electronic",
-  "soul / rnb": "Soul, Jazz & Roots",
-  "jazz": "Soul, Jazz & Roots",
-  "blues / roots": "Soul, Jazz & Roots",
-  "hip hop": "Soul, Jazz & Roots",
-  "reggae": "Soul, Jazz & Roots",
-  "world / latin": "Soul, Jazz & Roots",
-  "country": "Soul, Jazz & Roots",
+  "electronic / dance": "Nightlife & Electronic",
+  "soul / rnb": "Soul, Jazz & Global",
+  "jazz": "Soul, Jazz & Global",
+  "blues / roots": "Soul, Jazz & Global",
+  "hip hop": "Soul, Jazz & Global",
+  "reggae": "Soul, Jazz & Global",
+  "world / latin": "Soul, Jazz & Global",
+  "country": "Soul, Jazz & Global",
 
-  "nightlife": "Nightlife",
+  "nightlife": "Nightlife & Electronic",
   "comedy": "Comedy",
 
   "theatre dance & film": "Stage & Screen",
@@ -727,10 +727,23 @@ const CATEGORY_MAP = {
 };
 
 /** Shelf order on the page — most useful first, Other last. */
+// Deliberately interleaved so the top of the page isn't five music shelves
+// in a row. Music is the biggest category but shouldn't dominate browsing.
 const SHELF_ORDER = [
-  "Live Music", "Rock & Indie", "Electronic", "Soul, Jazz & Roots",
-  "Nightlife", "Comedy", "Stage & Screen", "Exhibitions",
-  "Food & Markets", "Learn & Do", "Active", "Family", "Community", "Other"
+  "Rock & Indie",
+  "Comedy",
+  "Nightlife & Electronic",
+  "Stage & Screen",
+  "Food & Markets",
+  "Soul, Jazz & Global",
+  "Exhibitions",
+  "Learn & Do",
+  "Classical & Opera",
+  "Family",
+  "Community",
+  "Active",
+  "Other Music",
+  "Other"
 ];
 
 function consolidateCategory(raw) {
@@ -773,8 +786,9 @@ function matchesVenue(venue, list) {
 /** Only reclassify things already in a music-ish bucket — never a workshop. */
 function eligibleForNightlife(category) {
   const c = String(category).toLowerCase();
-  return c === "live music" || c === "rock & indie" || c === "electronic" ||
-         c === "soul, jazz & roots" || c === "nightlife" || c === "other";
+  return c === "live music" || c === "rock & indie" ||
+         c === "soul, jazz & global" || c === "nightlife & electronic" ||
+         c === "other";
 }
 
 function isNightlife(ev) {
@@ -788,6 +802,77 @@ function isNightlife(ev) {
   if (startsLate && matchesVenue(ev.venue, LIVE_VENUES)) return true;
 
   return false;
+}
+
+// -------------------------------------------------- comedy reclassification
+// Ticketmaster files comedy under "Arts & Theatre" and the council under
+// "Theatre Dance & Film", so it has to be recovered from the event name.
+
+const COMEDY_WORDS = /\b(comedy|comedian|comedians|stand[- ]?up|improv|improvised|sketch show|roast(ed)?|open mic|laughs|gag show|panel show)\b/i;
+
+// Titles that mention comedy but are plays, films or musicals.
+const NOT_COMEDY = /\b(comedy of errors|musical comedy|romantic comedy|dark comedy|comedy drama|divine comedy)\b/i;
+
+// Rooms that do comedy and essentially nothing else.
+const COMEDY_VENUES = [
+  "comedy store", "comedy lounge", "comedy bar", "comedy club",
+  "the comics lounge", "factory theatre comedy"
+];
+
+function eligibleForComedy(category) {
+  const c = String(category).toLowerCase();
+  return c === "stage & screen" || c === "other" ||
+         c === "nightlife & electronic" || c === "live music";
+}
+
+function isComedy(ev) {
+  if (!eligibleForComedy(ev.category)) return false;
+  if (NOT_COMEDY.test(ev.name)) return false;
+  if (COMEDY_WORDS.test(ev.name)) return true;
+  if (matchesVenue(ev.venue, COMEDY_VENUES)) return true;
+  return false;
+}
+
+// ------------------------------------------------------------ music refining
+// "Live Music" is just events whose source gave no genre. Classify what we
+// can from the title and venue; whatever resists becomes "Other Music".
+
+const GENRE_RULES = [
+  {
+    shelf: "Classical & Opera",
+    // "Opera Bar" and "rock opera" are not opera.
+    not: /\b(opera bar|opera quays|opera kitchen|soap opera|rock opera|space opera|opera house forecourt)\b/i,
+    words: /\b(orchestra|orchestral|symphony|symphonic|philharmonic|oper(a|atic)|concerto|chamber music|chamber orchestra|string quartet|recital|choir|choral|cantata|requiem|baroque|sonata|mozart|beethoven|bach|chopin|vivaldi|tchaikovsky|handel|verdi|puccini|brahms|schubert)\b/i,
+    venues: ["city recital hall", "angel place", "utzon room", "verbrugghen",
+             "sydney conservatorium", "concert hall"]
+  },
+  {
+    shelf: "Nightlife & Electronic",
+    words: /\b(electronic|electronica|techno|house music|trance|edm|dubstep|drum ?(and|&|n) ?bass|synth ?wave|ambient|breakbeat|garage house)\b/i,
+    venues: []
+  },
+  {
+    shelf: "Soul, Jazz & Global",
+    words: /\b(jazz|blues|soul|funk|reggae|ska|dub|folk|bluegrass|country|americana|gospel|r&b|rnb|latin|salsa|cumbia|afrobeat|world music|roots|swing|bossa|motown|doo ?wop)\b/i,
+    venues: ["camelot lounge", "foundry616", "the vanguard", "django", "venue 505",
+             "the basement", "birdland"]
+  },
+  {
+    shelf: "Rock & Indie",
+    words: /\b(rock|punk|metal|indie|hardcore|grunge|emo|shoegaze|garage|alternative|psych|post[- ]punk|tribute|covers band)\b/i,
+    venues: ["crowbar", "bald faced stag", "manning bar", "the lansdowne",
+             "the marly", "hotel hollywood", "the bridge hotel"]
+  }
+];
+
+/** Returns a genre shelf for an ungenred music event, or null if unclear. */
+function refineMusic(ev) {
+  for (const rule of GENRE_RULES) {
+    if (rule.not && rule.not.test(ev.name)) continue;
+    if (rule.words.test(ev.name)) return rule.shelf;
+    if (rule.venues.length && matchesVenue(ev.venue, rule.venues)) return rule.shelf;
+  }
+  return null;
 }
 
 // -------------------------------------------------------------------- main
@@ -851,14 +936,41 @@ async function main() {
 
   let reclassified = 0;
   all.forEach((e) => {
-    if (e.category !== "Nightlife" && isNightlife(e)) {
-      e.category = "Nightlife";
+    if (e.category !== "Nightlife & Electronic" && isNightlife(e)) {
+      e.category = "Nightlife & Electronic";
       reclassified++;
     }
   });
   if (reclassified) {
-    console.log("Reclassified " + reclassified + " events as Nightlife\n");
+    console.log("Reclassified " + reclassified + " events as Nightlife & Electronic");
   }
+
+  let toComedy = 0;
+  all.forEach((e) => {
+    if (e.category !== "Comedy" && isComedy(e)) {
+      e.category = "Comedy";
+      toComedy++;
+    }
+  });
+  if (toComedy) {
+    console.log("Reclassified " + toComedy + " events as Comedy");
+  }
+
+  let refined = 0;
+  let leftover = 0;
+  all.forEach((e) => {
+    if (e.category !== "Live Music") return;
+    const shelf = refineMusic(e);
+    if (shelf) {
+      e.category = shelf;
+      refined++;
+    } else {
+      e.category = "Other Music";
+      leftover++;
+    }
+  });
+  console.log("Sorted " + refined + " ungenred music events by genre, " +
+    leftover + " left as Other Music\n");
 
   // Written only now — after consolidation and reclassification, not before.
   fs.writeFileSync(
@@ -900,7 +1012,7 @@ if (require.main === module) {
 }
 
 module.exports = {
-  consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
+  refineMusic, isComedy, consolidateCategory, SHELF_ORDER, CATEGORY_MAP, moshtix, moshtixImage, parseMoshtixDate, moshtixSlug, moshtixPage, SYDNEY,
   isNightlife, matchesVenue, findEventHits, pickImage, sizeImage, harvestEvents, fromNextData, fromJsonLd, parseWhen, extractNextData,
   extractJsonLd, findLdEvents, findSectionSlugs, findEventSlugs, dedupe, titleCase
 };
