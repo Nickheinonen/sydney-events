@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-09-01T03:02:05.424Z",
+ "generated": "2026-09-01T03:14:00.059Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -520,6 +520,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-09-02",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-02-09-2026/event/1300635BF0B39EFD",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "FREE ENTRY - DJ NOTHING feat Daniel Pliner",
    "date": "2026-09-02",
    "time": "18:00",
@@ -780,6 +790,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-09-03",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-03-09-2026/event/1300635BF0B39EFF",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "2027 Parade Community Creative Ideas Workshop",
    "date": "2026-09-03",
    "time": "18:00",
@@ -788,6 +808,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/2027-parade-community-creative-ideas-workshop/197415",
    "image": "https://static.moshtix.com.au/uploads/55cf2e90-b134-4e59-a625-3ff599833776x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "0309",
+   "date": "2026-09-03",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/0309/199300",
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Anovaty + Groundhog + Mary and The Fear of God",
@@ -810,16 +840,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "0309",
-   "date": "2026-09-03",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/0309/199300",
-   "image": "https://static.moshtix.com.au/uploads/a870db18-2fc2-4458-a2ca-dc552fce0d5dx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "INDUSTRY PLANT FIGHT CLUB: Volume 1",
    "date": "2026-09-03",
    "time": "19:00",
@@ -833,21 +853,21 @@ window.EVENT_DATA = {
    "name": "CANCELLED | V.I.C - Australian Tour 2026",
    "date": "2026-09-03",
    "time": "20:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/cancelled-v-i-c-australian-tour-2026/196886",
-   "image": "https://static.moshtix.com.au/uploads/cff2a534-aa77-409f-b11d-1051b6f54e44x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "ivy Thursdays - 3rd September",
    "date": "2026-09-03",
    "time": "21:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-3rd-september/199310",
-   "image": "https://static.moshtix.com.au/uploads/40fee98f-4eb1-4daa-977d-0b92e258d067x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "A Brutal Farewell",
@@ -1040,6 +1060,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "VANCOUVER SLEEP CLINIC",
+   "date": "2026-09-04",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/vancouver-sleep-clinic/195417",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Ocean Sleeper  ‘Peace When I'm Dead’ Australia Tour",
    "date": "2026-09-04",
    "time": "19:00",
@@ -1047,16 +1077,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/ocean-sleeper-peace-when-i-m-dead-australia-tour/195242",
    "image": "https://static.moshtix.com.au/uploads/259aea46-ad41-4643-ae75-42af4b7f8029x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "VANCOUVER SLEEP CLINIC",
-   "date": "2026-09-04",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/vancouver-sleep-clinic/195417",
-   "image": "https://static.moshtix.com.au/uploads/91b01715-072f-4a95-a7d5-2acff4b00233x140x140",
    "source": "Moshtix"
   },
   {
@@ -1110,6 +1130,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "2026 NRL Telstra Premiership - Rabbitohs v Roosters (Round 27)",
+   "date": "2026-09-04",
+   "time": "20:00",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/2026-nrl-telstra-premiership-rabbitohs-v-sydney-04-09-2026/event/2500644B42A89E4E",
+   "image": "https://s1.ticketm.net/dam/a/f2c/4ddc6dd6-3de1-4a7f-95aa-7821000a6f2c_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Night Shift",
    "date": "2026-09-04",
    "time": "20:00",
@@ -1150,24 +1180,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "SOTA PRESENTS STATE OF THE ART 3.0",
-   "date": "2026-09-04",
-   "time": "21:00",
-   "venue": "Plaza Hotel Sydney",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/sota-presents-state-of-the-art-3-0/194020",
-   "image": "https://static.moshtix.com.au/uploads/af664751-c26e-44de-839d-330526f30702x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Chinese Laundry Invites PRIZEFIGHT & ED KENT [ALL NIGHT LONG] + OVERDRIVE MAG TAKEOVER FT. LOVE, JESS",
    "date": "2026-09-04",
    "time": "21:00",
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-prizefight-ed-kent-all-night-long-overdrive-mag-takeover-ft-love-jess/197592",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "SOTA PRESENTS STATE OF THE ART 3.0",
+   "date": "2026-09-04",
+   "time": "21:00",
+   "venue": "Plaza Hotel Sydney",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/sota-presents-state-of-the-art-3-0/194020",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Albion Fridays ft. Nino Brown",
@@ -1183,11 +1213,11 @@ window.EVENT_DATA = {
    "name": "FRI 04 SEPT - INT GUEST DJ WILL ATKINSON @ WAO SUPERCLUB",
    "date": "2026-09-04",
    "time": "21:30",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-04-sept-int-guest-dj-will-atkinson-wao-superclub/199619",
-   "image": "https://static.moshtix.com.au/uploads/6d7ad4d2-7ba9-472f-aff6-c3c804d8fbdfx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Gut Health - After Dark w/ Marcus Whale & Grasps, Merryn Jeann and Dick McQueen (DJ)",
@@ -1520,6 +1550,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Björn Again - ABBA Forever Tour",
+   "date": "2026-09-05",
+   "time": "14:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/bjorn-again-abba-forever-tour-sydney-05-09-2026/event/13006452D9D8C25A",
+   "image": "https://s1.ticketm.net/dam/a/4fd/cf368d1a-75b2-44b8-a433-ba0f8a1e04fd_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Bero Block Party ft. Babe Rainbow, Cheeky Leash, LOODS, Bean Magazine and more",
    "date": "2026-09-05",
    "time": "14:00",
@@ -1533,11 +1573,11 @@ window.EVENT_DATA = {
    "name": "Emerson & Matilda Pearl: Leap! On tour",
    "date": "2026-09-05",
    "time": "18:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/emerson-matilda-pearl-leap-on-tour/196830",
-   "image": "https://static.moshtix.com.au/uploads/f8f5408b-c4ba-4a31-8b4d-8a8305ce5a61x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "BLUE DINER. featuring Local The Neighbour and Bridge Dog",
@@ -1550,6 +1590,36 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "DBN Gogo (ZA) - Sydney ",
+   "date": "2026-09-05",
+   "time": "19:00",
+   "venue": "Bungalow 8 and The Loft",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/dbn-gogo-za-sydney/198349",
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "mike.",
+   "date": "2026-09-05",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/mike-/194088",
+   "image": "https://s1.ticketm.net/dam/a/d5c/03cf14af-60e6-4144-8af9-4a3ba8b5fd5c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Swapmeet ‘Mount Zero’ Album Tour",
+   "date": "2026-09-05",
+   "time": "19:00",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/swapmeet-mount-zero-album-tour/196919",
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "HORSE DRAWN CADILLAC - Spring Boogie",
    "date": "2026-09-05",
    "time": "19:00",
@@ -1557,16 +1627,6 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/horse-drawn-cadillac-spring-boogie/192066",
    "image": "https://static.moshtix.com.au/uploads/99035280-ad61-428f-ba97-21c22314553dx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "mike.",
-   "date": "2026-09-05",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/mike-/194088",
-   "image": "https://static.moshtix.com.au/uploads/b02bfb00-929d-4205-b18f-cdd86e7a59aex140x140",
    "source": "Moshtix"
   },
   {
@@ -1590,16 +1650,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Swapmeet ‘Mount Zero’ Album Tour",
-   "date": "2026-09-05",
-   "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/swapmeet-mount-zero-album-tour/196919",
-   "image": "https://static.moshtix.com.au/uploads/3dea4fe5-e09a-4d64-b137-611b771ccb86x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Raise the Roof presents: Tash Wolf, Isy Cappo, Katie Murray + Sarah Derrick",
    "date": "2026-09-05",
    "time": "19:00",
@@ -1607,16 +1657,6 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/raise-the-roof-presents-tash-wolf-isy-cappo-katie-murray-sarah-derrick/197690",
    "image": "https://static.moshtix.com.au/uploads/7a52196d-ddbf-4983-ab26-f96852c740a8x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "DBN Gogo (ZA) - Sydney",
-   "date": "2026-09-05",
-   "time": "19:00",
-   "venue": "Bungalow 8 & The Loft",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/dbn-gogo-za-sydney/198349",
-   "image": "https://static.moshtix.com.au/uploads/df659d22-d0d6-464d-952e-eb330852f163x140x140",
    "source": "Moshtix"
   },
   {
@@ -1666,8 +1706,8 @@ window.EVENT_DATA = {
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-danny-rankin-uk-off-the-map-takeover/197593",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "HOUSE PARTY SATURDAYS - 5TH SEPTEMBER",
@@ -1703,11 +1743,11 @@ window.EVENT_DATA = {
    "name": "ABOVE pres. CLUB HEARTBEAT — September 5",
    "date": "2026-09-05",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-pres-club-heartbeat-september-5/197497",
-   "image": "https://static.moshtix.com.au/uploads/3cc6a2f4-977e-4ee8-8f94-aec05c3898c2x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Last Words | Free Entry DJ's | Sydney Emo Night",
@@ -1983,11 +2023,11 @@ window.EVENT_DATA = {
    "name": "Lost Sundays - September 6 ft. Diffrent, Entasia, zacattacq + Deens",
    "date": "2026-09-06",
    "time": "16:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/lost-sundays-september-6-ft-diffrent-entasia-zacattacq-deens/198925",
-   "image": "https://static.moshtix.com.au/uploads/24cb60c6-ed63-4778-90c1-63f4ea5fd0f3x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Dr V's Swing Thing",
@@ -2023,11 +2063,11 @@ window.EVENT_DATA = {
    "name": "KOLOR WE ARE YOU AUSTRALIA TOUR 2026",
    "date": "2026-09-06",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/kolor-we-are-you-australia-tour-2026/197456",
-   "image": "https://static.moshtix.com.au/uploads/8e28da2d-1f60-462d-b9dd-397c843cda40x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Music in Exile presents Rainbow Chan + Shewita",
@@ -2088,6 +2128,16 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/online-feedback-creative-non-fiction-with-anna-spargo-ryan",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784174323/k7h9gk6i1z6d/4jDBEIYzQjNLOz9I9IRbN3/3b99f291-80ca-11f1-aa33-81edb07cfcf1--Online-Feedback--Creative-Non-Fiction-with-Anna-Spargo-Ryan-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-09-07",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-07-09-2026/event/1300635BF0B39F03",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Saltwater Girls",
@@ -2253,11 +2303,21 @@ window.EVENT_DATA = {
    "name": "Vana Australian Headline Tour",
    "date": "2026-09-08",
    "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/vana-australian-headline-tour/198882",
-   "image": "https://static.moshtix.com.au/uploads/5ecb072e-cb1b-4769-abd5-af7f762afd9cx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/d4f/23e9e14f-e6e1-449b-9333-7ad699233d4f_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Aaron Chen - Technology",
+   "date": "2026-09-08",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/aaron-chen-technology-sydney-08-09-2026/event/130064BBA33C4AF4",
+   "image": "https://s1.ticketm.net/dam/a/d06/4d79986f-052a-4266-ba90-410a1b67fd06_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Joyful Noise – Christ. Choirs. Chaos",
@@ -2510,6 +2570,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Aaron Chen - Technology",
+   "date": "2026-09-09",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/aaron-chen-technology-sydney-09-09-2026/event/130064BBA39C4B2F",
+   "image": "https://s1.ticketm.net/dam/a/d06/4d79986f-052a-4266-ba90-410a1b67fd06_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Sheaf Wednesdays | SEPTEMBER 9th 'w' FILLY PHVO",
    "date": "2026-09-09",
    "time": "21:00",
@@ -2683,11 +2753,11 @@ window.EVENT_DATA = {
    "name": "SHRED FEST SYDNEY Feat. Obscura (GER), Fallujah & Guests (MOVED TO METRO SOCIAL)",
    "date": "2026-09-10",
    "time": "19:00",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/shred-fest-sydney-feat-obscura-ger-fallujah-guests-moved-to-metro-social-/189704",
-   "image": "https://static.moshtix.com.au/uploads/fd79a06c-d6fc-43c8-b5d7-9febd8b8f40dx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/825/e32ac8fa-a3f5-4967-975d-171bf5a3a825_111151_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "INDUSTRY PLANT FIGHT CLUB: Volume 2",
@@ -2710,6 +2780,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Aaron Chen - Technology",
+   "date": "2026-09-10",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/aaron-chen-technology-sydney-10-09-2026/event/130064BB88632892",
+   "image": "https://s1.ticketm.net/dam/a/d06/4d79986f-052a-4266-ba90-410a1b67fd06_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-10",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-10-09-2026/event/1300632AAC233E82",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "MKTO",
    "date": "2026-09-10",
    "time": "19:30",
@@ -2730,14 +2820,34 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "2026 NRLW Telstra Premiership - Sydney Roosters v Bulldogs",
+   "date": "2026-09-10",
+   "time": "19:45",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/2026-nrlw-telstra-premiership-sydney-roosters-sydney-10-09-2026/event/250064BBD94ED39C",
+   "image": "https://s1.ticketm.net/dam/a/d5d/9a960d51-3668-4d7e-a23b-726a0dc87d5d_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "The Damned 50th Anniversary",
+   "date": "2026-09-10",
+   "time": "21:00",
+   "venue": "Sydney Opera House - Concert Hall",
+   "category": "Classical & Opera",
+   "url": "https://www.ticketmaster.com.au/the-damned-50th-anniversary-sydney-10-09-2026/event/13006490B52B4DBF",
+   "image": "https://s1.ticketm.net/dam/a/ef9/5c894614-9e91-4730-9d94-a026a373aef9_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "ivy Thursdays - 10th September",
    "date": "2026-09-10",
    "time": "21:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-10th-september/199311",
-   "image": "https://static.moshtix.com.au/uploads/40fee98f-4eb1-4daa-977d-0b92e258d067x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "How My Light is Spent",
@@ -2860,6 +2970,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Aaron Chen - Technology",
+   "date": "2026-09-11",
+   "time": "17:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/aaron-chen-technology-sydney-11-09-2026/event/130064CC9DD935DD",
+   "image": "https://s1.ticketm.net/dam/a/d06/4d79986f-052a-4266-ba90-410a1b67fd06_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "BINGO LOCO - FRIDAY 11TH SEPTEMBER 2026",
    "date": "2026-09-11",
    "time": "18:00",
@@ -2888,6 +3008,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/del-korte-crew-ep-launch-free/199281",
    "image": "https://static.moshtix.com.au/uploads/9dd50183-c14f-4a61-af3a-5dc9251ffa0fx140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Jonny Chopps Catalyst Tour",
+   "date": "2026-09-11",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/jonny-chopps-catalyst-tour/197995",
+   "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Jack Gray - Swimming In Jeans Tour",
@@ -2920,16 +3050,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Jonny Chopps Catalyst Tour",
-   "date": "2026-09-11",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/jonny-chopps-catalyst-tour/197995",
-   "image": "https://static.moshtix.com.au/uploads/ea1522c5-eeed-48cd-acca-2b9ffef446a5x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "The Enthusiast + Thom Bastick *FREE ENTRY VIA RSVP*",
    "date": "2026-09-11",
    "time": "19:00",
@@ -2950,6 +3070,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-11",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-11-09-2026/event/1300632AF494486E",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "WHERE'S JAI | Sydney",
+   "date": "2026-09-11",
+   "time": "19:30",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/where-s-jai-sydney/197724",
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Dragon Celebrates All The Hits",
    "date": "2026-09-11",
    "time": "19:30",
@@ -2957,16 +3097,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/dragon-celebrates-all-the-hits/196292",
    "image": "https://static.moshtix.com.au/uploads/48cf692a-5b6c-4513-a809-0dfc9166d860x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "WHERE'S JAI | Sydney",
-   "date": "2026-09-11",
-   "time": "19:30",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/where-s-jai-sydney/197724",
-   "image": "https://static.moshtix.com.au/uploads/6af5444e-4b23-4dc7-aadf-6d5be14a2283x140x140",
    "source": "Moshtix"
   },
   {
@@ -3016,8 +3146,8 @@ window.EVENT_DATA = {
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-frim-mirasia/197595",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Albion Fridays ft. RNB Singalongs",
@@ -3053,21 +3183,21 @@ window.EVENT_DATA = {
    "name": "FRI 11 SEPT - KICKCHEEZE @ WAO SUPERCLUB",
    "date": "2026-09-11",
    "time": "21:30",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-11-sept-kickcheeze-wao-superclub/199793",
-   "image": "https://static.moshtix.com.au/uploads/fc2ebefd-72c9-4a56-a279-fc010c4b80bdx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Gallery pres. O'Flynn (UK) | Sydney",
    "date": "2026-09-11",
    "time": "23:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/gallery-pres-o-flynn-uk-sydney/197480",
-   "image": "https://static.moshtix.com.au/uploads/5c8c0854-0dbe-42d8-a3f1-4e7268b9530fx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Pinchgut Opera presents Coffee and a Dead Canary",
@@ -3343,11 +3473,21 @@ window.EVENT_DATA = {
    "name": "IVAN OOZE – ISOLATION OF MISTAKEN INFAMY TOUR",
    "date": "2026-09-12",
    "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Soul, Jazz & Global",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ivan-ooze-isolation-of-mistaken-infamy-tour/195260",
-   "image": "https://static.moshtix.com.au/uploads/e516b324-ed51-4362-9863-7b5e7b353b5cx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "MISS KANINNA | BLACKPRINT TOUR 2026",
+   "date": "2026-09-12",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/miss-kaninna-blackprint-tour-2026/196818",
+   "image": "https://s1.ticketm.net/dam/a/ff1/1722bd50-f907-42b5-ab97-9a36b20feff1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Tropivibes",
@@ -3357,16 +3497,6 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/tropivibes/195379",
    "image": "https://static.moshtix.com.au/uploads/c88ccc01-4abe-4926-9a68-4f49d4f42bdcx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "MISS KANINNA | BLACKPRINT TOUR 2026",
-   "date": "2026-09-12",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/miss-kaninna-blackprint-tour-2026/196818",
-   "image": "https://static.moshtix.com.au/uploads/37f8a086-7e75-4155-b45f-3d99dacd392bx140x140",
    "source": "Moshtix"
   },
   {
@@ -3400,6 +3530,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-12",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-12-09-2026/event/1300632BB0593B56",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Dreams - Fleetwood Mac & Stevie Nicks Tribute Show",
    "date": "2026-09-12",
    "time": "19:30",
@@ -3426,8 +3566,18 @@ window.EVENT_DATA = {
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-people-s-party-full-venue-takeover-/197596",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Harry Hayes",
+   "date": "2026-09-12",
+   "time": "21:00",
+   "venue": "Civic Underground",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/harry-hayes/198482",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "We’ll Carry On: MCR Appreciation Night - Sydney",
@@ -3450,16 +3600,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Harry Hayes",
-   "date": "2026-09-12",
-   "time": "21:00",
-   "venue": "Civic Underground",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/harry-hayes/198482",
-   "image": "https://static.moshtix.com.au/uploads/2e438a72-a239-46a9-a06a-1cc77ae41165x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "VIBE Saturdays - The Biggest Party in the West",
    "date": "2026-09-12",
    "time": "21:00",
@@ -3473,11 +3613,11 @@ window.EVENT_DATA = {
    "name": "ABOVE pres. CLUB HEARTBEAT — September 12",
    "date": "2026-09-12",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-pres-club-heartbeat-september-12/197498",
-   "image": "https://static.moshtix.com.au/uploads/3cc6a2f4-977e-4ee8-8f94-aec05c3898c2x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Last Words | Free Entry DJ's | Sydney Emo Night",
@@ -3500,24 +3640,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Habstrakt (FRA)",
-   "date": "2026-09-12",
-   "time": "23:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/habstrakt-fra-/198049",
-   "image": "https://static.moshtix.com.au/uploads/b8aba9e9-ca70-4b13-9224-8ba15eb4b7c3x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "POLA & BRYSON (UK)",
    "date": "2026-09-12",
    "time": "23:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/pola-bryson-uk-/198281",
-   "image": "https://static.moshtix.com.au/uploads/254ada2c-6e6b-4acd-a5d5-bc6d7af7c434x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Habstrakt (FRA)",
+   "date": "2026-09-12",
+   "time": "23:00",
+   "venue": "Lansdowne Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/habstrakt-fra-/198049",
+   "image": "https://s1.ticketm.net/dam/a/e80/3fd70545-1aa9-4acf-a3b3-74f1c1974e80_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "HOUSE PARTY SATURDAYS - 12TH SEPTEMBER",
@@ -3673,11 +3813,21 @@ window.EVENT_DATA = {
    "name": "AXEKICK X AAA | SPLINTER, NEMBUTOLIK, DOUBLE BARREL SOLUTION + MORE",
    "date": "2026-09-13",
    "time": "12:00",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/axekick-x-aaa-splinter-nembutolik-double-barrel-solution-more/199135",
-   "image": "https://static.moshtix.com.au/uploads/d7d5bfd4-d410-4d72-a6da-0ef350a16580x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-13",
+   "time": "15:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-13-09-2026/event/1300632BB0593B5B",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Lvl 1 - The Jazz Junkies",
@@ -3713,11 +3863,11 @@ window.EVENT_DATA = {
    "name": "MISS KANINNA | BLACKPRINT TOUR 2026 (EXTRA SHOW)",
    "date": "2026-09-13",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/miss-kaninna-blackprint-tour-2026-extra-show-/197522",
-   "image": "https://static.moshtix.com.au/uploads/d1967ac5-5b38-4186-b69d-2f6463fb023dx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/ff1/1722bd50-f907-42b5-ab97-9a36b20feff1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Cut X Paste - Glebe",
@@ -3788,6 +3938,16 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/online-character-plot-and-dialogue-with-rwr-mcdonald",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784175034/k7h9gk6i1z6d/7ELbgefHXmGGrWHZxSpsEg/fe95e9b0-80cb-11f1-b903-d3001e076f62--Online--Character--Plot-and-Dialogue-with-RWR-McDonald-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-09-14",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-14-09-2026/event/1300635BF0B49F0F",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Alan Bennett’s Talking Heads",
@@ -3930,6 +4090,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-09-15",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-15-09-2026/event/1300635BF0B49F11",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Tuesday Night Jazz Orchestra 15 Sept",
    "date": "2026-09-15",
    "time": "18:00",
@@ -3938,6 +4108,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/the-tuesday-night-jazz-orchestra-15-sept/197058",
    "image": "https://static.moshtix.com.au/uploads/564ab28f-2572-4914-9b75-7f6fccdf2c01x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-15",
+   "time": "19:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-15-09-2026/event/1300632BB90F3C99",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Algorithm of Us",
@@ -4070,6 +4250,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-09-16",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-16-09-2026/event/1300635BF0B49F13",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-16",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-16-09-2026/event/1300632BB9103CA9",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Lvl 1 - Coast",
    "date": "2026-09-16",
    "time": "19:00",
@@ -4200,6 +4400,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-09-17",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-17-09-2026/event/1300635BF0B49F16",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Grave Album Launch - Avery Pickup + Charlie Donnellan + Marina Anthea.",
    "date": "2026-09-17",
    "time": "19:00",
@@ -4270,6 +4480,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-17",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-17-09-2026/event/1300632BB9103CCB",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Brother Ali (USA) w/ Horrorshow",
    "date": "2026-09-17",
    "time": "19:30",
@@ -4293,11 +4513,11 @@ window.EVENT_DATA = {
    "name": "ivy Thursdays - 17th September",
    "date": "2026-09-17",
    "time": "21:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-17th-september/199362",
-   "image": "https://static.moshtix.com.au/uploads/40fee98f-4eb1-4daa-977d-0b92e258d067x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "‘The Elevator’ by Eloise Snape",
@@ -4530,6 +4750,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-18",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-18-09-2026/event/1300632BB9103CD6",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Speaking Of Which: Pressure Single Launch",
    "date": "2026-09-18",
    "time": "19:30",
@@ -4580,6 +4810,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Chinese Laundry Invites FRICTION [FULL VENUE TAKEOVER] & KID KENOBI [30 YEARS]",
+   "date": "2026-09-18",
+   "time": "21:00",
+   "venue": "Chinese Laundry",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-friction-full-venue-takeover-kid-kenobi-30-years-/197597",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Franck (All Night Long)",
    "date": "2026-09-18",
    "time": "21:00",
@@ -4587,16 +4827,6 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/franck-all-night-long-/197121",
    "image": "https://static.moshtix.com.au/uploads/6be54fec-831b-4954-b3eb-09258b277d77x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Chinese Laundry Invites FRICTION [FULL VENUE TAKEOVER] & KID KENOBI [30 YEARS]",
-   "date": "2026-09-18",
-   "time": "21:00",
-   "venue": "Chinese Laundry",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-friction-full-venue-takeover-kid-kenobi-30-years-/197597",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
    "source": "Moshtix"
   },
   {
@@ -4613,11 +4843,11 @@ window.EVENT_DATA = {
    "name": "FRI 18 SEPT - WAO SUPERCLUB @ IVY",
    "date": "2026-09-18",
    "time": "21:30",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-18-sept-wao-superclub-ivy/199794",
-   "image": "https://static.moshtix.com.au/uploads/3ab155e3-a72a-48fb-8f4a-d5d7269baefax140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Birdsnake - Live",
@@ -4820,6 +5050,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-19",
+   "time": "14:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-19-09-2026/event/1300632BB9103D10",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "ivy Hoedown Throwdown | September 19 2026",
    "date": "2026-09-19",
    "time": "14:00",
@@ -4940,6 +5180,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Em Rusciano - Addicted To Love",
+   "date": "2026-09-19",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/em-rusciano-addicted-to-love-sydney-19-09-2026/event/1300649791C62ED3",
+   "image": "https://s1.ticketm.net/dam/a/f96/d2de6691-43b5-478e-9eaf-9a6bc80b1f96_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "BROKE AF EMO NIGHT SYDNEY",
    "date": "2026-09-19",
    "time": "20:00",
@@ -4956,8 +5206,8 @@ window.EVENT_DATA = {
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-spekki-webu-nl-mehmet-alpdogan-friends/197598",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "VIBE Saturdays - The Biggest Party in the West",
@@ -4973,11 +5223,11 @@ window.EVENT_DATA = {
    "name": "ABOVE pres. CLUB HEARTBEAT — September 19 ft. JXL",
    "date": "2026-09-19",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-pres-club-heartbeat-september-19-ft-jxl/197499",
-   "image": "https://static.moshtix.com.au/uploads/6e03fd95-4923-4a55-8f56-e50c3b6958fax140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Last Words | Free Entry DJ's | Sydney Emo Night",
@@ -5138,6 +5388,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/multiply-the-good-through-every-season-sydney-/199344",
    "image": "https://static.moshtix.com.au/uploads/88acd19b-18f2-4abe-b6f2-a7f1318a499bx140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-20",
+   "time": "15:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-20-09-2026/event/1300632BB9103D25",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Lvl 1 - Standing Circle",
@@ -5310,6 +5570,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Dracula",
+   "date": "2026-09-22",
+   "time": "19:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/dracula-sydney-22-09-2026/event/13006482A96464F1",
+   "image": "https://s1.ticketm.net/dam/a/6d1/a36e0179-d217-4fbb-9cf1-4ac0b50456d1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-22",
+   "time": "19:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-22-09-2026/event/1300632BB9103D66",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "BAKER BOYS - FREE ENTRY",
    "date": "2026-09-22",
    "time": "19:00",
@@ -5400,6 +5680,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-23",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-23-09-2026/event/1300632BB9113D73",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "BEN LEE & GEORGIA MAQ - The “Two Most Annoying People You Love” Tour",
    "date": "2026-09-23",
    "time": "18:30",
@@ -5408,6 +5698,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/ben-lee-georgia-maq-the-two-most-annoying-people-you-love-tour/197915",
    "image": "https://static.moshtix.com.au/uploads/cd24f65c-3034-44ac-b622-2d0cff20b87ex140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Dracula",
+   "date": "2026-09-23",
+   "time": "19:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/dracula-sydney-23-09-2026/event/13006482AD456997",
+   "image": "https://s1.ticketm.net/dam/a/6d1/a36e0179-d217-4fbb-9cf1-4ac0b50456d1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Lvl 1 - Lucy Wise ‘Salt’ Album Tour  + Elana Stone",
@@ -5463,11 +5763,11 @@ window.EVENT_DATA = {
    "name": "Clementine Douglas",
    "date": "2026-09-23",
    "time": "19:30",
-   "venue": "Oxford Art Factory, Whole Venue",
-   "category": "Nightlife & Electronic",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/clementine-douglas/198936",
-   "image": "https://static.moshtix.com.au/uploads/830c812c-1522-4c03-9a5b-9a4b003565e1x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "FULL MOON UV PARTY | SEPTEMBER 23rd 'w' DILLIN ALLAN",
@@ -5580,6 +5880,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Dracula",
+   "date": "2026-09-24",
+   "time": "19:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/dracula-sydney-24-09-2026/event/13006434E9E18F69",
+   "image": "https://s1.ticketm.net/dam/a/6d1/a36e0179-d217-4fbb-9cf1-4ac0b50456d1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "PASH",
+   "date": "2026-09-24",
+   "time": "19:00",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/pash/195747",
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Breaking Sound ft. Hannah Quinn, Verräter, apocalypseboyo & There Goes Me",
    "date": "2026-09-24",
    "time": "19:00",
@@ -5597,16 +5917,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/black-dime-cabaret-a-tour-through-the-cabaret/195629",
    "image": "https://static.moshtix.com.au/uploads/b4142be9-2d57-4f87-9c9a-3d227e65b437x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "PASH",
-   "date": "2026-09-24",
-   "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/pash/195747",
-   "image": "https://static.moshtix.com.au/uploads/6248e00e-b9b9-4409-912f-00f72fea922cx140x140",
    "source": "Moshtix"
   },
   {
@@ -5630,14 +5940,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-24",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-24-09-2026/event/1300632BB9113DA2",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "ivy Thursdays - 24th September",
    "date": "2026-09-24",
    "time": "21:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-24th-september/199361",
-   "image": "https://static.moshtix.com.au/uploads/40fee98f-4eb1-4daa-977d-0b92e258d067x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Cirque Alice",
@@ -5830,6 +6150,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Dracula",
+   "date": "2026-09-25",
+   "time": "19:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/dracula-sydney-25-09-2026/event/13006434E0B28580",
+   "image": "https://s1.ticketm.net/dam/a/6d1/a36e0179-d217-4fbb-9cf1-4ac0b50456d1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "9lives with Kaizo, Jequya, Vanni",
+   "date": "2026-09-25",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/9lives-with-kaizo-jequya-vanni/199594",
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Greg Nunan & The General Jacksons + Marshall & The Fro",
    "date": "2026-09-25",
    "time": "19:00",
@@ -5880,14 +6220,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "9lives with Kaizo, Jequya, Vanni",
+   "name": "My Fair Lady (Australia)",
    "date": "2026-09-25",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/9lives-with-kaizo-jequya-vanni/199594",
-   "image": "https://static.moshtix.com.au/uploads/7aede9ab-4aca-4e3a-8f6e-8f2af83cd9b6x140x140",
-   "source": "Moshtix"
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-25-09-2026/event/1300632BB9113DC2",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Jem Cassar-Daley ‘tattoos used to come off in the pool’ Album Tour",
+   "date": "2026-09-25",
+   "time": "19:30",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/jem-cassar-daley-tattoos-used-to-come-off-in-the-pool-album-tour/197633",
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "AMORPHIS",
@@ -5897,16 +6247,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/amorphis/189766",
    "image": "https://static.moshtix.com.au/uploads/556e8b19-2ca2-4a7d-b73e-4bd8a4954322x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Jem Cassar-Daley ‘tattoos used to come off in the pool’ Album Tour",
-   "date": "2026-09-25",
-   "time": "19:30",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/jem-cassar-daley-tattoos-used-to-come-off-in-the-pool-album-tour/197633",
-   "image": "https://static.moshtix.com.au/uploads/851ce949-ff99-455f-a722-52d91bbd2733x140x140",
    "source": "Moshtix"
   },
   {
@@ -5933,11 +6273,11 @@ window.EVENT_DATA = {
    "name": "AARADHNA",
    "date": "2026-09-25",
    "time": "20:00",
-   "venue": "Metro Social",
-   "category": "Soul, Jazz & Global",
+   "venue": "Metro Theatre",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/aaradhna/199345",
-   "image": "https://static.moshtix.com.au/uploads/082a44a9-ad3e-42de-8c24-63bdc019fc53x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/142/0445ca01-1867-4154-9749-a6fd1abcc142_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Turkish Rock Night Vol. III — Duman Edition",
@@ -5976,8 +6316,8 @@ window.EVENT_DATA = {
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-ft-ammara-uk-partigirl/197599",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "A NIGHT OF DUBSTEP ft. AVELLO (USA)",
@@ -6013,21 +6353,21 @@ window.EVENT_DATA = {
    "name": "FRI 25 SEPT - WAO SUPERCLUB @ IVY",
    "date": "2026-09-25",
    "time": "21:30",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-25-sept-wao-superclub-ivy/199795",
-   "image": "https://static.moshtix.com.au/uploads/d14b9ec1-65ad-4d6d-9135-c77a11e51cddx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "James Massiah (UK)",
    "date": "2026-09-25",
    "time": "23:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/james-massiah-uk-/198888",
-   "image": "https://static.moshtix.com.au/uploads/11560b38-d30e-4ec6-9016-ff752ec761a6x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "The Dragon Child and the twelve animals of the Zodiac",
@@ -6320,6 +6660,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-26",
+   "time": "14:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-26-09-2026/event/1300632BB9113E05",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "240KM/H F2F Sydney: Serafina All Day Long",
+   "date": "2026-09-26",
+   "time": "14:00",
+   "venue": "ivy Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/240km-h-f2f-sydney-serafina-all-day-long/197792",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Follow me presents In The Garden feat Danny Rampling",
    "date": "2026-09-26",
    "time": "14:00",
@@ -6330,14 +6690,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "240KM/H F2F Sydney: Serafina All Day Long",
+   "name": "Dracula",
    "date": "2026-09-26",
-   "time": "14:00",
-   "venue": "ivy",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/240km-h-f2f-sydney-serafina-all-day-long/197792",
-   "image": "https://static.moshtix.com.au/uploads/71a098f7-1119-479e-9e3e-441088230fd4x140x140",
-   "source": "Moshtix"
+   "time": "14:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/dracula-sydney-26-09-2026/event/13006434E9E98F6C",
+   "image": "https://s1.ticketm.net/dam/a/6d1/a36e0179-d217-4fbb-9cf1-4ac0b50456d1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Green Velvet live at The Point",
@@ -6456,8 +6816,8 @@ window.EVENT_DATA = {
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-headhunters-guy-contact-solar-suite-amotik-de-/197600",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "'Vibe Saturdays'- DJ NOIZ Feat BINA BUTTA Live",
@@ -6473,11 +6833,11 @@ window.EVENT_DATA = {
    "name": "ABOVE pres. CLUB HEARTBEAT — September 26",
    "date": "2026-09-26",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-pres-club-heartbeat-september-26/197500",
-   "image": "https://static.moshtix.com.au/uploads/3cc6a2f4-977e-4ee8-8f94-aec05c3898c2x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "★ S.A.S.H Sydney ★ Membership Launch Party ★ Saturday 26th September ★",
@@ -6638,6 +6998,26 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/return-of-the-queens",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782178992/k7h9gk6i1z6d/6xlbQlIpYntD8lIkHRAQkE/97fe0381-6ea2-11f1-9963-e13eb8e201d0--Return-of-the-Queens-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Dracula",
+   "date": "2026-09-27",
+   "time": "13:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/dracula-sydney-27-09-2026/event/13006434E9F98F7F",
+   "image": "https://s1.ticketm.net/dam/a/6d1/a36e0179-d217-4fbb-9cf1-4ac0b50456d1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-27",
+   "time": "15:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-27-09-2026/event/1300632BB9113E2B",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Sound of Anime 5 - Girl Band Anime Only",
@@ -6810,6 +7190,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Bill Bailey: Vaudevillean",
+   "date": "2026-09-28",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/bill-bailey-vaudevillean-sydney-28-09-2026/event/1300647FACCF427E",
+   "image": "https://s1.ticketm.net/dam/a/412/53e3de43-593e-4e6d-97ca-ac3b989cc412_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Ordo Ab Chao with Charlotte Thodey",
    "date": "2026-09-29",
    "time": "",
@@ -6900,6 +7290,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-29",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-29-09-2026/event/1300632BBC103E8E",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Rugby League The Musical",
    "date": "2026-09-29",
    "time": "19:00",
@@ -6908,6 +7308,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/rugby-league-the-musical/196968",
    "image": "https://static.moshtix.com.au/uploads/5ecdfa3d-ed6d-4c1e-bc32-af1543f1f314x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Bill Bailey: Vaudevillean",
+   "date": "2026-09-29",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/bill-bailey-vaudevillean-sydney-29-09-2026/event/1300647FB6364ECF",
+   "image": "https://s1.ticketm.net/dam/a/412/53e3de43-593e-4e6d-97ca-ac3b989cc412_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Still Life Drawing at Borderspace",
@@ -6960,6 +7370,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-09-30",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-30-09-2026/event/1300632BBC103E92",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "TYLER BRADEN - Wild At Heart Tour with Special Guest Clayton Mullen",
    "date": "2026-09-30",
    "time": "19:00",
@@ -6998,6 +7418,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-spyral-the-weatherbirds/199096",
    "image": "https://static.moshtix.com.au/uploads/f39e35ae-f83e-42f8-8510-0a39c3a72754x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Bill Bailey: Vaudevillean",
+   "date": "2026-09-30",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/bill-bailey-vaudevillean-sydney-30-09-2026/event/1300647FB6364ED4",
+   "image": "https://s1.ticketm.net/dam/a/412/53e3de43-593e-4e6d-97ca-ac3b989cc412_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Sheaf Wednesdays | SEPTEMBER 30th 'w' SEBA",
@@ -7080,6 +7510,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-01",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-01-10-2026/event/1300635BF0B59F2A",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Princess Chelsea",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/princess-chelsea/196952",
+   "image": "https://s1.ticketm.net/dam/a/ede/3aa7c272-72a7-440b-bfb0-3520e792cede_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Starman - The David Bowie Tribute Show",
    "date": "2026-10-01",
    "time": "19:00",
@@ -7097,16 +7547,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-the-hellboppers/195357",
    "image": "https://static.moshtix.com.au/uploads/f0be595b-a12c-402a-a79e-cccfb6f3b88bx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Princess Chelsea",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/princess-chelsea/196952",
-   "image": "https://static.moshtix.com.au/uploads/ce64bfbd-75bf-442e-8d1a-50fd8703a8e6x140x140",
    "source": "Moshtix"
   },
   {
@@ -7140,6 +7580,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-01",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-01-10-2026/event/1300632BBC103F4C",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Papa M and Mick Turner ",
+   "date": "2026-10-01",
+   "time": "19:30",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/papa-m-and-mick-turner/197842",
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "CANDLEMASS (SWE) – AUSTRALIAN DEBUT TOUR  2026 With Special Guests MAMMONS THRONE",
    "date": "2026-10-01",
    "time": "19:30",
@@ -7147,16 +7607,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/candlemass-swe-australian-debut-tour-2026-with-special-guests-mammons-throne/191941",
    "image": "https://static.moshtix.com.au/uploads/b1726531-88d2-466f-aeab-54e92eb9fd7bx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Papa M and Mick Turner",
-   "date": "2026-10-01",
-   "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/papa-m-and-mick-turner/197842",
-   "image": "https://static.moshtix.com.au/uploads/e08f1284-9e2d-47f0-91da-1f4aacbc61f1x140x140",
    "source": "Moshtix"
   },
   {
@@ -7230,6 +7680,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "VLADS",
+   "date": "2026-10-02",
+   "time": "18:30",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/vlads/199130",
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "August Burns Red 'Season Of Surrender' Aus Tour 2026",
    "date": "2026-10-02",
    "time": "18:30",
@@ -7240,14 +7700,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "VLADS",
+   "name": "Spike Fuck",
    "date": "2026-10-02",
-   "time": "18:30",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/vlads/199130",
-   "image": "https://static.moshtix.com.au/uploads/a3ed2e1f-df08-4189-9578-83ce4e708979x140x140",
-   "source": "Moshtix"
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/spike-fuck/198104",
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "First Day Back (USA)",
+   "date": "2026-10-02",
+   "time": "19:00",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/first-day-back-usa-/196989",
+   "image": "https://s1.ticketm.net/dam/a/916/fa330959-20af-4947-b09b-00bac4004916_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Rugby League The Musical",
@@ -7257,26 +7727,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/rugby-league-the-musical/196973",
    "image": "https://static.moshtix.com.au/uploads/f9d451be-62a1-4e52-baee-0280e7c6b614x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "First Day Back (USA)",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/first-day-back-usa-/196989",
-   "image": "https://static.moshtix.com.au/uploads/00e437be-99bf-48b0-9edb-e474a319ad6fx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Spike Fuck",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/spike-fuck/198104",
-   "image": "https://static.moshtix.com.au/uploads/69df1662-d5e3-4338-9039-c58d7585181dx140x140",
    "source": "Moshtix"
   },
   {
@@ -7300,6 +7750,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "CHEEK LIVE: State of the Nation with Hannah Ferguson",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/cheek-live-state-of-the-nation-sydney-02-10-2026/event/130064DE84C51CF2",
+   "image": "https://s1.ticketm.net/dam/a/0d5/a95ac228-efbf-407f-a283-69546993c0d5_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-02-10-2026/event/1300632BBC1141BE",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "CANCELLED - Breakfast Road",
    "date": "2026-10-02",
    "time": "19:30",
@@ -7313,11 +7783,11 @@ window.EVENT_DATA = {
    "name": "FRI 02 OCT - WAO BLACK KO WEEKEND @ WAO SUPERCLUB",
    "date": "2026-10-02",
    "time": "21:30",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-02-oct-wao-black-ko-weekend-wao-superclub/197457",
-   "image": "https://static.moshtix.com.au/uploads/3ebd3e32-2141-440f-84f3-d4f168f2a635x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Superficial: Pop Party - Sydney",
@@ -7430,6 +7900,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-03",
+   "time": "14:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-03-10-2026/event/1300632BBC1145CE",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Rugby League The Musical",
    "date": "2026-10-03",
    "time": "14:30",
@@ -7503,11 +7983,11 @@ window.EVENT_DATA = {
    "name": "FOOL NELSON - Keepsake Aus Tour",
    "date": "2026-10-03",
    "time": "18:30",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/fool-nelson-keepsake-aus-tour/197708",
-   "image": "https://static.moshtix.com.au/uploads/823c7a3b-7d9f-41ce-be3b-a2ed9e8e1846x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Gilsons Australia Tour 2026",
@@ -7543,11 +8023,11 @@ window.EVENT_DATA = {
    "name": "Nerve - Growing Pains - AUS Album Tour ‘26",
    "date": "2026-10-03",
    "time": "19:30",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Soul, Jazz & Global",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/nerve-growing-pains-aus-album-tour-26/198260",
-   "image": "https://static.moshtix.com.au/uploads/78b74d18-0707-4b85-a8da-41c16b42f192x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "UNDERGROUND - Violet Harbour EP Launch",
@@ -7640,6 +8120,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-04",
+   "time": "15:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-04-10-2026/event/1300632BBC1145D4",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Cirque Nouvelle",
+   "date": "2026-10-04",
+   "time": "17:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/cirque-nouvelle-sydney-04-10-2026/event/1300646F8C86346A",
+   "image": "https://s1.ticketm.net/dam/a/eac/ea8fbc7d-19a7-4db4-a78c-d9f9a6e42eac_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "4KINGS DO THE '3 KINGS OF THE BLUES TRIBUTE SHOW' on Lvl 1",
    "date": "2026-10-04",
    "time": "17:00",
@@ -7653,11 +8153,11 @@ window.EVENT_DATA = {
    "name": "Lost Sundays Block Party - October 4 [Long Weekend] ft. Papa Nugs, Tjade, Human Movement b2b Mincy, Little Fritter b2b Wongo, Elijah Something, Bryson Hill b2b Carla Martinez, and more!",
    "date": "2026-10-04",
    "time": "19:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/lost-sundays-block-party-october-4-long-weekend-ft-papa-nugs-tjade-human-movement-b2b-mincy-little-fritter-b2b-wongo-elijah-something-bryson-hill-b2b-carla-martinez-and-more-/199500",
-   "image": "https://static.moshtix.com.au/uploads/0bd7ae27-39aa-4b58-8dd8-fefa4fb29e83x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Alex The Astronaut + Guests",
@@ -7713,31 +8213,31 @@ window.EVENT_DATA = {
    "name": "DnB Allstars Sydney: Kanine, Camo & Krooked + More",
    "date": "2026-10-05",
    "time": "14:00",
-   "venue": "ivy - Level 1",
+   "venue": "Ivy Ballroom",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/dnb-allstars-sydney-kanine-camo-krooked-more/196251",
-   "image": "https://static.moshtix.com.au/uploads/b567aff1-881e-495f-822d-0f33751e8642x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "betcover!! new portrait tour Australia 2026",
    "date": "2026-10-05",
    "time": "16:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/betcover-new-portrait-tour-australia-2026/197446",
-   "image": "https://static.moshtix.com.au/uploads/51d8a1b3-4037-4f27-96f9-74fb732f2356x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Mietze Conte",
    "date": "2026-10-05",
    "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Nightlife & Electronic",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/mietze-conte/197750",
-   "image": "https://static.moshtix.com.au/uploads/395ff140-212d-4fab-b676-12564852cd2cx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/d27/17aa3f62-24ca-453c-bad4-fdd6ca698d27_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Kids and Teens Beginners Crochet - 2 Day Course",
@@ -7748,6 +8248,26 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/kids-and-teens-beginners-crochet-workshop-at-sew-make-create",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772760965/k7h9gk6i1z6d/64Y09KNbTkkdE3eJsLZhMU/557f7e41-18fc-11f1-9234-9b11c79b2c63--Kids-and-Teens-Beginners-Crochet-Workshop-at-Sew-Make-Create-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-06",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-06-10-2026/event/1300635BF0B59F30",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-06",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-06-10-2026/event/1300632BBC1145D9",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Lvl 1 - LIVE OUT LOUD",
@@ -7810,6 +8330,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-07",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-07-10-2026/event/1300632BBC1145DC",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Lvl 1 - Boroky Album Launch + The Plum Boots",
    "date": "2026-10-07",
    "time": "19:00",
@@ -7818,6 +8348,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-boroky-album-launch-the-plum-boots/193997",
    "image": "https://static.moshtix.com.au/uploads/43812666-84fc-4a6b-a8e5-73baa73542f3x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Aaron Chen - Technology",
+   "date": "2026-10-07",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/aaron-chen-technology-sydney-07-10-2026/event/130064F7C80D69F9",
+   "image": "https://s1.ticketm.net/dam/a/d06/4d79986f-052a-4266-ba90-410a1b67fd06_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Season Squad The Musical",
@@ -7950,6 +8490,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Aaron Chen - Technology",
+   "date": "2026-10-08",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/aaron-chen-technology-sydney-08-10-2026/event/130064F6AA364E36",
+   "image": "https://s1.ticketm.net/dam/a/d06/4d79986f-052a-4266-ba90-410a1b67fd06_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-08",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-08-10-2026/event/1300632BBC1145E4",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Deep. Funny. Piano. Gay.",
    "date": "2026-10-09",
    "time": "",
@@ -8070,6 +8630,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-09",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-09-10-2026/event/1300635BF0B69F39",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "JAM IN A JAR CHARITY CONCERT 2026",
    "date": "2026-10-09",
    "time": "18:00",
@@ -8093,11 +8663,11 @@ window.EVENT_DATA = {
    "name": "Geordie Kieffer",
    "date": "2026-10-09",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/geordie-kieffer/195025",
-   "image": "https://static.moshtix.com.au/uploads/d3349d38-6b63-4bff-9d81-fa83867f2512x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/b96/ee9ef252-715e-42d4-bd37-056a71234b96_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "From Ashes To New Australian Tour",
@@ -8110,6 +8680,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-09",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-09-10-2026/event/1300632BBC1145F3",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Queenie",
    "date": "2026-10-09",
    "time": "19:30",
@@ -8120,14 +8700,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Epicure - Evenings In Honduras (album launch)",
+   "name": "Epicure - Evenings In Honduras (album launch) ",
    "date": "2026-10-09",
    "time": "20:00",
-   "venue": "The Lansdowne Hotel, Sydney",
+   "venue": "Lansdowne Hotel",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/epicure-evenings-in-honduras-album-launch-/198284",
-   "image": "https://static.moshtix.com.au/uploads/27a846f6-e29c-42c0-b72d-0a367519d7f3x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "INFEKT presents Organic Dubstep // Sydney",
@@ -8136,18 +8716,18 @@ window.EVENT_DATA = {
    "venue": "Civic Underground",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/infekt-presents-organic-dubstep-sydney/197795",
-   "image": "https://static.moshtix.com.au/uploads/1f380313-fe33-4efc-8afc-3f4693911e5ex140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/335/3b3c8c18-9155-4616-9d80-74a233fce335_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "ALAN FITZPATRICK — SYDNEY",
    "date": "2026-10-09",
    "time": "23:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/alan-fitzpatrick-sydney/196057",
-   "image": "https://static.moshtix.com.au/uploads/46eaab0c-d11e-4caa-a087-c3aceed1820bx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Simona Castricum + Perfect Actress",
@@ -8300,6 +8880,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-10",
+   "time": "14:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-10-10-2026/event/1300632BBC1145F7",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Mystique - A Journey Beyond Reality",
+   "date": "2026-10-10",
+   "time": "18:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/mystique-a-journey-beyond-reality-sydney-10-10-2026/event/130064E3A6003492",
+   "image": "https://s1.ticketm.net/dam/a/252/1c4aeb98-d326-4811-b5e5-3b5ebe87c252_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Odd Mob",
    "date": "2026-10-10",
    "time": "19:00",
@@ -8383,11 +8983,11 @@ window.EVENT_DATA = {
    "name": "ZURI ft. Alex Wann (FR) - Saturday October 10",
    "date": "2026-10-10",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/zuri-ft-alex-wann-fr-saturday-october-10/198196",
-   "image": "https://static.moshtix.com.au/uploads/4e212d9e-e5e6-4d3c-b245-5671a25f7ef9x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Dance Through The Decades - Sydney",
@@ -8450,6 +9050,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-11",
+   "time": "15:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-11-10-2026/event/1300632BBC12460D",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Strides",
    "date": "2026-10-11",
    "time": "17:00",
@@ -8458,6 +9068,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/the-strides/198473",
    "image": "https://static.moshtix.com.au/uploads/f2913c1c-e8fd-4759-bc2c-e37928ee1ccax140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "CHRIS CONNOR - VIVA ELVIS",
+   "date": "2026-10-11",
+   "time": "19:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/chris-connor-viva-elvis-sydney-11-10-2026/event/130064A1C7C77240",
+   "image": "https://s1.ticketm.net/dam/a/82e/1bcf8376-58ba-425d-b090-470ea0e5782e_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "HENRY MOODIE | Mood Swings World Tour",
@@ -8488,6 +9108,36 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/paul-lewis-mozart",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1758096899/k7h9gk6i1z6d/36PQTJZfPg4TcNC8HjYtey/39c36d31-939e-11f0-a8c0-a55b0cbfe1e8--Paul-Lewis--Mozart--tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-12",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-12-10-2026/event/1300635BF0B69F3B",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-13",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-13-10-2026/event/1300635BF0B69F3F",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-13",
+   "time": "19:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-13-10-2026/event/1300632BBC12460F",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "CANDELA Feat. Lucerito Leon",
@@ -8528,6 +9178,26 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concerts-lionel-robinson-does-frank-sinatra",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785981771/k7h9gk6i1z6d/2Gbf0nOOjRjpJZ6y0vBaOm/aaee9850-913a-11f1-aff9-85ee9599f740--Lunchtime-concerts---Lionel-Robinson-does-Frank-Sinatra-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-14",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-14-10-2026/event/1300635BF0B69F41",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-14",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-14-10-2026/event/1300632BBC124611",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "PORTUGAL. THE MAN",
@@ -8650,6 +9320,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-15",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-15-10-2026/event/1300632BBC124624",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "NO CIGAR",
    "date": "2026-10-15",
    "time": "19:30",
@@ -8660,6 +9340,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Gipsy Kings by Diego Baliardo",
+   "date": "2026-10-15",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/gipsy-kings-by-diego-baliardo-sydney-15-10-2026/event/130064E3E00D793F",
+   "image": "https://s1.ticketm.net/dam/a/e67/b5261bbc-8ead-4202-965f-64e181a21e67_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "HOT SAUCE ft. CARL COX, ERIC POWELL and MORE - 15 Oct",
    "date": "2026-10-15",
    "time": "20:00",
@@ -8668,6 +9358,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/hot-sauce-ft-carl-cox-eric-powell-and-more-15-oct/197949",
    "image": "https://static.moshtix.com.au/uploads/2118d289-e40a-475f-9fa1-abb52cce8313x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "RLWC26 - Men's: Australia v New Zealand",
+   "date": "2026-10-15",
+   "time": "20:05",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/rlwc26-mens-australia-v-new-zealand-sydney-15-10-2026/event/25006363964B742B",
+   "image": "https://s1.ticketm.net/dam/e/a6c/8721b0aa-4cab-4c74-a091-be6b82b1da6c_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Break the 5th Wall",
@@ -8740,6 +9440,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "DIRECT FROM UK - THE ROD STEWART SHOW",
+   "date": "2026-10-16",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/direct-from-uk-the-rod-stewart-sydney-16-10-2026/event/13006435AD9266FD",
+   "image": "https://s1.ticketm.net/dam/a/2d5/4650277c-7fce-474b-92d5-8c805ccea2d5_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-16",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-16-10-2026/event/1300632BBC124626",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Lazy Eyes - Cheesy Love Songs Tour",
    "date": "2026-10-16",
    "time": "19:30",
@@ -8748,6 +9468,26 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/the-lazy-eyes-cheesy-love-songs-tour/196038",
    "image": "https://static.moshtix.com.au/uploads/9163d32c-533c-467e-b4c7-445d2c9f7caax140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "2026/27 A-League Sydney FC v Western Sydney Wanderers FC",
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/202627-aleague-sydney-fc-v-western-sydney-16-10-2026/event/250064FFCEE19C87",
+   "image": "https://s1.ticketm.net/dam/e/124/1b7f3464-5899-4c79-91be-bd96283d7124_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Suzy Sheer",
+   "date": "2026-10-16",
+   "time": "20:00",
+   "venue": "Oxford Art Factory",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/suzy-sheer/198957",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "HOT SAUCE ft. CARL COX, ERIC POWELL and MORE",
@@ -8770,24 +9510,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Suzy Sheer",
-   "date": "2026-10-16",
-   "time": "20:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/suzy-sheer/198957",
-   "image": "https://static.moshtix.com.au/uploads/55240037-66a2-4a6f-abf4-10e27565a447x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Tour-Maubourg. Australian Tour 2026.",
+   "name": "Tour-Maubourg. Australian Tour 2026. ",
    "date": "2026-10-16",
    "time": "21:00",
    "venue": "Civic Underground",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/tour-maubourg-australian-tour-2026-/199350",
-   "image": "https://static.moshtix.com.au/uploads/425db9d7-0e7b-424c-b251-93603580e595x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Cirque du Soleil – Kooza",
@@ -8893,21 +9623,31 @@ window.EVENT_DATA = {
    "name": "Glare + Septemberistheonlytimeidontthinkofyou",
    "date": "2026-10-17",
    "time": "12:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/glare-septemberistheonlytimeidontthinkofyou/198960",
-   "image": "https://static.moshtix.com.au/uploads/b8c6732d-6f13-4bb9-aa38-547dba96c966x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/f37/73583413-ec07-48e6-8c98-5619b0b89f37_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-17",
+   "time": "14:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-17-10-2026/event/1300632BBC124629",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Anyma presents Æden",
    "date": "2026-10-17",
-   "time": "13:00",
+   "time": "17:00",
    "venue": "The Domain",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/anyma-presents-den/192143",
-   "image": "https://static.moshtix.com.au/uploads/c19def81-0868-4661-83f2-93c588ba0214x140x140",
-   "source": "Moshtix"
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/anyma-presents-den-sydney-17-10-2026/event/1300643CD30D7773",
+   "image": "https://s1.ticketm.net/dam/a/e93/9331128a-5918-4df9-ba70-bd3306e53e93_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "BINGO LOCO - SATURDAY 17TH OCTOBER 2026",
@@ -8963,11 +9703,11 @@ window.EVENT_DATA = {
    "name": "SINN6R + Victory Lap Radio",
    "date": "2026-10-17",
    "time": "20:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sinn6r-victory-lap-radio/198962",
-   "image": "https://static.moshtix.com.au/uploads/c583f8eb-e2d8-4d88-a669-6fa45586e3eax140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "OLD SKOOL ROCKS – THE ULTIMATE REUNION",
@@ -8983,11 +9723,11 @@ window.EVENT_DATA = {
    "name": "Terminal V Sydney",
    "date": "2026-10-17",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/terminal-v-sydney/198131",
-   "image": "https://static.moshtix.com.au/uploads/6e4b0a8f-f4d0-4999-a0cd-943bd4005b3ax140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Booby Trap",
@@ -9030,14 +9770,34 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-18",
+   "time": "15:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-18-10-2026/event/1300632BBC134632",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Morgan Jay: The Goofy Guy Tour",
+   "date": "2026-10-18",
+   "time": "16:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/morgan-jay-the-goofy-guy-tour-sydney-18-10-2026/event/1300638AA2CF757F",
+   "image": "https://s1.ticketm.net/dam/a/b9a/fb659b44-6260-4061-ac6e-98dd48ea4b9a_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Glare With Septemberistheonlytimeidontthinkofyou",
    "date": "2026-10-18",
    "time": "16:00",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/glare-with-septemberistheonlytimeidontthinkofyou/199489",
-   "image": "https://static.moshtix.com.au/uploads/51b8717a-e192-4a97-8d59-968ca7eb4dadx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/f37/73583413-ec07-48e6-8c98-5619b0b89f37_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "THE WITCHING HOUR - Julienne Harvey, Violet Harbour & SAPPHIRE",
@@ -9083,11 +9843,11 @@ window.EVENT_DATA = {
    "name": "Oddly Satisfying: Ky Newman & Atlgrandma",
    "date": "2026-10-18",
    "time": "20:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/oddly-satisfying-ky-newman-atlgrandma/198963",
-   "image": "https://static.moshtix.com.au/uploads/33788c50-de44-4fc1-9863-8726340e1cdex140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Adult Ballet Classes for Beginners",
@@ -9100,6 +9860,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Don McLean American Pie 55th Anniversary Tour",
+   "date": "2026-10-19",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/don-mclean-american-pie-55th-anniversary-sydney-19-10-2026/event/13006459D391CF4E",
+   "image": "https://s1.ticketm.net/dam/a/011/aa46e2fb-6059-4925-9f58-264c1b154011_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "PARADISE LOST",
    "date": "2026-10-19",
    "time": "19:30",
@@ -9110,14 +9880,34 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-20-10-2026/event/1300632BBC134634",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Rebirth Brass Band with DINK",
    "date": "2026-10-20",
    "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/rebirth-brass-band-with-dink/199496",
-   "image": "https://static.moshtix.com.au/uploads/bd14c5ce-03f9-4f74-8a77-77b541cc048cx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/648/aa8c4397-6b7e-4621-a3c5-0a4de9b6d648_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Men At Work",
+   "date": "2026-10-20",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/men-at-work-sydney-20-10-2026/event/130064EEDD546409",
+   "image": "https://s1.ticketm.net/dam/a/18e/3c7fcb69-aaa0-4659-a5c1-fded76b5718e_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Fondant Cake Decorating workshop",
@@ -9150,6 +9940,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-21",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-21-10-2026/event/1300632BBC134641",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Theon Cross + Summer Pearl",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/theon-cross-summer-pearl/199100",
+   "image": "https://s1.ticketm.net/dam/a/23a/e13876e1-3d93-4a55-a025-0c09dd4ca23a_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Butterfly Effect - Portal To Hell",
    "date": "2026-10-21",
    "time": "19:00",
@@ -9157,16 +9967,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/the-butterfly-effect-portal-to-hell/198587",
    "image": "https://static.moshtix.com.au/uploads/862b6233-e820-49e1-a498-409ad82b00fex140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Theon Cross + Summer Pearl",
-   "date": "2026-10-21",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/theon-cross-summer-pearl/199100",
-   "image": "https://static.moshtix.com.au/uploads/203ffd2c-033c-4926-becb-e32ac19e2879x140x140",
    "source": "Moshtix"
   },
   {
@@ -9220,16 +10020,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Dee Dee Bridgewater Duo With Helen Sung",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "State Theatre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/dee-dee-bridgewater-sydney",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779077691/k7h9gk6i1z6d/4ek4qoq94rTq7ARoi01Pz0/b044ea71-526f-11f1-9248-ade9555d6da8--Dee-Dee-Bridgewater-Duo-With-Helen-Sung-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "The Bad Plus Farewell Tour",
    "date": "2026-10-22",
    "time": "",
@@ -9260,14 +10050,34 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-22",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-22-10-2026/event/1300632BBC134648",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Mountain Boy - The Nights Tour",
    "date": "2026-10-22",
    "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/mountain-boy-the-nights-tour/195832",
-   "image": "https://static.moshtix.com.au/uploads/b2d48ffa-7b69-4c0b-9103-13b9ec366fd4x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Dee Dee Bridgewater Duo with Helen Sung",
+   "date": "2026-10-22",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/dee-dee-bridgewater-duo-with-helen-sydney-22-10-2026/event/13006497BF4F6868",
+   "image": "https://s1.ticketm.net/dam/a/9d8/900f492e-dbfe-4cb3-8630-697a3f5be9d8_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "The Good Soldier Švejk",
@@ -9310,6 +10120,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Le Shiv - Yada Yada national album tour – SYDNEY",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/le-shiv-yada-yada-national-album-tour-sydney/198393",
+   "image": "https://s1.ticketm.net/dam/a/bad/cc2c5920-7053-406d-a07d-38a6e9e62bad_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "La Dispute",
    "date": "2026-10-23",
    "time": "19:00",
@@ -9330,16 +10150,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Le Shiv - Yada Yada national album tour – SYDNEY",
-   "date": "2026-10-23",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Whole Venue",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/le-shiv-yada-yada-national-album-tour-sydney/198393",
-   "image": "https://static.moshtix.com.au/uploads/94293c9a-6ccc-4061-ac11-d99577a648bax140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "HEAVENSGATE Australian Tour 2026 with special guests Mélancolia & Irken Armada",
    "date": "2026-10-23",
    "time": "19:00",
@@ -9348,6 +10158,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/heavensgate-australian-tour-2026-with-special-guests-m-lancolia-irken-armada/199676",
    "image": "https://static.moshtix.com.au/uploads/dab9d223-abe5-47f7-acd0-0b4c80b9fa4ax140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-23",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-23-10-2026/event/1300632BBC13464A",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "The Angels - Am I Ever Gonna See Your Face Again... 50 Years On",
@@ -9370,6 +10190,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Kitty Flanagan: Glad Game",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-23-10-2026/event/1300646CCFC76D97",
+   "image": "https://s1.ticketm.net/dam/a/f72/e7f9871d-5840-4ad6-8dc7-4d2371c80f72_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Sir Richard Bishop (USA) w/ SHRAPNEL + MARYAM RAHMANI",
    "date": "2026-10-23",
    "time": "20:00",
@@ -9383,11 +10213,11 @@ window.EVENT_DATA = {
    "name": "Soul Wun",
    "date": "2026-10-23",
    "time": "23:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/soul-wun/197869",
-   "image": "https://static.moshtix.com.au/uploads/cd864a82-b395-4366-b9d8-c2b6a7631550x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Experience the magic of the Chalice Well Gardens",
@@ -9430,6 +10260,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-24",
+   "time": "14:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-24-10-2026/event/1300632BBC13464C",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Boy Soda 'SOULSTAR' World Tour",
+   "date": "2026-10-24",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/boy-soda-soulstar-world-tour/196853",
+   "image": "https://s1.ticketm.net/dam/a/f69/cfd9f350-9bd4-4f10-a4c7-7b801e3fef69_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Motown & Beyond",
    "date": "2026-10-24",
    "time": "19:00",
@@ -9437,16 +10287,6 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/motown-beyond/193991",
    "image": "https://static.moshtix.com.au/uploads/3ccdfbd2-53e6-415b-a6dd-a86983c9920ex140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Boy Soda 'SOULSTAR' World Tour",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/boy-soda-soulstar-world-tour/196853",
-   "image": "https://static.moshtix.com.au/uploads/e0b4dfea-069f-477c-99ff-64b976aea859x140x140",
    "source": "Moshtix"
   },
   {
@@ -9480,6 +10320,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Civic Video - ‘Making Room For Others Tour’",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/civic-video-making-room-for-others-tour-/199474",
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Angels - Am I Ever Gonna See Your Face Again... 50 Years On",
    "date": "2026-10-24",
    "time": "19:30",
@@ -9490,14 +10340,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Civic Video - ‘Making Room For Others Tour’",
+   "name": "Kitty Flanagan: Glad Game",
    "date": "2026-10-24",
-   "time": "19:30",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/civic-video-making-room-for-others-tour-/199474",
-   "image": "https://static.moshtix.com.au/uploads/863a72bb-ea26-4733-b70b-0f637b17676dx140x140",
-   "source": "Moshtix"
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-24-10-2026/event/1300646D9ECC5016",
+   "image": "https://s1.ticketm.net/dam/a/f72/e7f9871d-5840-4ad6-8dc7-4d2371c80f72_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "We Set Signals (Interstice Tour) & Stone Lions with Guests - 51st Avenue",
@@ -9530,6 +10380,36 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Psychic Medium John Edward",
+   "date": "2026-10-25",
+   "time": "13:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/psychic-medium-john-edward-sydney-25-10-2026/event/13006497B4535DB7",
+   "image": "https://s1.ticketm.net/dam/a/83c/13fa676c-a414-4e4c-8754-9df8de2fb83c_702581_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "2026/27 A-League Sydney FC v Adelaide United FC",
+   "date": "2026-10-25",
+   "time": "15:00",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/202627-aleague-sydney-fc-v-adelaide-sydney-25-10-2026/event/250064FDDD74947C",
+   "image": "https://s1.ticketm.net/dam/e/72a/6f7e351a-28a9-4232-b452-893b3237572a_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-25",
+   "time": "15:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-25-10-2026/event/1300632BBC144651",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Quentin Angus & MSFS – Time Cycles Album Release Tour",
    "date": "2026-10-25",
    "time": "17:00",
@@ -9543,11 +10423,11 @@ window.EVENT_DATA = {
    "name": "aja monet (USA) + Monstress",
    "date": "2026-10-25",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
+   "venue": "Oxford Art Factory",
+   "category": "Stage & Screen",
    "url": "https://www.moshtix.com.au/v2/event/aja-monet-usa-monstress/194749",
-   "image": "https://static.moshtix.com.au/uploads/1fc41d31-60b5-4825-aba2-771c3599e7e3x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/2db/d6726400-e873-433e-abbf-4d43eb78d2db_105941_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "So, What's Up With Gen Z?",
@@ -9568,6 +10448,16 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/belle-chen-underwards",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784871976/k7h9gk6i1z6d/DQxUlej5o5vGm1LXSAZZ8/c1d781c1-8722-11f1-8972-4fe998986814--Belle-Chen---Underwards-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-26",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-26-10-2026/event/1300635BF0B79F52",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Fuccbois: Live In Concert",
@@ -9610,6 +10500,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-27",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-27-10-2026/event/1300635BF0B79F54",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Tuesday Night Jazz Orchestra 27 Oct",
    "date": "2026-10-27",
    "time": "18:00",
@@ -9618,6 +10518,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/the-tuesday-night-jazz-orchestra-27-oct/197219",
    "image": "https://static.moshtix.com.au/uploads/564ab28f-2572-4914-9b75-7f6fccdf2c01x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-27",
+   "time": "19:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-27-10-2026/event/1300632BBFCD4686",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Love Food Fair 2026",
@@ -9658,6 +10568,26 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/internationally-acclaimed-pianist-sarah-grunstein",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787801888/k7h9gk6i1z6d/3XSSAHsLfLRo3vlGbvpTKS/97ecfa10-a1c7-11f1-aacc-ed2f4482488b--Internationally-acclaimed-pianist-Sarah-Grunstein-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-28",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-28-10-2026/event/1300635BF0B79F58",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-28",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-28-10-2026/event/1300632BBFCD4688",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Friday Night Special",
@@ -9728,6 +10658,26 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/misaki-umei-x-cracked-suzies-dorka-foster",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784870824/k7h9gk6i1z6d/6PSAQpI0CQnkaQEifpH2Fk/1f73e161-871f-11f1-8c5f-4fbb39dedb4c--Misaki-Umei-x-Cracked-Suzies---Dorka-Foster-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-10-29",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-29-10-2026/event/1300635BF0B79F5A",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-29",
+   "time": "13:00",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-29-10-2026/event/1300632BBFCD468C",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "🎃 Halloween Special | SLEEPNORDAE Live",
@@ -9830,6 +10780,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "My Fair Lady (Australia)",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-30-10-2026/event/1300632BBFCD4690",
+   "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Kitty Flanagan: Glad Game",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-30-10-2026/event/1300646D9F0C5078",
+   "image": "https://s1.ticketm.net/dam/a/f72/e7f9871d-5840-4ad6-8dc7-4d2371c80f72_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "SKUNKHOUR - “Back to Basics”",
    "date": "2026-10-30",
    "time": "20:00",
@@ -9853,21 +10823,21 @@ window.EVENT_DATA = {
    "name": "FRI 30 OCT - HALLOWEEN @ WAO SUPERCLUB",
    "date": "2026-10-30",
    "time": "21:30",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-30-oct-halloween-wao-superclub/196707",
-   "image": "https://static.moshtix.com.au/uploads/e46f31d3-8633-4786-9389-55c2e7a6d7fex140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Dam Swindle (Heist Recordings, NL) - Sydney Show",
    "date": "2026-10-30",
    "time": "23:00",
-   "venue": "Oxford Art Factory, Whole Venue",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/dam-swindle-heist-recordings-nl-sydney-show/199192",
-   "image": "https://static.moshtix.com.au/uploads/af118ade-e20c-4270-80d7-2bce61bed4b7x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Victor Valdes: Viva Mexico | Day of the Dead Spectacular",
@@ -9970,6 +10940,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Kitty Flanagan: Glad Game",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-31-10-2026/event/1300646D9F4B50B6",
+   "image": "https://s1.ticketm.net/dam/a/f72/e7f9871d-5840-4ad6-8dc7-4d2371c80f72_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "For the Love of Purple - Tribute to Deep Purple",
    "date": "2026-10-31",
    "time": "20:00",
@@ -10033,11 +11013,11 @@ window.EVENT_DATA = {
    "name": "When Chai Met Toast - Joy Rooms Tour - Australia 2026",
    "date": "2026-11-01",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/when-chai-met-toast-joy-rooms-tour-australia-2026/196143",
-   "image": "https://static.moshtix.com.au/uploads/f1a77a1b-85b8-4445-85c4-e87b11472a35x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/84b/12d19253-c753-4387-b392-ec404e72284b_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Haydn’s Oxford | Australian Haydn Ensemble",
@@ -10048,6 +11028,16 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/haydns-sunrise",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782001940/k7h9gk6i1z6d/3TR1zqRgYS7N4UCVNf53L1/22ed9431-6d07-11f1-adae-4b3618c25ae5--Haydn-s-Oxford-tile.jpg",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-11-02",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-02-11-2026/event/1300635BF0B79F5E",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Melbourne Cup Lunch 4-course Italian Banquet",
@@ -10160,6 +11150,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-11-03",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-03-11-2026/event/1300635BF0B79F6F",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Tuesday Night Jazz Orchestra - 3 Nov",
    "date": "2026-11-03",
    "time": "18:00",
@@ -10230,24 +11230,44 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-11-04",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-04-11-2026/event/1300635BF0B79F71",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Crack Cloud - Peace & Purpose",
    "date": "2026-11-04",
    "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/crack-cloud-peace-purpose/199494",
-   "image": "https://static.moshtix.com.au/uploads/e0e0220d-e7e8-4c6a-bc31-cf45b671c73dx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/430/797910ae-60c1-4be5-bd27-996db962a430_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "#1 DADS",
    "date": "2026-11-04",
    "time": "20:00",
-   "venue": "The Lansdowne Hotel, Sydney",
+   "venue": "Lansdowne Hotel",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-1-dads/199094",
-   "image": "https://static.moshtix.com.au/uploads/3333ce2f-d661-45d2-bdea-180a65f47403x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "ODETTE ‘BLINK’ TOUR 2026",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/odette-blink-tour-2026/199155",
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Lvl 1 - Lazy Arcade + Bouncer Fodder + waiyo & macska",
@@ -10270,16 +11290,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "ODETTE ‘BLINK’ TOUR 2026",
-   "date": "2026-11-05",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/odette-blink-tour-2026/199155",
-   "image": "https://static.moshtix.com.au/uploads/c61d2891-47e4-4d2c-9c87-f71647d2d18dx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Noria Letts \"La Musique\"",
    "date": "2026-11-05",
    "time": "19:00",
@@ -10293,11 +11303,11 @@ window.EVENT_DATA = {
    "name": "#1 DADS",
    "date": "2026-11-05",
    "time": "20:00",
-   "venue": "The Lansdowne Hotel, Sydney",
+   "venue": "Lansdowne Hotel",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-1-dads/198561",
-   "image": "https://static.moshtix.com.au/uploads/1153d6bb-c464-4f14-90be-4b1bcd4566efx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Anticipated Collapse.",
@@ -10350,6 +11360,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Sydney EV Show - Friday",
+   "date": "2026-11-06",
+   "time": "09:00",
+   "venue": "The ICC Sydney: International Convention & Exhibition Centre",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/sydney-ev-show-friday-sydney-06-11-2026/event/130064D1317208A7",
+   "image": "https://s1.ticketm.net/dam/a/6f1/37a580db-441b-46b0-ae80-a4be3879f6f1_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Animals (UK) - The House Of The Rising Sun Tour",
    "date": "2026-11-06",
    "time": "19:00",
@@ -10373,11 +11393,31 @@ window.EVENT_DATA = {
    "name": "Charlie Jeer",
    "date": "2026-11-06",
    "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/charlie-jeer/197196",
-   "image": "https://static.moshtix.com.au/uploads/c6b46c93-bc2b-424c-8bd7-05745af75e9ax140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/de6/42e445fd-ae79-43ab-9668-e34136c1dde6_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "2026/27 A-League Sydney FC v Central Coast Mariners FC",
+   "date": "2026-11-06",
+   "time": "19:40",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/202627-aleague-sydney-fc-v-central-sydney-06-11-2026/event/250064FFC3178DDC",
+   "image": "https://s1.ticketm.net/dam/e/287/cab57cea-67c3-485d-9ac3-cdb1ae3fc287_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Lawrence Mooney: Full Moon Party",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/lawrence-mooney-full-moon-party-sydney-06-11-2026/event/130064A5E60A88A0",
+   "image": "https://s1.ticketm.net/dam/a/ecd/156c5e4d-6048-4b66-b4a7-cae96fa87ecd_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "LIVE BABY LIVE THE INXS TRIBUTE SHOW",
@@ -10393,11 +11433,21 @@ window.EVENT_DATA = {
    "name": "OCEAN WISDOM [UK]",
    "date": "2026-11-06",
    "time": "23:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ocean-wisdom-uk-/199727",
-   "image": "https://static.moshtix.com.au/uploads/2bb6cb64-3e25-44ea-a132-b7e8394ec9b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Sydney EV Show - 2 Day Weekend Pass",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "The ICC Sydney: International Convention & Exhibition Centre",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/sydney-ev-show-2-day-weekend-sydney-07-11-2026/event/130064D1317208B7",
+   "image": "https://s1.ticketm.net/dam/a/6f1/37a580db-441b-46b0-ae80-a4be3879f6f1_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "The ultimate Sydney stand-up comedy school experience",
@@ -10490,6 +11540,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Sydney EV Show - Saturday",
+   "date": "2026-11-07",
+   "time": "09:00",
+   "venue": "The ICC Sydney: International Convention & Exhibition Centre",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/sydney-ev-show-saturday-sydney-07-11-2026/event/130064D1317208AC",
+   "image": "https://s1.ticketm.net/dam/a/6f1/37a580db-441b-46b0-ae80-a4be3879f6f1_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "MOVING DIFFERENT FESTIVAL 2026",
    "date": "2026-11-07",
    "time": "14:30",
@@ -10570,6 +11630,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "BUDJERAH | Gentleman Tour",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/budjerah-gentleman-tour/197971",
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Peking Duk ‘Paradise’ Album Tour Sydney",
    "date": "2026-11-07",
    "time": "19:30",
@@ -10580,14 +11650,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "BUDJERAH | Gentleman Tour",
+   "name": "Greg Davies: Full Fat Legend",
    "date": "2026-11-07",
-   "time": "19:30",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/budjerah-gentleman-tour/197971",
-   "image": "https://static.moshtix.com.au/uploads/9bad66f0-694f-40a5-a135-e1423ea99c5cx140x140",
-   "source": "Moshtix"
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/greg-davies-full-fat-legend-sydney-07-11-2026/event/13006454AF2999C8",
+   "image": "https://s1.ticketm.net/dam/a/9e9/ce8ea1f3-1f2a-4f39-a965-03d01482a9e9_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "A Club of Thorns and Roses - Sydney, Erskineville",
@@ -10620,6 +11690,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Sydney EV Show - Sunday",
+   "date": "2026-11-08",
+   "time": "09:00",
+   "venue": "The ICC Sydney: International Convention & Exhibition Centre",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/sydney-ev-show-sunday-sydney-08-11-2026/event/130064D1317208B2",
+   "image": "https://s1.ticketm.net/dam/a/6f1/37a580db-441b-46b0-ae80-a4be3879f6f1_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Platinum Elvis on Tour",
    "date": "2026-11-08",
    "time": "17:00",
@@ -10630,14 +11710,34 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "RLWC26 - Men's & Women's SEMI FINAL 2",
+   "date": "2026-11-08",
+   "time": "17:55",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/rlwc26-mens-womens-semi-final-2-sydney-08-11-2026/event/2500636C77792617",
+   "image": "https://s1.ticketm.net/dam/e/851/29cb83b2-e457-48a0-b471-ac3e9d1e6851_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Talib Kweli (USA)",
    "date": "2026-11-08",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Whole Venue",
-   "category": "Soul, Jazz & Global",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/talib-kweli-usa-/198926",
-   "image": "https://static.moshtix.com.au/uploads/af3284d2-f325-41c1-b457-60272a23ac76x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/a86/c7b79c00-5b55-4e50-b7b8-db16e8e84a86_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Greg Davies: Full Fat Legend",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/greg-davies-full-fat-legend-sydney-08-11-2026/event/13006454CD9CC6C2",
+   "image": "https://s1.ticketm.net/dam/a/9e9/ce8ea1f3-1f2a-4f39-a965-03d01482a9e9_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "The Spare Keys",
@@ -10648,6 +11748,26 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/the-spare-keys/199784",
    "image": "https://static.moshtix.com.au/uploads/c154714b-6975-4e79-96d0-31f597b97427x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Greg Davies: Full Fat Legend",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/greg-davies-full-fat-legend-sydney-09-11-2026/event/13006454CD9CC6C4",
+   "image": "https://s1.ticketm.net/dam/a/9e9/ce8ea1f3-1f2a-4f39-a965-03d01482a9e9_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Alex James' Britpop Classical Australian Tour",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/alex-james-britpop-classical-australian-tour-sydney-10-11-2026/event/1300646FBF2681B7",
+   "image": "https://s1.ticketm.net/dam/a/3b6/6c5634d1-8a3a-486c-8ffc-88f50f3003b6_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Handmade Gnocchi Workshop",
@@ -10700,6 +11820,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Dara O Briain - Re:Creation",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/dara-o-briain-recreation-sydney-11-11-2026/event/130064DED6625A08",
+   "image": "https://s1.ticketm.net/dam/a/3dc/2a2581e0-d123-45f9-908f-8df6f3a673dc_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "2026 Sydney Peace Prize Lecture and Award Ceremony",
    "date": "2026-11-12",
    "time": "",
@@ -10713,11 +11843,11 @@ window.EVENT_DATA = {
    "name": "Ecca Vandal ‘Looking For People to Unfollow’ Album Tour | SECOND SHOW ADDED",
    "date": "2026-11-12",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour-second-show-added/197300",
-   "image": "https://static.moshtix.com.au/uploads/a50d7d0a-75c9-4046-955b-34dd469f529cx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/474/2d3ad16b-1c90-4dcf-9268-c89bf4948474_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Holly Throsby",
@@ -10763,11 +11893,21 @@ window.EVENT_DATA = {
    "name": "Ecca Vandal ‘Looking For People to Unfollow’ Album Tour",
    "date": "2026-11-13",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour/195987",
-   "image": "https://static.moshtix.com.au/uploads/a50d7d0a-75c9-4046-955b-34dd469f529cx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/474/2d3ad16b-1c90-4dcf-9268-c89bf4948474_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "THE TULLAMARINES 2026 TOUR",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Ella Thompson",
@@ -10780,14 +11920,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "THE TULLAMARINES 2026 TOUR",
+   "name": "daine - the In Endless Awe & Agony tour (18+) - NEW ALL AGES SHOW ADDED",
    "date": "2026-11-13",
-   "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
-   "image": "https://static.moshtix.com.au/uploads/c1b38bf9-62cd-4433-a48a-c412aa930e48x140x140",
-   "source": "Moshtix"
+   "time": "19:30",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18-new-all-ages-show-added/197886",
+   "image": "https://s1.ticketm.net/dam/a/2f1/03a32579-247e-4e53-84c7-6ccfccfe12f1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "THE REVEREND HORTON HEAT - Australian Tour 2026",
@@ -10810,16 +11950,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "daine - the In Endless Awe & Agony tour (18+) - NEW ALL AGES SHOW ADDED",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18-new-all-ages-show-added/197886",
-   "image": "https://static.moshtix.com.au/uploads/1cba39e2-da93-455f-94fa-20673e45c5abx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Frenchy - Never Been Before",
    "date": "2026-11-13",
    "time": "19:30",
@@ -10838,6 +11968,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/daine/198652",
    "image": "https://static.moshtix.com.au/uploads/53a60303-59b0-48f8-80f4-258b688bc588x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Sir El Tom",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/sir-el-tom-sydney-13-11-2026/event/1300643C95FF410F",
+   "image": "https://s1.ticketm.net/dam/a/6b8/b2c76b09-742b-4d7e-b385-381c547db6b8_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Sasa Matic Live with Full Band",
@@ -10900,14 +12040,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "daine - the In Endless Awe & Agony tour (ALL AGES)",
+   "name": "Jack Johnson - Surfilmusic Tour - Australia / New Zealand - 2026",
+   "date": "2026-11-14",
+   "time": "16:00",
+   "venue": "The Domain",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/jack-johnson-surfilmusic-tour-australia-new-sydney-14-11-2026/event/13006473DA488C88",
+   "image": "https://s1.ticketm.net/dam/a/d4f/b1d114ed-29ec-4d69-8069-800d789f4d4f_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "daine - the In Endless Awe & Agony tour (ALL AGES) ",
    "date": "2026-11-14",
    "time": "18:00",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages-/198643",
-   "image": "https://static.moshtix.com.au/uploads/1cba39e2-da93-455f-94fa-20673e45c5abx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/2f1/03a32579-247e-4e53-84c7-6ccfccfe12f1_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "MX Burlesque NSW 2026 Competition!",
@@ -10940,14 +12090,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "The Bootleg Beatles and their Orchestra In Concert",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Classical & Opera",
+   "url": "https://www.ticketmaster.com.au/the-bootleg-beatles-and-their-orchestra-sydney-14-11-2026/event/130062D9B16629FA",
+   "image": "https://s1.ticketm.net/dam/a/3fb/bcffc8c6-1c1b-4b5d-af2e-89f2803c13fb_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Above - Nov 14 ft. Gudfella",
    "date": "2026-11-14",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-nov-14-ft-gudfella/198750",
-   "image": "https://static.moshtix.com.au/uploads/a68bda71-fc4a-434a-9164-7fabd2dd44aex140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/1bb/e45ed621-9bfd-47d9-bee9-f0fceccd01bb_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Community Round | Sydney Sixers v Melbourne Renegades WBBL",
@@ -10980,6 +12140,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "James Morrison with Special Guest Mahalia Barnes",
+   "date": "2026-11-15",
+   "time": "16:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/james-morrison-with-special-guest-mahalia-sydney-15-11-2026/event/1300647E8663184C",
+   "image": "https://s1.ticketm.net/dam/a/982/467e7bd1-c322-4ecf-8623-3d8bde7c5982_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Rohan Windle, Piano Man",
    "date": "2026-11-15",
    "time": "17:00",
@@ -10998,6 +12168,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/xxxpress-2026/199615",
    "image": "https://static.moshtix.com.au/uploads/ce0586e7-5504-4447-89d7-41bb2d6e1662x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "IRON MAIDEN - RUN FOR YOUR LIVES - WORLD TOUR 2026",
+   "date": "2026-11-15",
+   "time": "17:30",
+   "venue": "Allianz Stadium",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3",
+   "image": "https://s1.ticketm.net/dam/a/0d0/7395c6e7-8a78-4028-ac20-f053c22fa0d0_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "An Evening With Kristin Hersh (US)",
@@ -11023,11 +12203,11 @@ window.EVENT_DATA = {
    "name": "Flyte (UK)",
    "date": "2026-11-16",
    "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/flyte-uk-/195420",
-   "image": "https://static.moshtix.com.au/uploads/e1093016-c254-4a61-90c0-584663b59c0ax140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/ff2/eb19a01c-e13d-41cf-8920-a4dadd167ff2_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "YVES. Australian Tour 2026.",
@@ -11038,6 +12218,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/yves-australian-tour-2026-/199175",
    "image": "https://static.moshtix.com.au/uploads/d305ad96-5497-4617-a734-ae1acd9f99a1x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-17-11-2026/event/130063737A914DC7",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Macbeth",
@@ -11070,6 +12260,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-18-11-2026/event/13006373871C5C2E",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Lindesay Christmas Gift Fair",
    "date": "2026-11-19",
    "time": "",
@@ -11083,21 +12283,31 @@ window.EVENT_DATA = {
    "name": "Ryan Harris Live in Sydney",
    "date": "2026-11-19",
    "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ryan-harris-live-in-sydney/196620",
-   "image": "https://static.moshtix.com.au/uploads/4b8b6e4a-1178-49b7-8de5-0a3939222962x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/a44/8866f0e0-6831-4f89-ab47-1900b861ca44_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "An Evening with Alastair Campbell",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/an-evening-with-alastair-campbell-sydney-19-11-2026/event/130064F0DAF87439",
+   "image": "https://s1.ticketm.net/dam/e/9dd/415b36f7-aa6e-4f3c-944a-7f2530e929dd_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Venna",
    "date": "2026-11-19",
    "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/venna/196220",
-   "image": "https://static.moshtix.com.au/uploads/9cf4ca93-9c83-4b59-84a7-3529375ee2eax140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/9fb/441098e2-e20c-4ea7-b650-30e4256e49fb_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Hot Dub on the Harbour",
@@ -11113,11 +12323,21 @@ window.EVENT_DATA = {
    "name": "Hot Dub on the Harbour 2026",
    "date": "2026-11-20",
    "time": "18:00",
-   "venue": "Fleet Steps",
+   "venue": "Mrs Macquaries Point",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/hot-dub-on-the-harbour-2026/196073",
-   "image": "https://static.moshtix.com.au/uploads/cf7c8cf9-62ad-486d-8fa1-2181e1f2b37bx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/e26/b4e44a16-3b4a-46ed-a7fc-506e8ede2e26_68701_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Day We Ran - The Naked At Your Door Tour",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443",
+   "image": "https://s1.ticketm.net/dam/a/fb4/7b1a25ef-af9c-470f-827b-4749162eefb4_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Keyim Ba",
@@ -11160,14 +12380,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Day We Ran - The Naked At Your Door Tour",
+   "name": "Louis The Child | Sydney",
    "date": "2026-11-20",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443",
-   "image": "https://static.moshtix.com.au/uploads/0c7b77fd-8e7d-481a-9d02-33fba2536634x140x140",
-   "source": "Moshtix"
+   "time": "19:30",
+   "venue": "King Street Wharf",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/louis-the-child-sydney/199335",
+   "image": "https://s1.ticketm.net/dam/a/f37/26c9a874-b5fc-489f-bc0c-f52430136f37_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Regurgitator Live at Beach Road, Bondi",
@@ -11180,14 +12400,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Louis The Child | Sydney",
+   "name": "Carl Barron: Just Wondering Why",
    "date": "2026-11-20",
-   "time": "19:30",
-   "venue": "Cadman Cruises",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/louis-the-child-sydney/199335",
-   "image": "https://static.moshtix.com.au/uploads/f328e3b2-a6f6-476c-9a58-bd410e1fd887x140x140",
-   "source": "Moshtix"
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-20-11-2026/event/13006373871C5C30",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "KOFI STONE | ALL THE FLOWERS HAVE BLOOMED",
@@ -11203,11 +12423,11 @@ window.EVENT_DATA = {
    "name": "Marcel Dettmann & Gerd Janson [GER]",
    "date": "2026-11-20",
    "time": "23:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/marcel-dettmann-gerd-janson-ger-/198613",
-   "image": "https://static.moshtix.com.au/uploads/e0720897-cb0f-437f-aed1-f593b158c8b6x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Cocktail of Murder - Murder Mystery Dinner",
@@ -11227,16 +12447,6 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/wbbl-or-sydney-sixers-v-perth-scorchers",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783043766/k7h9gk6i1z6d/5O3DvATiWLud3nM9rp8J7i/4e67cbc1-7681-11f1-ace5-6de82d0fa994--Sydney-Sixers-v-Perth-Scorchers---WBBL-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Harbourlife 2026",
-   "date": "2026-11-21",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/harbourlife-2026",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781836752/k7h9gk6i1z6d/7q4XMCvjjwR1k4NVg7QHP8/de8ff791-6b87-11f1-9751-4fcc279d2eb2--Harbourlife-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -11270,6 +12480,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Harbourlife 2026",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "venue": "Mrs Macquaries Point",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/harbourlife-2026/188785",
+   "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Silva Bumpa",
    "date": "2026-11-21",
    "time": "15:00",
@@ -11293,21 +12513,21 @@ window.EVENT_DATA = {
    "name": "Delilah Bon | Australian East Coast Tour | Sydney | NOW AT METRO SOCIAL",
    "date": "2026-11-21",
    "time": "18:00",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/delilah-bon-australian-east-coast-tour-sydney-now-at-metro-social/193236",
-   "image": "https://static.moshtix.com.au/uploads/41d5b26f-1f1d-423e-8151-d4ee0121c293x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/041/516a65b2-d63c-4250-8338-df81f9b55041_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
-   "name": "Eric Hutchinson",
+   "name": "Eric Hutchinson ",
    "date": "2026-11-21",
    "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/eric-hutchinson/196579",
-   "image": "https://static.moshtix.com.au/uploads/f36d7b20-8aae-4477-a6b6-904ce89b5144x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/e88/7d3fade5-b360-4a15-b2e7-b147f80c1e88_1283291_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "John Harp Drive 'Zebra's Hair' Album Launch + Rachel Delgado",
@@ -11318,6 +12538,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/john-harp-drive-zebra-s-hair-album-launch-rachel-delgado/198437",
    "image": "https://static.moshtix.com.au/uploads/9a8c1fcf-3213-4816-9563-a00d387fa17bx140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-21-11-2026/event/13006373871C5C33",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Forever Diamond",
@@ -11370,6 +12600,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-22",
+   "time": "17:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-22-11-2026/event/13006373871C5C35",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The Vampires",
    "date": "2026-11-22",
    "time": "18:30",
@@ -11383,11 +12623,11 @@ window.EVENT_DATA = {
    "name": "Ultra Naté | SYDNEY",
    "date": "2026-11-22",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ultra-nat-sydney/197707",
-   "image": "https://static.moshtix.com.au/uploads/22d2c577-8846-4f4a-a9b1-6e741a9af392x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/e35/32ce3021-ef8c-4df0-a437-6a1697d53e35_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "The Underground Brass Band (TUBB)",
@@ -11410,6 +12650,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "An Evening with Mary Beard Talking Classics",
+   "date": "2026-11-23",
+   "time": "19:30",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/an-evening-with-mary-beard-talking-sydney-23-11-2026/event/130064D796BD52AF",
+   "image": "https://s1.ticketm.net/dam/a/7f0/aa61842b-e9bc-4b6f-b3ec-e0fbe526d7f0_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "News & Reviews: GarnerRama LIVE!",
    "date": "2026-11-24",
    "time": "18:00",
@@ -11418,6 +12668,26 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/news-reviews-garnerrama-live-/199884",
    "image": "https://static.moshtix.com.au/uploads/c10b821f-ca45-4af0-b55e-c180b8da8138x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-24",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-24-11-2026/event/13006373871C5C37",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-25-11-2026/event/13006373871C5C39",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Pinchgut Opera presents Semele by Handel",
@@ -11563,11 +12833,11 @@ window.EVENT_DATA = {
    "name": "SLY WITHERS - TBH ALBUM TOUR",
    "date": "2026-11-27",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/sly-withers-tbh-album-tour/198259",
-   "image": "https://static.moshtix.com.au/uploads/ca2570ae-1dbf-443a-b58b-98bb6dbd2a78x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Don't Change - Ultimate INXS Tribute Get Kicked Tour",
@@ -11600,14 +12870,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-27-11-2026/event/13006373871C5C3C",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "VTSS",
    "date": "2026-11-27",
    "time": "20:00",
    "venue": "Plaza Hotel Sydney",
-   "category": "Nightlife & Electronic",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/vtss/198636",
-   "image": "https://static.moshtix.com.au/uploads/4257124c-af3b-455a-89d0-541aebc46569x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/7d7/bd548637-d2b7-4bd1-8aba-9d30b8b9f7d7_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "The Kim Wilde Closer Tour",
@@ -11623,11 +12903,11 @@ window.EVENT_DATA = {
    "name": "All Day I Dream of Australia | Sydney",
    "date": "2026-11-28",
    "time": "14:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/all-day-i-dream-of-australia-sydney/197441",
-   "image": "https://static.moshtix.com.au/uploads/97c816bb-652d-4dac-9809-3086bc6f7a4cx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Anjunadeep Open Air Sydney",
@@ -11690,6 +12970,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-28-11-2026/event/13006373871C5C3E",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "CARLOS VIVES & LA PROVINCIA TRIBUTE",
    "date": "2026-11-28",
    "time": "20:00",
@@ -11703,11 +12993,11 @@ window.EVENT_DATA = {
    "name": "Above - Nov 28 ft. TSHA",
    "date": "2026-11-28",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-nov-28-ft-tsha/198751",
-   "image": "https://static.moshtix.com.au/uploads/a68bda71-fc4a-434a-9164-7fabd2dd44aex140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "100 women 100 stories concert",
@@ -11758,6 +13048,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/forma-pres-lime-cordiale-pacific-avenue/197722",
    "image": "https://static.moshtix.com.au/uploads/66450ee0-4c99-4386-bce9-98edcc9cf372x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Carl Barron: Just Wondering Why",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-29-11-2026/event/13006373871D5C41",
+   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Swing West Jazz Orchestra",
