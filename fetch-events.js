@@ -341,6 +341,34 @@ async function ticketmaster(start, end) {
 
 // --------------------------------------------------- source: City of Sydney
 
+/**
+ * TEMPORARY DIAGNOSTIC — locates image URLs anywhere in a data structure
+ * and reports their key path, so we can stop guessing field names.
+ */
+function findImagePaths(node, path, out, seen, depth) {
+  path = path || ""; out = out || []; seen = seen || new Set(); depth = depth || 0;
+  if (!node || depth > 10 || out.length >= 12) return out;
+
+  if (typeof node === "string") {
+    if (/ctfassets|\.(jpe?g|png|webp|avif)(\?|$)/i.test(node) && node.length < 400) {
+      out.push(path + "  =  " + node.slice(0, 110));
+    }
+    return out;
+  }
+
+  if (typeof node !== "object" || seen.has(node)) return out;
+  seen.add(node);
+
+  if (Array.isArray(node)) {
+    node.slice(0, 3).forEach((it, i) => findImagePaths(it, path + "[" + i + "]", out, seen, depth + 1));
+    return out;
+  }
+
+  Object.keys(node).forEach((k) =>
+    findImagePaths(node[k], path ? path + "." + k : k, out, seen, depth + 1));
+  return out;
+}
+
 async function cityOfSydney() {
   const out = [];
   const seenSlugs = new Set();
@@ -389,6 +417,17 @@ async function cityOfSydney() {
     if (next) {
       const candidates = harvestEvents(next);
 
+      if (!global.__DUMP_A__ && candidates.length) {
+        global.__DUMP_A__ = true;
+        console.log("\n===== DIAGNOSTIC A: listing page =====");
+        const paths = findImagePaths(next);
+        console.log(paths.length ? paths.map((p) => "  " + p).join("\n")
+                                 : "  no image URLs anywhere in this page's data");
+        console.log("  sample event keys: " + JSON.stringify(Object.keys(candidates[0])));
+        console.log("  sample event: " + JSON.stringify(candidates[0]).slice(0, 700));
+        console.log("===== END A =====\n");
+      }
+
       if (INSPECT && candidates.length) {
         console.log("\n  --- sample object from " + page.url);
         console.log("  keys: " + Object.keys(candidates[0]).join(", "));
@@ -434,6 +473,19 @@ async function cityOfSydney() {
         const html = await (await get(COS + "/events/" + slug)).text();
         const blocks = extractJsonLd(html);
         const events = blocks.flatMap((b) => findLdEvents(b));
+
+        if (!global.__DUMP_B__ && events.length) {
+          global.__DUMP_B__ = true;
+          console.log("\n===== DIAGNOSTIC B: event page =====");
+          const paths = findImagePaths(events[0]);
+          console.log(paths.length ? paths.map((p) => "  " + p).join("\n")
+                                   : "  no image URLs in the schema.org block");
+          console.log("  schema keys: " + JSON.stringify(Object.keys(events[0])));
+          const pagePaths = findImagePaths(blocks);
+          console.log("  across all schema blocks: " +
+            (pagePaths.length ? pagePaths.length + " found" : "none"));
+          console.log("===== END B =====\n");
+        }
 
         if (INSPECT && viaLd === 0 && events.length) {
           console.log("\n  --- sample schema.org event");
