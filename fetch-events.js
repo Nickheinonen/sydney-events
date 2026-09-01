@@ -490,7 +490,7 @@ async function cityOfSydney() {
 // dedupe by name and date sorts out the overlap.
 
 const MOSHTIX_API = "https://api.moshtix.com/v1/graphql";
-const MOSHTIX_MAX_PAGES = 40;
+const MOSHTIX_MAX_PAGES = 80;
 
 const SYDNEY = new Set([
   "sydney","haymarket","ultimo","pyrmont","chippendale","glebe","redfern",
@@ -538,7 +538,7 @@ function parseMoshtixDate(value) {
 
   if (isNaN(d.getTime())) return null;
   const year = d.getFullYear();
-  if (year < 2000 || year > 2100) return null;
+  if (year < 1990 || year > 2100) return null;   // 1970 means an epoch misparse
 
   const date = d.toLocaleDateString("en-CA", { timeZone: "Australia/Sydney" });
   const time = d.toLocaleTimeString("en-GB", {
@@ -557,7 +557,7 @@ function moshtixSlug(name) {
 
 function moshtixPage(pageIndex, pageSize) {
   return "query { viewer { getEvents(pageIndex: " + pageIndex +
-    ", pageSize: " + pageSize + ", sortBy: STARTDATE, sortByDirection: ASC) { " +
+    ", pageSize: " + pageSize + ", sortBy: STARTDATE, sortByDirection: DESC) { " +
     "totalCount pageInfo { hasNextPage } items { id name startDate " +
     "venue { name address { locality } } genre { name } } } } }";
 }
@@ -576,7 +576,7 @@ async function moshtixQuery(query) {
   return json.data;
 }
 
-async function moshtix(cutoffIso) {
+async function moshtix(todayIso, cutoffIso) {
   const out = [];
   let pageSize = 100;
   let pageIndex = 0;
@@ -603,7 +603,7 @@ async function moshtix(cutoffIso) {
     const conn = data && data.viewer && data.viewer.getEvents;
     if (!conn || !conn.items || !conn.items.length) break;
 
-    let pastCutoff = false;
+    let reachedPast = false;
 
     for (const ev of conn.items) {
       scanned++;
@@ -613,7 +613,11 @@ async function moshtix(cutoffIso) {
 
       const when = parseMoshtixDate(ev.startDate);
       if (!when) { unparsed++; continue; }
-      if (when.date > cutoffIso) { pastCutoff = true; continue; }
+
+      // Descending order: skip anything beyond the window, stop once we
+      // pass today going backwards.
+      if (when.date > cutoffIso) continue;
+      if (when.date < todayIso) { reachedPast = true; continue; }
 
       const locality = ev.venue && ev.venue.address && ev.venue.address.locality;
       if (!locality || !SYDNEY.has(String(locality).trim().toLowerCase())) continue;
@@ -630,7 +634,7 @@ async function moshtix(cutoffIso) {
       });
     }
 
-    if (pastCutoff) break;                        // sorted by date, so we're done
+    if (reachedPast) break;         // walked back past today, nothing older matters
     if (!conn.pageInfo || !conn.pageInfo.hasNextPage) break;
 
     pageIndex++;
@@ -729,7 +733,7 @@ async function main() {
   console.log("  " + cos.length + " events\n");
 
   console.log("Moshtix:");
-  const mox = await moshtix(cutoff).catch((e) => {
+  const mox = await moshtix(today, cutoff).catch((e) => {
     console.log("  failed: " + e.message);
     return [];
   });
