@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-09-01T00:33:48.806Z",
+ "generated": "2026-09-01T00:43:05.586Z",
  "events": [
   {
    "name": "Unlock The Rocks Art & Culture Month",
@@ -7119,6 +7119,16 @@ window.EVENT_DATA = {
    "category": "Arts & Theatre",
    "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-20-10-2026/event/1300632BBC134634",
    "image": "https://s1.ticketm.net/dam/a/d50/af1583bd-8381-4500-8c8d-267e19695d50_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Rebirth Brass Band with DINK",
+   "date": "2026-10-20",
+   "time": "19:30",
+   "venue": "Oxford Art Factory",
+   "category": "Music",
+   "url": "https://www.moshtix.com.au/v2/event/rebirth-brass-band-with-dink/199496",
+   "image": "https://s1.ticketm.net/dam/a/648/aa8c4397-6b7e-4621-a3c5-0a4de9b6d648_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
   },
   {
