@@ -1,19 +1,19 @@
 window.EVENT_DATA = {
- "generated": "2026-09-01T02:33:56.798Z",
+ "generated": "2026-09-01T02:47:14.708Z",
  "shelfOrder": [
-  "Live Music",
   "Rock & Indie",
-  "Electronic",
-  "Soul, Jazz & Roots",
-  "Nightlife",
   "Comedy",
+  "Nightlife & Electronic",
   "Stage & Screen",
-  "Exhibitions",
   "Food & Markets",
+  "Soul, Jazz & Global",
+  "Exhibitions",
   "Learn & Do",
-  "Active",
+  "Classical & Opera",
   "Family",
   "Community",
+  "Active",
+  "Other Music",
   "Other"
  ],
  "events": [
@@ -212,7 +212,7 @@ window.EVENT_DATA = {
    "date": "2026-09-01",
    "time": "",
    "venue": "Erskineville Town Hall",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/storyteller",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787457323/k7h9gk6i1z6d/65JsTxBJjntrgOrQCOFjYS/6854dae1-9ea5-11f1-a6c1-fb40fe1f67fe--Storyteller-tile.jpg",
    "source": "City of Sydney"
@@ -222,7 +222,7 @@ window.EVENT_DATA = {
    "date": "2026-09-01",
    "time": "18:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/closed-sorry-we-are-closed-tonight/199585",
    "image": "https://static.moshtix.com.au/uploads/c72ad3ad-5232-4029-8e3d-15940344a987x140x140",
    "source": "Moshtix"
@@ -502,7 +502,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "",
    "venue": "St James Church",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/tomasso-girotto-classical-guitar-lunchtime-concert",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1769502886/k7h9gk6i1z6d/7dRhzvJOvYCxIeaA2EnakL/b7318670-fb5a-11f0-bd80-6fc212a73601--Tomasso-Girotto--Classical-Guitar-Lunchtime-Concert-tile.jpg",
    "source": "City of Sydney"
@@ -512,7 +512,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/copa-on-the-rocks",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786678457/k7h9gk6i1z6d/2WRIWnY2ARFLmgW6XGSaUW/874f3a71-978f-11f1-8b98-ed256d41da53--Copa-on-The-Rocks-tile.jpg",
    "source": "City of Sydney"
@@ -532,7 +532,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "18:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/free-entry-dj-nothing-feat-daniel-pliner/199586",
    "image": "https://static.moshtix.com.au/uploads/d8e29403-9d5b-4003-b863-250a2fa2103ax140x140",
    "source": "Moshtix"
@@ -542,7 +542,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "19:00",
    "venue": "Metro Social",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/metro-a-i-r-x-crasher-on-the-pulse-purient-mona-mule-riki-twinkle-wells-dj-/198294",
    "image": "https://static.moshtix.com.au/uploads/9d5a4f33-601d-4af7-b2e8-d77d49997de5x140x140",
    "source": "Moshtix"
@@ -572,7 +572,7 @@ window.EVENT_DATA = {
    "date": "2026-09-02",
    "time": "21:00",
    "venue": "The Golden Sheaf",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sheaf-wednesdays-september-2nd-w-noahhh-/199694",
    "image": "https://static.moshtix.com.au/uploads/cb9c825e-1d3c-4a59-a0fd-75e465213ed6x140x140",
    "source": "Moshtix"
@@ -632,7 +632,7 @@ window.EVENT_DATA = {
    "date": "2026-09-03",
    "time": "",
    "venue": "The Factory Theatre",
-   "category": "Stage & Screen",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/breaking-point-an-improvised-revolution",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785145458/k7h9gk6i1z6d/6FOrFqFq6TcOnlgrD2RQtd/29ff5241-899f-11f1-aa81-b59b819097b6--Breaking-Point--An-Improvised-Revolution-tile.jpg",
    "source": "City of Sydney"
@@ -812,7 +812,7 @@ window.EVENT_DATA = {
    "date": "2026-09-03",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/0309/199300",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -852,7 +852,7 @@ window.EVENT_DATA = {
    "date": "2026-09-03",
    "time": "20:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/cancelled-v-i-c-australian-tour-2026/196886",
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -862,7 +862,7 @@ window.EVENT_DATA = {
    "date": "2026-09-03",
    "time": "21:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-3rd-september/199310",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -992,7 +992,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/deca-joins-2026-world-tour-a-brief-stop-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1780282548/k7h9gk6i1z6d/14mN0MRHOojdj2FZd78PFO/9c212450-5d5f-11f1-8ed8-1749d08ab5b7--deca-joins-2026-world-tour---A-Brief-Stop-Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -1002,7 +1002,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Rock & Indie",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/utility-house-garage-4x4",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785740874/k7h9gk6i1z6d/7cIezuHmZqapAArM54pUUb/-4-x-4--tile.jpg",
    "source": "City of Sydney"
@@ -1012,7 +1012,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "Side Bar Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-glitter-party",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785218650/k7h9gk6i1z6d/6zcG7J5zkeEYJ7JftXlEZh/f5d838f1-8a49-11f1-bfe7-11436fa5bb16--Decades-Party-tile.jpg",
    "source": "City of Sydney"
@@ -1022,7 +1022,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "Kings Cross Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/tekno-tribe-05-sydney-tribe-tekno-hardtek-acidcore",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786085707/k7h9gk6i1z6d/5evwhuHb6QR9z7SI8QhOUG/Acidcore-tile.jpg",
    "source": "City of Sydney"
@@ -1032,7 +1032,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "",
    "venue": "The Chippo Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/date-my-mate-at-the-chippo-hotel",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786950253/k7h9gk6i1z6d/7lRdQ4c4PE1xTDdPtjAmYv/b04a2b71-9a09-11f1-adc6-675f96d2e61f--Date-My-Mate-at-The-Chippo-Hotel-tile.jpg",
    "source": "City of Sydney"
@@ -1052,7 +1052,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "18:00",
    "venue": "Marlborough Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/marly-fridays-sep-4th/199768",
    "image": "https://static.moshtix.com.au/uploads/bc7cc51c-5d24-4070-80db-b17fa89fb406x140x140",
    "source": "Moshtix"
@@ -1062,7 +1062,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/vancouver-sleep-clinic/195417",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1092,7 +1092,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/loopstate/197389",
    "image": "https://static.moshtix.com.au/uploads/2b3b6d44-faa7-42f7-bdc7-e1b515a84941x140x140",
    "source": "Moshtix"
@@ -1102,7 +1102,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "19:00",
    "venue": "The Trocadero Room",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/jaal-east-coast-spring-tour-sydney-with-yibby-free/198633",
    "image": "https://static.moshtix.com.au/uploads/4b118ec7-8721-49e0-8b10-cd94725dc5b1x140x140",
    "source": "Moshtix"
@@ -1112,7 +1112,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-paula-baxter-band/199684",
    "image": "https://static.moshtix.com.au/uploads/7eb220a3-d5be-409d-969f-d984158e8e5bx140x140",
    "source": "Moshtix"
@@ -1142,7 +1142,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "20:00",
    "venue": "The Whalers at Mosman Club",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-night-shift/198729",
    "image": "https://static.moshtix.com.au/uploads/c65ded3f-4564-4e50-bed8-ff312a585037x140x140",
    "source": "Moshtix"
@@ -1162,7 +1162,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "20:00",
    "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/after-dark-w-samuel-thomas-the-steel-city-donuts-mercy-barden/199091",
    "image": "https://static.moshtix.com.au/uploads/59dcb8ec-f9ad-4740-b153-fe4c82795d01x140x140",
    "source": "Moshtix"
@@ -1172,7 +1172,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "20:00",
    "venue": "The Beresford",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/beresford-fridays/199849",
    "image": "https://static.moshtix.com.au/uploads/45e8c86e-38d3-42a2-9625-b12450d96ce3x140x140",
    "source": "Moshtix"
@@ -1182,7 +1182,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "21:00",
    "venue": "Chinese Laundry",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-prizefight-ed-kent-all-night-long-overdrive-mag-takeover-ft-love-jess/197592",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1192,7 +1192,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "21:00",
    "venue": "The Albion Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-nino-brown/198618",
    "image": "https://static.moshtix.com.au/uploads/050de00c-6f14-4830-9edd-b6800b9b37c9x140x140",
    "source": "Moshtix"
@@ -1202,7 +1202,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "21:30",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-04-sept-int-guest-dj-will-atkinson-wao-superclub/199619",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1212,7 +1212,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "23:00",
    "venue": "The Vanguard",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/gut-health-after-dark-w-marcus-whale-grasps-merryn-jeann-and-dick-mcqueen-dj-/198669",
    "image": "https://static.moshtix.com.au/uploads/93f97f3f-b4aa-4a79-8f15-90abdd7c4cddx140x140",
    "source": "Moshtix"
@@ -1222,7 +1222,7 @@ window.EVENT_DATA = {
    "date": "2026-09-04",
    "time": "23:30",
    "venue": "Plaza Hotel Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/sota-presents-state-of-the-art-3-0/194020",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1262,7 +1262,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "The Factory Theatre",
-   "category": "Stage & Screen",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/ross-purdy-weapons-grade-comedy-2026-sydney-fringe",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784374237/k7h9gk6i1z6d/4F5eqRmVumSeVUo9KmG6KN/93eb9e30-829b-11f1-bf6b-27c31c63f213--Ross-Purdy---Weapons-Grade-Comedy---2026-Sydney-Fringe-tile.jpg",
    "source": "City of Sydney"
@@ -1502,7 +1502,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "Fortress Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/filmharmonia-presents-critical-hits-2",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786512755/k7h9gk6i1z6d/7fhY8XJfD8SthwKy5nF1e2/214c9960-960f-11f1-b7ca-5194b2209f54--FilmHarmonia-presents--Critical-Hits-2-tile.jpg",
    "source": "City of Sydney"
@@ -1512,7 +1512,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sima-jazz-now-comfortable",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1774317712/k7h9gk6i1z6d/4g0E2fExubkvF1oeWskv5k/f3d737f1-2724-11f1-9b89-35e774da7df8--SIMA-Jazz-NOW---Comfortable-tile.jpg",
    "source": "City of Sydney"
@@ -1522,7 +1522,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/stratofibre",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786523806/k7h9gk6i1z6d/7v67y9tIccwKo85iP8Uhmg/d447f5a1-9628-11f1-9c57-83929c282d33--Stratofibre-tile.jpg",
    "source": "City of Sydney"
@@ -1532,7 +1532,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "",
    "venue": "Camelot Lounge",
-   "category": "Live Music",
+   "category": "Soul, Jazz & Global",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/moussa-diakite-and-wassado",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787545158/k7h9gk6i1z6d/6HaCgdnaB4gwdcF1E3w71k/cd960d81-9f71-11f1-a184-07078b46b5c3--Moussa-Diakite-and-Wassado-tile.jpg",
    "source": "City of Sydney"
@@ -1552,7 +1552,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "14:00",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/bjorn-again-abba-forever-tour-sydney-05-09-2026/event/13006452D9D8C25A",
    "image": "https://s1.ticketm.net/dam/a/4fd/cf368d1a-75b2-44b8-a433-ba0f8a1e04fd_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1572,7 +1572,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "18:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/emerson-matilda-pearl-leap-on-tour/196830",
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1592,7 +1592,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "19:00",
    "venue": "Bungalow 8 and The Loft",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/dbn-gogo-za-sydney/198349",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -1602,7 +1602,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/mike-/194088",
    "image": "https://s1.ticketm.net/dam/a/d5c/03cf14af-60e6-4144-8af9-4a3ba8b5fd5c_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -1612,7 +1612,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/swapmeet-mount-zero-album-tour/196919",
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1622,7 +1622,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/horse-drawn-cadillac-spring-boogie/192066",
    "image": "https://static.moshtix.com.au/uploads/99035280-ad61-428f-ba97-21c22314553dx140x140",
    "source": "Moshtix"
@@ -1652,7 +1652,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "19:00",
    "venue": "Bootleggers",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/raise-the-roof-presents-tash-wolf-isy-cappo-katie-murray-sarah-derrick/197690",
    "image": "https://static.moshtix.com.au/uploads/7a52196d-ddbf-4983-ab26-f96852c740a8x140x140",
    "source": "Moshtix"
@@ -1682,7 +1682,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-elle-gonzales-the-soul-selections/199706",
    "image": "https://static.moshtix.com.au/uploads/8ea0bb99-566c-4ec2-920e-28201aa8f7c3x140x140",
    "source": "Moshtix"
@@ -1692,7 +1692,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "20:00",
    "venue": "Carousel Bar & Ballroom",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sash-presents-carousel-3rd-birthday-saturday-5th-september/198403",
    "image": "https://static.moshtix.com.au/uploads/2a3f62a3-27e6-42b3-9020-8ea975829b22x140x140",
    "source": "Moshtix"
@@ -1702,7 +1702,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "21:00",
    "venue": "Chinese Laundry",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-danny-rankin-uk-off-the-map-takeover/197593",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -1712,7 +1712,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "21:00",
    "venue": "Marlborough Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/house-party-saturdays-5th-september/198833",
    "image": "https://static.moshtix.com.au/uploads/14cb6071-9e8c-40ed-80b5-53324ce0fb4fx140x140",
    "source": "Moshtix"
@@ -1722,7 +1722,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "21:00",
    "venue": "Tokyo Sing Song",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/spheral-records-transmission-ii/198863",
    "image": "https://static.moshtix.com.au/uploads/8ebdce33-7dab-4f1c-ac3a-233f6bb5cbb2x140x140",
    "source": "Moshtix"
@@ -1732,7 +1732,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "21:00",
    "venue": "The Albion Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/vibe-saturdays-the-biggest-party-in-the-west/199565",
    "image": "https://static.moshtix.com.au/uploads/c25ec395-c6bb-4b06-90c4-6e753f511214x140x140",
    "source": "Moshtix"
@@ -1742,7 +1742,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "22:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-pres-club-heartbeat-september-5/197497",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -1752,7 +1752,7 @@ window.EVENT_DATA = {
    "date": "2026-09-05",
    "time": "22:00",
    "venue": "Bootleggers",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/last-words-free-entry-dj-s-sydney-emo-night/198236",
    "image": "https://static.moshtix.com.au/uploads/353c5e73-6d5e-416d-a9c8-75f9e7cf81e7x140x140",
    "source": "Moshtix"
@@ -2012,7 +2012,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/kolor-we-are-you-australia-tour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784608043/k7h9gk6i1z6d/3DPv3cn0ERTaF0wivxZEHF/284fc2f1-84bc-11f1-9923-5dbc77946291--Kolor-We-Are-You-Australia-Tour-tile.jpg",
    "source": "City of Sydney"
@@ -2022,7 +2022,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "16:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/lost-sundays-september-6-ft-diffrent-entasia-zacattacq-deens/198925",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -2032,7 +2032,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/dr-v-s-swing-thing/194221",
    "image": "https://static.moshtix.com.au/uploads/ebe2c35a-e711-4cb0-b32b-6b246c2135a6x140x140",
    "source": "Moshtix"
@@ -2042,7 +2042,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-presentation-of-the-new-album-white-cat-jazz-/195945",
    "image": "https://static.moshtix.com.au/uploads/6d565528-c587-45da-89e6-212a8624836ax140x140",
    "source": "Moshtix"
@@ -2062,7 +2062,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/kolor-we-are-you-australia-tour-2026/197456",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -2072,7 +2072,7 @@ window.EVENT_DATA = {
    "date": "2026-09-06",
    "time": "19:00",
    "venue": "The Vanguard",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/music-in-exile-presents-rainbow-chan-shewita/198640",
    "image": "https://static.moshtix.com.au/uploads/6855110d-3d76-45d5-88ff-2f8cd3e1df57x140x140",
    "source": "Moshtix"
@@ -2292,7 +2292,7 @@ window.EVENT_DATA = {
    "date": "2026-09-08",
    "time": "18:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-tuesday-night-jazz-orchestra-8-sept/197056",
    "image": "https://static.moshtix.com.au/uploads/564ab28f-2572-4914-9b75-7f6fccdf2c01x140x140",
    "source": "Moshtix"
@@ -2302,7 +2302,7 @@ window.EVENT_DATA = {
    "date": "2026-09-08",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/vana-australian-headline-tour/198882",
    "image": "https://s1.ticketm.net/dam/a/d4f/23e9e14f-e6e1-449b-9333-7ad699233d4f_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -2512,7 +2512,7 @@ window.EVENT_DATA = {
    "date": "2026-09-09",
    "time": "",
    "venue": "St James Church",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concert-anna-sandstrom-and-william-varga",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1645057209/k7h9gk6i1z6d/7m1TwgvimBQpiKqGGs8gga/GettyImages-1166497479.jpg",
    "source": "City of Sydney"
@@ -2522,7 +2522,7 @@ window.EVENT_DATA = {
    "date": "2026-09-09",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/musicnsw-social-club-3",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786495849/k7h9gk6i1z6d/4fWOMhG7rmqedPbWKVPs8y/917e3ef1-95e7-11f1-a8aa-abb67cd5d8fc--MusicNSW-Social-Club--3--Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -2532,7 +2532,7 @@ window.EVENT_DATA = {
    "date": "2026-09-09",
    "time": "18:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/free-entry-dj-nothing/199588",
    "image": "https://static.moshtix.com.au/uploads/28c6771d-fc91-43b6-b2f5-3addf15767a1x140x140",
    "source": "Moshtix"
@@ -2552,7 +2552,7 @@ window.EVENT_DATA = {
    "date": "2026-09-09",
    "time": "19:00",
    "venue": "Metro Social",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/metro-a-i-r-x-crasher-on-the-pulse-banjo-ulysses-bridge-dog-scratching/198295",
    "image": "https://static.moshtix.com.au/uploads/b5eaacb6-40e0-4d56-b1a3-ddfe323e800ax140x140",
    "source": "Moshtix"
@@ -2582,7 +2582,7 @@ window.EVENT_DATA = {
    "date": "2026-09-09",
    "time": "21:00",
    "venue": "The Golden Sheaf",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sheaf-wednesdays-september-9th-w-filly-phvo/199695",
    "image": "https://static.moshtix.com.au/uploads/ffb44940-25ed-45c8-8237-40806dd8b207x140x140",
    "source": "Moshtix"
@@ -2722,7 +2722,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "",
    "venue": "Camelot Lounge",
-   "category": "Live Music",
+   "category": "Soul, Jazz & Global",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/chasing-the-moon",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784098027/k7h9gk6i1z6d/1y2mdRJIAFxjvoZHBbLBrk/a0d94501-8018-11f1-86b0-db4d16c53979--Chasing-the-Moon-tile.jpg",
    "source": "City of Sydney"
@@ -2752,7 +2752,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "19:00",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/shred-fest-sydney-feat-obscura-ger-fallujah-guests-moved-to-metro-social-/189704",
    "image": "https://s1.ticketm.net/dam/a/825/e32ac8fa-a3f5-4967-975d-171bf5a3a825_111151_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -2772,7 +2772,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/old-school-funk-and-groove-night/199751",
    "image": "https://static.moshtix.com.au/uploads/f8e85820-14c3-4c5e-82a9-66a7079c0be1x140x140",
    "source": "Moshtix"
@@ -2832,7 +2832,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "21:00",
    "venue": "Sydney Opera House - Concert Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://www.ticketmaster.com.au/the-damned-50th-anniversary-sydney-10-09-2026/event/13006490B52B4DBF",
    "image": "https://s1.ticketm.net/dam/a/ef9/5c894614-9e91-4730-9d94-a026a373aef9_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -2842,7 +2842,7 @@ window.EVENT_DATA = {
    "date": "2026-09-10",
    "time": "21:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-10th-september/199311",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -2962,7 +2962,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "",
    "venue": "Redfern Town Hall",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/spring-awakening",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786920879/k7h9gk6i1z6d/p9v5ojbTGqHdP619yEDeH/c288a1d0-99c4-11f1-b3c0-35d73d20e848--Springs-Awakening-tile.jpg",
    "source": "City of Sydney"
@@ -2982,7 +2982,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "18:00",
    "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/bingo-loco-friday-11th-september-2026/197469",
    "image": "https://static.moshtix.com.au/uploads/e7dce2b7-ecd3-480c-8ea7-1e3b4de3d9ffx140x140",
    "source": "Moshtix"
@@ -2992,7 +2992,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "18:00",
    "venue": "Marlborough Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/marly-fridays-sep-11th/199772",
    "image": "https://static.moshtix.com.au/uploads/9305c6b0-6ba8-424f-89a0-6993c63478f5x140x140",
    "source": "Moshtix"
@@ -3002,7 +3002,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "18:30",
    "venue": "The Trocadero Room",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/del-korte-crew-ep-launch-free/199281",
    "image": "https://static.moshtix.com.au/uploads/9dd50183-c14f-4a61-af3a-5dc9251ffa0fx140x140",
    "source": "Moshtix"
@@ -3012,7 +3012,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/jonny-chopps-catalyst-tour/197995",
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -3042,7 +3042,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/jason-heerah-the-african-diaspora-feat-gervais-koffi/197285",
    "image": "https://static.moshtix.com.au/uploads/295160bb-7e65-4e9e-8f23-12afa8d02a3bx140x140",
    "source": "Moshtix"
@@ -3062,7 +3062,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-tipsey-the-tonics/199821",
    "image": "https://static.moshtix.com.au/uploads/c416334d-30d8-42b6-ab10-2087436d2c86x140x140",
    "source": "Moshtix"
@@ -3082,7 +3082,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "19:30",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/where-s-jai-sydney/197724",
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -3102,7 +3102,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "20:00",
    "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/after-dark-w-forever-on-high-stone-lions-51st-avenue/199441",
    "image": "https://static.moshtix.com.au/uploads/2880202a-b0b4-4a44-b69a-d44ba395dc38x140x140",
    "source": "Moshtix"
@@ -3112,7 +3112,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "20:00",
    "venue": "Oxford Art Factory, Gallery Bar",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/effraid-runway-drag-queen-celebration-free-entry-/199485",
    "image": "https://static.moshtix.com.au/uploads/6b37cac6-3abd-46be-bd7e-a3eb10d69d54x140x140",
    "source": "Moshtix"
@@ -3122,7 +3122,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "20:00",
    "venue": "Sean & Dolly's",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/club-phoenix/199693",
    "image": "https://static.moshtix.com.au/uploads/2d9bdaa0-a433-4199-950c-1d7da7a92bcex140x140",
    "source": "Moshtix"
@@ -3132,7 +3132,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "20:00",
    "venue": "The Beresford",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/beresford-fridays/199850",
    "image": "https://static.moshtix.com.au/uploads/45e8c86e-38d3-42a2-9625-b12450d96ce3x140x140",
    "source": "Moshtix"
@@ -3142,7 +3142,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "21:00",
    "venue": "Chinese Laundry",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-frim-mirasia/197595",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -3152,7 +3152,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "21:00",
    "venue": "The Albion Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-rnb-singalongs/198620",
    "image": "https://static.moshtix.com.au/uploads/f5202a86-8c58-4532-8130-65633a2038fex140x140",
    "source": "Moshtix"
@@ -3162,7 +3162,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "21:00",
    "venue": "Cult",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/live-forever-lil-peep-appreciation-night-potts-point/198641",
    "image": "https://static.moshtix.com.au/uploads/15486a8a-66e5-4630-8684-ae34dc558482x140x140",
    "source": "Moshtix"
@@ -3172,7 +3172,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "21:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/afrojamz-sydney-edition-fri-sep-11/198973",
    "image": "https://static.moshtix.com.au/uploads/cc115c31-5d74-4277-a464-659f071f6df9x140x140",
    "source": "Moshtix"
@@ -3182,7 +3182,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "21:30",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-11-sept-kickcheeze-wao-superclub/199793",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -3192,7 +3192,7 @@ window.EVENT_DATA = {
    "date": "2026-09-11",
    "time": "23:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/gallery-pres-o-flynn-uk-sydney/197480",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -3422,7 +3422,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "Camelot Lounge",
-   "category": "Live Music",
+   "category": "Soul, Jazz & Global",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/80s-rock-arena",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1763358836/k7h9gk6i1z6d/4xmU4u0aY5K5H0t0RZd8zo/96274320-c379-11f0-8b25-8b0257daf149--80-s-Rock-Arena-tile.jpg",
    "source": "City of Sydney"
@@ -3432,7 +3432,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sung-in-company",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786797451/k7h9gk6i1z6d/5Garns7qYdeHgGg0vJNxnq/ad29a750-98a5-11f1-acdf-d9d69b26b3ee--Sung-in-Company-tile.jpg",
    "source": "City of Sydney"
@@ -3442,7 +3442,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "16:00",
    "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-brazilian-day-experience/197392",
    "image": "https://static.moshtix.com.au/uploads/3d8a2af0-0725-4964-8afc-f132e1a1c474x140x140",
    "source": "Moshtix"
@@ -3462,7 +3462,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "18:00",
    "venue": "Liberty Hall",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/rewind-1-0/193356",
    "image": "https://static.moshtix.com.au/uploads/a82c3569-cc7f-42d7-b5e5-f50c9c017a82x140x140",
    "source": "Moshtix"
@@ -3472,7 +3472,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ivan-ooze-isolation-of-mistaken-infamy-tour/195260",
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -3482,7 +3482,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/miss-kaninna-blackprint-tour-2026/196818",
    "image": "https://s1.ticketm.net/dam/a/ff1/1722bd50-f907-42b5-ab97-9a36b20feff1_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -3492,7 +3492,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/tropivibes/195379",
    "image": "https://static.moshtix.com.au/uploads/c88ccc01-4abe-4926-9a68-4f49d4f42bdcx140x140",
    "source": "Moshtix"
@@ -3562,7 +3562,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "21:00",
    "venue": "Chinese Laundry",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-people-s-party-full-venue-takeover-/197596",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -3572,7 +3572,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "21:00",
    "venue": "Civic Underground",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/harry-hayes/198482",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -3582,7 +3582,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "21:00",
    "venue": "Oxford Art Factory, Gallery Bar",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/we-ll-carry-on-mcr-appreciation-night-sydney/197864",
    "image": "https://static.moshtix.com.au/uploads/86af7388-8e8b-422b-9e1d-a9760e2e397dx140x140",
    "source": "Moshtix"
@@ -3592,7 +3592,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "21:00",
    "venue": "Tokyo Sing Song",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/lossless-001/197902",
    "image": "https://static.moshtix.com.au/uploads/2503a27b-7f1c-4e64-9f59-f4fe4a099d28x140x140",
    "source": "Moshtix"
@@ -3602,7 +3602,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "21:00",
    "venue": "The Albion Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/vibe-saturdays-the-biggest-party-in-the-west/199566",
    "image": "https://static.moshtix.com.au/uploads/24870ef8-35a1-4188-b703-70cea9a2c753x140x140",
    "source": "Moshtix"
@@ -3612,7 +3612,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "22:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-pres-club-heartbeat-september-12/197498",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -3622,7 +3622,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "22:00",
    "venue": "Bootleggers",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/last-words-free-entry-dj-s-sydney-emo-night/198237",
    "image": "https://static.moshtix.com.au/uploads/353c5e73-6d5e-416d-a9c8-75f9e7cf81e7x140x140",
    "source": "Moshtix"
@@ -3632,7 +3632,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "22:00",
    "venue": "Carousel Bar & Ballroom",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-houseology-secret-guest-saturday-12th-september-/198658",
    "image": "https://static.moshtix.com.au/uploads/39b241ed-233e-4402-a09e-262b10c5f73fx140x140",
    "source": "Moshtix"
@@ -3642,7 +3642,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "23:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/pola-bryson-uk-/198281",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -3652,7 +3652,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "23:00",
    "venue": "Lansdowne Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/habstrakt-fra-/198049",
    "image": "https://s1.ticketm.net/dam/a/e80/3fd70545-1aa9-4acf-a3b3-74f1c1974e80_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -3662,7 +3662,7 @@ window.EVENT_DATA = {
    "date": "2026-09-12",
    "time": "23:00",
    "venue": "Marlborough Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/house-party-saturdays-12th-september/198834",
    "image": "https://static.moshtix.com.au/uploads/fcf689d9-98cf-4927-bc06-6d67d974cb7bx140x140",
    "source": "Moshtix"
@@ -3782,7 +3782,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/muharrem-aslan-sounds-of-anatolia",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783233598/k7h9gk6i1z6d/3nB2wGCSh4CnAaDJ6aBetB/9d24e340-783b-11f1-9c74-6d063f1360b9--Muharrem-Aslan---Sounds-of-Anatolia-tile.jpg",
    "source": "City of Sydney"
@@ -3792,7 +3792,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/nadyas-soulska-in-stilettos-lazybones-lounge",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787662591/k7h9gk6i1z6d/7JAsg1xcQszo4FOfwjJzGZ/afe85e71-a082-11f1-bbd9-9b85272cb75b--Nadya-s-SoulSka-in-Stilettos---Lazybones-Lounge--tile.jpg",
    "source": "City of Sydney"
@@ -3802,7 +3802,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "",
    "venue": "Kauri Foreshore Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-reserves-live-at-kauri-hotel",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787463331/k7h9gk6i1z6d/33U8Ey7Fgneaa1UHOfuvcZ/de088171-9eb3-11f1-b984-1fa960835b81--The-Reserves-Live-at-Kauri-Hotel-tile.jpg",
    "source": "City of Sydney"
@@ -3812,7 +3812,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "12:00",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/axekick-x-aaa-splinter-nembutolik-double-barrel-solution-more/199135",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -3832,7 +3832,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-the-jazz-junkies/194703",
    "image": "https://static.moshtix.com.au/uploads/f28d491a-82c8-4b8e-b173-485277c63309x140x140",
    "source": "Moshtix"
@@ -3842,7 +3842,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/nadya-s-soulska-in-stilettos/198826",
    "image": "https://static.moshtix.com.au/uploads/6d53a40b-a635-4e38-b7cf-3829735260e1x140x140",
    "source": "Moshtix"
@@ -3852,7 +3852,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "18:00",
    "venue": "The Vanguard",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/girls-just-wanna-raise-funds/199779",
    "image": "https://static.moshtix.com.au/uploads/139a29c7-5daa-4871-9e29-b423ee783ad4x140x140",
    "source": "Moshtix"
@@ -3862,7 +3862,7 @@ window.EVENT_DATA = {
    "date": "2026-09-13",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/miss-kaninna-blackprint-tour-2026-extra-show-/197522",
    "image": "https://s1.ticketm.net/dam/a/ff1/1722bd50-f907-42b5-ab97-9a36b20feff1_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -4102,7 +4102,7 @@ window.EVENT_DATA = {
    "date": "2026-09-15",
    "time": "18:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-tuesday-night-jazz-orchestra-15-sept/197058",
    "image": "https://static.moshtix.com.au/uploads/564ab28f-2572-4914-9b75-7f6fccdf2c01x140x140",
    "source": "Moshtix"
@@ -4222,7 +4222,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "",
    "venue": "Bondi Pavilion",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concert-with-sarina-jennings",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785981510/k7h9gk6i1z6d/5LkjzEdhcDNGTia3wm1nlf/e519e941-9139-11f1-b17f-3f940017e567--Lunchtime-Concert-with-Sarina-Jennings-tile.jpg",
    "source": "City of Sydney"
@@ -4232,7 +4232,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "",
    "venue": "State Library of NSW",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/spring-sessions",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785128295/k7h9gk6i1z6d/4QXE37IH7s6fWja6dAfykS/8118b670-8977-11f1-b17e-634453016a19--Spring-Sessions-tile.jpg",
    "source": "City of Sydney"
@@ -4242,7 +4242,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "",
    "venue": "St James Church",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/symphoniae-sacrae",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786512427/k7h9gk6i1z6d/iBwENSoeYDOBmXdZIRbfN/d7ecfd11-960d-11f1-b5bf-5bc0cc92734f--Symphoniae-Sacrae-tile.jpg",
    "source": "City of Sydney"
@@ -4272,7 +4272,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-coast/198177",
    "image": "https://static.moshtix.com.au/uploads/ce2403a7-7202-4ae3-aa17-cd8e56794de8x140x140",
    "source": "Moshtix"
@@ -4282,7 +4282,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "19:00",
    "venue": "Metro Social",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/metro-a-i-r-x-crasher-on-the-pulse-e4444e-heart-armour-toy-shaw/198297",
    "image": "https://static.moshtix.com.au/uploads/b25feb67-4456-4940-abbe-d927009031b7x140x140",
    "source": "Moshtix"
@@ -4302,7 +4302,7 @@ window.EVENT_DATA = {
    "date": "2026-09-16",
    "time": "21:00",
    "venue": "The Golden Sheaf",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sheaf-wednesdays-september-16th-w-manny/199696",
    "image": "https://static.moshtix.com.au/uploads/3315c5a7-cfb5-435c-b404-c00d0b5ce602x140x140",
    "source": "Moshtix"
@@ -4382,7 +4382,7 @@ window.EVENT_DATA = {
    "date": "2026-09-17",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/house-of-hymns",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785808699/k7h9gk6i1z6d/1ETVV5Iom8wptrvSAPsJw0/aa42f021-8fa7-11f1-a110-abbe846e3908--House-of-Hymns-tile.jpg",
    "source": "City of Sydney"
@@ -4392,7 +4392,7 @@ window.EVENT_DATA = {
    "date": "2026-09-17",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/julian-lage",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778732245/k7h9gk6i1z6d/2SVD35YZpevyocDQBU4ssC/06b152c0-4f48-11f1-a6ae-611a385862a0--Julian-Lage-tile.jpg",
    "source": "City of Sydney"
@@ -4412,7 +4412,7 @@ window.EVENT_DATA = {
    "date": "2026-09-17",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-grave-album-launch-avery-pickup-charlie-donnellan-marina-anthea-/197240",
    "image": "https://static.moshtix.com.au/uploads/ea4181d7-087d-4f72-a303-b89f5577ae62x140x140",
    "source": "Moshtix"
@@ -4432,7 +4432,7 @@ window.EVENT_DATA = {
    "date": "2026-09-17",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-steve-hunter-band/198989",
    "image": "https://static.moshtix.com.au/uploads/6245e3f1-7b7a-4320-95a5-465cb5bffa28x140x140",
    "source": "Moshtix"
@@ -4492,7 +4492,7 @@ window.EVENT_DATA = {
    "date": "2026-09-17",
    "time": "19:30",
    "venue": "Factory Theatre",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/brother-ali-usa-w-horrorshow/197411",
    "image": "https://static.moshtix.com.au/uploads/cf40640b-757b-4e6e-9a9a-af23c8906a3dx140x140",
    "source": "Moshtix"
@@ -4512,7 +4512,7 @@ window.EVENT_DATA = {
    "date": "2026-09-17",
    "time": "21:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-17th-september/199362",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -4662,7 +4662,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "",
    "venue": "Hayden Orpheum Picture Palace",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/california-legends-live",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775103123/k7h9gk6i1z6d/6zrt8I34MHYZX8Ibjjp4r0/f15d2620-2e49-11f1-8aa2-5f6bbc496fa0--California-Legends-LIVE-tile.jpg",
    "source": "City of Sydney"
@@ -4672,7 +4672,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "",
    "venue": "Cardea Barangaroo",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/swing-and-sway-soiree-at-cardea-barangaroo",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783478683/k7h9gk6i1z6d/3hiZln6BlTBOg7uNdtbRqp/9e84f800-7a76-11f1-a97a-2b2b47325ebb--Crooners---Cocktails-tile.jpg",
    "source": "City of Sydney"
@@ -4682,7 +4682,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "",
    "venue": "State Library of NSW",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/earth-flow",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785124348/k7h9gk6i1z6d/4Ge40mOI3X5YjijKUo8OgC/65ca4a41-896e-11f1-b948-1b707ada1f01--Earth-Flow-tile.jpg",
    "source": "City of Sydney"
@@ -4692,7 +4692,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "18:00",
    "venue": "Marlborough Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/marly-fridays-sep-18th/199773",
    "image": "https://static.moshtix.com.au/uploads/37479df3-f67f-443e-bd1e-b9f99e9bcb85x140x140",
    "source": "Moshtix"
@@ -4702,7 +4702,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "18:30",
    "venue": "Felons Barrel Room",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/wonder-woman-the-songs-of-stevie-wonder/199816",
    "image": "https://static.moshtix.com.au/uploads/6c0fd53c-82a3-4417-aa1c-5172a983690cx140x140",
    "source": "Moshtix"
@@ -4712,7 +4712,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "19:00",
    "venue": "The Vanguard",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/echoes-of-flamenco-paco-lara-paul-a-george/193622",
    "image": "https://static.moshtix.com.au/uploads/cfb4c6b9-fbb6-4d5e-bc6b-6c12b08f3425x140x140",
    "source": "Moshtix"
@@ -4742,7 +4742,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "19:00",
    "venue": "Oxford Art Factory, Main Room",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/mom-presents-yes-or-no-3-low-life-smv-xiao-xiao-kidskin-more-/198935",
    "image": "https://static.moshtix.com.au/uploads/5654eae0-ca7a-4bd5-82da-67f9365eb740x140x140",
    "source": "Moshtix"
@@ -4792,7 +4792,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "20:00",
    "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/after-dark-w-nate-morrison-eva-diana-severance/199678",
    "image": "https://static.moshtix.com.au/uploads/f2d0dd83-fd9d-4875-86c8-d8264a5d3be7x140x140",
    "source": "Moshtix"
@@ -4802,7 +4802,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "20:00",
    "venue": "The Beresford",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/beresford-fridays/199851",
    "image": "https://static.moshtix.com.au/uploads/45e8c86e-38d3-42a2-9625-b12450d96ce3x140x140",
    "source": "Moshtix"
@@ -4812,7 +4812,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "21:00",
    "venue": "Chinese Laundry",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-friction-full-venue-takeover-kid-kenobi-30-years-/197597",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -4822,7 +4822,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "21:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/franck-all-night-long-/197121",
    "image": "https://static.moshtix.com.au/uploads/6be54fec-831b-4954-b3eb-09258b277d77x140x140",
    "source": "Moshtix"
@@ -4832,7 +4832,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "21:00",
    "venue": "The Albion Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-boycey/198622",
    "image": "https://static.moshtix.com.au/uploads/05d99e88-80fc-40c9-9d6d-14e04f495cffx140x140",
    "source": "Moshtix"
@@ -4842,7 +4842,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "21:30",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-18-sept-wao-superclub-ivy/199794",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -4852,7 +4852,7 @@ window.EVENT_DATA = {
    "date": "2026-09-18",
    "time": "23:00",
    "venue": "The Vanguard",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/birdsnake-live/198734",
    "image": "https://static.moshtix.com.au/uploads/c553db1c-17fa-4a76-b14f-46a4913ec2d1x140x140",
    "source": "Moshtix"
@@ -4862,7 +4862,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "The Factory Theatre",
-   "category": "Stage & Screen",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-streets-are-paved-with-murder-improvised-murder-mystery",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779510188/k7h9gk6i1z6d/vqjdTr9GRnjnNV5tbMxC5/b746e521-565d-11f1-b34d-25008ec9fc42--The-Streets-are-Paved-With-Murder-tile.jpg",
    "source": "City of Sydney"
@@ -5002,7 +5002,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "Sydney Opera House",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/mozarts-last-symphonies",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787717847/k7h9gk6i1z6d/29z8Ee1xSHWuHlKuenYAuk/45c9a4e1-a104-11f1-9183-dfd0f2ddf14c--Australian-Chamber-Orchestra--Mozart-s-Last-Symphonies-tile.jpg",
    "source": "City of Sydney"
@@ -5012,7 +5012,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/anime-song-sydney-complex-vol-6-subs-greater-than-dubs",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787656009/k7h9gk6i1z6d/6aAYcgUsUnn9eqTJ5LaAMT/a7aa6a91-a074-11f1-befb-bf799334791b--Anime-Song-Sydney-Complex-Vol--6---Subs---Dubs-tile.jpg",
    "source": "City of Sydney"
@@ -5022,7 +5022,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/intoodeep-sunset-boat-party-7-03",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1771902665/k7h9gk6i1z6d/3i8vZUMYuXnaDjefKz7Zcm/0f389411-112e-11f1-b316-4106a396795f--InTooDeep-Sunset-Boat-Party--7-03--tile.jpg",
    "source": "City of Sydney"
@@ -5032,7 +5032,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "The Neilson",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sessions-on-the-pier-time-and-tide",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787560133/k7h9gk6i1z6d/5cWNz2XCLZUz7oSkgVVsvi/e7d554d1-9f94-11f1-8685-916b810e4c2e--Sessions-on-the-Pier--Time---Tide-tile.jpg",
    "source": "City of Sydney"
@@ -5042,7 +5042,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/daniel-muggleton-live",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1763696734/k7h9gk6i1z6d/51iouiHZ8SOyOkdY3PuXdx/158f4f81-c68c-11f0-81b7-356c221e2a08--Daniel-Muggleton--You-May-Be-White--I-May-Be-Crazy-tile.jpg",
    "source": "City of Sydney"
@@ -5062,7 +5062,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "14:00",
    "venue": "ivy",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-hoedown-throwdown-september-19-2026/199316",
    "image": "https://static.moshtix.com.au/uploads/bdfa1cce-52dc-471e-975e-77396faca222x140x140",
    "source": "Moshtix"
@@ -5072,7 +5072,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "18:00",
    "venue": "Australian Tour",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/odd-mob-australian-tour/194522",
    "image": "https://static.moshtix.com.au/uploads/9d5413fa-c5e2-4fa1-92c0-7b82fbeaca7bx140x140",
    "source": "Moshtix"
@@ -5122,7 +5122,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/cuban-social-club/198635",
    "image": "https://static.moshtix.com.au/uploads/0420b1b6-56b6-4992-9f51-11760f9a234cx140x140",
    "source": "Moshtix"
@@ -5192,7 +5192,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "20:00",
    "venue": "Oxford Art Factory, Gallery Bar",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/broke-af-emo-night-sydney/193857",
    "image": "https://static.moshtix.com.au/uploads/e6ead009-ee47-4971-84cd-5d20938470d1x140x140",
    "source": "Moshtix"
@@ -5202,7 +5202,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "21:00",
    "venue": "Chinese Laundry",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-spekki-webu-nl-mehmet-alpdogan-friends/197598",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -5212,7 +5212,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "21:00",
    "venue": "The Albion Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/vibe-saturdays-the-biggest-party-in-the-west/199564",
    "image": "https://static.moshtix.com.au/uploads/e4ac36dd-1e67-4419-a2fe-f4cd474e09e4x140x140",
    "source": "Moshtix"
@@ -5222,7 +5222,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "22:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-pres-club-heartbeat-september-19-ft-jxl/197499",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -5232,7 +5232,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "22:00",
    "venue": "Bootleggers",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/last-words-free-entry-dj-s-sydney-emo-night/198238",
    "image": "https://static.moshtix.com.au/uploads/353c5e73-6d5e-416d-a9c8-75f9e7cf81e7x140x140",
    "source": "Moshtix"
@@ -5242,7 +5242,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "22:00",
    "venue": "Carousel Bar & Ballroom",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-eddie-richards-saturday-19th-september-/198659",
    "image": "https://static.moshtix.com.au/uploads/62f7e130-aea1-4197-8967-c39833c7f760x140x140",
    "source": "Moshtix"
@@ -5262,7 +5262,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "22:00",
    "venue": "Tokyo Sing Song",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/hardwire-mabel-clem-mina-tonic/199825",
    "image": "https://static.moshtix.com.au/uploads/4e003e75-d42b-41e9-9ca1-6c339887823bx140x140",
    "source": "Moshtix"
@@ -5272,7 +5272,7 @@ window.EVENT_DATA = {
    "date": "2026-09-19",
    "time": "23:45",
    "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/berlin-rave-sydney-ft-anxhela-italy-/199045",
    "image": "https://static.moshtix.com.au/uploads/fc735893-5199-4c4d-9108-fc2c401264d9x140x140",
    "source": "Moshtix"
@@ -5402,7 +5402,7 @@ window.EVENT_DATA = {
    "date": "2026-09-20",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-standing-circle/198559",
    "image": "https://static.moshtix.com.au/uploads/a3df33bf-6046-4ea6-8bd6-817ff32a56e1x140x140",
    "source": "Moshtix"
@@ -5412,7 +5412,7 @@ window.EVENT_DATA = {
    "date": "2026-09-20",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/miles-davis-birth-of-the-cool-with-the-birth-of-the-cool-orchestra/198987",
    "image": "https://static.moshtix.com.au/uploads/c33633a3-ddf9-46cc-91e4-7c952499defbx140x140",
    "source": "Moshtix"
@@ -5472,7 +5472,7 @@ window.EVENT_DATA = {
    "date": "2026-09-21",
    "time": "",
    "venue": "Chau Chak Wing Museum",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/music-in-the-museum-with-jazzsoc",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787889472/k7h9gk6i1z6d/553doQ1fcCwRRbzQhtMnV6/5ff61ba1-a294-11f1-8c54-6dc227bd3cf9--Music-in-the-Museum-with-JazzSoc-tile.jpg",
    "source": "City of Sydney"
@@ -5562,7 +5562,7 @@ window.EVENT_DATA = {
    "date": "2026-09-22",
    "time": "",
    "venue": "Sydney Opera House",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/suzanne-vega-flying-with-angels-tour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1770263187/k7h9gk6i1z6d/5AjL9ACRqCmCI6vBABJEdf/67d15601-0244-11f1-b138-43130d1953ee--Suzanne-Vega--Flying-with-Angels-Tour-tile.jpg",
    "source": "City of Sydney"
@@ -5722,7 +5722,7 @@ window.EVENT_DATA = {
    "date": "2026-09-23",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/jay-stocker/198029",
    "image": "https://static.moshtix.com.au/uploads/4f14a5fa-cd12-435e-bf4b-6dc473dd21efx140x140",
    "source": "Moshtix"
@@ -5732,7 +5732,7 @@ window.EVENT_DATA = {
    "date": "2026-09-23",
    "time": "19:00",
    "venue": "Metro Social",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/metro-a-i-r-x-crasher-on-the-pulse-evangeline-hinano-fujisaki-fatshaudi/198298",
    "image": "https://static.moshtix.com.au/uploads/07885849-4091-44aa-ab42-08840b7db207x140x140",
    "source": "Moshtix"
@@ -5762,7 +5762,7 @@ window.EVENT_DATA = {
    "date": "2026-09-23",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/clementine-douglas/198936",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -5772,7 +5772,7 @@ window.EVENT_DATA = {
    "date": "2026-09-23",
    "time": "21:00",
    "venue": "The Golden Sheaf",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/full-moon-uv-party-september-23rd-w-dillin-allan/199697",
    "image": "https://static.moshtix.com.au/uploads/3f5cca45-7b4a-4cb4-a24d-a72b9ded1789x140x140",
    "source": "Moshtix"
@@ -5892,7 +5892,7 @@ window.EVENT_DATA = {
    "date": "2026-09-24",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/pash/195747",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -5922,7 +5922,7 @@ window.EVENT_DATA = {
    "date": "2026-09-24",
    "time": "19:00",
    "venue": "Liberty Hall",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/fishbone-in-your-face-40th-anniversary-australian-tour/198445",
    "image": "https://static.moshtix.com.au/uploads/5ab4db01-cc4c-4013-80d6-bfa3025ba0c1x140x140",
    "source": "Moshtix"
@@ -5932,7 +5932,7 @@ window.EVENT_DATA = {
    "date": "2026-09-24",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-get-folked/199411",
    "image": "https://static.moshtix.com.au/uploads/ed8675bf-7247-4251-8e63-966860d49c71x140x140",
    "source": "Moshtix"
@@ -5952,7 +5952,7 @@ window.EVENT_DATA = {
    "date": "2026-09-24",
    "time": "21:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-24th-september/199361",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -5982,7 +5982,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "",
    "venue": "See listing",
-   "category": "Stage & Screen",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/we-need-to-talk-couples-comedy-show",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785979956/k7h9gk6i1z6d/57aqwQqNux7nTKymuPWnz9/754f0351-9136-11f1-b9d6-996a4f3427a0--We-Need-To-Talk---Couples-Comedy-Show-tile.jpg",
    "source": "City of Sydney"
@@ -6082,7 +6082,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/ben-lee-and-georgia-maq",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782089027/k7h9gk6i1z6d/1aKazxicVq7rktGohcIyqL/232b18b0-6dd3-11f1-b3da-a3f589a22e83---Ben-Lee---Georgia-Maq-tile.jpg",
    "source": "City of Sydney"
@@ -6092,7 +6092,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-night-in-beirut-ft-jimmy-dee",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1754552201/k7h9gk6i1z6d/5byvRxZTArnaqeAm0xSGk5/e3dcfa10-7360-11f0-b818-5394078924dd--A-Night-in-Beirut-Ft--Jimmy-Dee-tile.jpg",
    "source": "City of Sydney"
@@ -6102,7 +6102,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "",
    "venue": "Seymour Centre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/cabaret-cocktails-and-karaoke-in-september",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784087362/k7h9gk6i1z6d/7zHXQwBsOSdBAga5iSaOHx/aae33101-7fff-11f1-9530-a158b2b7a9a4--Cabaret--Cocktails---Karaoke-in-September-tile.jpg",
    "source": "City of Sydney"
@@ -6112,7 +6112,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/comedy-for-corporates-work-life-balance-is-for-losers-newtown",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785487831/k7h9gk6i1z6d/6ylSrwbwniYXrRzli8f9Ro/bd467e50-8cbc-11f1-ae1c-417411a1d878--Comedy-for-corporates--work-life-balance-is-for-losers-tile.jpg",
    "source": "City of Sydney"
@@ -6122,7 +6122,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "",
    "venue": "Bondi Pavilion",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/no-small-talk",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779337526/k7h9gk6i1z6d/4WbeWpmsMEum3n2jwycfmr/d81de1c1-54ca-11f1-a028-e5e12e339d60--No-Small-Talk--tile.jpg",
    "source": "City of Sydney"
@@ -6132,7 +6132,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "17:00",
    "venue": "Red Rattler Theatre",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/more-than-words-2026/198726",
    "image": "https://static.moshtix.com.au/uploads/f714d805-9184-498a-962b-e0c5feeb40fcx140x140",
    "source": "Moshtix"
@@ -6142,7 +6142,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "18:00",
    "venue": "Marlborough Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/marly-fridays-sep-25th/199776",
    "image": "https://static.moshtix.com.au/uploads/205b1da5-e8c9-4113-bee1-8b1597f0bf63x140x140",
    "source": "Moshtix"
@@ -6162,7 +6162,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/9lives-with-kaizo-jequya-vanni/199594",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -6172,7 +6172,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/greg-nunan-the-general-jacksons-marshall-the-fro/193696",
    "image": "https://static.moshtix.com.au/uploads/4dc10c80-fb2a-47d9-bd18-04e15ca88b2ex140x140",
    "source": "Moshtix"
@@ -6192,7 +6192,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "19:00",
    "venue": "Sean & Dolly's",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/club-dirty-martini-kink/199188",
    "image": "https://static.moshtix.com.au/uploads/e1c0d9c2-be15-4f20-b0b5-e98d88f28c75x140x140",
    "source": "Moshtix"
@@ -6232,7 +6232,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "19:30",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/jem-cassar-daley-tattoos-used-to-come-off-in-the-pool-album-tour/197633",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -6252,7 +6252,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "19:30",
    "venue": "Felons Barrel Room",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/sade-the-live-experience/197871",
    "image": "https://static.moshtix.com.au/uploads/96e6d672-042a-4320-adb6-2fad50d7b5e0x140x140",
    "source": "Moshtix"
@@ -6272,7 +6272,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "20:00",
    "venue": "Metro Theatre",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/aaradhna/199345",
    "image": "https://s1.ticketm.net/dam/a/142/0445ca01-1867-4154-9749-a6fd1abcc142_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -6282,7 +6282,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "20:00",
    "venue": "Waywards Ballroom",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/turkish-rock-night-vol-iii-duman-edition/199401",
    "image": "https://static.moshtix.com.au/uploads/7115dae8-a17c-42fd-a5bc-7a92c431920bx140x140",
    "source": "Moshtix"
@@ -6292,7 +6292,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "20:00",
    "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/after-dark-w-saturn-chromatic-trio-of-misfortune-ted-digby/199683",
    "image": "https://static.moshtix.com.au/uploads/65ab03a9-02a9-4132-a643-d05aecc54c77x140x140",
    "source": "Moshtix"
@@ -6302,7 +6302,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "20:00",
    "venue": "The Beresford",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/beresford-fridays/199852",
    "image": "https://static.moshtix.com.au/uploads/45e8c86e-38d3-42a2-9625-b12450d96ce3x140x140",
    "source": "Moshtix"
@@ -6312,7 +6312,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "21:00",
    "venue": "Chinese Laundry",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-ft-ammara-uk-partigirl/197599",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -6322,7 +6322,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "21:00",
    "venue": "Burdekin Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/a-night-of-dubstep-ft-avello-usa-/198200",
    "image": "https://static.moshtix.com.au/uploads/fcaabf34-c53b-4a96-8890-00fde5c7b990x140x140",
    "source": "Moshtix"
@@ -6332,7 +6332,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "21:00",
    "venue": "The Albion Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-neon-party/198623",
    "image": "https://static.moshtix.com.au/uploads/90fd0f7d-6ae9-4479-adf4-d916e44e8bf8x140x140",
    "source": "Moshtix"
@@ -6342,7 +6342,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "21:00",
    "venue": "Tokio Hotel at Home Nightclub",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/boogie-wonderland-sydney/198814",
    "image": "https://static.moshtix.com.au/uploads/1e3dc70a-6f67-4d87-abd7-b70e92a5c82dx140x140",
    "source": "Moshtix"
@@ -6352,7 +6352,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "21:30",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-25-sept-wao-superclub-ivy/199795",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -6362,7 +6362,7 @@ window.EVENT_DATA = {
    "date": "2026-09-25",
    "time": "23:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/james-massiah-uk-/198888",
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -6392,7 +6392,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "The Factory Theatre",
-   "category": "Stage & Screen",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/comedian-vs-chatgpt",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786938565/k7h9gk6i1z6d/2zm5TOAI5HcZboFWu8q4iF/29287721-99ee-11f1-abb4-e1c4a3b6a780--Comedian-vs-ChatGPT-tile.jpg",
    "source": "City of Sydney"
@@ -6642,7 +6642,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "Seymour Centre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/orphalese",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787911333/k7h9gk6i1z6d/279gcwyqvoojxDdIXUYQMm/6af04981-a2c7-11f1-8bfd-67b53ecda55e--Alexandria-to-Delos-tile.jpg",
    "source": "City of Sydney"
@@ -6652,7 +6652,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "",
    "venue": "Cockle Bay Wharf",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/together-one-moon",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786450811/k7h9gk6i1z6d/7rvPEYPvDoeTZ5hjjnjP7P/444422d1-957e-11f1-bff1-cd54456ecd70--Together--One-Moon-----tile.jpg",
    "source": "City of Sydney"
@@ -6672,7 +6672,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "14:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/240km-h-f2f-sydney-serafina-all-day-long/197792",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -6682,7 +6682,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "14:00",
    "venue": "Slip Inn Garden",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/follow-me-presents-in-the-garden-feat-danny-rampling/196796",
    "image": "https://static.moshtix.com.au/uploads/de1761fd-6464-4a19-8e18-bb9a09a701a4x140x140",
    "source": "Moshtix"
@@ -6702,7 +6702,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "16:00",
    "venue": "Mrs Macquaries Point",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/green-velvet-live-at-the-point/199171",
    "image": "https://static.moshtix.com.au/uploads/97af7c0a-6ee0-45df-ae54-12adafcbe677x140x140",
    "source": "Moshtix"
@@ -6732,7 +6732,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "19:00",
    "venue": "Bootleggers",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sienna-skies-spring-tour-2026-w-saving-face-down-and-out-last-words-afterparty/194661",
    "image": "https://static.moshtix.com.au/uploads/36e03e5c-a4f5-42b3-881c-55b18ed64509x140x140",
    "source": "Moshtix"
@@ -6752,7 +6752,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/afrombollo/197999",
    "image": "https://static.moshtix.com.au/uploads/d8ed763e-c200-4b96-bb7b-151792d27e91x140x140",
    "source": "Moshtix"
@@ -6782,7 +6782,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "20:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/carcass-uk-putrefying-down-under-w-brujeria-usa-/195387",
    "image": "https://static.moshtix.com.au/uploads/a297a5ca-4188-413f-b3b2-bb5b29f4f9b1x140x140",
    "source": "Moshtix"
@@ -6792,7 +6792,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "20:00",
    "venue": "Oxford Art Factory, Gallery Bar",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/jericho-pull-me-under-single-launch-with-l-a-r-m-free-entry-/199488",
    "image": "https://static.moshtix.com.au/uploads/c60de61e-63fc-4ef5-a98d-da36d9729329x140x140",
    "source": "Moshtix"
@@ -6802,7 +6802,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "20:30",
    "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/anastasia/194373",
    "image": "https://static.moshtix.com.au/uploads/dc0df32d-7755-49d4-b363-21aa9e83373dx140x140",
    "source": "Moshtix"
@@ -6812,7 +6812,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "21:00",
    "venue": "Chinese Laundry",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-headhunters-guy-contact-solar-suite-amotik-de-/197600",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -6822,7 +6822,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "21:00",
    "venue": "The Albion Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-vibe-saturdays-dj-noiz-feat-bina-butta-live/199442",
    "image": "https://static.moshtix.com.au/uploads/1adcadbe-9c9b-4fd0-8c98-a5aacb8c9d26x140x140",
    "source": "Moshtix"
@@ -6832,7 +6832,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "22:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-pres-club-heartbeat-september-26/197500",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -6842,7 +6842,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "22:00",
    "venue": "Carousel Bar & Ballroom",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-membership-launch-party-saturday-26th-september-/198660",
    "image": "https://static.moshtix.com.au/uploads/05a30494-8065-4b4d-bfd2-d1f0a2dbf313x140x140",
    "source": "Moshtix"
@@ -6852,7 +6852,7 @@ window.EVENT_DATA = {
    "date": "2026-09-26",
    "time": "23:00",
    "venue": "The Vanguard",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/never-enough/192183",
    "image": "https://static.moshtix.com.au/uploads/d153ce48-1fc1-46f4-98cb-e8c1c0bf33f9x140x140",
    "source": "Moshtix"
@@ -6872,7 +6872,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "",
    "venue": "See listing",
-   "category": "Stage & Screen",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/house-of-ick-sketch-comedy-its",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788082206/k7h9gk6i1z6d/6nfCbFbGtXjXD8nhavI4o4/6bd55ff0-a454-11f1-b7bf-e7749267ad48--House-of-Ick---Sketch-Comedy-ITS-tile.jpg",
    "source": "City of Sydney"
@@ -6972,7 +6972,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-search-for-home",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787632058/k7h9gk6i1z6d/1NACAbwpT5MR3goUq7KZNd/3b7aaa61-a03d-11f1-a003-ad1f746c4db4--A-Search-for-Home-tile.jpg",
    "source": "City of Sydney"
@@ -6982,7 +6982,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "",
    "venue": "The Vanguard",
-   "category": "Live Music",
+   "category": "Soul, Jazz & Global",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/dannielle-de-andrea",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787036965/k7h9gk6i1z6d/ym4okXRATI0ohmhcTMq6d/13f3a3e1-9ad2-11f1-8432-c53992f61336--Dannielle-De-Andrea-tile.jpg",
    "source": "City of Sydney"
@@ -6992,7 +6992,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/return-of-the-queens",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782178992/k7h9gk6i1z6d/6xlbQlIpYntD8lIkHRAQkE/97fe0381-6ea2-11f1-9963-e13eb8e201d0--Return-of-the-Queens-tile.jpg",
    "source": "City of Sydney"
@@ -7022,7 +7022,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "16:00",
    "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Live Music",
+   "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/sound-of-anime-5-girl-band-anime-only/198046",
    "image": "https://static.moshtix.com.au/uploads/2c9b6317-ea8a-4968-bd8e-877d51700a50x140x140",
    "source": "Moshtix"
@@ -7032,7 +7032,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/soul-roots-revival-band-soul-funk-celebration/198986",
    "image": "https://static.moshtix.com.au/uploads/59f98867-f8ba-449f-aff8-882c9fc37bd0x140x140",
    "source": "Moshtix"
@@ -7042,7 +7042,7 @@ window.EVENT_DATA = {
    "date": "2026-09-27",
    "time": "18:00",
    "venue": "Liberty Hall",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/flavour-the-afroculture-experience/198314",
    "image": "https://static.moshtix.com.au/uploads/6e7fa25b-ea8b-47d7-9184-5dc984f89a2cx140x140",
    "source": "Moshtix"
@@ -7402,7 +7402,7 @@ window.EVENT_DATA = {
    "date": "2026-09-30",
    "time": "19:00",
    "venue": "Metro Social",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/metro-a-i-r-x-crasher-on-the-pulse-poltergeist-9000-agony-yo-oo-ya/198299",
    "image": "https://static.moshtix.com.au/uploads/915708c3-e124-4b56-aa96-2936217f0a2ax140x140",
    "source": "Moshtix"
@@ -7432,7 +7432,7 @@ window.EVENT_DATA = {
    "date": "2026-09-30",
    "time": "21:00",
    "venue": "The Golden Sheaf",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sheaf-wednesdays-september-30th-w-seba/199698",
    "image": "https://static.moshtix.com.au/uploads/18b39d23-62fc-4c38-940f-4ff7a7f72c7dx140x140",
    "source": "Moshtix"
@@ -7492,7 +7492,7 @@ window.EVENT_DATA = {
    "date": "2026-10-01",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/missy-higgins-or-live-at-the-point",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784613260/k7h9gk6i1z6d/4ySeCQ0AZbleMsjXMB2dyi/788b9d11-84c7-11f1-8319-5daf2cc6888d--Missy-Higgins---Live-at-the-Point-tile.jpg",
    "source": "City of Sydney"
@@ -7502,7 +7502,7 @@ window.EVENT_DATA = {
    "date": "2026-10-01",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/wamarra-music-launchpad",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786938297/k7h9gk6i1z6d/4WYNye3TrVYJ7vjXy3ouJY/77832ba1-99ed-11f1-bbac-1de311ce33d9--Wamarra-Music-Launchpad-tile.jpg",
    "source": "City of Sydney"
@@ -7522,7 +7522,7 @@ window.EVENT_DATA = {
    "date": "2026-10-01",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/princess-chelsea/196952",
    "image": "https://s1.ticketm.net/dam/a/ede/3aa7c272-72a7-440b-bfb0-3520e792cede_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -7592,7 +7592,7 @@ window.EVENT_DATA = {
    "date": "2026-10-01",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/papa-m-and-mick-turner/197842",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -7642,7 +7642,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/delay-45-ill-go-where-you-go-album-launch",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786496603/k7h9gk6i1z6d/13UUBQ2W6MMvQVfKxMm3kx/39e789b1-95e9-11f1-9e10-79a608377eca--Delay-45--I-ll-go-where-you-go--Album-Launch-tile.jpg",
    "source": "City of Sydney"
@@ -7652,7 +7652,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-teskey-brothers-or-live-at-the-point",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784614056/k7h9gk6i1z6d/4TJSoNJYmQXY0ZQ13l8XUH/6bb3ed11-84ca-11f1-ac7c-c7d7a275859c--The-Teskey-Brothers---Live-at-The-Point-tile.jpg",
    "source": "City of Sydney"
@@ -7662,7 +7662,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "",
    "venue": "Hayden Orpheum Picture Palace",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/tina-turner-experience-live-in-concert-rebecca-oconnor",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785217891/k7h9gk6i1z6d/4oK1DnN9QYoNmeAAkYjiRX/ddb2f500-8a47-11f1-a50a-77b4e21853d5--Tina-Turner-Experience-LIVE-in-Concert---Rebecca-O-Connor-tile.jpg",
    "source": "City of Sydney"
@@ -7672,7 +7672,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "",
    "venue": "Sydney Town Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sumi-jo-40th-anniversary-sydney-recital-continuum",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1780551379/k7h9gk6i1z6d/9v8REH31HclhgsnsEgHdb/3d5fec60-5fd7-11f1-b25f-27f16d9fc54b--Sumi-Jo--40th-Anniversary-Sydney-Recital---CONTINUUM-tile.jpg",
    "source": "City of Sydney"
@@ -7682,7 +7682,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "18:30",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/vlads/199130",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -7702,7 +7702,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/spike-fuck/198104",
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -7712,7 +7712,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/first-day-back-usa-/196989",
    "image": "https://s1.ticketm.net/dam/a/916/fa330959-20af-4947-b09b-00bac4004916_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -7732,7 +7732,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/-jeremy-gregory-and-band-live-at-lazybones-/199633",
    "image": "https://static.moshtix.com.au/uploads/2d1f59c6-37b2-4ab7-b469-d35a9ffbe80dx140x140",
    "source": "Moshtix"
@@ -7782,7 +7782,7 @@ window.EVENT_DATA = {
    "date": "2026-10-02",
    "time": "21:30",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-02-oct-wao-black-ko-weekend-wao-superclub/197457",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -7882,7 +7882,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "",
    "venue": "Sydney Opera House",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/northern-lands",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786673814/k7h9gk6i1z6d/7cOpPubzQbAdLwrvjYzMym/179bbbd1-9786-11f1-9669-036b27e8e347--Northern-Lands-tile.jpg",
    "source": "City of Sydney"
@@ -7892,7 +7892,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "",
    "venue": "Pride Square",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sing-summit-weekend-singing-retreat",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1755662188/k7h9gk6i1z6d/1KPlkgPSnyFofmc1Jj62pD/d711c301-7d70-11f0-9c72-071a8f006b58--Sing-Summit-Weekend-Singing-Retreat-tile.jpg",
    "source": "City of Sydney"
@@ -7922,7 +7922,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "15:00",
    "venue": "ivy",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/i-remember-house-october-long-weekend/199198",
    "image": "https://static.moshtix.com.au/uploads/6ac94e7c-53b0-4198-8d0b-8f2e6d618a9ex140x140",
    "source": "Moshtix"
@@ -7932,7 +7932,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "15:00",
    "venue": "Liberty Hall",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/music-on-the-court-mu540-and-victor-lou/199429",
    "image": "https://static.moshtix.com.au/uploads/d54ad1be-cbfa-4d43-995b-3353d114039ax140x140",
    "source": "Moshtix"
@@ -7952,7 +7952,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "18:00",
    "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/pulsefest-music-festival-ft-joel-fletcher-josh-fawaz-teddy-cream-mad-day-more-october-long-weekend/197859",
    "image": "https://static.moshtix.com.au/uploads/7c89b004-57df-4898-a572-e13058aba08cx140x140",
    "source": "Moshtix"
@@ -7972,7 +7972,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "18:00",
    "venue": "Watsons EQ",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/hospital-records-30-years-sydney/198776",
    "image": "https://static.moshtix.com.au/uploads/1f5d445d-7bf3-4016-a27d-79aebba2a2d3x140x140",
    "source": "Moshtix"
@@ -7982,7 +7982,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "18:30",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/fool-nelson-keepsake-aus-tour/197708",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -7992,7 +7992,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "19:00",
    "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/gilsons-australia-tour-2026/190650",
    "image": "https://static.moshtix.com.au/uploads/f1347e85-67b6-4c75-84e5-83cc602bdf07x140x140",
    "source": "Moshtix"
@@ -8002,7 +8002,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/pusiki/199634",
    "image": "https://static.moshtix.com.au/uploads/78f4e04c-54ad-4bda-b0ad-65ef65e2b664x140x140",
    "source": "Moshtix"
@@ -8022,7 +8022,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "19:30",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/nerve-growing-pains-aus-album-tour-26/198260",
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -8052,7 +8052,7 @@ window.EVENT_DATA = {
    "date": "2026-10-03",
    "time": "22:00",
    "venue": "Bootleggers",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/last-words-free-entry-dj-s-sydney-emo-night/198239",
    "image": "https://static.moshtix.com.au/uploads/353c5e73-6d5e-416d-a9c8-75f9e7cf81e7x140x140",
    "source": "Moshtix"
@@ -8102,7 +8102,7 @@ window.EVENT_DATA = {
    "date": "2026-10-04",
    "time": "",
    "venue": "The Independent Theatre",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/giles-henderson-wannan-chamber-music-for-flute-viola-and-harp",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784773421/k7h9gk6i1z6d/4RJDH9HXmCubSHcJR2r8WW/28c12671-863d-11f1-9eb0-756994669643--Giles-Henderson-Wannan--Chamber-Music-for-Flute-Viola---Harp-tile.jpg",
    "source": "City of Sydney"
@@ -8112,7 +8112,7 @@ window.EVENT_DATA = {
    "date": "2026-10-04",
    "time": "14:00",
    "venue": "Thomas Street",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-in-the-street-x-slapfunk-15th-anniversary-oct-long-weekend-sunday-4th-oct-/198871",
    "image": "https://static.moshtix.com.au/uploads/c59bce6a-385d-4a48-9f5e-d03108645af5x140x140",
    "source": "Moshtix"
@@ -8142,7 +8142,7 @@ window.EVENT_DATA = {
    "date": "2026-10-04",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/4kings-do-the-3-kings-of-the-blues-tribute-show-on-lvl-1/196432",
    "image": "https://static.moshtix.com.au/uploads/16af88eb-7b77-45ac-a242-2b04ad1df0dfx140x140",
    "source": "Moshtix"
@@ -8152,7 +8152,7 @@ window.EVENT_DATA = {
    "date": "2026-10-04",
    "time": "19:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/lost-sundays-block-party-october-4-long-weekend-ft-papa-nugs-tjade-human-movement-b2b-mincy-little-fritter-b2b-wongo-elijah-something-bryson-hill-b2b-carla-martinez-and-more-/199500",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -8172,7 +8172,7 @@ window.EVENT_DATA = {
    "date": "2026-10-04",
    "time": "20:45",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/audioholics-sydney/197644",
    "image": "https://static.moshtix.com.au/uploads/30a1a9fa-8442-4644-9292-d1f05fcf73e6x140x140",
    "source": "Moshtix"
@@ -8182,7 +8182,7 @@ window.EVENT_DATA = {
    "date": "2026-10-04",
    "time": "22:00",
    "venue": "Oxford Art Factory, Whole Venue",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/loose-ends-20th-b-day-party/197919",
    "image": "https://static.moshtix.com.au/uploads/cc65fb9d-4511-4a14-8842-355f50de2d2dx140x140",
    "source": "Moshtix"
@@ -8192,7 +8192,7 @@ window.EVENT_DATA = {
    "date": "2026-10-04",
    "time": "22:00",
    "venue": "Home The Venue",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-in-the-street-x-slapfunk-15th-anniversary-after-party-oct-long-weekend-/199692",
    "image": "https://static.moshtix.com.au/uploads/9a9254c7-2cf4-4f57-a330-7c09f0dcc3a0x140x140",
    "source": "Moshtix"
@@ -8212,7 +8212,7 @@ window.EVENT_DATA = {
    "date": "2026-10-05",
    "time": "14:00",
    "venue": "Ivy Ballroom",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/dnb-allstars-sydney-kanine-camo-krooked-more/196251",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -8222,7 +8222,7 @@ window.EVENT_DATA = {
    "date": "2026-10-05",
    "time": "16:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/betcover-new-portrait-tour-australia-2026/197446",
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -8232,7 +8232,7 @@ window.EVENT_DATA = {
    "date": "2026-10-05",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/mietze-conte/197750",
    "image": "https://s1.ticketm.net/dam/a/d27/17aa3f62-24ca-453c-bad4-fdd6ca698d27_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -8312,7 +8312,7 @@ window.EVENT_DATA = {
    "date": "2026-10-07",
    "time": "",
    "venue": "St James Church",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concert-jennifer-hou",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784009351/k7h9gk6i1z6d/1cC4IXUdSRgZ8PgJ4cY4zX/7d5e7ac1-7f49-11f1-a1f5-7733751874d9--Lunchtime-Concert--Edward--Chin-Wai--Leung--Piano-tile.jpg",
    "source": "City of Sydney"
@@ -8322,7 +8322,7 @@ window.EVENT_DATA = {
    "date": "2026-10-07",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/euphoria-under-18s",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1645057212/k7h9gk6i1z6d/63qesJchlWZ85h9CWuD3KD/GettyImages-104222585.jpg",
    "source": "City of Sydney"
@@ -8342,7 +8342,7 @@ window.EVENT_DATA = {
    "date": "2026-10-07",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-boroky-album-launch-the-plum-boots/193997",
    "image": "https://static.moshtix.com.au/uploads/43812666-84fc-4a6b-a8e5-73baa73542f3x140x140",
    "source": "Moshtix"
@@ -8452,7 +8452,7 @@ window.EVENT_DATA = {
    "date": "2026-10-08",
    "time": "18:30",
    "venue": "The Vanguard",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/finn-rees/199700",
    "image": "https://static.moshtix.com.au/uploads/18ade476-1287-406b-85b7-c91896d14660x140x140",
    "source": "Moshtix"
@@ -8462,7 +8462,7 @@ window.EVENT_DATA = {
    "date": "2026-10-08",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-hawkes-washingmachine-marsh/192733",
    "image": "https://static.moshtix.com.au/uploads/11023269-7985-4c0e-9b5b-819732f17c50x140x140",
    "source": "Moshtix"
@@ -8662,7 +8662,7 @@ window.EVENT_DATA = {
    "date": "2026-10-09",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/geordie-kieffer/195025",
    "image": "https://s1.ticketm.net/dam/a/b96/ee9ef252-715e-42d4-bd37-056a71234b96_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -8702,7 +8702,7 @@ window.EVENT_DATA = {
    "date": "2026-10-09",
    "time": "20:00",
    "venue": "Lansdowne Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/epicure-evenings-in-honduras-album-launch-/198284",
    "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -8712,7 +8712,7 @@ window.EVENT_DATA = {
    "date": "2026-10-09",
    "time": "21:00",
    "venue": "Civic Underground",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/infekt-presents-organic-dubstep-sydney/197795",
    "image": "https://s1.ticketm.net/dam/a/335/3b3c8c18-9155-4616-9d80-74a233fce335_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -8722,7 +8722,7 @@ window.EVENT_DATA = {
    "date": "2026-10-09",
    "time": "23:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/alan-fitzpatrick-sydney/196057",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -8732,7 +8732,7 @@ window.EVENT_DATA = {
    "date": "2026-10-09",
    "time": "23:00",
    "venue": "The Vanguard",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/simona-castricum-perfect-actress/198975",
    "image": "https://static.moshtix.com.au/uploads/810633ce-0eb8-4e86-94cb-c6ab64f2cdbex140x140",
    "source": "Moshtix"
@@ -8842,7 +8842,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/dinner-and-a-show-with-soprano-siobhan-stagg",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772709573/k7h9gk6i1z6d/5Q4qQZRmjUiyG06RX5tFDd/e23a0941-1884-11f1-ac44-a38c64b14628--Dinner---A-Show-With-Siobhan-Stagg-tile.jpg",
    "source": "City of Sydney"
@@ -8852,7 +8852,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/hits-of-the-60s-and-70s-by-the-60-four",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778643780/k7h9gk6i1z6d/71EhE1yoBAPbEsFSK1DxjL/60dfe340-4e7d-11f1-8320-37b35ef23606--Hits-of-the-60s-and-70s-by-The-60-Four-tile.jpg",
    "source": "City of Sydney"
@@ -8862,7 +8862,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "",
    "venue": "Sydney Community College",
-   "category": "Nightlife",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/stand-up-comedy-course-for-beginners",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1756335572/k7h9gk6i1z6d/3WTxd9kIbxzoSyl1ZlPiDH/1ba1d131-8399-11f0-9250-3d4bcfc64283--Stand-up-comedy-Course-for-Beginners-tile.jpg",
    "source": "City of Sydney"
@@ -8872,7 +8872,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "11:00",
    "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sydney-miniraves-golden-rave/196427",
    "image": "https://static.moshtix.com.au/uploads/a507b2e6-92a3-4cb2-9cff-7c37a858279fx140x140",
    "source": "Moshtix"
@@ -8902,7 +8902,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "19:00",
    "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/odd-mob/194046",
    "image": "https://static.moshtix.com.au/uploads/28d530f2-53a8-4c0f-9462-5960be98e045x140x140",
    "source": "Moshtix"
@@ -8972,7 +8972,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "20:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/home-brew/198206",
    "image": "https://static.moshtix.com.au/uploads/00cd73dc-6def-4556-a29c-3a5b523c1d36x140x140",
    "source": "Moshtix"
@@ -8982,7 +8982,7 @@ window.EVENT_DATA = {
    "date": "2026-10-10",
    "time": "22:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/zuri-ft-alex-wann-fr-saturday-october-10/198196",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9042,7 +9042,7 @@ window.EVENT_DATA = {
    "date": "2026-10-11",
    "time": "",
    "venue": "Sydney Harbour",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ultimate-disco-sunset-cruise",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786333093/k7h9gk6i1z6d/4lM1GuEnkFBYMrGCUr6SWt/82832e51-946c-11f1-9778-7348abd25cf5--The-Ultimate-Disco-Sunset-Cruise-tile.jpg",
    "source": "City of Sydney"
@@ -9062,7 +9062,7 @@ window.EVENT_DATA = {
    "date": "2026-10-11",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-strides/198473",
    "image": "https://static.moshtix.com.au/uploads/f2913c1c-e8fd-4759-bc2c-e37928ee1ccax140x140",
    "source": "Moshtix"
@@ -9092,7 +9092,7 @@ window.EVENT_DATA = {
    "date": "2026-10-11",
    "time": "19:00",
    "venue": "The Vanguard",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/dingo-the-nightwire-album-launch-tour/197081",
    "image": "https://static.moshtix.com.au/uploads/d2c7d27f-62c1-4944-8b87-a4dfc2fe6ae9x140x140",
    "source": "Moshtix"
@@ -9102,7 +9102,7 @@ window.EVENT_DATA = {
    "date": "2026-10-12",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/paul-lewis-mozart",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1758096899/k7h9gk6i1z6d/36PQTJZfPg4TcNC8HjYtey/39c36d31-939e-11f0-a8c0-a55b0cbfe1e8--Paul-Lewis--Mozart--tile.jpg",
    "source": "City of Sydney"
@@ -9142,7 +9142,7 @@ window.EVENT_DATA = {
    "date": "2026-10-13",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/candela-feat-lucerito-leon/197787",
    "image": "https://static.moshtix.com.au/uploads/34256221-44ed-49ff-914e-8c00da1619cax140x140",
    "source": "Moshtix"
@@ -9162,7 +9162,7 @@ window.EVENT_DATA = {
    "date": "2026-10-14",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/alexander-gavrylyuk-and-richard-tognetti-in-recital",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1645057207/k7h9gk6i1z6d/2FPKw3xLtxNVeOUZDdbiHP/GettyImages-662925322.jpg",
    "source": "City of Sydney"
@@ -9172,7 +9172,7 @@ window.EVENT_DATA = {
    "date": "2026-10-14",
    "time": "",
    "venue": "Bondi Pavilion",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concerts-lionel-robinson-does-frank-sinatra",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785981771/k7h9gk6i1z6d/2Gbf0nOOjRjpJZ6y0vBaOm/aaee9850-913a-11f1-aff9-85ee9599f740--Lunchtime-concerts---Lionel-Robinson-does-Frank-Sinatra-tile.jpg",
    "source": "City of Sydney"
@@ -9202,7 +9202,7 @@ window.EVENT_DATA = {
    "date": "2026-10-14",
    "time": "19:00",
    "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/portugal-the-man/199220",
    "image": "https://static.moshtix.com.au/uploads/2d477e1d-3445-4428-8530-7ea89b4daeeax140x140",
    "source": "Moshtix"
@@ -9212,7 +9212,7 @@ window.EVENT_DATA = {
    "date": "2026-10-14",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/4-of-the-sydney-conservatorium-s-big-bands/199346",
    "image": "https://static.moshtix.com.au/uploads/3e8d5f8d-54b8-4f8a-96e1-137884548f42x140x140",
    "source": "Moshtix"
@@ -9222,7 +9222,7 @@ window.EVENT_DATA = {
    "date": "2026-10-14",
    "time": "19:30",
    "venue": "Factory Theatre",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/nathan-evans-and-the-saint-phnx-band-s-angels-share-australian-tour-sydney/187593",
    "image": "https://static.moshtix.com.au/uploads/102093f1-0f20-4ccc-9177-5a766f1a8812x140x140",
    "source": "Moshtix"
@@ -9232,7 +9232,7 @@ window.EVENT_DATA = {
    "date": "2026-10-14",
    "time": "22:30",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/king-gizzard-the-lizard-wizard-rave-show-/198026",
    "image": "https://static.moshtix.com.au/uploads/9d5102c4-79b5-4d5a-91ca-7cc86ba02170x140x140",
    "source": "Moshtix"
@@ -9252,7 +9252,7 @@ window.EVENT_DATA = {
    "date": "2026-10-15",
    "time": "",
    "venue": "Flight Path Theatre",
-   "category": "Stage & Screen",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/oh-my-god-a-comedy-of-biblical-proportions",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775034855/k7h9gk6i1z6d/7MDJWZwXNWrkAQUH6u1G00/7eb77ac0-2daa-11f1-8779-49de87545912--Oh-My-God--A-Comedy-of-Biblical-Proportions--tile.jpg",
    "source": "City of Sydney"
@@ -9312,7 +9312,7 @@ window.EVENT_DATA = {
    "date": "2026-10-15",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/legends-of-jazz-feat-joy-yates-pat-powell-dave-mcrae-dan-barnett-james-ryan-andrew-dickeson-/199351",
    "image": "https://static.moshtix.com.au/uploads/c3f1e65c-8a41-48e3-95a1-c803d70dc892x140x140",
    "source": "Moshtix"
@@ -9342,7 +9342,7 @@ window.EVENT_DATA = {
    "date": "2026-10-15",
    "time": "20:00",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/gipsy-kings-by-diego-baliardo-sydney-15-10-2026/event/130064E3E00D793F",
    "image": "https://s1.ticketm.net/dam/a/e67/b5261bbc-8ead-4202-965f-64e181a21e67_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9352,7 +9352,7 @@ window.EVENT_DATA = {
    "date": "2026-10-15",
    "time": "20:00",
    "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/hot-sauce-ft-carl-cox-eric-powell-and-more-15-oct/197949",
    "image": "https://static.moshtix.com.au/uploads/2118d289-e40a-475f-9fa1-abb52cce8313x140x140",
    "source": "Moshtix"
@@ -9392,7 +9392,7 @@ window.EVENT_DATA = {
    "date": "2026-10-16",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/no-notice-productions-music-industry-academy",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1645057212/k7h9gk6i1z6d/63qesJchlWZ85h9CWuD3KD/GettyImages-104222585.jpg",
    "source": "City of Sydney"
@@ -9442,7 +9442,7 @@ window.EVENT_DATA = {
    "date": "2026-10-16",
    "time": "19:30",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/direct-from-uk-the-rod-stewart-sydney-16-10-2026/event/13006435AD9266FD",
    "image": "https://s1.ticketm.net/dam/a/2d5/4650277c-7fce-474b-92d5-8c805ccea2d5_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9482,7 +9482,7 @@ window.EVENT_DATA = {
    "date": "2026-10-16",
    "time": "20:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/suzy-sheer/198957",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9492,7 +9492,7 @@ window.EVENT_DATA = {
    "date": "2026-10-16",
    "time": "20:00",
    "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/hot-sauce-ft-carl-cox-eric-powell-and-more/197295",
    "image": "https://static.moshtix.com.au/uploads/0fc006c1-9324-41de-8006-9f4967d92c90x140x140",
    "source": "Moshtix"
@@ -9502,7 +9502,7 @@ window.EVENT_DATA = {
    "date": "2026-10-16",
    "time": "20:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/safia-internal-10-year-anniversary-tour/198787",
    "image": "https://static.moshtix.com.au/uploads/68093113-0024-4083-84aa-6d788676c14bx140x140",
    "source": "Moshtix"
@@ -9512,7 +9512,7 @@ window.EVENT_DATA = {
    "date": "2026-10-16",
    "time": "21:00",
    "venue": "Civic Underground",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/tour-maubourg-australian-tour-2026-/199350",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9602,7 +9602,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "",
    "venue": "Sydney Opera House",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/brittens-war-requiem",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1776138124/k7h9gk6i1z6d/5AXfnSLM6K33OLm88duE9m/7be16a01-37b3-11f1-83ed-73cbc78b666f--Britten-s-War-Requiem-tile.jpg",
    "source": "City of Sydney"
@@ -9612,7 +9612,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/restless-forms-steinway-gallery-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787541246/k7h9gk6i1z6d/4VU6TQCxMYkRaLwWPzCzDM/a3438651-9f69-11f1-8914-0b548e1c55e3--Restless-Forms---Steinway-Gallery-Sydney-tile.jpg",
    "source": "City of Sydney"
@@ -9622,7 +9622,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "12:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/glare-septemberistheonlytimeidontthinkofyou/198960",
    "image": "https://s1.ticketm.net/dam/a/f37/73583413-ec07-48e6-8c98-5619b0b89f37_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -9642,7 +9642,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "17:00",
    "venue": "The Domain",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/anyma-presents-den-sydney-17-10-2026/event/1300643CD30D7773",
    "image": "https://s1.ticketm.net/dam/a/e93/9331128a-5918-4df9-ba70-bd3306e53e93_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -9652,7 +9652,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "18:00",
    "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/bingo-loco-saturday-17th-october-2026/199518",
    "image": "https://static.moshtix.com.au/uploads/0303dcf3-4432-4d00-abc1-40c403825831x140x140",
    "source": "Moshtix"
@@ -9662,7 +9662,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "19:00",
    "venue": "Waywards Ballroom",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/running-touch-crushed-tour/199812",
    "image": "https://static.moshtix.com.au/uploads/4af9c695-32df-4aa8-93c8-8a8b8b270850x140x140",
    "source": "Moshtix"
@@ -9702,7 +9702,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "20:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sinn6r-victory-lap-radio/198962",
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -9712,7 +9712,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "21:00",
    "venue": "Pelicano Potts Point",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/old-skool-rocks-the-ultimate-reunion/198967",
    "image": "https://static.moshtix.com.au/uploads/9b68aed3-43f4-4b94-8744-57f29ed18963x140x140",
    "source": "Moshtix"
@@ -9722,7 +9722,7 @@ window.EVENT_DATA = {
    "date": "2026-10-17",
    "time": "22:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/terminal-v-sydney/198131",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9792,7 +9792,7 @@ window.EVENT_DATA = {
    "date": "2026-10-18",
    "time": "16:00",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/glare-with-septemberistheonlytimeidontthinkofyou/199489",
    "image": "https://s1.ticketm.net/dam/a/f37/73583413-ec07-48e6-8c98-5619b0b89f37_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -9802,7 +9802,7 @@ window.EVENT_DATA = {
    "date": "2026-10-18",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-witching-hour-julienne-harvey-violet-harbour-sapphire/195406",
    "image": "https://static.moshtix.com.au/uploads/3ffdd5ac-15f5-4916-a8d3-7d51c0b8d4c8x140x140",
    "source": "Moshtix"
@@ -9822,7 +9822,7 @@ window.EVENT_DATA = {
    "date": "2026-10-18",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-manic-sunday-the-cunning-linguists-guests/198881",
    "image": "https://static.moshtix.com.au/uploads/a4c7f800-ab05-4ce1-9211-9843725bfc8cx140x140",
    "source": "Moshtix"
@@ -9842,7 +9842,7 @@ window.EVENT_DATA = {
    "date": "2026-10-18",
    "time": "20:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/oddly-satisfying-ky-newman-atlgrandma/198963",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9862,7 +9862,7 @@ window.EVENT_DATA = {
    "date": "2026-10-19",
    "time": "19:30",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/don-mclean-american-pie-55th-anniversary-sydney-19-10-2026/event/13006459D391CF4E",
    "image": "https://s1.ticketm.net/dam/a/011/aa46e2fb-6059-4925-9f58-264c1b154011_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9892,7 +9892,7 @@ window.EVENT_DATA = {
    "date": "2026-10-20",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/rebirth-brass-band-with-dink/199496",
    "image": "https://s1.ticketm.net/dam/a/648/aa8c4397-6b7e-4621-a3c5-0a4de9b6d648_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -9902,7 +9902,7 @@ window.EVENT_DATA = {
    "date": "2026-10-20",
    "time": "20:00",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/men-at-work-sydney-20-10-2026/event/130064EEDD546409",
    "image": "https://s1.ticketm.net/dam/a/18e/3c7fcb69-aaa0-4659-a5c1-fded76b5718e_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -9952,7 +9952,7 @@ window.EVENT_DATA = {
    "date": "2026-10-21",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/theon-cross-summer-pearl/199100",
    "image": "https://s1.ticketm.net/dam/a/23a/e13876e1-3d93-4a55-a025-0c09dd4ca23a_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -9972,7 +9972,7 @@ window.EVENT_DATA = {
    "date": "2026-10-21",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-dan-woelk-trio-lemonjam/199668",
    "image": "https://static.moshtix.com.au/uploads/b90e8a9a-f540-45b4-8ee9-82d32ba4d705x140x140",
    "source": "Moshtix"
@@ -10022,7 +10022,7 @@ window.EVENT_DATA = {
    "date": "2026-10-22",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-bad-plus-farewell-tour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782956638/k7h9gk6i1z6d/7wJEPQCgMZHBkinyoF5ULl/3a2d2c61-75b7-11f1-a61e-2990713986f2--The-Bad-Plus-Farewell-Tour-tile.jpg",
    "source": "City of Sydney"
@@ -10062,7 +10062,7 @@ window.EVENT_DATA = {
    "date": "2026-10-22",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/mountain-boy-the-nights-tour/195832",
    "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -10072,7 +10072,7 @@ window.EVENT_DATA = {
    "date": "2026-10-22",
    "time": "20:00",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/dee-dee-bridgewater-duo-with-helen-sydney-22-10-2026/event/13006497BF4F6868",
    "image": "https://s1.ticketm.net/dam/a/9d8/900f492e-dbfe-4cb3-8630-697a3f5be9d8_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -10122,7 +10122,7 @@ window.EVENT_DATA = {
    "date": "2026-10-23",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/le-shiv-yada-yada-national-album-tour-sydney/198393",
    "image": "https://s1.ticketm.net/dam/a/bad/cc2c5920-7053-406d-a07d-38a6e9e62bad_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -10212,7 +10212,7 @@ window.EVENT_DATA = {
    "date": "2026-10-23",
    "time": "23:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/soul-wun/197869",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -10232,7 +10232,7 @@ window.EVENT_DATA = {
    "date": "2026-10-24",
    "time": "",
    "venue": "St Stephen's Uniting Church",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/kris-davis-trio-soojin-suh-coloris-trio",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779242442/k7h9gk6i1z6d/2BcEYhHAjRuk7ok2OBA1Wz/6c9ca391-53ef-11f1-9f4d-5b2fda4972df--Kris-Davis-Trio---Soojin-Suh-Coloris-Trio-tile.jpg",
    "source": "City of Sydney"
@@ -10242,7 +10242,7 @@ window.EVENT_DATA = {
    "date": "2026-10-24",
    "time": "",
    "venue": "Hordern Pavilion",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sonny-fodera-can-we-do-it-all-again-album-tour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778130880/k7h9gk6i1z6d/4v42LLPM7zjpJEo8n1DiOQ/6a912421-49d3-11f1-88ea-a59f590f2cf4--Sonny-Fodera--can-we-do-it-all-again---Album-Tour-tile.jpg",
    "source": "City of Sydney"
@@ -10252,7 +10252,7 @@ window.EVENT_DATA = {
    "date": "2026-10-24",
    "time": "",
    "venue": "Seymour Centre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/tigran-hamasyan-manifeste",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784010989/k7h9gk6i1z6d/1YdOthHavqiQW0jYObdokP/14c32a21-7f4d-11f1-b0be-8da0191b3b3b--Tigran-Hamasyan---Manifeste--tile.jpg",
    "source": "City of Sydney"
@@ -10272,7 +10272,7 @@ window.EVENT_DATA = {
    "date": "2026-10-24",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/boy-soda-soulstar-world-tour/196853",
    "image": "https://s1.ticketm.net/dam/a/f69/cfd9f350-9bd4-4f10-a4c7-7b801e3fef69_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -10282,7 +10282,7 @@ window.EVENT_DATA = {
    "date": "2026-10-24",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/motown-beyond/193991",
    "image": "https://static.moshtix.com.au/uploads/3ccdfbd2-53e6-415b-a6dd-a86983c9920ex140x140",
    "source": "Moshtix"
@@ -10322,7 +10322,7 @@ window.EVENT_DATA = {
    "date": "2026-10-24",
    "time": "19:30",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/civic-video-making-room-for-others-tour-/199474",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -10352,7 +10352,7 @@ window.EVENT_DATA = {
    "date": "2026-10-24",
    "time": "20:00",
    "venue": "Oxford Art Factory, Gallery Bar",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/we-set-signals-interstice-tour-stone-lions-with-guests-51st-avenue/199843",
    "image": "https://static.moshtix.com.au/uploads/dd5d825c-1237-4486-8061-be56ca13858dx140x140",
    "source": "Moshtix"
@@ -10372,7 +10372,7 @@ window.EVENT_DATA = {
    "date": "2026-10-25",
    "time": "",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/aja-monet-monstress",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779242028/k7h9gk6i1z6d/GNNQKkN9sZFA7AgJRj3LV/66651b20-53ee-11f1-9578-6b087f2b494a--aja-monet---Monstress-tile.jpg",
    "source": "City of Sydney"
@@ -10412,7 +10412,7 @@ window.EVENT_DATA = {
    "date": "2026-10-25",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/quentin-angus-msfs-time-cycles-album-release-tour/195478",
    "image": "https://static.moshtix.com.au/uploads/27faa2a9-797e-4d3f-8e74-58ca5d57ca72x140x140",
    "source": "Moshtix"
@@ -10442,7 +10442,7 @@ window.EVENT_DATA = {
    "date": "2026-10-26",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/belle-chen-underwards",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784871976/k7h9gk6i1z6d/DQxUlej5o5vGm1LXSAZZ8/c1d781c1-8722-11f1-8972-4fe998986814--Belle-Chen---Underwards-tile.jpg",
    "source": "City of Sydney"
@@ -10512,7 +10512,7 @@ window.EVENT_DATA = {
    "date": "2026-10-27",
    "time": "18:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-tuesday-night-jazz-orchestra-27-oct/197219",
    "image": "https://static.moshtix.com.au/uploads/564ab28f-2572-4914-9b75-7f6fccdf2c01x140x140",
    "source": "Moshtix"
@@ -10552,7 +10552,7 @@ window.EVENT_DATA = {
    "date": "2026-10-28",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/aziza-holland-potter-loueke-and-harland",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783387858/k7h9gk6i1z6d/7fDShKUSnO7RjvC3yEJ5ok/50307861-79a3-11f1-81eb-a3ff213f62a1--Aziza--Holland--Potter--Loueke---Harland-tile.jpg",
    "source": "City of Sydney"
@@ -10562,7 +10562,7 @@ window.EVENT_DATA = {
    "date": "2026-10-28",
    "time": "",
    "venue": "Sydney Opera House",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/internationally-acclaimed-pianist-sarah-grunstein",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787801888/k7h9gk6i1z6d/3XSSAHsLfLRo3vlGbvpTKS/97ecfa10-a1c7-11f1-aacc-ed2f4482488b--Internationally-acclaimed-pianist-Sarah-Grunstein-tile.jpg",
    "source": "City of Sydney"
@@ -10592,7 +10592,7 @@ window.EVENT_DATA = {
    "date": "2026-10-28",
    "time": "18:00",
    "venue": "Nightshift Club",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/friday-night-special/199677",
    "image": "https://static.moshtix.com.au/uploads/c05c7a77-6e9e-4a1c-a163-6af76b04f04ex140x140",
    "source": "Moshtix"
@@ -10612,7 +10612,7 @@ window.EVENT_DATA = {
    "date": "2026-10-28",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/karen-lee-andrews-blue-nights/198417",
    "image": "https://static.moshtix.com.au/uploads/6a0f6ff3-5902-4bd7-bd07-d0bbeef42842x140x140",
    "source": "Moshtix"
@@ -10642,7 +10642,7 @@ window.EVENT_DATA = {
    "date": "2026-10-29",
    "time": "",
    "venue": "State Library of NSW",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/haydns-london-connection-or-ahe-and-genevieve-lang",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782002922/k7h9gk6i1z6d/7qPxpedXmRxQCRrasHcRmY/b13e32a0-6d0a-11f1-97cc-51e939bef7da--Haydn-s-London-Connection-tile.jpg",
    "source": "City of Sydney"
@@ -10652,7 +10652,7 @@ window.EVENT_DATA = {
    "date": "2026-10-29",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/misaki-umei-x-cracked-suzies-dorka-foster",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784870824/k7h9gk6i1z6d/6PSAQpI0CQnkaQEifpH2Fk/1f73e161-871f-11f1-8c5f-4fbb39dedb4c--Misaki-Umei-x-Cracked-Suzies---Dorka-Foster-tile.jpg",
    "source": "City of Sydney"
@@ -10682,7 +10682,7 @@ window.EVENT_DATA = {
    "date": "2026-10-29",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/-halloween-special-sleepnordae-live/197569",
    "image": "https://static.moshtix.com.au/uploads/2138e2b8-cc43-4620-a8ea-c579e3b45003x140x140",
    "source": "Moshtix"
@@ -10702,7 +10702,7 @@ window.EVENT_DATA = {
    "date": "2026-10-29",
    "time": "20:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fia-the-love-me-tour/197402",
    "image": "https://static.moshtix.com.au/uploads/bbeed9c8-7b64-4829-8607-5c926a5dc269x140x140",
    "source": "Moshtix"
@@ -10732,7 +10732,7 @@ window.EVENT_DATA = {
    "date": "2026-10-30",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/electric-nation-halloween-edition",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781581008/k7h9gk6i1z6d/496lGPYHC7CiMdsOGSeKsE/df60a451-6932-11f1-9050-497d8a7d2cf0--Electric-Nation-Halloween-Edition-2026-tile.jpg",
    "source": "City of Sydney"
@@ -10742,7 +10742,7 @@ window.EVENT_DATA = {
    "date": "2026-10-30",
    "time": "",
    "venue": "Side Bar Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-purge-halloween-party",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1665621537/k7h9gk6i1z6d/3elgiUvUKWeAJ0ZdK1c4w9/471e4be1-4a8f-11ed-9860-ebdb709ff6cd--The-Purge-Halloween-Party-tile.jpg",
    "source": "City of Sydney"
@@ -10752,7 +10752,7 @@ window.EVENT_DATA = {
    "date": "2026-10-30",
    "time": "19:00",
    "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/honouring-tupac-shakur-30th-anniversary/196598",
    "image": "https://static.moshtix.com.au/uploads/e092995e-dd12-4b41-9222-47be10483b0fx140x140",
    "source": "Moshtix"
@@ -10762,7 +10762,7 @@ window.EVENT_DATA = {
    "date": "2026-10-30",
    "time": "19:00",
    "venue": "The Vanguard",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/tina-harrod-ruby-jackson/198671",
    "image": "https://static.moshtix.com.au/uploads/5b7c3e5b-c9a2-44ee-9988-fbec13215a5ex140x140",
    "source": "Moshtix"
@@ -10772,7 +10772,7 @@ window.EVENT_DATA = {
    "date": "2026-10-30",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/funkfest-the-booty-affair-ft-professor-groove/199164",
    "image": "https://static.moshtix.com.au/uploads/5cfce4e3-70d4-4921-b468-e4ef94b23e3ax140x140",
    "source": "Moshtix"
@@ -10822,7 +10822,7 @@ window.EVENT_DATA = {
    "date": "2026-10-30",
    "time": "21:30",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-30-oct-halloween-wao-superclub/196707",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -10832,7 +10832,7 @@ window.EVENT_DATA = {
    "date": "2026-10-30",
    "time": "23:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/dam-swindle-heist-recordings-nl-sydney-show/199192",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -10872,7 +10872,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/yeah-buoy-st-paddys-day-boat-party",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785897082/k7h9gk6i1z6d/5UEx6qMCAqjT2PvpchNUWd/759ec9b1-9075-11f1-b125-138d7655e38a--InTooDeep-Halloween-Boat-Party--31-10--tile.jpg",
    "source": "City of Sydney"
@@ -10882,7 +10882,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/resonance-the-conchords",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784871570/k7h9gk6i1z6d/67fsG4uM9KJyVBt83uE43d/b1f303c1-8721-11f1-a55b-25e7f08cc0a3--Resonance---The-ConChords-tile.jpg",
    "source": "City of Sydney"
@@ -10892,7 +10892,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/yeah-buoy-sunset-house-boat-party",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785384903/k7h9gk6i1z6d/3c1tbJkAQhtCPBzQHzknZB/d888a8a0-8bcc-11f1-ad87-51f7270a1635--Yeah-Buoy---Sydney-Harbour-Halloween-Boat-Party--31-10--tile.jpg",
    "source": "City of Sydney"
@@ -10902,7 +10902,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "13:00",
    "venue": "The Domain",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/oktoberfest-in-the-gardens-sydney-2026/197988",
    "image": "https://static.moshtix.com.au/uploads/44f13dbd-3675-4e63-a330-6e9d119908b4x140x140",
    "source": "Moshtix"
@@ -10912,7 +10912,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "14:00",
    "venue": "Sydney Portugal Club",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/cassian/199620",
    "image": "https://static.moshtix.com.au/uploads/b71d500d-957a-42c7-979a-04a5616eb334x140x140",
    "source": "Moshtix"
@@ -10922,7 +10922,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/voodoo-workin-/195591",
    "image": "https://static.moshtix.com.au/uploads/95125889-c568-4a16-a149-94012509359ex140x140",
    "source": "Moshtix"
@@ -10972,7 +10972,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "20:00",
    "venue": "Elton chong",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/the-petrov-affair-grander-things-virgin-mary-disco-brawl-halloween-special/197693",
    "image": "https://static.moshtix.com.au/uploads/b954aa26-fb89-4ea2-80c6-75365e6feb8fx140x140",
    "source": "Moshtix"
@@ -10982,7 +10982,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "20:00",
    "venue": "Sean & Dolly's",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/club-dirty-martini-halloween-circus/199190",
    "image": "https://static.moshtix.com.au/uploads/9b7b6155-8377-4c21-96aa-1771d533d8b1x140x140",
    "source": "Moshtix"
@@ -10992,7 +10992,7 @@ window.EVENT_DATA = {
    "date": "2026-10-31",
    "time": "22:00",
    "venue": "ivy",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/halloqween-ball/198155",
    "image": "https://static.moshtix.com.au/uploads/338cc4f0-79d4-4a47-97dd-71e1bbc4894fx140x140",
    "source": "Moshtix"
@@ -11012,7 +11012,7 @@ window.EVENT_DATA = {
    "date": "2026-11-01",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/when-chai-met-toast-joy-rooms-tour-australia-2026/196143",
    "image": "https://s1.ticketm.net/dam/a/84b/12d19253-c753-4387-b392-ec404e72284b_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11022,7 +11022,7 @@ window.EVENT_DATA = {
    "date": "2026-11-02",
    "time": "",
    "venue": "The Neilson",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/haydns-sunrise",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782001940/k7h9gk6i1z6d/3TR1zqRgYS7N4UCVNf53L1/22ed9431-6d07-11f1-adae-4b3618c25ae5--Haydn-s-Oxford-tile.jpg",
    "source": "City of Sydney"
@@ -11142,7 +11142,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sir-stephen-hough-in-recital",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1777338760/k7h9gk6i1z6d/16qhNBsSw90nMhpJIcWlul/19f25060-429f-11f1-8566-a95f232dd18e--Sir-Stephen-Hough-in-recital-tile.jpg",
    "source": "City of Sydney"
@@ -11162,7 +11162,7 @@ window.EVENT_DATA = {
    "date": "2026-11-03",
    "time": "18:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-tuesday-night-jazz-orchestra-3-nov/197220",
    "image": "https://static.moshtix.com.au/uploads/564ab28f-2572-4914-9b75-7f6fccdf2c01x140x140",
    "source": "Moshtix"
@@ -11242,7 +11242,7 @@ window.EVENT_DATA = {
    "date": "2026-11-04",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/crack-cloud-peace-purpose/199494",
    "image": "https://s1.ticketm.net/dam/a/430/797910ae-60c1-4be5-bd27-996db962a430_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11252,7 +11252,7 @@ window.EVENT_DATA = {
    "date": "2026-11-04",
    "time": "20:00",
    "venue": "Lansdowne Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-1-dads/199094",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11262,7 +11262,7 @@ window.EVENT_DATA = {
    "date": "2026-11-05",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/odette-blink-tour-2026/199155",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11272,7 +11272,7 @@ window.EVENT_DATA = {
    "date": "2026-11-05",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-lazy-arcade-bouncer-fodder-waiyo-macska/197305",
    "image": "https://static.moshtix.com.au/uploads/56fe7596-edc1-4971-94ff-953a53afa407x140x140",
    "source": "Moshtix"
@@ -11292,7 +11292,7 @@ window.EVENT_DATA = {
    "date": "2026-11-05",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/noria-letts-la-musique-/199410",
    "image": "https://static.moshtix.com.au/uploads/aa975386-d534-43ab-9b67-a8cc07a90038x140x140",
    "source": "Moshtix"
@@ -11302,7 +11302,7 @@ window.EVENT_DATA = {
    "date": "2026-11-05",
    "time": "20:00",
    "venue": "Lansdowne Hotel",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-1-dads/198561",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11392,7 +11392,7 @@ window.EVENT_DATA = {
    "date": "2026-11-06",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/charlie-jeer/197196",
    "image": "https://s1.ticketm.net/dam/a/de6/42e445fd-ae79-43ab-9668-e34136c1dde6_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -11432,7 +11432,7 @@ window.EVENT_DATA = {
    "date": "2026-11-06",
    "time": "23:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ocean-wisdom-uk-/199727",
    "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11452,7 +11452,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "",
    "venue": "Civic Underground",
-   "category": "Stage & Screen",
+   "category": "Comedy",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/las-vegas-international-school-of-stand-up-comedy",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1770703847/k7h9gk6i1z6d/5ZHWvji8RLOEQQ8yGG4gfp/58bd2df0-0641-11f1-8df1-c79c27f5e170--Las-Vegas-International-School-of-Stand-up-Comedy-tile.jpg",
    "source": "City of Sydney"
@@ -11512,7 +11512,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "",
    "venue": "Sydney Conservatorium of Music",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/beginner-shakuhachi-workshop",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779931576/k7h9gk6i1z6d/wQAQTM0e90CTrjogXMYSA/2c79b911-5a34-11f1-9644-97b3edc6b93d--Beginner-Shakuhachi-workshop-tile.jpg",
    "source": "City of Sydney"
@@ -11522,7 +11522,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sound-healing-foundations-a-weekend-intensive",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782807515/k7h9gk6i1z6d/6lHrebuNRUJcEycZi54Lsv/ab9e99e0-745b-11f1-870b-fd2ee75a8787--Sound-Healing-Foundations--Weekend-Intensive-Training-tile.jpg",
    "source": "City of Sydney"
@@ -11532,7 +11532,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/we-lost-the-sea-ten-years-of-departure-songs",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787009944/k7h9gk6i1z6d/18QoFnjxa90pyrmNs6IBzz/877c8cc1-9a94-11f1-821b-25104c443502--We-Lost-The-Sea-Ten---Years-of-Departure-Songs-tile.jpg",
    "source": "City of Sydney"
@@ -11562,7 +11562,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "17:00",
    "venue": "Heaps Normal Health Club",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/mahico-presents-rodrigo-gallardo-chl-/199781",
    "image": "https://static.moshtix.com.au/uploads/b4c01c20-6ae5-405a-b373-7e2e9fd494cax140x140",
    "source": "Moshtix"
@@ -11592,7 +11592,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "19:00",
    "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/mc-pat-flynn/195130",
    "image": "https://static.moshtix.com.au/uploads/09505bc1-2cdf-477f-a2a2-a95abe4ae474x140x140",
    "source": "Moshtix"
@@ -11622,7 +11622,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/afrombollo/199792",
    "image": "https://static.moshtix.com.au/uploads/075a1019-fd5c-43e3-a751-378e344920f6x140x140",
    "source": "Moshtix"
@@ -11632,7 +11632,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "19:30",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/budjerah-gentleman-tour/197971",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11642,7 +11642,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "19:30",
    "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/peking-duk-paradise-album-tour-sydney/197802",
    "image": "https://static.moshtix.com.au/uploads/749c4edc-c5cb-4293-9277-1b0ef5afa2b4x140x140",
    "source": "Moshtix"
@@ -11662,7 +11662,7 @@ window.EVENT_DATA = {
    "date": "2026-11-07",
    "time": "21:00",
    "venue": "The Imperial Hotel",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/a-club-of-thorns-and-roses-sydney-erskineville/193725",
    "image": "https://static.moshtix.com.au/uploads/378138e8-704d-44e8-95af-a8826b21f89ax140x140",
    "source": "Moshtix"
@@ -11682,7 +11682,7 @@ window.EVENT_DATA = {
    "date": "2026-11-08",
    "time": "",
    "venue": "Sydney Opera House",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/mischa-maisky-in-recital",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1765164035/k7h9gk6i1z6d/5yTQAsvgRSUZS3BBFQpwyv/86ae9d01-d3e4-11f0-8173-45027e8c9819--Mischa-Maisky-In-Recital--tile.jpg",
    "source": "City of Sydney"
@@ -11722,7 +11722,7 @@ window.EVENT_DATA = {
    "date": "2026-11-08",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/talib-kweli-usa-/198926",
    "image": "https://s1.ticketm.net/dam/a/a86/c7b79c00-5b55-4e50-b7b8-db16e8e84a86_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -11762,7 +11762,7 @@ window.EVENT_DATA = {
    "date": "2026-11-10",
    "time": "19:00",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/alex-james-britpop-classical-australian-tour-sydney-10-11-2026/event/1300646FBF2681B7",
    "image": "https://s1.ticketm.net/dam/a/3b6/6c5634d1-8a3a-486c-8ffc-88f50f3003b6_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -11792,7 +11792,7 @@ window.EVENT_DATA = {
    "date": "2026-11-11",
    "time": "",
    "venue": "Bondi Pavilion",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concert-with-miriam-lieberman",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785982016/k7h9gk6i1z6d/7dxqq32YxTJiiKsTjhcMsY/4f54ede1-913b-11f1-94df-8fdac96f97c0--Lunchtime-concert-with-Miriam-Lieberman--tile.jpg",
    "source": "City of Sydney"
@@ -11802,7 +11802,7 @@ window.EVENT_DATA = {
    "date": "2026-11-11",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/radical-son-music-storytelling-with-welter/198870",
    "image": "https://static.moshtix.com.au/uploads/77b01d98-d276-4482-953d-17d039900a13x140x140",
    "source": "Moshtix"
@@ -11842,7 +11842,7 @@ window.EVENT_DATA = {
    "date": "2026-11-12",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour-second-show-added/197300",
    "image": "https://s1.ticketm.net/dam/a/474/2d3ad16b-1c90-4dcf-9268-c89bf4948474_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -11892,7 +11892,7 @@ window.EVENT_DATA = {
    "date": "2026-11-13",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour/195987",
    "image": "https://s1.ticketm.net/dam/a/474/2d3ad16b-1c90-4dcf-9268-c89bf4948474_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -11902,7 +11902,7 @@ window.EVENT_DATA = {
    "date": "2026-11-13",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11922,7 +11922,7 @@ window.EVENT_DATA = {
    "date": "2026-11-13",
    "time": "19:30",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18-new-all-ages-show-added/197886",
    "image": "https://s1.ticketm.net/dam/a/2f1/03a32579-247e-4e53-84c7-6ccfccfe12f1_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -11942,7 +11942,7 @@ window.EVENT_DATA = {
    "date": "2026-11-13",
    "time": "19:30",
    "venue": "Melbourne Pavilion",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/kuko/196685",
    "image": "https://static.moshtix.com.au/uploads/a5f7d6d5-014c-4d30-84f9-9498998bb601x140x140",
    "source": "Moshtix"
@@ -11972,7 +11972,7 @@ window.EVENT_DATA = {
    "date": "2026-11-13",
    "time": "20:00",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/sir-el-tom-sydney-13-11-2026/event/1300643C95FF410F",
    "image": "https://s1.ticketm.net/dam/a/6b8/b2c76b09-742b-4d7e-b385-381c547db6b8_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -11982,7 +11982,7 @@ window.EVENT_DATA = {
    "date": "2026-11-13",
    "time": "20:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sasa-matic-live-with-full-band/196779",
    "image": "https://static.moshtix.com.au/uploads/23e4b402-3b8e-4254-a394-911f0b3a8d20x140x140",
    "source": "Moshtix"
@@ -12022,7 +12022,7 @@ window.EVENT_DATA = {
    "date": "2026-11-14",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/dojo-live-3-taikoz-celebrates",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787026605/k7h9gk6i1z6d/6eSW6rtKElJsNIjtC3gjdI/c34b69d1-9aba-11f1-a5c2-730d53d7a012--Dojo-Live-3---Taikoz-Celebrates--tile.jpg",
    "source": "City of Sydney"
@@ -12042,7 +12042,7 @@ window.EVENT_DATA = {
    "date": "2026-11-14",
    "time": "16:00",
    "venue": "The Domain",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/jack-johnson-surfilmusic-tour-australia-new-sydney-14-11-2026/event/13006473DA488C88",
    "image": "https://s1.ticketm.net/dam/a/d4f/b1d114ed-29ec-4d69-8069-800d789f4d4f_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12052,7 +12052,7 @@ window.EVENT_DATA = {
    "date": "2026-11-14",
    "time": "18:00",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages-/198643",
    "image": "https://s1.ticketm.net/dam/a/2f1/03a32579-247e-4e53-84c7-6ccfccfe12f1_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12072,7 +12072,7 @@ window.EVENT_DATA = {
    "date": "2026-11-14",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/boogie-affair/195338",
    "image": "https://static.moshtix.com.au/uploads/2702f86f-79b3-45c7-a6ae-ded0a0914c7fx140x140",
    "source": "Moshtix"
@@ -12092,7 +12092,7 @@ window.EVENT_DATA = {
    "date": "2026-11-14",
    "time": "19:30",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://www.ticketmaster.com.au/the-bootleg-beatles-and-their-orchestra-sydney-14-11-2026/event/130062D9B16629FA",
    "image": "https://s1.ticketm.net/dam/a/3fb/bcffc8c6-1c1b-4b5d-af2e-89f2803c13fb_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12102,7 +12102,7 @@ window.EVENT_DATA = {
    "date": "2026-11-14",
    "time": "22:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-nov-14-ft-gudfella/198750",
    "image": "https://s1.ticketm.net/dam/a/1bb/e45ed621-9bfd-47d9-bee9-f0fceccd01bb_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12122,7 +12122,7 @@ window.EVENT_DATA = {
    "date": "2026-11-15",
    "time": "",
    "venue": "Sydney Conservatorium of Music",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/salut-baroque-presents-charms-in-musick",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1763972108/k7h9gk6i1z6d/2FCj6tTn6R6QNErYBONU23/5246e0e1-c90d-11f0-8078-4b05e40c2425--Salut--Baroque-presents-Charms-in-Musick-tile.jpg",
    "source": "City of Sydney"
@@ -12132,7 +12132,7 @@ window.EVENT_DATA = {
    "date": "2026-11-15",
    "time": "15:00",
    "venue": "Liberty Hall",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/gilles-peterson/196010",
    "image": "https://static.moshtix.com.au/uploads/41a34916-94b7-44ff-bf52-7d9e49ed8f91x140x140",
    "source": "Moshtix"
@@ -12142,7 +12142,7 @@ window.EVENT_DATA = {
    "date": "2026-11-15",
    "time": "16:00",
    "venue": "State Theatre, Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/james-morrison-with-special-guest-mahalia-sydney-15-11-2026/event/1300647E8663184C",
    "image": "https://s1.ticketm.net/dam/a/982/467e7bd1-c322-4ecf-8623-3d8bde7c5982_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12162,7 +12162,7 @@ window.EVENT_DATA = {
    "date": "2026-11-15",
    "time": "17:00",
    "venue": "Oxford Art Factory, Main Room",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/xxxpress-2026/199615",
    "image": "https://static.moshtix.com.au/uploads/ce0586e7-5504-4447-89d7-41bb2d6e1662x140x140",
    "source": "Moshtix"
@@ -12172,7 +12172,7 @@ window.EVENT_DATA = {
    "date": "2026-11-15",
    "time": "17:30",
    "venue": "Allianz Stadium",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3",
    "image": "https://s1.ticketm.net/dam/a/0d0/7395c6e7-8a78-4028-ac20-f053c22fa0d0_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12192,7 +12192,7 @@ window.EVENT_DATA = {
    "date": "2026-11-16",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Live Music",
+   "category": "Classical & Opera",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/latvian-radio-choir-and-genevieve-lacey",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1761608415/k7h9gk6i1z6d/70dIgvEu3AiGK8uq1FFNRI/0b3c3b30-b38e-11f0-a74a-a51300b8240e--Latvian-Radio-Choir---Genevieve-Lacey-tile.jpg",
    "source": "City of Sydney"
@@ -12202,7 +12202,7 @@ window.EVENT_DATA = {
    "date": "2026-11-16",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/flyte-uk-/195420",
    "image": "https://s1.ticketm.net/dam/a/ff2/eb19a01c-e13d-41cf-8920-a4dadd167ff2_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12282,7 +12282,7 @@ window.EVENT_DATA = {
    "date": "2026-11-19",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ryan-harris-live-in-sydney/196620",
    "image": "https://s1.ticketm.net/dam/a/a44/8866f0e0-6831-4f89-ab47-1900b861ca44_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12302,7 +12302,7 @@ window.EVENT_DATA = {
    "date": "2026-11-19",
    "time": "19:30",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/venna/196220",
    "image": "https://s1.ticketm.net/dam/a/9fb/441098e2-e20c-4ea7-b650-30e4256e49fb_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12312,7 +12312,7 @@ window.EVENT_DATA = {
    "date": "2026-11-20",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Soul, Jazz & Global",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/hot-dub-on-the-harbour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781760297/k7h9gk6i1z6d/2XlPAkrrLPIvItK27L7yuA/5ca68031-6ad5-11f1-82f7-39320e660767--Hot-Dub-on-the-Harbour-tile.jpg",
    "source": "City of Sydney"
@@ -12322,7 +12322,7 @@ window.EVENT_DATA = {
    "date": "2026-11-20",
    "time": "18:00",
    "venue": "Mrs Macquaries Point",
-   "category": "Live Music",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/hot-dub-on-the-harbour-2026/196073",
    "image": "https://s1.ticketm.net/dam/a/e26/b4e44a16-3b4a-46ed-a7fc-506e8ede2e26_68701_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12332,7 +12332,7 @@ window.EVENT_DATA = {
    "date": "2026-11-20",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443",
    "image": "https://s1.ticketm.net/dam/a/fb4/7b1a25ef-af9c-470f-827b-4749162eefb4_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12342,7 +12342,7 @@ window.EVENT_DATA = {
    "date": "2026-11-20",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/keyim-ba/197849",
    "image": "https://static.moshtix.com.au/uploads/fc352947-bbd8-4e15-8283-6a67645c7508x140x140",
    "source": "Moshtix"
@@ -12382,7 +12382,7 @@ window.EVENT_DATA = {
    "date": "2026-11-20",
    "time": "19:30",
    "venue": "King Street Wharf",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/louis-the-child-sydney/199335",
    "image": "https://s1.ticketm.net/dam/a/f37/26c9a874-b5fc-489f-bc0c-f52430136f37_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12412,7 +12412,7 @@ window.EVENT_DATA = {
    "date": "2026-11-20",
    "time": "20:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/kofi-stone-all-the-flowers-have-bloomed/195622",
    "image": "https://static.moshtix.com.au/uploads/5ba2ac84-ec8c-4f4e-8493-c417a46fa358x140x140",
    "source": "Moshtix"
@@ -12422,7 +12422,7 @@ window.EVENT_DATA = {
    "date": "2026-11-20",
    "time": "23:00",
    "venue": "Oxford Art Factory",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/marcel-dettmann-gerd-janson-ger-/198613",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12452,7 +12452,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "",
    "venue": "White Bay Power Station",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/world-o-world",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1776139240/k7h9gk6i1z6d/3Z8OKT3BOJ7QL81B2taGVe/c9983600-37b5-11f1-8e0c-8b0040bc8dfa--World-O-World-tile.jpg",
    "source": "City of Sydney"
@@ -12462,7 +12462,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "12:00",
    "venue": "Royal Randwick Racecourse",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/hypersonic-festival-sydney-2026/199622",
    "image": "https://static.moshtix.com.au/uploads/40681a51-01df-428b-82ce-c7a63ca0d018x140x140",
    "source": "Moshtix"
@@ -12472,7 +12472,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "13:30",
    "venue": "SEADECK - King Street Wharf 8, Darling Harbour",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/gravagerz-sydney/198368",
    "image": "https://static.moshtix.com.au/uploads/53442185-2b66-4bd6-a546-5411ff0cd832x140x140",
    "source": "Moshtix"
@@ -12482,7 +12482,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "14:00",
    "venue": "Mrs Macquaries Point",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/harbourlife-2026/188785",
    "image": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12492,7 +12492,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "15:00",
    "venue": "Liberty Hall",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/silva-bumpa/195714",
    "image": "https://static.moshtix.com.au/uploads/c0f84adf-703d-4a0c-8217-7b531ebb005cx140x140",
    "source": "Moshtix"
@@ -12502,7 +12502,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "15:00",
    "venue": "ivy",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/bed-by-10/196951",
    "image": "https://static.moshtix.com.au/uploads/ef1c6271-5c56-4e52-b292-150752df24bdx140x140",
    "source": "Moshtix"
@@ -12512,7 +12512,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "18:00",
    "venue": "Metro Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/delilah-bon-australian-east-coast-tour-sydney-now-at-metro-social/193236",
    "image": "https://s1.ticketm.net/dam/a/041/516a65b2-d63c-4250-8338-df81f9b55041_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12522,7 +12522,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "19:00",
    "venue": "Lansdowne Hotel",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/eric-hutchinson/196579",
    "image": "https://s1.ticketm.net/dam/a/e88/7d3fade5-b360-4a15-b2e7-b147f80c1e88_1283291_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12532,7 +12532,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/john-harp-drive-zebra-s-hair-album-launch-rachel-delgado/198437",
    "image": "https://static.moshtix.com.au/uploads/9a8c1fcf-3213-4816-9563-a00d387fa17bx140x140",
    "source": "Moshtix"
@@ -12562,7 +12562,7 @@ window.EVENT_DATA = {
    "date": "2026-11-21",
    "time": "21:00",
    "venue": "Liberty Hall",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/sterling-w-silva-bumpa-special-guests/197527",
    "image": "https://static.moshtix.com.au/uploads/851d9263-ad32-4e74-a1fe-2fd281adcb7bx140x140",
    "source": "Moshtix"
@@ -12582,7 +12582,7 @@ window.EVENT_DATA = {
    "date": "2026-11-22",
    "time": "",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/ultra-nate-australia-tour-2026",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783566510/k7h9gk6i1z6d/4IP4GKkwr2ylPrHYclUT3I/379716f0-7b43-11f1-9f53-bf84c071f21d--Ultra-Nat----AUSTRALIA-Tour-2026-tile.jpg",
    "source": "City of Sydney"
@@ -12612,7 +12612,7 @@ window.EVENT_DATA = {
    "date": "2026-11-22",
    "time": "18:30",
    "venue": "The Vanguard",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-vampires/199659",
    "image": "https://static.moshtix.com.au/uploads/60ca75b2-1c34-40ff-839d-9bb5f6a0abadx140x140",
    "source": "Moshtix"
@@ -12622,7 +12622,7 @@ window.EVENT_DATA = {
    "date": "2026-11-22",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/ultra-nat-sydney/197707",
    "image": "https://s1.ticketm.net/dam/a/e35/32ce3021-ef8c-4df0-a437-6a1697d53e35_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12632,7 +12632,7 @@ window.EVENT_DATA = {
    "date": "2026-11-23",
    "time": "18:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-underground-brass-band-tubb-/199129",
    "image": "https://static.moshtix.com.au/uploads/cefc9847-32af-4ae4-92a4-0ed05cd1aed6x140x140",
    "source": "Moshtix"
@@ -12712,7 +12712,7 @@ window.EVENT_DATA = {
    "date": "2026-11-26",
    "time": "",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Soul, Jazz & Global",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sima-jazz-now-ghosts-between-streams-ii",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1774319181/k7h9gk6i1z6d/333zAiRsKOM0y9jNuzvErF/94a87881-2728-11f1-8568-abaa3ef9649c--SIMA-Jazz-NOW-Ep-4---Ghosts-Between-Streams-II-tile.jpg",
    "source": "City of Sydney"
@@ -12722,7 +12722,7 @@ window.EVENT_DATA = {
    "date": "2026-11-26",
    "time": "19:00",
    "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/jazz-now-2026-episode-4-tom-avgenicos-ghosts-between-streams-/193267",
    "image": "https://static.moshtix.com.au/uploads/6c413bab-b0fb-40a7-b6c9-591dd5e0f6a9x140x140",
    "source": "Moshtix"
@@ -12732,7 +12732,7 @@ window.EVENT_DATA = {
    "date": "2026-11-26",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-sounds-fab-the-music-of-the-beatles-reimagined/196517",
    "image": "https://static.moshtix.com.au/uploads/79ebf319-0538-4980-a7ce-a5fc44a07dc9x140x140",
    "source": "Moshtix"
@@ -12812,7 +12812,7 @@ window.EVENT_DATA = {
    "date": "2026-11-27",
    "time": "17:00",
    "venue": "Darling Harbour - Tumbalong Park",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/forma-pres-kool-the-gang-sister-sledge-ft-sledgendary/197718",
    "image": "https://static.moshtix.com.au/uploads/d8621f7d-2043-4110-aa6f-ad85ce0297e6x140x140",
    "source": "Moshtix"
@@ -12822,7 +12822,7 @@ window.EVENT_DATA = {
    "date": "2026-11-27",
    "time": "18:00",
    "venue": "Darling Harbour - Tumbalong Park",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/forma/197753",
    "image": "https://static.moshtix.com.au/uploads/6085d90a-9f19-430c-bae5-e2344098b760x140x140",
    "source": "Moshtix"
@@ -12832,7 +12832,7 @@ window.EVENT_DATA = {
    "date": "2026-11-27",
    "time": "19:00",
    "venue": "Oxford Art Factory",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/sly-withers-tbh-album-tour/198259",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
@@ -12852,7 +12852,7 @@ window.EVENT_DATA = {
    "date": "2026-11-27",
    "time": "19:30",
    "venue": "Beach Road Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-black-seeds-australian-tour-beach-road-bondi/198706",
    "image": "https://static.moshtix.com.au/uploads/57591ab8-16d5-49dc-a941-a3a3d396b4fbx140x140",
    "source": "Moshtix"
@@ -12882,7 +12882,7 @@ window.EVENT_DATA = {
    "date": "2026-11-27",
    "time": "20:00",
    "venue": "Plaza Hotel Sydney",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/vtss/198636",
    "image": "https://s1.ticketm.net/dam/a/7d7/bd548637-d2b7-4bd1-8aba-9d30b8b9f7d7_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12892,7 +12892,7 @@ window.EVENT_DATA = {
    "date": "2026-11-28",
    "time": "",
    "venue": "Enmore Theatre",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-kim-wilde-closer-tour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772689065/k7h9gk6i1z6d/3N1o5HFaCh8sxklIBNEOne/6ea62de1-1854-11f1-8052-eb532aa503e4--The-Kim-Wilde-Closer-Tour-tile.jpg",
    "source": "City of Sydney"
@@ -12902,7 +12902,7 @@ window.EVENT_DATA = {
    "date": "2026-11-28",
    "time": "14:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/all-day-i-dream-of-australia-sydney/197441",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -12912,7 +12912,7 @@ window.EVENT_DATA = {
    "date": "2026-11-28",
    "time": "15:00",
    "venue": "Darling Harbour - Tumbalong Park",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/anjunadeep-open-air-sydney/197721",
    "image": "https://static.moshtix.com.au/uploads/51b5cbe3-e51e-4655-b9d1-e83840aec7ccx140x140",
    "source": "Moshtix"
@@ -12962,7 +12962,7 @@ window.EVENT_DATA = {
    "date": "2026-11-28",
    "time": "19:30",
    "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/piti-fern-ndez/197322",
    "image": "https://static.moshtix.com.au/uploads/d43cbf10-522b-457c-b1ab-b47472a3e88bx140x140",
    "source": "Moshtix"
@@ -12982,7 +12982,7 @@ window.EVENT_DATA = {
    "date": "2026-11-28",
    "time": "20:00",
    "venue": "Metro Social",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/carlos-vives-la-provincia-tribute/199711",
    "image": "https://static.moshtix.com.au/uploads/a1a04ec6-6859-41cd-91b2-c202fe331e1ex140x140",
    "source": "Moshtix"
@@ -12992,7 +12992,7 @@ window.EVENT_DATA = {
    "date": "2026-11-28",
    "time": "22:00",
    "venue": "ivy Sydney",
-   "category": "Nightlife",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/above-nov-28-ft-tsha/198751",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
@@ -13002,7 +13002,7 @@ window.EVENT_DATA = {
    "date": "2026-11-29",
    "time": "",
    "venue": "Bondi Pavilion",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/100-women-100-stories-concert",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786596317/k7h9gk6i1z6d/MZ8geOA5QoMfbJITw14Ch/06822601-96d1-11f1-9896-639b23b27781--100-Women-100-Stories-Concert-tile.jpg",
    "source": "City of Sydney"
@@ -13012,7 +13012,7 @@ window.EVENT_DATA = {
    "date": "2026-11-29",
    "time": "",
    "venue": "See listing",
-   "category": "Live Music",
+   "category": "Other Music",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/an-afternoon-with-accordionist-james-crabb",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772709954/k7h9gk6i1z6d/3cjiCXYZn8Pt0VyEaCgJMC/8d27aa61-1885-11f1-88f0-4388023d9550--An-Afternoon-With-Accordionist-James-Crabb-tile.jpg",
    "source": "City of Sydney"
@@ -13022,7 +13022,7 @@ window.EVENT_DATA = {
    "date": "2026-11-29",
    "time": "",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Live Music",
+   "category": "Soul, Jazz & Global",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/jessica-zamprogno-and-the-swing-west-jazz-orchestra",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785113036/k7h9gk6i1z6d/6BIUnrr9ZCObmZEibEEj3e/02ef15b1-8953-11f1-babe-318da3764f24--Swing-West-Big-Band-featuring-Jessica-Zamprogno-tile.jpg",
    "source": "City of Sydney"
@@ -13032,7 +13032,7 @@ window.EVENT_DATA = {
    "date": "2026-11-29",
    "time": "15:00",
    "venue": "Liberty Hall",
-   "category": "Electronic",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/kerri-chandler-live-hybrid-/196391",
    "image": "https://static.moshtix.com.au/uploads/ced0de81-1c0e-47b9-94e4-ec2463e7fae1x140x140",
    "source": "Moshtix"
@@ -13062,7 +13062,7 @@ window.EVENT_DATA = {
    "date": "2026-11-29",
    "time": "17:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Roots",
+   "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/swing-west-jazz-orchestra/193808",
    "image": "https://static.moshtix.com.au/uploads/4da68953-94f3-49dc-bde6-5cf2b9d75771x140x140",
    "source": "Moshtix"
