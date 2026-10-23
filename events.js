@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-10-22T20:58:54.732Z",
+ "generated": "2026-10-23T20:47:11.453Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -22,273 +22,13 @@ window.EVENT_DATA = {
  ],
  "events": [
   {
-   "name": "Free taster sessions - 'Me & My Violin: First steps'",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-taster-sessions-me-and-my-violin-first-steps",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791942198/k7h9gk6i1z6d/12xljBkZsBxcgMS1ynYADQ/f873ec41-c76f-11f1-bc33-adba5effd43c--Free-taster----Me---My-Violin--First-steps--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Digital Storytelling Workshop",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "Marrickville Library and Pavilion",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/digital-storytelling-workshop",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791958826/k7h9gk6i1z6d/5kwiBbBvqVQ0cCaFTjQjyY/c400b031-c795-11f1-96b0-21f5df273fd4--Digital-Storytelling-Workshop--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "2026 Sydney Rare Book Fair",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "State Library of NSW",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/anzaab-sydney-rare-book-fair",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1780621524/k7h9gk6i1z6d/6MG62QNdHeALu2UHWgHAr7/ecddbc61-6079-11f1-b768-0d718f990c78--2026-Sydney-Rare-Book-Fair-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Chrystal Rimmer 'Upwelling'",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "Stanley Street Gallery",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/chrystal-rimmer-upwelling",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790820154/k7h9gk6i1z6d/6DzmCRgIQwdQ2YLAemL9O7/6c6cdd31-bd3b-11f1-80bb-ef379bb7cd5d--Chrystal-Rimmer--Upwelling--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "David Hockney: Bigger & Closer (not smaller & further away)",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "Carriageworks",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/david-hockney-bigger-and-closer-not-smaller-and-further-away",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785721564/k7h9gk6i1z6d/wjpcBr0B0xQc7f2mtvZn0/a68e50d0-8edc-11f1-908c-e5d486442bdb--David-Hockney--Bigger---Closer--not-smaller---further-away--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Minyma Maku (Witchetty Grub Women)",
-   "date": "2026-10-22",
+   "name": "Glitter and Lashes at Kryolan",
+   "date": "2026-10-23",
    "time": "",
    "venue": "See listing",
    "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/minyma-maku-witchetty-grub-women",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792625900/k7h9gk6i1z6d/1n5Lp2TiSITECnmRjekdHC/3a202121-cda8-11f1-ab91-e16a942750a9--Minyma-Maku--Witchetty-Grub-Women---tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Robert Fielding: UNDERBELLY.",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "See listing",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/robert-fielding-underbelly",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792625634/k7h9gk6i1z6d/1ky9Aox7bmAQbvps9DZeFp/7105bcf1-cda7-11f1-8a66-81c1a54ae2c6--Robert-Fielding--UNDERBELLY--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Unbearable Lightness",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "Tiliqua Tiliqua",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/unbearable-lightness",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792366552/k7h9gk6i1z6d/6oj6RhOcCiiSIiGNUYvznw/0fb24391-cb4c-11f1-acec-c9336f5fe32c--Unbearable-Lightness-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Hawkeye vintage luxury pop up",
-   "date": "2026-10-22",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/hawkeye-vintage-luxury-pop-up",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788753838/k7h9gk6i1z6d/4EMGykHcdFaq07HjppUJnA/0da8f901-aa71-11f1-973d-d7b49c22b811--Hawkeye-Vintage-Luxury-Pop-Up--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "*Postponed* No Flowers Mahjong Club #6 at Heaps Normal Health Club",
-   "date": "2026-10-22",
-   "time": "18:00",
-   "venue": "Heaps Normal Health Club",
-   "category": "Other",
-   "url": "https://www.moshtix.com.au/v2/event/-postponed-no-flowers-mahjong-club-6-at-heaps-normal-health-club/201241",
-   "image": "https://static.moshtix.com.au/uploads/2592124f-52a3-43a8-b27a-5d98acb62d37x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Lvl 1 - Daryl Aberhart- Aussie Gold Vol 3",
-   "date": "2026-10-22",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/lvl-1-daryl-aberhart-aussie-gold-vol-3/196438",
-   "image": "https://static.moshtix.com.au/uploads/f7abab14-b3b9-43a8-9809-842073aee310x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "iOTA - Hours Disappear Album Launch",
-   "date": "2026-10-22",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/iota-hours-disappear-album-launch/198916",
-   "image": "https://static.moshtix.com.au/uploads/edfeefd5-bd30-4bc2-8a6e-ea17530a2b7cx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "ESME  The Show - Esme Rowling + House of Monkeys + AJ Stanton + Galileo Lima + The Nowadays",
-   "date": "2026-10-22",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/esme-the-show-esme-rowling-house-of-monkeys-aj-stanton-galileo-lima-the-nowadays/198966",
-   "image": "https://static.moshtix.com.au/uploads/f7b03d99-ccc7-4b0a-a288-a5bc01a5b6ffx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Mountain Boy - The Nights Tour",
-   "date": "2026-10-22",
-   "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/mountain-boy-the-nights-tour/195832",
-   "image": "https://static.moshtix.com.au/uploads/b2d48ffa-7b69-4c0b-9103-13b9ec366fd4x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "空宙逃走 Kuuchuu Tousou (Escape through space)",
-   "date": "2026-10-22",
-   "time": "20:00",
-   "venue": "Waywards Ballroom",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/空宙逃走-kuuchuu-tousou-escape-through-space-/200979",
-   "image": "https://static.moshtix.com.au/uploads/ab055983-f1fc-4597-b602-8b08f6b35823x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "ivy Thursdays - 22nd October",
-   "date": "2026-10-22",
-   "time": "21:00",
-   "venue": "ivy",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-22nd-october/200336",
-   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Art & About opening night",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "Taylor Square",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-and-about-opening-night",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790217868/k7h9gk6i1z6d/2OEZu3EXRCI0JmFElaUyo0/c298c901-b7c1-11f1-aac2-9b3b078b5509--Art---About-opening-night-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Art & About pop-up performances at Oxford Square",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-and-about-pop-up-performances-at-oxford-square",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791265902/k7h9gk6i1z6d/3E7oTnwtcbXNfvKp2emsXg/bf08c311-c146-11f1-b427-8db5f544f600--Art---About-at-Oxford-Square-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Bach in the Dark - music for cello and accordion",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "St James Church",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bach-and-the-bard",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790473594/k7h9gk6i1z6d/5WnfBy1IT8QjdD92qhE4I2/5fa1af60-ba14-11f1-8245-9b826224d666--Bach-in-the-Dark---music-for-cello-and-accordion-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "River Of Lilacs – John L’Estrange & Joanna Li in Recital",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "See listing",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/river-of-lilacs-john-lestrange-and-joanna-li-in-recital",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791086300/k7h9gk6i1z6d/7iX2Gt3zr41HR7AGivoRtC/ad529471-bfa7-11f1-943f-036e8edd46fb--River-Of-Lilacs---John-L-Estrange---Joanna-Li-in-Recital-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "This is Texas: rodeo night",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "Side Bar Sydney",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/rodeo-night",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782190524/k7h9gk6i1z6d/5voqHCN2KE4j2v0Mw57ABB/e8ac7490-6eb8-11f1-bb61-31d5f7ff92c8--This-is-Texas--Rodeo-Night-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Reginald Murphy Community Centre open day",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "Reginald Murphy Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/reginald-murphy-community-centre-open-day",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1697417063/k7h9gk6i1z6d/QKDLBHxcrRMZ4mYLSLKjE/82260ee1-6bbc-11ee-85b9-dbeb28aa2b7c--Reginald-Murphy-Community-Centre-open-day-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Halloween drag trivia hosted by Zephyr",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "Waverley Library",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-trivia-night",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788137455/k7h9gk6i1z6d/7ynwzaXy6yvK32K6O5mguu/93908f71-a4d5-11f1-a8dc-a5233868162b---Halloween-Drag-Trivia-hosted-by-Zephyr-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Mahjong Social Night at Talk Shop Haymarket Sydney",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/mahjong-social-night-at-talk-shop-haymarket-sydney",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790822481/k7h9gk6i1z6d/2gBCxarQAkmwSeXf6CKUOw/52df0ef1-bd41-11f1-a3f8-2d8be1f721af--Mahjong-Social-Night-at-Talk-Shop-Haymarket-Sydney-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Makers’ morning social craft group",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "St Helen’s Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/makers-morning-social-craft-group",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790657688/k7h9gk6i1z6d/3pxJTUHDsg0JAEYznkeIFg/a820a531-bbc1-11f1-9614-e7b2bcb0d011--Makers--morning-social-craft-group-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Recycling and lids sorting volunteer session",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/lids-sorting-session",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1769476750/k7h9gk6i1z6d/1S2kOPNaeRiRU0JfyH4oCi/147e2f50-fb1e-11f0-9adb-ed4ffc25e5e7--Recycling---Lid-Sorting-Session-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sub-Urban at The Substation",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "Qtopia Sydney",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sub-urban-at-the-substation",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790208324/k7h9gk6i1z6d/6H3zNS2dSY6DF5g2eeBu6h/976bbe20-b7aa-11f1-8bc7-31c5a22bdd3a--Sub-Urban-at-The-Substation-tile.jpg",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/glitter-and-lashes-at-kryolan",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791007798/k7h9gk6i1z6d/1aSsTHojYLKvidxSd2LAPd/97f81b40-bedf-11f1-a893-85eaf5de0d81--Glitter-and-Lashes---Kryolan-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -322,16 +62,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Glitter and Lashes at Kryolan",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "See listing",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/glitter-and-lashes-at-kryolan",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791007798/k7h9gk6i1z6d/1aSsTHojYLKvidxSd2LAPd/97f81b40-bedf-11f1-a893-85eaf5de0d81--Glitter-and-Lashes---Kryolan-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Hard Times Require Furious Dancing by Ian Thomas",
    "date": "2026-10-23",
    "time": "",
@@ -339,16 +69,6 @@ window.EVENT_DATA = {
    "category": "Exhibitions",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/hard-times-require-furious-dancing-by-ian-thomas",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788399880/k7h9gk6i1z6d/4atXo4ZiPeh5Qp05Ex2Lgd/b7eff6c1-a738-11f1-9422-2fa7382a93ff--Hard-Times-Require-Furious-Dancing-by-Ian-Thomas-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Life drawing hosted by a Drag Queen workshop",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "See listing",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/life-drawing-sip-and-sketch-with-a-drag-queen-class",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773305850/k7h9gk6i1z6d/74VVJe0mSogGvNaO4Nhfsp/97be6570-1df0-11f1-be27-ffb263b61316--Life-Drawing-Sip-and-Sketch-with-a-Drag-Queen-Class-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -372,16 +92,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "National Awards Exhibition 2026 – miniature art",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "Willoughby Arts Centre",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/national-awards-exhibition-miniature-art",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789695154/k7h9gk6i1z6d/3YlapII7XoFGNggB22pJfN/30692dc1-b2ff-11f1-83e0-597140e89c61--National-Awards-Exhibition-2026---Miniature-Art-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Ripples of Connection by Bindi Bindi Art",
    "date": "2026-10-23",
    "time": "",
@@ -389,6 +99,16 @@ window.EVENT_DATA = {
    "category": "Exhibitions",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/ripples-of-connection-by-bindi-bindi-art",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788230535/k7h9gk6i1z6d/44OMSmvEZpBGEsDR6NUpsx/88456da1-a5ae-11f1-bcb2-b5ec17ea9c98--Ripples-of-Connection-by-Bindi-Bindi-Art-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sub-Urban at The Substation",
+   "date": "2026-10-23",
+   "time": "",
+   "venue": "Qtopia Sydney",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sub-urban-at-the-substation",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790208324/k7h9gk6i1z6d/6H3zNS2dSY6DF5g2eeBu6h/976bbe20-b7aa-11f1-8bc7-31c5a22bdd3a--Sub-Urban-at-The-Substation-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -422,13 +142,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Glebe Art Show: Sip and Draw - guided figure drawing session",
+   "name": "Life drawing hosted by a Drag Queen workshop",
    "date": "2026-10-23",
    "time": "",
-   "venue": "Tramsheds Harold Park",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/glebe-art-show-sip-and-draw-guided-figure-drawing-session",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791172075/k7h9gk6i1z6d/jr6tAMP9wnZOy7cl1NGoP/0daa3f41-c06f-11f1-be6e-e3469e4477d9--Glebe-Art-Show--Sip-and-Draw---guided-figure-drawing-session-tile.jpg",
+   "venue": "See listing",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/life-drawing-sip-and-sketch-with-a-drag-queen-class",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773305850/k7h9gk6i1z6d/74VVJe0mSogGvNaO4Nhfsp/97be6570-1df0-11f1-be27-ffb263b61316--Life-Drawing-Sip-and-Sketch-with-a-Drag-Queen-Class-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -452,43 +172,63 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Tea Spritz, Cocktail & Social Dining at Linla Surry Hills",
+   "name": "Recycling and lids sorting volunteer session",
    "date": "2026-10-23",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/tea-spritz-cocktail-and-social-dining-at-linla-surry-hills",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791942366/k7h9gk6i1z6d/3yBQDqRv15RoCXg3pzBiXf/2ee5e941-c770-11f1-85ec-15891c9e20b7--Tea-Spritz--Cocktail---Social-Dining-at-Linla-Surry-Hills-tile.jpg",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/lids-sorting-session",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1769476750/k7h9gk6i1z6d/1S2kOPNaeRiRU0JfyH4oCi/147e2f50-fb1e-11f0-9adb-ed4ffc25e5e7--Recycling---Lid-Sorting-Session-tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "International Champagne Day",
+   "name": "Makers’ morning social craft group",
+   "date": "2026-10-23",
+   "time": "",
+   "venue": "St Helen’s Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/makers-morning-social-craft-group",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790657688/k7h9gk6i1z6d/3pxJTUHDsg0JAEYznkeIFg/a820a531-bbc1-11f1-9614-e7b2bcb0d011--Makers--morning-social-craft-group-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Art & About pop-up performances at Oxford Square",
    "date": "2026-10-23",
    "time": "",
    "venue": "See listing",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/international-champagne-day",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792557343/k7h9gk6i1z6d/5kAZyaczJCtiP9ZGyoT3HI/62c66e41-cd08-11f1-949c-ad00c70ff4d3--International-Champagne-Day-tile.jpg",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-and-about-pop-up-performances-at-oxford-square",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791265902/k7h9gk6i1z6d/3E7oTnwtcbXNfvKp2emsXg/bf08c311-c146-11f1-b427-8db5f544f600--Art---About-at-Oxford-Square-tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "MSC Presents: One Ocean. Two Cooks.",
+   "name": "Bavaria by Loose Canon Arts",
    "date": "2026-10-23",
    "time": "",
-   "venue": "Sydney Fish Market",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/msc-presents-two-cooks-one-ocean",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790304150/k7h9gk6i1z6d/37ceNeaYnJx3uN1DYg5vwg/b2ca8351-b88a-11f1-acfa-f56b5337285c--MSC-Presents--Two-Cooks--One-Ocean-tile.jpg",
+   "venue": "East Sydney Community and Arts Centre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bavaria-by-loose-canon-arts",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789608365/k7h9gk6i1z6d/3b2N0dina5LrCbsBLvhJMH/b901b130-b236-11f1-bc37-e7d73eb59d64--Bavaria-by-Loose-Canon-Arts-tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "Shakesbeer session: Midsummer Night's Dream, Darlinghurst",
+   "name": "Crazing by Escape Artists",
+   "date": "2026-10-23",
+   "time": "",
+   "venue": "East Sydney Community and Arts Centre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/crazing-by-escape-artists",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787885012/k7h9gk6i1z6d/4NJurGJ5XCKEsJ20dXyH76/e7514bc1-a289-11f1-ad38-3d5a10bd4518--Crazing-by-Karli-Evans-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Out of the Studio",
    "date": "2026-10-23",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/shakesbeer-session-midsummer-nights-dream-darlinghurst",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789626736/k7h9gk6i1z6d/5jbfYgpSw3LtzWuFAWMHuj/55fb9941-b261-11f1-acc8-71eea8a95639--The-Shakesbeer-Sessions--A-Midsummer-Night-s-Dream-tile.jpg",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/out-of-the-studio",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791185156/k7h9gk6i1z6d/2FCHe3cLQLJCGwcMCqqEsV/57d67431-c08d-11f1-9bfb-c5e85ccde756--Out-of-the-Studio-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -496,19 +236,9 @@ window.EVENT_DATA = {
    "date": "2026-10-23",
    "time": "",
    "venue": "Castlereagh Boutique Hotel",
-   "category": "Nightlife & Electronic",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-good-soldier-svejk",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784613429/k7h9gk6i1z6d/3ABLqCPNXdlFC9EuIb6Z8N/24c9da11-84c8-11f1-9e4a-253e7caae940--The-Good-Soldier--vejk-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Art Mania: Geoffrey Bardon and the Painting Men of Papunya",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "Waverley Library",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-mania-geoffrey-bardon-and-the-painting-men-of-papunya",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792627512/k7h9gk6i1z6d/66fUfU415VLAs6euslGbFh/cfb31dc1-cdab-11f1-95a2-ed8b1c501861--Art-Mania--Geoffrey-Bardon-and-the-Painting-Men-of-Papunya-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -522,16 +252,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Qi Gong Course for Beginners",
-   "date": "2026-10-23",
-   "time": "",
-   "venue": "Sydney Community College",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/qi-gong-course-for-beginners",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1756353614/k7h9gk6i1z6d/6i8VUwv2x2XpLpJ4FYwnVR/4ad01e61-83c3-11f0-955b-e95f747e036d--Qi-Gong-Course-for-Beginners-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "MARLY FRIDAYS | OCT 23RD",
    "date": "2026-10-23",
    "time": "18:00",
@@ -540,26 +260,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/marly-fridays-oct-23rd/200907",
    "image": "https://static.moshtix.com.au/uploads/d9916e6c-1620-4bf8-b4a0-81c488d5a5acx140x140",
    "source": "Moshtix"
-  },
-  {
-   "name": "HEAVENSGATE Australian Tour 2026 with special guests Mélancolia & Irken Armada",
-   "date": "2026-10-23",
-   "time": "19:00",
-   "venue": "Lansdowne Hotel",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/heavensgate-australian-tour-2026-with-special-guests-m-lancolia-irken-armada/199676",
-   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "Le Shiv - Yada Yada national album tour – SYDNEY",
-   "date": "2026-10-23",
-   "time": "19:00",
-   "venue": "Oxford Art Factory",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/le-shiv-yada-yada-national-album-tour-sydney/198393",
-   "image": "https://s1.ticketm.net/dam/a/bad/cc2c5920-7053-406d-a07d-38a6e9e62bad_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
   },
   {
    "name": "La Dispute",
@@ -579,6 +279,26 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/rowena-wise/196730",
    "image": "https://static.moshtix.com.au/uploads/697ecda2-d2e3-4a16-aabb-4972f0f4595ax140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Le Shiv - Yada Yada national album tour – SYDNEY",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/le-shiv-yada-yada-national-album-tour-sydney/198393",
+   "image": "https://static.moshtix.com.au/uploads/94293c9a-6ccc-4061-ac11-d99577a648bax140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "HEAVENSGATE Australian Tour 2026 with special guests Mélancolia & Irken Armada",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "venue": "The Lansdowne Hotel, Sydney",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/heavensgate-australian-tour-2026-with-special-guests-m-lancolia-irken-armada/199676",
+   "image": "https://static.moshtix.com.au/uploads/dab9d223-abe5-47f7-acd0-0b4c80b9fa4ax140x140",
    "source": "Moshtix"
   },
   {
@@ -622,16 +342,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "My Fair Lady (Australia)",
-   "date": "2026-10-23",
-   "time": "19:30",
-   "venue": "Sydney Opera House- Joan Sutherland Theatre",
-   "category": "Stage & Screen",
-   "url": "https://www.ticketmaster.com.au/my-fair-lady-australia-sydney-23-10-2026/event/1300632BBC13464A",
-   "image": "https://s1.ticketm.net/dam/a/941/caa31b26-f62e-4e10-9dcc-b86319feb941_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "The Angels - Am I Ever Gonna See Your Face Again... 50 Years On",
    "date": "2026-10-23",
    "time": "19:30",
@@ -660,16 +370,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/good-music-fridays/201399",
    "image": "https://static.moshtix.com.au/uploads/8f360b01-a50b-4a9d-a66e-cb8adf27ecbax140x140",
    "source": "Moshtix"
-  },
-  {
-   "name": "Kitty Flanagan: Glad Game",
-   "date": "2026-10-23",
-   "time": "20:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Stage & Screen",
-   "url": "https://www.ticketmaster.com.au/kitty-flanagan-glad-game-sydney-23-10-2026/event/1300646CCFC76D97",
-   "image": "https://s1.ticketm.net/dam/a/f72/e7f9871d-5840-4ad6-8dc7-4d2371c80f72_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
   },
   {
    "name": "Sir Richard Bishop (USA) w/ MARYAM RAHMANI",
@@ -722,16 +422,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry Invites 8 YEARS OF LOVED + MAMI BY UMAMI",
-   "date": "2026-10-23",
-   "time": "21:00",
-   "venue": "Chinese Laundry",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-8-years-of-loved-mami-by-umami/200888",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "The Club Where it Happens: Hamilton Appreciation Party - Sydney",
    "date": "2026-10-23",
    "time": "21:00",
@@ -752,14 +442,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Chinese Laundry Invites 8 YEARS OF LOVED + MAMI BY UMAMI",
+   "date": "2026-10-23",
+   "time": "21:00",
+   "venue": "Chinese Laundry",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-8-years-of-loved-mami-by-umami/200888",
+   "image": "https://static.moshtix.com.au/uploads/99b268cb-8bc0-4eb0-9aaf-9016100cb440x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "FRI 23 OCT - DJ DAVID CHOUMAN @ WAO SUPERCLUB",
    "date": "2026-10-23",
    "time": "21:30",
-   "venue": "ivy Sydney",
+   "venue": "ivy",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-23-oct-dj-david-chouman-wao-superclub/200738",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
-   "source": "Ticketmaster"
+   "image": "https://static.moshtix.com.au/uploads/4747f66b-b9b0-4d45-9de0-a22f8ef97a61x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "TONGA v LEBANON AFTER PARTY",
@@ -775,131 +475,11 @@ window.EVENT_DATA = {
    "name": "Soul Wun",
    "date": "2026-10-23",
    "time": "23:00",
-   "venue": "Oxford Art Factory",
+   "venue": "Oxford Art Factory, Main Room",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/soul-wun/197869",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "InTooDeep sunset boat party",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/intoodeep-sunset-boat-party-7-03",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1771902665/k7h9gk6i1z6d/3i8vZUMYuXnaDjefKz7Zcm/0f389411-112e-11f1-b316-4106a396795f--InTooDeep-Sunset-Boat-Party--7-03--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Kris Davis Trio + Soojin Suh Coloris Trio",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "St Stephen's Uniting Church",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/kris-davis-trio-soojin-suh-coloris-trio",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779242442/k7h9gk6i1z6d/2BcEYhHAjRuk7ok2OBA1Wz/6c9ca391-53ef-11f1-9f4d-5b2fda4972df--Kris-Davis-Trio---Soojin-Suh-Coloris-Trio-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Ragnarök & Roll | The Duke's 6th Birthday",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "The Duke of Enmore",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ragnaroek-and-roll-or-the-dukes-6th-birthday",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790225097/k7h9gk6i1z6d/2hO7T49xN3VerTofKqvt8G/60601200-b7d2-11f1-9b2d-eb5b6ca1e9bb--Ragnar-k---Roll---The-Duke-s-6th-Birthday-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sonny Fodera ‘Can We Do It All Again?’ Album Tour",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "Hordern Pavilion",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sonny-fodera-can-we-do-it-all-again-album-tour",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778130880/k7h9gk6i1z6d/4v42LLPM7zjpJEo8n1DiOQ/6a912421-49d3-11f1-88ea-a59f590f2cf4--Sonny-Fodera--can-we-do-it-all-again---Album-Tour-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Tigran Hamasyan - Manifeste",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/tigran-hamasyan-manifeste",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784010989/k7h9gk6i1z6d/1YdOthHavqiQW0jYObdokP/14c32a21-7f4d-11f1-b0be-8da0191b3b3b--Tigran-Hamasyan---Manifeste--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Lucy Burke presents - Beatles Inspired",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/meet-me-there-inspired-by-the-beatles",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783240002/k7h9gk6i1z6d/2p4EeLRPTFQVhIv49qOM0Z/326fbce1-784b-11f1-b14e-6f85fa73f6e4--Meet-Me-There--Inspired-by-The-Beatles-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "15th Annual Sydney Chocolate Ball",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/15th-annual-sydney-chocolate-ball",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790222278/k7h9gk6i1z6d/4vK9FaOei64fkhnEioJbLr/dc047601-b7cb-11f1-9384-ab0c581ea494--15th-Annual-Sydney-Chocolate-Ball-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Experience the magic of the Chalice Well Gardens",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/experience-the-magic-of-the-chalice-well-gardens",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773734477/k7h9gk6i1z6d/QbA1ZlhwRGBcJp1aRviek/e950ca61-21d6-11f1-a2b6-c15003065142--Experience-the-Magic-of-the-Chalice-Well-Gardens-in-Sydney--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Side Quest: Make a Plan, Find Your People, Get It Done",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/side-quest-make-a-plan-find-your-people-get-it-done",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791348813/k7h9gk6i1z6d/5qkkMMHdXpYvrALZE9aoDD/548b8fd1-c20a-11f1-afea-9d901c9f8592--Side-Quest--Make-a-Plan--Find-Your-People--Get-It-Done-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sydney AI Circle: Networking & Project Pitches",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "South Eveleigh",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-ai-circle-networking-and-project-pitches",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1645057698/k7h9gk6i1z6d/9CJg5IPB6QyRMovygVJFY/GettyImages-1148734035.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Expansion Circle",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "Juanita Nielsen Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-expansion-circle",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792299412/k7h9gk6i1z6d/5XgxLSMkjboK2Atth2YW6N/3698bb71-cab0-11f1-9115-8f87cfae0fb9--The-Expansion-Circle--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Kids Halloween Party - Community Event",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "Randwick Sustainability Hub",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/kids-halloween-party-community-event",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789367318/k7h9gk6i1z6d/1eplhuRjl2dxB3mUFiNqyf/cf69a100-b004-11f1-8fd3-17df5d36eacd--Kids-Halloween-Party---Community-Event-tile.jpg",
-   "source": "City of Sydney"
+   "image": "https://static.moshtix.com.au/uploads/cd864a82-b395-4366-b9d8-c2b6a7631550x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Art & About 2026: Christopher Vine Gallery",
@@ -982,16 +562,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Paddington's Vinyl Records Fair",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/paddingtons-vinyl-records-fair",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1770583969/k7h9gk6i1z6d/1jDOVnU6w5noSGLwkVYaUO/0a1edd41-0530-11f1-9fee-857ebe2063c1--Paddington-s-Vinyl-Records-Fair-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Bottomless Brunch at KiKi Darlinghurst",
    "date": "2026-10-24",
    "time": "",
@@ -999,6 +569,16 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/bottomless-brunch-at-kiki-darlinghurst",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792466153/k7h9gk6i1z6d/45fikXi4645lQwLVnWyCNW/085e27b1-cc34-11f1-8412-e5a170fdb4d4--Bottomless-Brunch-at-KiKi-Darlinghurst-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Ragnarök & Roll | The Duke's 6th Birthday",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "The Duke of Enmore",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ragnaroek-and-roll-or-the-dukes-6th-birthday",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790225097/k7h9gk6i1z6d/2hO7T49xN3VerTofKqvt8G/60601200-b7d2-11f1-9b2d-eb5b6ca1e9bb--Ragnar-k---Roll---The-Duke-s-6th-Birthday-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1022,23 +602,63 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Devoted to disco",
-   "date": "2026-10-24",
-   "time": "",
-   "venue": "Universal Sydney",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/devoted-to-disco",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789015881/k7h9gk6i1z6d/5jP6m8waAhHTf9V3Mvojzv/5b2c3711-acd2-11f1-8cc9-0ba7d637d28b--Devoted-to-Disco-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Shakesbeer sessions:A Midsummer Night's Dream Leichhardt",
+   "name": "15th Annual Sydney Chocolate Ball",
    "date": "2026-10-24",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream-leichhardt",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789626567/k7h9gk6i1z6d/5oERA1KI20Ms0T5DWlTXRP/19773291-b261-11f1-9031-53775563a8de--The-Shakesbeer-Sessions-A-Midsummer-Night-s-Dream-Leichhardt-tile.jpg",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/15th-annual-sydney-chocolate-ball",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790222278/k7h9gk6i1z6d/4vK9FaOei64fkhnEioJbLr/dc047601-b7cb-11f1-9384-ab0c581ea494--15th-Annual-Sydney-Chocolate-Ball-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Experience the magic of the Chalice Well Gardens",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/experience-the-magic-of-the-chalice-well-gardens",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773734477/k7h9gk6i1z6d/QbA1ZlhwRGBcJp1aRviek/e950ca61-21d6-11f1-a2b6-c15003065142--Experience-the-Magic-of-the-Chalice-Well-Gardens-in-Sydney--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Side Quest: Make a Plan, Find Your People, Get It Done",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/side-quest-make-a-plan-find-your-people-get-it-done",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791348813/k7h9gk6i1z6d/5qkkMMHdXpYvrALZE9aoDD/548b8fd1-c20a-11f1-afea-9d901c9f8592--Side-Quest--Make-a-Plan--Find-Your-People--Get-It-Done-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sydney AI Circle: Networking & Project Pitches",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "South Eveleigh",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-ai-circle-networking-and-project-pitches",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1645057698/k7h9gk6i1z6d/9CJg5IPB6QyRMovygVJFY/GettyImages-1148734035.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Expansion Circle",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "Juanita Nielsen Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-expansion-circle",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792299412/k7h9gk6i1z6d/5XgxLSMkjboK2Atth2YW6N/3698bb71-cab0-11f1-9115-8f87cfae0fb9--The-Expansion-Circle--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Kids Halloween Party - Community Event",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "Randwick Sustainability Hub",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/kids-halloween-party-community-event",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789367318/k7h9gk6i1z6d/1eplhuRjl2dxB3mUFiNqyf/cf69a100-b004-11f1-8fd3-17df5d36eacd--Kids-Halloween-Party---Community-Event-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1066,9 +686,79 @@ window.EVENT_DATA = {
    "date": "2026-10-24",
    "time": "",
    "venue": "See listing",
-   "category": "Workshops & Classes",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/disco-never-dies-movement-and-culture-workshop",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791266599/k7h9gk6i1z6d/4J0VaZzj8ZsQem2M7Y8oCA/3ec74231-c14b-11f1-aed3-0d97657da841--Disco-Never-Dies---movement-and-culture-workshop-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Eggs at The Old Fitz Theatre",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "The Old Fitzroy Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/eggs-at-the-old-fitz-theatre",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791371014/k7h9gk6i1z6d/78IPzlZNgaixeIVZu3ZR9/25e7dc81-c23a-11f1-aa30-71494310bd24--EGGS-at-The-Old-Fitz-Theatre-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Yerma",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "Genesian Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/yerma",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792034916/k7h9gk6i1z6d/6eqMu4TJBmczkA8V0ehUF2/458fab81-c848-11f1-8516-839719ea00df--Yerma-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Shakesbeer sessions:A Midsummer Night's Dream Leichhardt",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream-leichhardt",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789626567/k7h9gk6i1z6d/5oERA1KI20Ms0T5DWlTXRP/19773291-b261-11f1-9031-53775563a8de--The-Shakesbeer-Sessions-A-Midsummer-Night-s-Dream-Leichhardt-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Devoted to disco",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "Universal Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/devoted-to-disco",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789015881/k7h9gk6i1z6d/5jP6m8waAhHTf9V3Mvojzv/5b2c3711-acd2-11f1-8cc9-0ba7d637d28b--Devoted-to-Disco-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "InTooDeep sunset boat party",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/intoodeep-sunset-boat-party-7-03",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1771902665/k7h9gk6i1z6d/3i8vZUMYuXnaDjefKz7Zcm/0f389411-112e-11f1-b316-4106a396795f--InTooDeep-Sunset-Boat-Party--7-03--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Lucy Burke presents - Beatles Inspired",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/meet-me-there-inspired-by-the-beatles",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783240002/k7h9gk6i1z6d/2p4EeLRPTFQVhIv49qOM0Z/326fbce1-784b-11f1-b14e-6f85fa73f6e4--Meet-Me-There--Inspired-by-The-Beatles-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Paddington's Vinyl Records Fair",
+   "date": "2026-10-24",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/paddingtons-vinyl-records-fair",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1770583969/k7h9gk6i1z6d/1jDOVnU6w5noSGLwkVYaUO/0a1edd41-0530-11f1-9fee-857ebe2063c1--Paddington-s-Vinyl-Records-Fair-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1372,53 +1062,53 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "aja monet + Monstress",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "Oxford Art Factory",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/aja-monet-monstress",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779242028/k7h9gk6i1z6d/GNNQKkN9sZFA7AgJRj3LV/66651b20-53ee-11f1-9578-6b087f2b494a--aja-monet---Monstress-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Footsteps Through Time",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "Glebe Town Hall",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/footsteps-through-time",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791438583/k7h9gk6i1z6d/1kZOUKJiORqbODe38VADM2/d3e1e821-c2db-11f1-a24c-7119dd0afd5b--Footsteps-Through-Time-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Jazz Up the Cross",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "Fitzroy Gardens",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jazz-up-the-cross",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787625604/k7h9gk6i1z6d/3Un0sIYsVg92T5PwoaPUj1/93bd0af1-a025-11f1-b9df-05ac1ecbe23a--Jazz-Up-the-Cross-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Stormlight",
+   "name": "Zart Night #1: Smoke break",
    "date": "2026-10-25",
    "time": "",
    "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/stormlight",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791430593/k7h9gk6i1z6d/1K4jYwHSZVCAxfhr1UVr4r/dd4991f1-c2c8-11f1-87ed-5fcab851a3cb--Stormlight-tile.jpg",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/zart-night-1-smoke-break",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790146780/k7h9gk6i1z6d/1T4VkJNghkb19LzRrGdrPK/9f821b21-b71b-11f1-b8aa-fb9de5537105--Zart-Night--1--SMOKE-BREAK-tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "The Eight Cellists of The Metropolitan Orchestra",
+   "name": "Balmain Regatta - Onboard with the Tall Ship - James Craig",
    "date": "2026-10-25",
    "time": "",
    "venue": "See listing",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-eight-cellists-of-the-metropolitan-orchestra",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792036028/k7h9gk6i1z6d/3FZpQk2pD35gtLQfJ1X90y/cd227a81-c84a-11f1-8422-a31f12e4a962--The-Eight-Cellists-of-The-Metropolitan-Orchestra--tile.jpg",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/balmain-regatta-onboard-with-the-tall-ship-james-craig",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789534318/k7h9gk6i1z6d/7lSCS7gSgnVUYojkJvOqGU/3a65a861-b18a-11f1-8c44-0dfe090ef86a--Balmain-Regatta---Onboard-with-the-Tall-Ship---James-Craig-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Balmain Regatta Workboat Convoy 2026 Lady Hopetoun&Waratah",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "Cockatoo Island",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/balmain-regatta-workboat-convoy-2026-lady-hopetoun-and-waratah",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789535012/k7h9gk6i1z6d/kLHtJixm2qKPwA5KzLkOZ/32461420-b18b-11f1-bff0-bd1bc31ff1b5--Balmain-Regatta-Workboat-Convoy-2026-Lady-Hopetoun-Waratah--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Tea meet Sound",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "See listing",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/tea-meet-sound",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784000548/k7h9gk6i1z6d/4JpmIGeKWaJADUXFbOSV5l/d238d450-7f35-11f1-8294-3df9a58c7c54--Tea-meet-Sound-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sharodia: Tastes of Bengal, beyond borders",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "Joynton Avenue Creative Centre",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sharodia-tastes-of-bengal-beyond-borders",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792470330/k7h9gk6i1z6d/23suSA75907tS7GchFqPeZ/28bbc8f0-cc3e-11f1-afcb-dd9573ba9ffb--Sharodia--Tastes-of-Bengal--beyond-borders-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1452,73 +1142,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Tea meet Sound",
+   "name": "Jazz Up the Cross",
    "date": "2026-10-25",
    "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/tea-meet-sound",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784000548/k7h9gk6i1z6d/4JpmIGeKWaJADUXFbOSV5l/d238d450-7f35-11f1-8294-3df9a58c7c54--Tea-meet-Sound-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Zart Night #1: Smoke break",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "See listing",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/zart-night-1-smoke-break",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790146780/k7h9gk6i1z6d/1T4VkJNghkb19LzRrGdrPK/9f821b21-b71b-11f1-b8aa-fb9de5537105--Zart-Night--1--SMOKE-BREAK-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Balmain Regatta - Onboard with the Tall Ship - James Craig",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "See listing",
-   "category": "Tours & Walks",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/balmain-regatta-onboard-with-the-tall-ship-james-craig",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789534318/k7h9gk6i1z6d/7lSCS7gSgnVUYojkJvOqGU/3a65a861-b18a-11f1-8c44-0dfe090ef86a--Balmain-Regatta---Onboard-with-the-Tall-Ship---James-Craig-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Balmain Regatta Workboat Convoy 2026 Lady Hopetoun&Waratah",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "Cockatoo Island",
-   "category": "Tours & Walks",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/balmain-regatta-workboat-convoy-2026-lady-hopetoun-and-waratah",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789535012/k7h9gk6i1z6d/kLHtJixm2qKPwA5KzLkOZ/32461420-b18b-11f1-bff0-bd1bc31ff1b5--Balmain-Regatta-Workboat-Convoy-2026-Lady-Hopetoun-Waratah--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "XChange Markets",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "The Entertainment Quarter",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/xchange-markets",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791866850/k7h9gk6i1z6d/6FMnw9kwAYdZinSnZ1UObm/10ac4871-c6c1-11f1-a742-078e5f396ab7--XChange-Markets-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sharodia: Tastes of Bengal, beyond borders",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "Joynton Avenue Creative Centre",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sharodia-tastes-of-bengal-beyond-borders",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792470330/k7h9gk6i1z6d/23suSA75907tS7GchFqPeZ/28bbc8f0-cc3e-11f1-afcb-dd9573ba9ffb--Sharodia--Tastes-of-Bengal--beyond-borders-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Shakesbeer Sessions: A Midsummer Night's Dream @The Oaks",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream-the-oaks",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789384626/k7h9gk6i1z6d/jppFn7EMdpWHggSJQvwx2/39c450e1-b02d-11f1-be73-5b95717bc047--The-Shakesbeer-Sessions--A-Midsummer-Night-s-Dream-tile.jpg",
+   "venue": "Fitzroy Gardens",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jazz-up-the-cross",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787625604/k7h9gk6i1z6d/3Un0sIYsVg92T5PwoaPUj1/93bd0af1-a025-11f1-b9df-05ac1ecbe23a--Jazz-Up-the-Cross-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1529,6 +1159,46 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/songs-and-stories",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790552392/k7h9gk6i1z6d/AZ2VCA7fTPpxBqHPJ3VPu/116ee111-bacc-11f1-b8ac-cfa6a04e32a5--Songs---Stories-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Australian Poetry Slam 2026 National Final",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "Sydney Opera House",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/australian-poetry-slam-2026-national-final",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790324606/k7h9gk6i1z6d/2MDHzWWiJwvJOH03BHhIQ0/bbef9fe1-b8b9-11f1-b26d-3571cc2d64a7--Australian-Poetry-Slam-2026-National-Final-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Development Showing: Adieu Uncut Pubic Cubic!",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/development-showing-adieu-uncut-pubic-cubic",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787547353/k7h9gk6i1z6d/1CpFZoJZILpXjH68dpg6pg/e5805961-9f75-11f1-bea9-7fe815560883--Development-Showing--Adieu-Uncut-Pubic-Cubic--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Shakesbeer Sessions: A Midsummer Night's Dream @The Oaks",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream-the-oaks",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789384626/k7h9gk6i1z6d/jppFn7EMdpWHggSJQvwx2/39c450e1-b02d-11f1-be73-5b95717bc047--The-Shakesbeer-Sessions--A-Midsummer-Night-s-Dream-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "XChange Markets",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "The Entertainment Quarter",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/xchange-markets",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791866850/k7h9gk6i1z6d/6FMnw9kwAYdZinSnZ1UObm/10ac4871-c6c1-11f1-a742-078e5f396ab7--XChange-Markets-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1552,16 +1222,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Australian Poetry Slam 2026 National Final",
-   "date": "2026-10-25",
-   "time": "",
-   "venue": "Sydney Opera House",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/australian-poetry-slam-2026-national-final",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790324606/k7h9gk6i1z6d/2MDHzWWiJwvJOH03BHhIQ0/bbef9fe1-b8b9-11f1-b26d-3571cc2d64a7--Australian-Poetry-Slam-2026-National-Final-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Jewellery shorts: make a silver pendant with a stone",
    "date": "2026-10-25",
    "time": "",
@@ -1579,6 +1239,16 @@ window.EVENT_DATA = {
    "category": "Workshops & Classes",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/olovo-inflow-urban-retreat-for-women",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792044842/k7h9gk6i1z6d/5lVaYuQ8MUbQSg6D9r0BeG/7d7194c1-c85f-11f1-8dff-b91fd5fc209b--OLOVO-Inflow-Urban-Retreat-for-Women-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Penny Jools - Twenty-One",
+   "date": "2026-10-25",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/penny-jools-twenty-one",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792724127/k7h9gk6i1z6d/1XLWh1lU3OTtmRP0twvQVA/078e8f91-ce8d-11f1-9972-5f542148a220--Penny-Jools---Twenty-One-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1662,16 +1332,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Belle Chen + Underwards",
-   "date": "2026-10-26",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/belle-chen-underwards",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784871976/k7h9gk6i1z6d/DQxUlej5o5vGm1LXSAZZ8/c1d781c1-8722-11f1-8972-4fe998986814--Belle-Chen---Underwards-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Bevi Italiano #drinkitalian",
    "date": "2026-10-26",
    "time": "",
@@ -1679,26 +1339,6 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/bevi-italiano-drinkitalian",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791961864/k7h9gk6i1z6d/7kzwYGpFgEbPvGwXMmD2th/5db020a1-c79e-11f1-8596-ef116428e008--Bevi-Italiano--drinkitalian-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Art Unleashed",
-   "date": "2026-10-26",
-   "time": "",
-   "venue": "Mosman Art Gallery",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-unleashed",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790553244/k7h9gk6i1z6d/72qUvP8mlTg6q5ncQ92Hcg/58938c11-bace-11f1-9c7f-cd18d9625be4--Art-Unleashed-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Halloweek at Escape This",
-   "date": "2026-10-26",
-   "time": "",
-   "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloweek-at-escape-this",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791544358/k7h9gk6i1z6d/6x549qZPGINI9qhMZuOHi5/7f0d8651-c3d1-11f1-996d-d5a9ddc6db61--Halloweek-at-Escape-This-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1719,6 +1359,36 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/casual-tennis-games-for-ages-13-18-woolloomooloo",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790639423/k7h9gk6i1z6d/3ay2ab5Wg5sn0U75y1jTzr/50f3b240-bb97-11f1-b9ef-bd812edd6406--Casual-tennis-games-for-ages-13-18---Woolloomooloo-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Halloweek at Escape This",
+   "date": "2026-10-26",
+   "time": "",
+   "venue": "See listing",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloweek-at-escape-this",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791544358/k7h9gk6i1z6d/6x549qZPGINI9qhMZuOHi5/7f0d8651-c3d1-11f1-996d-d5a9ddc6db61--Halloweek-at-Escape-This-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Freedom Chakradance Introductory Workshop",
+   "date": "2026-10-26",
+   "time": "",
+   "venue": "Juanita Nielsen Community Centre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/freedom-chakradance-introductory-workshop",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790822029/k7h9gk6i1z6d/7ypEPb8eh7jz9BdwDwYt4/ab94a911-bd3c-11f1-a13e-c351386c8bd1--Freedom-Chakradance--Introductory-Workshop-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Art Unleashed",
+   "date": "2026-10-26",
+   "time": "",
+   "venue": "Mosman Art Gallery",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-unleashed",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790553244/k7h9gk6i1z6d/72qUvP8mlTg6q5ncQ92Hcg/58938c11-bace-11f1-9c7f-cd18d9625be4--Art-Unleashed-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1752,16 +1422,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Freedom Chakradance Introductory Workshop",
-   "date": "2026-10-26",
-   "time": "",
-   "venue": "Juanita Nielsen Community Centre",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/freedom-chakradance-introductory-workshop",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790822029/k7h9gk6i1z6d/7ypEPb8eh7jz9BdwDwYt4/ab94a911-bd3c-11f1-a13e-c351386c8bd1--Freedom-Chakradance--Introductory-Workshop-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Palace of Dreams Guided Tours",
    "date": "2026-10-26",
    "time": "10:00",
@@ -1770,36 +1430,6 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-26-10-2026/event/1300635BF0B79F52",
    "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "Global Nuclear Security and India's Nuclear Program",
-   "date": "2026-10-27",
-   "time": "",
-   "venue": "Anzac Memorial",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/global-nuclear-security-and-indias-nuclear-program",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790851713/k7h9gk6i1z6d/R54zeFjEqK14HUqcuhgGU/0e7fb821-bd84-11f1-8da6-d3fb0207a114--Global-Nuclear-Security-and-India-s-Nuclear-Program---27-Oct-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Spring Soiree",
-   "date": "2026-10-27",
-   "time": "",
-   "venue": "St Helen’s Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/spring-soiree",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789534423/k7h9gk6i1z6d/R50nshmOXmCBIU3MvZZdd/52063de1-b18a-11f1-8688-cd408645b214--Spring-Soiree-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sydney Inspire Series – Jess Thomas, Finding Awe by Bicycle",
-   "date": "2026-10-27",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-inspire-series-jess-thomas-finding-awe-by-bicycle",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785807722/k7h9gk6i1z6d/uRHDhdjhLSuUaN2UzUerp/5d6cc021-8fa5-11f1-8341-6f06e47eea28--Sydney-Inspire-Series---Jess-Thomas--Finding-Awe-by-Bicycle-tile.jpg",
-   "source": "City of Sydney"
   },
   {
    "name": "Future World Expo",
@@ -1842,6 +1472,36 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Global Nuclear Security and India's Nuclear Program",
+   "date": "2026-10-27",
+   "time": "",
+   "venue": "Anzac Memorial",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/global-nuclear-security-and-indias-nuclear-program",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790851713/k7h9gk6i1z6d/R54zeFjEqK14HUqcuhgGU/0e7fb821-bd84-11f1-8da6-d3fb0207a114--Global-Nuclear-Security-and-India-s-Nuclear-Program---27-Oct-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Spring Soiree",
+   "date": "2026-10-27",
+   "time": "",
+   "venue": "St Helen’s Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/spring-soiree",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789534423/k7h9gk6i1z6d/R50nshmOXmCBIU3MvZZdd/52063de1-b18a-11f1-8688-cd408645b214--Spring-Soiree-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sydney Inspire Series – Jess Thomas, Finding Awe by Bicycle",
+   "date": "2026-10-27",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-inspire-series-jess-thomas-finding-awe-by-bicycle",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785807722/k7h9gk6i1z6d/uRHDhdjhLSuUaN2UzUerp/5d6cc021-8fa5-11f1-8341-6f06e47eea28--Sydney-Inspire-Series---Jess-Thomas--Finding-Awe-by-Bicycle-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Children’s Week with Zeno Sworder online",
    "date": "2026-10-27",
    "time": "",
@@ -1849,6 +1509,36 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/childrens-week-with-zeno-sworder-online",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791762019/k7h9gk6i1z6d/5ao5X7laCNvFwMFAsljLLj/c0f1ac20-c5cc-11f1-aa8d-a7b957728357--Children-s-Week-with-Zeno-Sworder-online-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Cinema at Sydney Opera House",
+   "date": "2026-10-27",
+   "time": "",
+   "venue": "Sydney Opera House",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/cinema-at-sydney-opera-house",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788748609/k7h9gk6i1z6d/4S3Tlk5vFsQiAQMRdKdWZX/87fa5ee1-aa64-11f1-b7d5-dba017aba416--Cinema-at-Sydney-Opera-House-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Fuccbois: Live In Concert",
+   "date": "2026-10-27",
+   "time": "",
+   "venue": "Darling Quarter Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/fuccbois-live-in-concert",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786515817/k7h9gk6i1z6d/614wfp0OCy1mJdv78iz4Zf/d37229b1-9615-11f1-8808-611d93208f19--Fuccbois--Live-In-Concert-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Ignite Talks Sydney 2026",
+   "date": "2026-10-27",
+   "time": "",
+   "venue": "Oxford Art Factory",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ignite-talks-sydney-2026",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785203830/k7h9gk6i1z6d/3ohmNuT5XpQmtN52jARemg/f6cd0e21-8a26-11f1-b49b-b99aafbf3f45--Ignite-Talks-Sydney-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1869,16 +1559,6 @@ window.EVENT_DATA = {
    "category": "Talks & Ideas",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/david-cooper-lecture-with-peter-doherty",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789014169/k7h9gk6i1z6d/5wYVz3MP4JpzqpyDZV0WOZ/ae2aa6e1-accd-11f1-83b7-c1baa3e3c4e6--2026-David-Cooper-Lecture-with-Peter-Doherty-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Ignite Talks Sydney 2026",
-   "date": "2026-10-27",
-   "time": "",
-   "venue": "Oxford Art Factory",
-   "category": "Talks & Ideas",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ignite-talks-sydney-2026",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785203830/k7h9gk6i1z6d/3ohmNuT5XpQmtN52jARemg/f6cd0e21-8a26-11f1-b49b-b99aafbf3f45--Ignite-Talks-Sydney-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -1952,66 +1632,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Aziza: Holland, Potter, Loueke & Harland",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/aziza-holland-potter-loueke-and-harland",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783387858/k7h9gk6i1z6d/7fDShKUSnO7RjvC3yEJ5ok/50307861-79a3-11f1-81eb-a3ff213f62a1--Aziza--Holland--Potter--Loueke---Harland-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Internationally acclaimed pianist Sarah Grunstein",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "Sydney Opera House",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/internationally-acclaimed-pianist-sarah-grunstein",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787801888/k7h9gk6i1z6d/3XSSAHsLfLRo3vlGbvpTKS/97ecfa10-a1c7-11f1-aacc-ed2f4482488b--Internationally-acclaimed-pianist-Sarah-Grunstein-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Jazz Upstairs featuring Hill/Hall/Raymond",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "St Stephen's Uniting Church",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jazz-upstairs-featuring-hill-hall-raymond",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791162609/k7h9gk6i1z6d/2FIFnUzOFscGVBnmekxfhA/RAYMOND-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Lunchtime Concert: Sydney Conservatorium Artists",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "St James Church",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concert-sydney-conservatorium-artists",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788944302/k7h9gk6i1z6d/4WRYn6uqtZJvRi9fOgsdVf/f8960061-ac2a-11f1-a23c-6bb87cb8bb09--Lunchtime-Concert--Sydney-Conservatorium-String-Ensembles-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Project X Party",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "Side Bar Sydney",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/project-x-party",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789100390/k7h9gk6i1z6d/I5esWYpqsRBVHCooJ38SU/f5dca0e1-ad97-11f1-901e-2fc08fd56a42--Project-X-Party-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Book Club South Eveleigh",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "South Eveleigh",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/book-club-south-eveleigh",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792540653/k7h9gk6i1z6d/3iPx3hJIij6FhKb0E4Hifi/0d8c4340-cce1-11f1-8c37-43df307776d5--Book-Club-South-Eveleigh-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Lorrie Graham in conversation",
    "date": "2026-10-28",
    "time": "",
@@ -2029,6 +1649,96 @@ window.EVENT_DATA = {
    "category": "Workshops & Classes",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/oiche-shamhna-haunted-whiskey-masterclass",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779947038/k7h9gk6i1z6d/FRaXMmGtYpTWvKi6i9k5p/a9129d21-5a57-11f1-b1ba-b5892e22669a--O-che-Shamhna--Haunted-Whiskey-Masterclass-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Love Food Fair 2026",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "Martin Place",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/love-food-fair-2025",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1760863496/k7h9gk6i1z6d/ek9JKNKM5tWYPvDsp9FUb/7f01c590-acc6-11f0-a2f4-27c5344c2e2c--LOVE-Food-Fair-2025-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Burgundy French Wine Dinner at Bistro St Jacques",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/burgundy-french-wine-dinner-at-bistro-st-jacques",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791780831/k7h9gk6i1z6d/4gAFdxGs9kz7SMWCbVRsx3/905cd401-c5f8-11f1-b87a-8d47d03d366b--Burgundy-French-Wine-Dinner-at-Bistro-St-Jacques-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Tyrrell's Wine Dinner at Rick Stein at Coogee Beach",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/tyrrells-wine-dinner-at-rick-stein-at-coogee-beach",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790667782/k7h9gk6i1z6d/29ataotnMBeojmWIJiVXgb/e4665331-bbd7-11f1-bb10-73cbb1b84329--Tyrrell-s-Wine-Dinner-at-Rick-Stein-at-Coogee-Beach-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Book Club South Eveleigh",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "South Eveleigh",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/book-club-south-eveleigh",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792540653/k7h9gk6i1z6d/3iPx3hJIij6FhKb0E4Hifi/0d8c4340-cce1-11f1-8c37-43df307776d5--Book-Club-South-Eveleigh-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Children’s Week with Freda Chiu",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "Online",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/childrens-week-with-freda-chiu",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791762553/k7h9gk6i1z6d/3lMFTj7A4CMFNKI8zKZNyc/26977130-c5ce-11f1-8989-3309dcd8bca5--Children-s-Week-with-Freda-Chiu-online-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Children's Week with Li Chen",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "Online",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/childrens-week-with-li-chen",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791762908/k7h9gk6i1z6d/6JcmWJi2dCEAtAwuSNqUSp/f3c3db31-c5ce-11f1-b7a1-91497b25e88e--Children-s-Week-with-Li-Chen-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Technocritical: Ghost in the Machine (2026) [MA15+]",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "Waverley Library",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/technocritical-ghost-in-the-machine-2026-ma15",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790044258/k7h9gk6i1z6d/cmQHbeXfqFonpwIj09rji/54280b11-b62d-11f1-a637-870fa3f39ed6--Technocritical--Ghost-in-the-Machine--2026---MA15---tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Jazz Upstairs featuring Hill/Hall/Raymond",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "St Stephen's Uniting Church",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jazz-upstairs-featuring-hill-hall-raymond",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791162609/k7h9gk6i1z6d/2FIFnUzOFscGVBnmekxfhA/RAYMOND-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Project X Party",
+   "date": "2026-10-28",
+   "time": "",
+   "venue": "Side Bar Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/project-x-party",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789100390/k7h9gk6i1z6d/I5esWYpqsRBVHCooJ38SU/f5dca0e1-ad97-11f1-901e-2fc08fd56a42--Project-X-Party-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -2069,56 +1779,6 @@ window.EVENT_DATA = {
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/vince-warehouse-sale",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792511346/k7h9gk6i1z6d/2PxzaQJCtjUzyKCL3K1twI/adc14e01-cc9b-11f1-833c-a5e1e0c3029e--Vince-Warehouse-Sale-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Love Food Fair 2026",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "Martin Place",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/love-food-fair-2025",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1760863496/k7h9gk6i1z6d/ek9JKNKM5tWYPvDsp9FUb/7f01c590-acc6-11f0-a2f4-27c5344c2e2c--LOVE-Food-Fair-2025-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Burgundy French Wine Dinner at Bistro St Jacques",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "See listing",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/burgundy-french-wine-dinner-at-bistro-st-jacques",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791780831/k7h9gk6i1z6d/4gAFdxGs9kz7SMWCbVRsx3/905cd401-c5f8-11f1-b87a-8d47d03d366b--Burgundy-French-Wine-Dinner-at-Bistro-St-Jacques-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Tyrrell's Wine Dinner at Rick Stein at Coogee Beach",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "See listing",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/tyrrells-wine-dinner-at-rick-stein-at-coogee-beach",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790667782/k7h9gk6i1z6d/29ataotnMBeojmWIJiVXgb/e4665331-bbd7-11f1-bb10-73cbb1b84329--Tyrrell-s-Wine-Dinner-at-Rick-Stein-at-Coogee-Beach-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Children’s Week with Freda Chiu",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "Online",
-   "category": "Family",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/childrens-week-with-freda-chiu",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791762553/k7h9gk6i1z6d/3lMFTj7A4CMFNKI8zKZNyc/26977130-c5ce-11f1-8989-3309dcd8bca5--Children-s-Week-with-Freda-Chiu-online-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Children's Week with Li Chen",
-   "date": "2026-10-28",
-   "time": "",
-   "venue": "Online",
-   "category": "Family",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/childrens-week-with-li-chen",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791762908/k7h9gk6i1z6d/6JcmWJi2dCEAtAwuSNqUSp/f3c3db31-c5ce-11f1-b7a1-91497b25e88e--Children-s-Week-with-Li-Chen-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -2292,46 +1952,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Haydn’s London Connection | AHE and Genevieve Lang",
-   "date": "2026-10-29",
-   "time": "",
-   "venue": "State Library of NSW",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/haydns-london-connection-or-ahe-and-genevieve-lang",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782002922/k7h9gk6i1z6d/7qPxpedXmRxQCRrasHcRmY/b13e32a0-6d0a-11f1-97cc-51e939bef7da--Haydn-s-London-Connection-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Misaki Umei x Cracked Suzies + Dorka Foster",
-   "date": "2026-10-29",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/misaki-umei-x-cracked-suzies-dorka-foster",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784870824/k7h9gk6i1z6d/6PSAQpI0CQnkaQEifpH2Fk/1f73e161-871f-11f1-8c5f-4fbb39dedb4c--Misaki-Umei-x-Cracked-Suzies---Dorka-Foster-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Pleasure! Vice! Desire!",
-   "date": "2026-10-29",
-   "time": "",
-   "venue": "Museum of Contemporary Art",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pleasure-vice-desire",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789359826/k7h9gk6i1z6d/32FyEirqN9seiFM8wEDnge/a48b91c1-aff3-11f1-a1a8-f711ef9ac9e8--Pleasure--Vice--Desire---tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "BGF's HalloQueen trivia with Tom Ballard",
-   "date": "2026-10-29",
-   "time": "",
-   "venue": "Sydney Masonic Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bgfs-halloqueen-trivia-with-tom-ballard",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786577842/k7h9gk6i1z6d/5Qql5l6o0JZS9jD88CEAuS/GettyImages-1054175202.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Amy Clarke Solo Exhibition",
    "date": "2026-10-29",
    "time": "",
@@ -2369,16 +1989,6 @@ window.EVENT_DATA = {
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789020885/k7h9gk6i1z6d/7Bp33aMoQcVSJ9RmlsOYqt/93fbb5a1-acde-11f1-8774-110ee2bf9cee--Australia-s-biggest-Halloween-festival-is-back--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Bondi's Day of the Dead Festival",
-   "date": "2026-10-29",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondis-day-of-the-dead-festival",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790201754/k7h9gk6i1z6d/35NxBgbJD5NZfwdNaqB9WP/f8ba5151-b79b-11f1-88c2-db41be7609d5--Bondi-s-Day-of-the-Dead-Festival--tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -2422,23 +2032,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Hot Nonsense - Monsterfvckers",
+   "name": "BGF's HalloQueen trivia with Tom Ballard",
    "date": "2026-10-29",
    "time": "",
-   "venue": "Low 302",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/hot-nonsense-monsterfvckers",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791777514/k7h9gk6i1z6d/7cT09Uh3g8HooGMzO03M48/d2be0f11-c5f0-11f1-8ae7-6dd715fd19eb--Hot-Nonsense---MONSTERFVCKERS--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Shakesbeer Sessions: A Midsummer Night's Dream - Pyrmont",
-   "date": "2026-10-29",
-   "time": "",
-   "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream-pyrmont",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789626518/k7h9gk6i1z6d/3c9dnILj9zcS236UTj6Lu1/fb2cfc71-b260-11f1-9dff-c95d792d2b3a--The-Shakesbeer-Sessions--A-Midsummer-Night-s-Dream-Pyrmont-tile.jpg",
+   "venue": "Sydney Masonic Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bgfs-halloqueen-trivia-with-tom-ballard",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786577842/k7h9gk6i1z6d/5Qql5l6o0JZS9jD88CEAuS/GettyImages-1054175202.jpg",
    "source": "City of Sydney"
   },
   {
@@ -2459,6 +2059,66 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/spooky-spotlight-halloween-fun",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787552107/k7h9gk6i1z6d/1P7Tl28vwMiFrJsFeMpv50/b30c2b00-9f82-11f1-9b33-b7979c9a3573--Spooky-Spotlight---Halloween-Fun-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Summer Jobs CV Sessions for ages 16-25",
+   "date": "2026-10-29",
+   "time": "",
+   "venue": "Robyn Kemmis Reserve Community Space",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/summer-jobs-cv-sessions-for-ages-16-25",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792649347/k7h9gk6i1z6d/7HN8SO9ioKbJGH1nFxgOBV/fb15cde1-cdde-11f1-b140-3353021e8f72--Summer-Jobs-CV-Sessions-for-ages-16-25-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Hot Nonsense - Monsterfvckers",
+   "date": "2026-10-29",
+   "time": "",
+   "venue": "Low 302",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/hot-nonsense-monsterfvckers",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791777514/k7h9gk6i1z6d/7cT09Uh3g8HooGMzO03M48/d2be0f11-c5f0-11f1-8ae7-6dd715fd19eb--Hot-Nonsense---MONSTERFVCKERS--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The politically incorrect book club",
+   "date": "2026-10-29",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-politically-incorrect-book-club",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791728000/k7h9gk6i1z6d/6CpZuTyvPdGnMbLVdHpseA/fd3d5df0-c57c-11f1-be1b-69a848a5a100--Book-Club---The-Politically-Incorrect-Book-Club-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Shakesbeer Sessions: A Midsummer Night's Dream - Pyrmont",
+   "date": "2026-10-29",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream-pyrmont",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789626518/k7h9gk6i1z6d/3c9dnILj9zcS236UTj6Lu1/fb2cfc71-b260-11f1-9dff-c95d792d2b3a--The-Shakesbeer-Sessions--A-Midsummer-Night-s-Dream-Pyrmont-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Pleasure! Vice! Desire!",
+   "date": "2026-10-29",
+   "time": "",
+   "venue": "Museum of Contemporary Art",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pleasure-vice-desire",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789359826/k7h9gk6i1z6d/32FyEirqN9seiFM8wEDnge/a48b91c1-aff3-11f1-a1a8-f711ef9ac9e8--Pleasure--Vice--Desire---tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Bondi's Day of the Dead Festival",
+   "date": "2026-10-29",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondis-day-of-the-dead-festival",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790201754/k7h9gk6i1z6d/35NxBgbJD5NZfwdNaqB9WP/f8ba5151-b79b-11f1-88c2-db41be7609d5--Bondi-s-Day-of-the-Dead-Festival--tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -2489,6 +2149,16 @@ window.EVENT_DATA = {
    "category": "Workshops & Classes",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/city-of-sydney-online-book-club-booker-prize",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1757388331/k7h9gk6i1z6d/51sA5exCaoYnbWSnfoZbK1/4456ebf0-8d2c-11f0-914f-d1dbfdde3fa1--City-of-Sydney-Online-Book-Club--Booker-Prize-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Haydn’s London Connection | AHE and Genevieve Lang",
+   "date": "2026-10-29",
+   "time": "",
+   "venue": "State Library of NSW",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/haydns-london-connection-or-ahe-and-genevieve-lang",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782002922/k7h9gk6i1z6d/7qPxpedXmRxQCRrasHcRmY/b13e32a0-6d0a-11f1-97cc-51e939bef7da--Haydn-s-London-Connection-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -2552,16 +2222,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "The politically incorrect book club",
-   "date": "2026-10-29",
-   "time": "",
-   "venue": "See listing",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-politically-incorrect-book-club",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791728000/k7h9gk6i1z6d/6CpZuTyvPdGnMbLVdHpseA/fd3d5df0-c57c-11f1-be1b-69a848a5a100--Book-Club---The-Politically-Incorrect-Book-Club-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Leigh Sales and Gwen Blake: The Holiday Kitchen",
    "date": "2026-10-29",
    "time": "",
@@ -2609,6 +2269,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/katy-steele/199095",
    "image": "https://static.moshtix.com.au/uploads/8fa930c5-f195-412b-9c0f-7bb972857de0x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Misaki Umei x Cracked Suzies + Dorka Foster",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "venue": "Heaps Normal Health Club",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/misaki-umei-x-cracked-suzies-dorka-foster/199890",
+   "image": "https://static.moshtix.com.au/uploads/d01bcee5-4a7d-4e06-9d2f-c62ced863a6ax140x140",
    "source": "Moshtix"
   },
   {
@@ -2672,66 +2342,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "A Night in the Balkans – Live Music Show & Dinner",
-   "date": "2026-10-30",
-   "time": "",
-   "venue": "Cardea Barangaroo",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-night-in-balkans-ft-alex-milan-and-louie-live",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781055045/k7h9gk6i1z6d/5olngyDNTvkuuqVJjmgVG4/b8aa41c0-646b-11f1-9a24-6b289759dc58--Night-in-the-Balkans---Live-Music-Show---Dinner--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "BestieFest Halloween",
-   "date": "2026-10-30",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bestiefest-halloween",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790984676/k7h9gk6i1z6d/6a9TtYYpH3PBhCpKVXSr6p/09fddd31-bebb-11f1-81a5-1be2d9163ef8--BestieFest-Halloween-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Bunt",
-   "date": "2026-10-30",
-   "time": "",
-   "venue": "Hordern Pavilion",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bunt",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788311862/k7h9gk6i1z6d/7gZKCQdvbpYyc5pPgbIiKK/60cd1301-a66b-11f1-9a26-8de62e5425c5--Bunt--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Electric Nation Halloween Edition 2026",
-   "date": "2026-10-30",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/electric-nation-halloween-edition",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781581008/k7h9gk6i1z6d/496lGPYHC7CiMdsOGSeKsE/df60a451-6932-11f1-9050-497d8a7d2cf0--Electric-Nation-Halloween-Edition-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Purge Halloween Party",
-   "date": "2026-10-30",
-   "time": "",
-   "venue": "Side Bar Sydney",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-purge-halloween-party",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1665621537/k7h9gk6i1z6d/3elgiUvUKWeAJ0ZdK1c4w9/471e4be1-4a8f-11ed-9860-ebdb709ff6cd--The-Purge-Halloween-Party-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Health for Life program",
-   "date": "2026-10-30",
-   "time": "",
-   "venue": "Cliff Noble Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/health-for-life-program",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790209545/k7h9gk6i1z6d/5wSrQJVfLfVsGA5l2u2nC1/f9420f31-b7ac-11f1-a52f-1fa1ef0a96dc--Health-for-Life-program-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Nourish & Flourish",
    "date": "2026-10-30",
    "time": "",
@@ -2752,13 +2362,93 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "A Night in the Balkans – Live Music Show & Dinner",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "Cardea Barangaroo",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-night-in-balkans-ft-alex-milan-and-louie-live",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781055045/k7h9gk6i1z6d/5olngyDNTvkuuqVJjmgVG4/b8aa41c0-646b-11f1-9a24-6b289759dc58--Night-in-the-Balkans---Live-Music-Show---Dinner--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Health for Life program",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "Cliff Noble Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/health-for-life-program",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790209545/k7h9gk6i1z6d/5wSrQJVfLfVsGA5l2u2nC1/f9420f31-b7ac-11f1-a52f-1fa1ef0a96dc--Health-for-Life-program-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "‘Snowflake’ by Mike Bartlett",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "Ensemble Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/snowflake-by-mike-bartlett",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772580747/k7h9gk6i1z6d/7roRvJTkFrR1ZKMLWAPOM4/edf42f40-1758-11f1-8614-cb7b019b0603--SNOWFLAKE-by-Mike-Bartlett-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Cabaret, Cocktails & Karaoke in October",
    "date": "2026-10-30",
    "time": "",
    "venue": "Seymour Centre",
-   "category": "Nightlife & Electronic",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/cabaret-cocktails-and-karaoke-in-october",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784088486/k7h9gk6i1z6d/4mRkBQazmsBo2z4zSzqvPc/0b3fb351-8002-11f1-ae0b-efc608ff4c87--Cabaret--Cocktails---Karaoke-in-October-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Snowflake",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "Ensemble Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/snowflake",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790818112/k7h9gk6i1z6d/1MdjmIjHImlaYTP8MpcVl9/a9e707d1-bd36-11f1-99ed-2ff31e8c1363--Snowflake--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Coven - An unscripted witchy comedy show",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "See listing",
+   "category": "Comedy",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-coven-an-unscripted-witchy-comedy-show",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772144175/k7h9gk6i1z6d/6h2lbEoIEDkAFheHOtEV9Q/685009a1-1360-11f1-9c39-63722c6da3ac--The-Coven---An-Unscripted-Witchy-Comedy-Show-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Shakesbeer Sessions: Midsummer Night’s Dream",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-midsummer-nights-dream",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790295145/k7h9gk6i1z6d/5SYUNIYxTcimeYPfEDxiKl/64083561-b875-11f1-88b4-2d059ec30020--The-Shakesbeer-Sessions--Midsummer-Night-s-Dream--Paddington-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Bunt",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "Hordern Pavilion",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bunt",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788311862/k7h9gk6i1z6d/7gZKCQdvbpYyc5pPgbIiKK/60cd1301-a66b-11f1-9a26-8de62e5425c5--Bunt--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Electric Nation Halloween Edition 2026",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/electric-nation-halloween-edition",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781581008/k7h9gk6i1z6d/496lGPYHC7CiMdsOGSeKsE/df60a451-6932-11f1-9050-497d8a7d2cf0--Electric-Nation-Halloween-Edition-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -2772,13 +2462,33 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "The Shakesbeer Sessions: Midsummer Night’s Dream",
+   "name": "The Purge Halloween Party",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "Side Bar Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-purge-halloween-party",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1665621537/k7h9gk6i1z6d/3elgiUvUKWeAJ0ZdK1c4w9/471e4be1-4a8f-11ed-9860-ebdb709ff6cd--The-Purge-Halloween-Party-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "BestieFest Halloween",
    "date": "2026-10-30",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-midsummer-nights-dream",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790295145/k7h9gk6i1z6d/5SYUNIYxTcimeYPfEDxiKl/64083561-b875-11f1-88b4-2d059ec30020--The-Shakesbeer-Sessions--Midsummer-Night-s-Dream--Paddington-tile.jpg",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bestiefest-halloween",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790984676/k7h9gk6i1z6d/6a9TtYYpH3PBhCpKVXSr6p/09fddd31-bebb-11f1-81a5-1be2d9163ef8--BestieFest-Halloween-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Julie Janson - My Kaathi Sister",
+   "date": "2026-10-30",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/julie-janson-my-kaathi-sister",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792724261/k7h9gk6i1z6d/23TyS66ALQlKlswmzFOSZl/53614431-ce8d-11f1-a6d9-fb6d9fdd23b9---Julie-Janson---My-Kaathi-Sister-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -2972,6 +2682,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "The Night Before Halloween Party - FREE",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "venue": "The Trocadero Room",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/the-night-before-halloween-party-free/201877",
+   "image": "https://static.moshtix.com.au/uploads/8dd7b9d4-2d25-447e-8c77-588fdf9dabacx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Chinese Laundry Invites 1-800 GIRLS [UK] + CARTER WALSH [NAARM/MELB]",
    "date": "2026-10-30",
    "time": "21:00",
@@ -3010,176 +2730,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/dam-swindle-heist-recordings-nl-sydney-show/199192",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "BACK TO THE 90s – SYDNEY (HALLOWEEN EDITION)",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Cockle Bay Wharf",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/back-to-the-90s-sydney-halloween-edition",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790912391/k7h9gk6i1z6d/blGm9DaxqtHjNhSbZo3Xf/1757d671-be11-11f1-ac76-15fe3632de10--BACK-TO-THE-90s---SYDNEY--HALLOWEEN-EDITION--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Blues on the Harbour aboard Tall Ship James Craig",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "See listing",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/blues-on-the-harbour-aboard-tall-ship-james-craig",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788411860/k7h9gk6i1z6d/3MXvCvjyfnJW1DKElOqfhw/11052f80-a754-11f1-a3e1-cd4c4cfe03ed--Blues-on-the-Harbour-aboard-Tall-Ship-James-Craig-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "FUNKD Big Band Masquerade Sydney",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Castlereagh Boutique Hotel",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/funkd-big-band-masquerade-sydney",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792464827/k7h9gk6i1z6d/1dLTv2CAg8U6QH6TIQE72S/6c3914a1-cc31-11f1-8700-75815692c28e--FUNKD-Big-Band-Masquerade-Sydney-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Halloween Hackers",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Pleasure Club",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-hackers",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790808749/k7h9gk6i1z6d/22JEkjaFPdFbvT5UmOQwxI/5ba00461-bd21-11f1-b12c-f9468da30343--Halloween-Hackers-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Halloween Havoc",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "The Duke of Enmore",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-havoc",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791765641/k7h9gk6i1z6d/27X8jP9ASJFsDYsbeOfcr7/60087931-c5d5-11f1-881e-df8183241897--Halloween-Havoc-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Halloween live in concert",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Hayden Orpheum Picture Palace",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-live-in-concert",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792552461/k7h9gk6i1z6d/72pia0YuWb1N0XfIfQ054e/4b149bb1-ccfd-11f1-9160-e9876fa0015a--HALLOWEEN-Live-In-Concert-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Halloween Street Party @ Newtown Neighbourhood Centre",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Newtown Neighbourhood Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-street-party-newtown-neighbourhood-centre",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790904794/k7h9gk6i1z6d/1XG2siTJM7h11Yt08x2IcK/454d5751-be00-11f1-bbe3-0fa31d8e5afd--Halloween-Street-Party---Newtown-Neighbourhood-Centre-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Hellcat Speedracer - Halloween Takeover",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/hellcat-speedracer-halloween-takeover",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790212972/k7h9gk6i1z6d/5qpPXcRHPEYfLsDC2V5vhk/365b25b1-b7b6-11f1-9fd7-6308a1ed463b--Hellcat-Speedracer---Halloween-Takeover-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "InTooDeep halloween boat party",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/yeah-buoy-st-paddys-day-boat-party",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785897082/k7h9gk6i1z6d/5UEx6qMCAqjT2PvpchNUWd/759ec9b1-9075-11f1-b125-138d7655e38a--InTooDeep-Halloween-Boat-Party--31-10--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Resonance + The ConChords",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/resonance-the-conchords",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784871570/k7h9gk6i1z6d/67fsG4uM9KJyVBt83uE43d/b1f303c1-8721-11f1-a55b-25e7f08cc0a3--Resonance---The-ConChords-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sunset Beats with Yeah Buoy - Sydney Harbour Experience",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sunset-beats-with-yeah-buoy-sydney-harbour-experience",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791344445/k7h9gk6i1z6d/5m10X1C2ovaKfyNesRsmff/b3af6181-c200-11f1-b95f-051b9201d033--Sunset-Beats-with-Yeah-Buoy---Sydney-Harbour-Experience-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Victor Valdes: Viva Mexico Day of the Dead Spectacular",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/victor-valdes-viva-mexico-day-of-the-dead-spectacular",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791883651/k7h9gk6i1z6d/pfICjpLTxjP6ZUDw0cVfs/11b2f851-c6e8-11f1-931d-efc0d85518b5--VICTOR-VALDES--VIVA-MEXICO-Day-of-the-Dead-Spectacular-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Voodoo Workin'",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/voodoo-workin",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791696896/k7h9gk6i1z6d/11wUq2GJFBo7Wl3WNl5tO7/GettyImages-1054175202.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Huntley Street Recreation Centre official opening",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Huntlley Street Recreation Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/huntley-street-recreation-centre-official-opening",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792038843/k7h9gk6i1z6d/4qToM5kpBzsOoGlGpygb83/ffba62e1-c850-11f1-9c95-87114daca487--Huntley-Street-Recreation-Centre-official-opening--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Munch & Meet – International Students Picnic",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Hyde Park",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/munch-meet-international-students-picnic",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1760758510/k7h9gk6i1z6d/1CHARCkwWidNX0hLqg9tTF/84a02e10-abd1-11f0-9013-6d5f0eb132b4--Munch---Meet---International-Students-Picnic-at-Hyde-Park-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Halloween Show",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-halloween-psychic-show",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791173784/k7h9gk6i1z6d/4q0tX7xaat4ge70tm4B3iI/57febb81-c073-11f1-9728-7526cf9fda1c--The-Halloween-Show-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Gennarosity Abroad's wine & cheese masterclass",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Dove &amp; Olive",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/gennarosity-abroads-wine-and-cheese-masterclass",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786835808/k7h9gk6i1z6d/3dIB04gVTZe5unxCfez0ER/470aab40-98ff-11f1-bf98-b354e052c475--Gennarosity-Abroad-s-Wine---Cheese-Masterclass-tile.jpg",
-   "source": "City of Sydney"
   },
   {
    "name": "Photography course for beginners",
@@ -3272,26 +2822,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Tramsheds clothes swap",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "Tramsheds Harold Park",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/clothes-swap",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1746754991/k7h9gk6i1z6d/yq0VqZQDym3Rwg1Ez4PgF/a87a3630-2c76-11f0-8473-078ebd9c724c--Ultimo-Clothes-Swap-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Findery & Friends: SoHo in Sydney [Fashion Pop-Up]",
-   "date": "2026-10-31",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-findery-and-friends-fashion-and-matcha-pop-up",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792393938/k7h9gk6i1z6d/5WH5viyaVVVUw6bVr7N0LO/3b551e11-cb8c-11f1-b790-c5250f643081--The-Findery---Friends--SoHo-in-Sydney--Fashion-Pop-Up--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Day of the Dead Costume Party at Hay St",
    "date": "2026-10-31",
    "time": "",
@@ -3312,6 +2842,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "FUNKD Big Band Masquerade Sydney",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Castlereagh Boutique Hotel",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/funkd-big-band-masquerade-sydney",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792464827/k7h9gk6i1z6d/1dLTv2CAg8U6QH6TIQE72S/6c3914a1-cc31-11f1-8700-75815692c28e--FUNKD-Big-Band-Masquerade-Sydney-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Halloween Party at DR. Goodes",
    "date": "2026-10-31",
    "time": "",
@@ -3319,6 +2859,16 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-party-at-dr-goodes",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792362266/k7h9gk6i1z6d/1cxd1LTtjjUzGOQb9a72OW/e6069600-c91a-11f1-9ad3-9d785056c92e--Halloween-Party-at-DR--Goodes-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Halloween Twilight Markets",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-twilight-markets",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792651952/k7h9gk6i1z6d/3gn2roKIO5mQ4PbsxkCmRt/ed7dacb0-cde4-11f1-8d4c-5763f5512f19--Halloween-Twilight-Markets-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -3352,53 +2902,63 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Burn-O-Ween",
+   "name": "Gennarosity Abroad's wine & cheese masterclass",
    "date": "2026-10-31",
    "time": "",
-   "venue": "Lansdowne Hotel",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/burn-o-ween",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791718864/k7h9gk6i1z6d/5gJtrbYvecfY1sN48iORcH/f1ee5db0-c567-11f1-befe-0da801ec718d--Burn-O-Ween-tile.jpg",
+   "venue": "Dove &amp; Olive",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/gennarosity-abroads-wine-and-cheese-masterclass",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786835808/k7h9gk6i1z6d/3dIB04gVTZe5unxCfez0ER/470aab40-98ff-11f1-bf98-b354e052c475--Gennarosity-Abroad-s-Wine---Cheese-Masterclass-tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "Halloween Hotel",
+   "name": "The Findery & Friends: SoHo in Sydney [Fashion Pop-Up]",
    "date": "2026-10-31",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-hotel",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792089358/k7h9gk6i1z6d/55MDLDWZRR3w3cNwrRFGcq/be4d8561-c8c5-11f1-a2b1-f598c8b32d40--Halloween-Hotel-tile.jpg",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-findery-and-friends-fashion-and-matcha-pop-up",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792393938/k7h9gk6i1z6d/5WH5viyaVVVUw6bVr7N0LO/3b551e11-cb8c-11f1-b790-c5250f643081--The-Findery---Friends--SoHo-in-Sydney--Fashion-Pop-Up--tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "Take the Stage Presents: A Deathly Threat",
+   "name": "Huntley Street Recreation Centre official opening",
    "date": "2026-10-31",
    "time": "",
-   "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/take-the-stage-presents-a-deathly-threat",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790951722/k7h9gk6i1z6d/28UnmE4JIn10ZnPfH9sCZx/0da51a40-be6e-11f1-8bc5-318230fe59cc--Take-the-Stage-Presents---A-Deathly-Threat-tile.jpg",
+   "venue": "Huntlley Street Recreation Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/huntley-street-recreation-centre-official-opening",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792038843/k7h9gk6i1z6d/4qToM5kpBzsOoGlGpygb83/ffba62e1-c850-11f1-9c95-87114daca487--Huntley-Street-Recreation-Centre-official-opening--tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "The Shakesbeer Sessions: A Midsummer Night's Dream St Peters",
+   "name": "Munch & Meet – International Students Picnic",
    "date": "2026-10-31",
    "time": "",
-   "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream-st-peters",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789436830/k7h9gk6i1z6d/3HeiYwgX1jCzl57GXomlrD/1bc8fda1-b0a7-11f1-9af6-ef34c958249b--The-Shakesbeer-Sessions--A-Midsummer-Night-s-Dream-St-Peters-tile.jpg",
+   "venue": "Hyde Park",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/munch-meet-international-students-picnic",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1760758510/k7h9gk6i1z6d/1CHARCkwWidNX0hLqg9tTF/84a02e10-abd1-11f0-9013-6d5f0eb132b4--Munch---Meet---International-Students-Picnic-at-Hyde-Park-tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "Yeah Buoy - Sydney harbour halloween boat party",
+   "name": "The Halloween Show",
    "date": "2026-10-31",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/yeah-buoy-sunset-house-boat-party",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785384903/k7h9gk6i1z6d/3c1tbJkAQhtCPBzQHzknZB/d888a8a0-8bcc-11f1-ad87-51f7270a1635--Yeah-Buoy---Sydney-Harbour-Halloween-Boat-Party--31-10--tile.jpg",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-halloween-psychic-show",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791173784/k7h9gk6i1z6d/4q0tX7xaat4ge70tm4B3iI/57febb81-c073-11f1-9728-7526cf9fda1c--The-Halloween-Show-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Victor Valdes: Viva Mexico | Day of the Dead Spectacular",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/victor-valdes-viva-mexico-or-day-of-the-dead-spectacular",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784073813/k7h9gk6i1z6d/5zeSVwWqQJVmlsYLxwMtiP/f68657b0-7fdf-11f1-9381-a99ee06d413f--Victor-Valdes--Viva-Mexico-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -3409,6 +2969,16 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-the-boo-factory",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1759987274/k7h9gk6i1z6d/6gVUJqCBA5IiD4QBPloP5g/b182a4c0-a4cf-11f0-a236-b9c7b8861cea--Halloween-at-the-Boo--Factory--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Halloween Street Party @ Newtown Neighbourhood Centre",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Newtown Neighbourhood Centre",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-street-party-newtown-neighbourhood-centre",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790904794/k7h9gk6i1z6d/1XG2siTJM7h11Yt08x2IcK/454d5751-be00-11f1-bbe3-0fa31d8e5afd--Halloween-Street-Party---Newtown-Neighbourhood-Centre-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -3449,6 +3019,156 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/tuning-in-to-kids-tm-marathon-format",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791774571/k7h9gk6i1z6d/1NDNvW2tcmK35Aci5Wywbs/GettyImages-1017125060.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "35MM: A Musical Exhibition",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Tom Mann Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/35mm-a-musical-exhibition",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791970887/k7h9gk6i1z6d/3qXzViE5Kn2eLjrdrCdWn8/60aafa01-c7b2-11f1-8fe7-8fcd3d17e6a6--35MM--A-Musical-Exhibition-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Halloween live in concert",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Hayden Orpheum Picture Palace",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-live-in-concert",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792552461/k7h9gk6i1z6d/72pia0YuWb1N0XfIfQ054e/4b149bb1-ccfd-11f1-9160-e9876fa0015a--HALLOWEEN-Live-In-Concert-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Samhain (the original Halloween)",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Waverley Library",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/samhain-the-original-halloween",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788937347/k7h9gk6i1z6d/54Yr0ZWFxk3jrYdltEo2vK/8a2b6430-ac1b-11f1-be5a-478e9aacb957--Samhain--the-original-Halloween--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Take the Stage Presents: A Deathly Threat",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/take-the-stage-presents-a-deathly-threat",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790951722/k7h9gk6i1z6d/28UnmE4JIn10ZnPfH9sCZx/0da51a40-be6e-11f1-8bc5-318230fe59cc--Take-the-Stage-Presents---A-Deathly-Threat-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Shakesbeer Sessions: A Midsummer Night's Dream St Peters",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream-st-peters",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789436830/k7h9gk6i1z6d/3HeiYwgX1jCzl57GXomlrD/1bc8fda1-b0a7-11f1-9af6-ef34c958249b--The-Shakesbeer-Sessions--A-Midsummer-Night-s-Dream-St-Peters-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "BACK TO THE 90s – SYDNEY (HALLOWEEN EDITION)",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Cockle Bay Wharf",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/back-to-the-90s-sydney-halloween-edition",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790912391/k7h9gk6i1z6d/blGm9DaxqtHjNhSbZo3Xf/1757d671-be11-11f1-ac76-15fe3632de10--BACK-TO-THE-90s---SYDNEY--HALLOWEEN-EDITION--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Blues on the Harbour aboard Tall Ship James Craig",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/blues-on-the-harbour-aboard-tall-ship-james-craig",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788411860/k7h9gk6i1z6d/3MXvCvjyfnJW1DKElOqfhw/11052f80-a754-11f1-a3e1-cd4c4cfe03ed--Blues-on-the-Harbour-aboard-Tall-Ship-James-Craig-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Burn-O-Ween",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Lansdowne Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/burn-o-ween",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791718864/k7h9gk6i1z6d/5gJtrbYvecfY1sN48iORcH/f1ee5db0-c567-11f1-befe-0da801ec718d--Burn-O-Ween-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Halloween Hackers",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Pleasure Club",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-hackers",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790808749/k7h9gk6i1z6d/22JEkjaFPdFbvT5UmOQwxI/5ba00461-bd21-11f1-b12c-f9468da30343--Halloween-Hackers-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Halloween Hotel",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-hotel",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792089358/k7h9gk6i1z6d/55MDLDWZRR3w3cNwrRFGcq/be4d8561-c8c5-11f1-a2b1-f598c8b32d40--Halloween-Hotel-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Hellcat Speedracer - Halloween Takeover",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "City Recital Hall",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/hellcat-speedracer-halloween-takeover",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790212972/k7h9gk6i1z6d/5qpPXcRHPEYfLsDC2V5vhk/365b25b1-b7b6-11f1-9fd7-6308a1ed463b--Hellcat-Speedracer---Halloween-Takeover-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "InTooDeep halloween boat party",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/yeah-buoy-st-paddys-day-boat-party",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785897082/k7h9gk6i1z6d/5UEx6qMCAqjT2PvpchNUWd/759ec9b1-9075-11f1-b125-138d7655e38a--InTooDeep-Halloween-Boat-Party--31-10--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sunset Beats with Yeah Buoy - Sydney Harbour Experience",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sunset-beats-with-yeah-buoy-sydney-harbour-experience",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791344445/k7h9gk6i1z6d/5m10X1C2ovaKfyNesRsmff/b3af6181-c200-11f1-b95f-051b9201d033--Sunset-Beats-with-Yeah-Buoy---Sydney-Harbour-Experience-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Yeah Buoy - Sydney harbour halloween boat party",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/yeah-buoy-sunset-house-boat-party",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785384903/k7h9gk6i1z6d/3c1tbJkAQhtCPBzQHzknZB/d888a8a0-8bcc-11f1-ad87-51f7270a1635--Yeah-Buoy---Sydney-Harbour-Halloween-Boat-Party--31-10--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Tramsheds clothes swap",
+   "date": "2026-10-31",
+   "time": "",
+   "venue": "Tramsheds Harold Park",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/clothes-swap",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1746754991/k7h9gk6i1z6d/yq0VqZQDym3Rwg1Ez4PgF/a87a3630-2c76-11f0-8473-078ebd9c724c--Ultimo-Clothes-Swap-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -3569,6 +3289,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/haranga-unplugged-concert/200251",
    "image": "https://static.moshtix.com.au/uploads/8440f8d5-4529-4e37-a617-ef131d244feex140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "VOODOO WORKIN’",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/voodoo-workin-/195591",
+   "image": "https://static.moshtix.com.au/uploads/d9e581de-5874-43fa-875d-d4966bcc2ff7x140x140",
    "source": "Moshtix"
   },
   {
@@ -3742,43 +3472,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Fantasy IV: Hansori Music ft. Sunshine Philharmonic",
-   "date": "2026-11-01",
-   "time": "",
-   "venue": "See listing",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/fantasy-iv-hansori-music-ft-sunshine-philharmonic",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788588825/k7h9gk6i1z6d/2laGirfx7hC8QFMWICl3sj/5979fbe1-a8f0-11f1-9d9f-b58bfba2181e--Fantasy-IV--Hansori-Music-ft--Sunshine-Philharmonic-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "When Art Meets Science Government House Sydney",
    "date": "2026-11-01",
    "time": "",
    "venue": "Government House",
-   "category": "Community",
+   "category": "Exhibitions",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/when-art-meets-science-government-house-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792456766/k7h9gk6i1z6d/6fFcWavtiJmAgamQLR2EQM/5f19d651-cc1e-11f1-b8fa-b5537cc5aa52--When-Art-Meets-Science-Government-House-Sydney-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Randwick Eco living Festival",
-   "date": "2026-11-01",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/randwick-eco-living-festival",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790308518/k7h9gk6i1z6d/1EJDvrxWfvGH6UudEdrkZi/68906481-b894-11f1-9ce8-99d51e4020e4--Randwick-Eco-living-Festival-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Women's Wellbeing in Conversation",
-   "date": "2026-11-01",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/womens-wellbeing-in-conversation",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791247185/k7h9gk6i1z6d/1RKpEPgxt2crxkBIHckyac/df5cf6a1-c11d-11f1-bed5-b72447f08158--Women-s-Wellbeing-in-Conversation--tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -3832,13 +3532,43 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Randwick Eco living Festival",
+   "date": "2026-11-01",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/randwick-eco-living-festival",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790308518/k7h9gk6i1z6d/1EJDvrxWfvGH6UudEdrkZi/68906481-b894-11f1-9ce8-99d51e4020e4--Randwick-Eco-living-Festival-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Women's Wellbeing in Conversation",
+   "date": "2026-11-01",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/womens-wellbeing-in-conversation",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791247185/k7h9gk6i1z6d/1RKpEPgxt2crxkBIHckyac/df5cf6a1-c11d-11f1-bed5-b72447f08158--Women-s-Wellbeing-in-Conversation--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "The Shakesbeer Sessions: A Midsummer Night's Dream",
    "date": "2026-11-01",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife & Electronic",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shakesbeer-sessions-a-midsummer-nights-dream",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789437121/k7h9gk6i1z6d/4lNkc4okRjjjWRG48csX4q/c9d013c1-b0a7-11f1-aafc-f797701f4c7b--The-Shakesbeer-Sessions--A-Midsummer-Night-s-Dream-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Splinter journal - Issue five launch",
+   "date": "2026-11-01",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/splinter-journal-issue-five-launch",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792724406/k7h9gk6i1z6d/5mbTyEgqhI2KNXD93DU5eG/a7a428a1-ce8d-11f1-969e-895bb139097b---Splinter-journal---Issue-five-launch-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -3952,26 +3682,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Haydn’s Oxford | Australian Haydn Ensemble",
-   "date": "2026-11-02",
-   "time": "",
-   "venue": "The Neilson",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/haydns-sunrise",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782001940/k7h9gk6i1z6d/3TR1zqRgYS7N4UCVNf53L1/22ed9431-6d07-11f1-adae-4b3618c25ae5--Haydn-s-Oxford-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Creative writing 4-week course",
-   "date": "2026-11-02",
-   "time": "",
-   "venue": "Joseph Sargeant Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/creative-writing-4-week-course",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790638948/k7h9gk6i1z6d/4p6g2eIFFwppn6KYQx54X0/35282d31-bb96-11f1-b59f-6d90151d34dc--Creative-writing-4-week-course-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Cut X Paste - Paddington",
    "date": "2026-11-02",
    "time": "",
@@ -3992,6 +3702,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Creative writing 4-week course",
+   "date": "2026-11-02",
+   "time": "",
+   "venue": "Joseph Sargeant Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/creative-writing-4-week-course",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790638948/k7h9gk6i1z6d/4p6g2eIFFwppn6KYQx54X0/35282d31-bb96-11f1-b59f-6d90151d34dc--Creative-writing-4-week-course-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Homeschool Makertime: 3D Printing 8-12yrs",
    "date": "2026-11-02",
    "time": "",
@@ -3999,6 +3719,16 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/homeschool-makertime-3d-printing-8-12yrs",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791427144/k7h9gk6i1z6d/4nGmO212iyz9OFuYYiH12R/724d8b71-c2c0-11f1-b30a-2540928aa835--Homeschool-Makertime--3D-Printing-8-12yrs-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Haydn’s Oxford | Australian Haydn Ensemble",
+   "date": "2026-11-02",
+   "time": "",
+   "venue": "The Neilson",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/haydns-sunrise",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782001940/k7h9gk6i1z6d/3TR1zqRgYS7N4UCVNf53L1/22ed9431-6d07-11f1-adae-4b3618c25ae5--Haydn-s-Oxford-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4052,96 +3782,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Opera in the Pub - Race You To The Opera",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "See listing",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/opera-in-the-pub-at-the-harold-opera-hijinks",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783565069/k7h9gk6i1z6d/WDBeYlIPA36S4xwctB1WP/93883791-7b3f-11f1-9bb4-7783f61be19b--Opera-in-the-Pub-at-Keg---Brew---Opera-Plot-------or-Not--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Jack Hancher - Classical Guitar Recital",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "See listing",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jack-hancher-classical-guitar-recital",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791758777/k7h9gk6i1z6d/4CVFl4VwRr9yqGrrQ47Ts2/ebb9c131-c5c3-11f1-a4b5-1fe64dc5848c--Jack-Hancher---Calssical-Guitar-Recital-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Melbourne Cup Party at The Dolphin Hotel",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-party-at-the-dolphin-hotel",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1755585185/k7h9gk6i1z6d/124Wqz8GfckGwx8Gbnmg4D/25e83871-7cc6-11f0-844f-27cafa50ad1f--Melbourne-Cup-Party-at-The-Dolphin-Hotel-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sir Stephen Hough in recital",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sir-stephen-hough-in-recital",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1777338760/k7h9gk6i1z6d/16qhNBsSw90nMhpJIcWlul/19f25060-429f-11f1-8566-a95f232dd18e--Sir-Stephen-Hough-in-recital-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Melbourne Cup at Salty's Bondi",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-at-saltys-bondi",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788854454/k7h9gk6i1z6d/26OLU72PwZ9WZWNymMYSMU/492967e1-ab5b-11f1-94ea-5bf76263f5e6--Melbourne-Cup-at-Salty-s-Bondi-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Melbourne Cup Lunch 2026 - French Cuisine & Cocktails",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "Cardea Barangaroo",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-lunch-2026-french-cuisine-and-cocktails",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788242789/k7h9gk6i1z6d/u19J7InJOa4VXlsQBBfr3/fc6e4d21-a5ca-11f1-9226-c14330e7ab22--Melbourne-Cup-Lunch-2026---French-Cuisine---Cocktails--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Melbourne Cup on Starship Sydney",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-on-starship-sydney",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789433345/k7h9gk6i1z6d/M13FHyfrQ79IPQHATyu7i/e5b91771-b09e-11f1-9112-efda35d64df3--Melbourne-Cup-on-Starship-Sydney-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Melbourne Cup on the Terraza",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "Potts Point Hotel",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-on-the-rooftop",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784775380/k7h9gk6i1z6d/4aL5Nwt7edA4ypA1Pz8B3T/bf109fd1-8641-11f1-8023-5762874daf6d--Melbourne-Cup-on-the-rooftop-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Seniors health & fitness program",
-   "date": "2026-11-03",
-   "time": "",
-   "venue": "Sydney Community College",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/seniors-health-and-fitness-program",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773191875/k7h9gk6i1z6d/3Wak0LxJXOMFujJqwkbNk/b8363761-1ce7-11f1-b832-53f16dc1fd30--Seniors-Health---Fitness-Program-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Paula Jenkins: Where The Wild Rivers Run",
    "date": "2026-11-03",
    "time": "",
@@ -4169,6 +3809,16 @@ window.EVENT_DATA = {
    "category": "Tours & Walks",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/vagabond-cruises-sydney-harbour-melbourne-cup-lunch-cruise",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1778568833/k7h9gk6i1z6d/izh2FRH1ZpZDSmt1OzzSN/13ed64d0-4dcf-11f1-b46f-cb142904328a--Sydney-Harbour-Melbourne-Cup-Lunch-Cruise-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Opera in the Pub - Race You To The Opera",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/opera-in-the-pub-at-the-harold-opera-hijinks",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783565069/k7h9gk6i1z6d/WDBeYlIPA36S4xwctB1WP/93883791-7b3f-11f1-9bb4-7783f61be19b--Opera-in-the-Pub-at-Keg---Brew---Opera-Plot-------or-Not--tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4292,6 +3942,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Melbourne Cup Party at The Dolphin Hotel",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-party-at-the-dolphin-hotel",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1755585185/k7h9gk6i1z6d/124Wqz8GfckGwx8Gbnmg4D/25e83871-7cc6-11f0-844f-27cafa50ad1f--Melbourne-Cup-Party-at-The-Dolphin-Hotel-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Melbourne Cup 2026 at Zaffi: The Rosé Garden Lunch",
    "date": "2026-11-03",
    "time": "",
@@ -4342,6 +4002,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Melbourne Cup Lunch 2026 - French Cuisine & Cocktails",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "Cardea Barangaroo",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-lunch-2026-french-cuisine-and-cocktails",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788242789/k7h9gk6i1z6d/u19J7InJOa4VXlsQBBfr3/fc6e4d21-a5ca-11f1-9226-c14330e7ab22--Melbourne-Cup-Lunch-2026---French-Cuisine---Cocktails--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Melbourne Cup Lunch Buffet at Amora Jamison Sydney",
    "date": "2026-11-03",
    "time": "",
@@ -4349,6 +4019,36 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-lunch-buffet",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786161534/k7h9gk6i1z6d/4tnQIGpNX4qtfmjVB8qy5o/053d57d0-92dd-11f1-bed4-cb86500f4e04--Melbourne-Cup-Lunch-Buffet-at-Amora-Jamison-Sydney-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Melbourne Cup on Starship Sydney",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-on-starship-sydney",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789433345/k7h9gk6i1z6d/M13FHyfrQ79IPQHATyu7i/e5b91771-b09e-11f1-9112-efda35d64df3--Melbourne-Cup-on-Starship-Sydney-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Melbourne Cup on the Terraza",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "Potts Point Hotel",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-on-the-rooftop",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784775380/k7h9gk6i1z6d/4aL5Nwt7edA4ypA1Pz8B3T/bf109fd1-8641-11f1-8023-5762874daf6d--Melbourne-Cup-on-the-rooftop-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Seniors health & fitness program",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "Sydney Community College",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/seniors-health-and-fitness-program",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773191875/k7h9gk6i1z6d/3Wak0LxJXOMFujJqwkbNk/b8363761-1ce7-11f1-b832-53f16dc1fd30--Seniors-Health---Fitness-Program-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4369,6 +4069,46 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/nba-basketball-school",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792557748/k7h9gk6i1z6d/5BHU9zGtVUe37GYYGA7pUd/a89dce30-cd09-11f1-91f4-93b56914e679--NBA-Basketball-School-Australia-s-Term-4-2026-at-Alexandria-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Free Bachata Classes in Kings Cross",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "Juanita Nielsen Community Centre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bachata-classes-in-kings-cross",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791508611/k7h9gk6i1z6d/7jPa1FwJP1oDZuatMoQRAw/4f40abd1-c37e-11f1-ba4d-1562fb116af9--Free-Bachata-Classes-in-Kings-Cross-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Improv crash course",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "See listing",
+   "category": "Comedy",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/4-weeks-improv-crash-course-zero-to-hero",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792635804/k7h9gk6i1z6d/4SSTafVY2UiRGndw2qgfQS/73e4d421-cdbf-11f1-b243-cf8063a2380d--4-Weeks-Improv-Crash-Course---November-Edition---tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Melbourne Cup at Salty's Bondi",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/melbourne-cup-at-saltys-bondi",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788854454/k7h9gk6i1z6d/26OLU72PwZ9WZWNymMYSMU/492967e1-ab5b-11f1-94ea-5bf76263f5e6--Melbourne-Cup-at-Salty-s-Bondi-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Margaret Simons - Going Digital",
+   "date": "2026-11-03",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/margaret-simons-going-digital",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792725314/k7h9gk6i1z6d/2vwJz0sNmKeFB4nMZb9fmr/ccf7e7c1-ce8f-11f1-a239-c57f2fe64f7f---Margaret-Simons---Going-Digital-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4422,46 +4162,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "AGENT X by Magickal Ms. G",
-   "date": "2026-11-04",
-   "time": "",
-   "venue": "PACT",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/agent-x-by-magickal-ms-g",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788177851/k7h9gk6i1z6d/72ML2ijQldScTM50lQoobL/c4f990f1-a52c-11f1-b429-b9f782891b94--AGENT-X-by-Magickal-Ms--G-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Lunchtime Concert: Samantha Mailer Flute & Thomas Azoury",
-   "date": "2026-11-04",
-   "time": "",
-   "venue": "St James Church",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concert-samantha-mailer-flute-and-thomas-azoury",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791966466/k7h9gk6i1z6d/6SU4ziK1BFS5zD8GjzCbOR/d68b42c1-c7a8-11f1-a7b6-fdacbd41d888--Lunchtime-Concert--Samantha-Mailer-Flute---Thomas-Azoury-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Nosferatu: A Psychedelic Cinema Experience",
-   "date": "2026-11-04",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nosferatu-a-psychedelic-cinema-experience",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790723804/k7h9gk6i1z6d/2iqHCMd1qQrhXpeZveEHz9/2630bc50-bc5b-11f1-ba00-7bd4e4ce04fb--NOSFERATU--A-Psychedelic-Cinema-Experience-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Declutter your home, reclaim your life information session",
-   "date": "2026-11-04",
-   "time": "",
-   "venue": "Ron Williams Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/declutter-your-home-reclaim-your-life-information-session",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775105762/k7h9gk6i1z6d/6TxudpF0zdc8EViCtf87wS/f0c0b051-2e4f-11f1-a2b5-2f23ba382298--Declutter-your-home--reclaim-your-life-information-session-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Alive in the Landscape",
    "date": "2026-11-04",
    "time": "",
@@ -4489,6 +4189,16 @@ window.EVENT_DATA = {
    "category": "Exhibitions",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/animal-whimsy-art-exhibition-and-opening-celebration",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791269630/k7h9gk6i1z6d/c7oVxUtC8QopMgmjTcbBJ/1c7b4b30-c151-11f1-aec0-9f0504493572---Animal-Whimsy--Art-Exhibition---Opening-Celebration-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Wentworth Mausoleum walking tour",
+   "date": "2026-11-04",
+   "time": "",
+   "venue": "Vaucluse House",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/wentworth-mausoleum-walking-tour",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1752111903/k7h9gk6i1z6d/2mtVkZYzwRB5aAyojuuqIO/4bfd1a51-5d2f-11f0-a29c-9b218a1587e8--Wentworth-Mausoleum-walking-tour-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4572,23 +4282,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "The Husband Stitch",
+   "name": "Declutter your home, reclaim your life information session",
    "date": "2026-11-04",
    "time": "",
-   "venue": "Flight Path Theatre",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-husband-stitch",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775036026/k7h9gk6i1z6d/1p8EEGxnwgcKKeeXIQLX1r/91109051-2dad-11f1-a57e-8fc140dd9963--The-Husband-Stitch-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Twisted Violet",
-   "date": "2026-11-04",
-   "time": "",
-   "venue": "Flight Path Theatre",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/twisted-violet",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775036397/k7h9gk6i1z6d/2qtDjnPcTb0zT2BRwDI77A/80bdfc50-2dae-11f1-86bb-2191b83dc709--Twisted-Violet-tile.jpg",
+   "venue": "Ron Williams Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/declutter-your-home-reclaim-your-life-information-session",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775105762/k7h9gk6i1z6d/6TxudpF0zdc8EViCtf87wS/f0c0b051-2e4f-11f1-a2b5-2f23ba382298--Declutter-your-home--reclaim-your-life-information-session-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4602,6 +4302,46 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Nosferatu: A Psychedelic Cinema Experience",
+   "date": "2026-11-04",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nosferatu-a-psychedelic-cinema-experience",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790723804/k7h9gk6i1z6d/2iqHCMd1qQrhXpeZveEHz9/2630bc50-bc5b-11f1-ba00-7bd4e4ce04fb--NOSFERATU--A-Psychedelic-Cinema-Experience-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Husband Stitch",
+   "date": "2026-11-04",
+   "time": "",
+   "venue": "Flight Path Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-husband-stitch",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775036026/k7h9gk6i1z6d/1p8EEGxnwgcKKeeXIQLX1r/91109051-2dad-11f1-a57e-8fc140dd9963--The-Husband-Stitch-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Twisted Violet",
+   "date": "2026-11-04",
+   "time": "",
+   "venue": "Flight Path Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/twisted-violet",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775036397/k7h9gk6i1z6d/2qtDjnPcTb0zT2BRwDI77A/80bdfc50-2dae-11f1-86bb-2191b83dc709--Twisted-Violet-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "AGENT X by Magickal Ms. G",
+   "date": "2026-11-04",
+   "time": "",
+   "venue": "PACT",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/agent-x-by-magickal-ms-g",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788177851/k7h9gk6i1z6d/72ML2ijQldScTM50lQoobL/c4f990f1-a52c-11f1-b429-b9f782891b94--AGENT-X-by-Magickal-Ms--G-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Louise Perry Live: Is it time for a new sexual revolution?",
    "date": "2026-11-04",
    "time": "",
@@ -4609,6 +4349,16 @@ window.EVENT_DATA = {
    "category": "Workshops & Classes",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/richard-johnson-lecture-stan-grant-or-against-bitterness",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792627353/k7h9gk6i1z6d/3DeNm6v0ZPDjEHDBpwig6H/dba1e271-cdaa-11f1-a88c-f1d351a1e4ae---Louise-Perry-Live--Is-it-time-for-a-new-sexual-revolution--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Jack Heath - Choppy Water",
+   "date": "2026-11-04",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jack-heath-choppy-water",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792725469/k7h9gk6i1z6d/1Rn8m2wvtoNbp3PvtizpFK/0c5d9c71-ce90-11f1-99a6-2b9c69ebaac4--Jack-Heath---Choppy-Water-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4682,43 +4432,23 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Noria Letts Quintet: \"La Musique\"",
+   "name": "Jude Williams – Vessels of Memory",
+   "date": "2026-11-05",
+   "time": "",
+   "venue": "Tiliqua Tiliqua",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jude-williams-vessels-of-memory",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792367294/k7h9gk6i1z6d/5AHWqqTyXAXEvW2urK0VkW/1dd238c1-cb4e-11f1-bbb0-372f75ea7d66--Jude-Williams---Vessels-of-Memory-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Next Slice: Gozney x Pizza Oltra",
    "date": "2026-11-05",
    "time": "",
    "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/noria-letts-quintet-la-musique",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791963285/k7h9gk6i1z6d/3kAppEBKqC6J2YyGJMcJLV/4cf036c0-c79d-11f1-b188-69a09e6aaf6f--Noria-Letts-Quintet--La-Musique--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Setwun @ Seymour Sounds",
-   "date": "2026-11-05",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/setwun-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792467973/k7h9gk6i1z6d/19QEb2cOXRPeEshRGzQwM4/68913e21-cc38-11f1-b2cb-f959527c60fd--Setwun---Seymour-Sounds-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Vazesh",
-   "date": "2026-11-05",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/vazesh",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788415187/k7h9gk6i1z6d/48DoE9D6cSn3HXuNUZEyTF/f23024e1-a75b-11f1-b2b3-cb79d1e9896c--Vazesh-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Opera Lecture Series - The Operas of Donizetti",
-   "date": "2026-11-05",
-   "time": "",
-   "venue": "City of Sydney Creative Studios",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/opera-lecture-series-the-operas-of-puccini",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773901106/k7h9gk6i1z6d/3WOX6CiNQZ0jxcYsrPcq1v/1abf4ed1-235a-11f1-90b6-6f624c157640--Opera-Lecture-Series---The-Operas-of-Verdi-tile.jpg",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-next-slice-gozney-x-pizza-oltra",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792380614/k7h9gk6i1z6d/52RimDdL1c0VXE8z5ST3fo/ce973ac1-cb6c-11f1-a202-9359e190ea0a--The-Next-Slice--Gozney-x-Pizza-Oltra-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4742,23 +4472,43 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Jude Williams – Vessels of Memory",
-   "date": "2026-11-05",
-   "time": "",
-   "venue": "Tiliqua Tiliqua",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jude-williams-vessels-of-memory",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792367294/k7h9gk6i1z6d/5AHWqqTyXAXEvW2urK0VkW/1dd238c1-cb4e-11f1-bbb0-372f75ea7d66--Jude-Williams---Vessels-of-Memory-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Bump, Baby & Beyond: A Motherhood Event",
    "date": "2026-11-05",
    "time": "",
    "venue": "See listing",
-   "category": "Markets & Festivals",
+   "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/bump-baby-and-beyond-a-motherhood-event",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792486157/k7h9gk6i1z6d/33PNalRXYZOQtzCL49sd59/f9c446c1-cc61-11f1-848d-a71ca6f1ca90--Bump--Baby---Beyond--A-Motherhood-Event-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Orbit",
+   "date": "2026-11-05",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/orbit",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791250636/k7h9gk6i1z6d/1vazXKURxKyJoUh9oKJU0f/12444210-c125-11f1-94a7-6f8413f96be9--Orbit-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Noria Letts Quintet: \"La Musique\"",
+   "date": "2026-11-05",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/noria-letts-quintet-la-musique",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791963285/k7h9gk6i1z6d/3kAppEBKqC6J2YyGJMcJLV/4cf036c0-c79d-11f1-b188-69a09e6aaf6f--Noria-Letts-Quintet--La-Musique--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Setwun @ Seymour Sounds",
+   "date": "2026-11-05",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/setwun-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792467973/k7h9gk6i1z6d/19QEb2cOXRPeEshRGzQwM4/68913e21-cc38-11f1-b2cb-f959527c60fd--Setwun---Seymour-Sounds-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4769,16 +4519,6 @@ window.EVENT_DATA = {
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/watchfest",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790822428/k7h9gk6i1z6d/5OjMyKleiz1okWtKzczXYS/d9adaaf0-bd40-11f1-99f4-495403f32d83--Watchfest-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Next Slice: Gozney x Pizza Oltra",
-   "date": "2026-11-05",
-   "time": "",
-   "venue": "See listing",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-next-slice-gozney-x-pizza-oltra",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792380614/k7h9gk6i1z6d/52RimDdL1c0VXE8z5ST3fo/ce973ac1-cb6c-11f1-a202-9359e190ea0a--The-Next-Slice--Gozney-x-Pizza-Oltra-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4819,6 +4559,16 @@ window.EVENT_DATA = {
    "category": "Workshops & Classes",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/candle-making-workshop",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773706015/k7h9gk6i1z6d/7mMJdCCr9SwXLZNaBPTD6k/025f26b1-2195-11f1-a201-93087ade128b--Candle-Making-Workshop-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Opera Lecture Series - The Operas of Donizetti",
+   "date": "2026-11-05",
+   "time": "",
+   "venue": "City of Sydney Creative Studios",
+   "category": "Talks & Ideas",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/opera-lecture-series-the-operas-of-puccini",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1773901106/k7h9gk6i1z6d/3WOX6CiNQZ0jxcYsrPcq1v/1abf4ed1-235a-11f1-90b6-6f624c157640--Opera-Lecture-Series---The-Operas-of-Verdi-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -4912,66 +4662,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Head On Photo Festival Launch",
-   "date": "2026-11-06",
-   "time": "",
-   "venue": "Bondi Pavilion",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-launch",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791518441/k7h9gk6i1z6d/7dgXq2FtTNtPefVLRYusPb/5a947c21-c395-11f1-b7be-4b611cf6242c--Head-On-Photo-Festival-Launch-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "IKSRE \"in all her forms (sound meditations vol. 2)\" launch",
-   "date": "2026-11-06",
-   "time": "",
-   "venue": "Golden Age Cinema & Bar",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/iksre-in-all-her-forms-sound-meditations-vol-2-launch",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792403968/k7h9gk6i1z6d/1c6fPeowRXPh0ogBLshIj3/a7fd3b01-cba1-11f1-b720-0f696b840567--IKSRE--in-all-her-forms--sound-meditations-vol--2---Launch-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Stories That Must Be Heard: Circus Concerto by Chloé Charody",
-   "date": "2026-11-06",
-   "time": "",
-   "venue": "Sydney Opera House",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/stories-that-must-be-heard-circus-concerto-by-chloe-charody",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787700010/k7h9gk6i1z6d/6URFPXkOgLqu2mtU3eZw9T/cd984860-a0da-11f1-96fa-a71c41d45204--Stories-That-Must-Be-Heard--Circus-Concerto-by-Chlo--Charody-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Spoiler Alert at Blackwattle Bar + Brewery",
-   "date": "2026-11-06",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/spoiler-alert-at-blackwattle-bar-brewery",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790842869/k7h9gk6i1z6d/4Kg2Ka9MkWdho1ZCLXWHVq/dff6b430-bd70-11f1-b2f7-1b879455eb27--Spoiler-Alert-at-Blackwattle-Bar---Brewery-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Iron Gate tattoo convention",
-   "date": "2026-11-06",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-iron-gate-tattoo-convention",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786497137/k7h9gk6i1z6d/5pUT5fvN7SV2xeOga1EVy5/c589bbe1-95ea-11f1-960d-091be7dc95cf--The-Iron-Gate-Tattoo-Convention-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Red Flag Day",
-   "date": "2026-11-06",
-   "time": "",
-   "venue": "Bondi Beach",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/red-flag-day",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792120965/k7h9gk6i1z6d/IHY9KTbzGeFUQfVvWXkQX/1f4b8a21-c910-11f1-a90e-b5715e3df361--Red-Flag-Day-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "AquaTerra",
    "date": "2026-11-06",
    "time": "",
@@ -4982,6 +4672,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Head On Photo Festival Launch",
+   "date": "2026-11-06",
+   "time": "",
+   "venue": "Bondi Pavilion",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-launch",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791518441/k7h9gk6i1z6d/7dgXq2FtTNtPefVLRYusPb/5a947c21-c395-11f1-b7be-4b611cf6242c--Head-On-Photo-Festival-Launch-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "The Postgrad Show 2026",
    "date": "2026-11-06",
    "time": "",
@@ -4989,6 +4689,16 @@ window.EVENT_DATA = {
    "category": "Exhibitions",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-postgrad-show",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1765247819/k7h9gk6i1z6d/4pGjdinwdiahz6HwRt9wrm/b9d07a01-d4a7-11f0-abcb-9d069297e9f3--The-Postgrad-Show-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Iron Gate tattoo convention",
+   "date": "2026-11-06",
+   "time": "",
+   "venue": "See listing",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-iron-gate-tattoo-convention",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786497137/k7h9gk6i1z6d/5pUT5fvN7SV2xeOga1EVy5/c589bbe1-95ea-11f1-960d-091be7dc95cf--The-Iron-Gate-Tattoo-Convention-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -5009,6 +4719,66 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-next-slice-poor-toms-oltra",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792381158/k7h9gk6i1z6d/4nVesWl99M821922rPskc4/487711c1-cb6e-11f1-9ee8-b72e82482e73--The-Next-Slice--Poor-Toms-Oltra-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Red Flag Day",
+   "date": "2026-11-06",
+   "time": "",
+   "venue": "Bondi Beach",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/red-flag-day",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792120965/k7h9gk6i1z6d/IHY9KTbzGeFUQfVvWXkQX/1f4b8a21-c910-11f1-a90e-b5715e3df361--Red-Flag-Day-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Anticipated Collapse.",
+   "date": "2026-11-06",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/anticipated-collapse",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783048155/k7h9gk6i1z6d/7hVQxe84M8CHQHkRjbrqjT/29107741-768c-11f1-90dd-3f8f1114f93f--Anticipated-Collapse---tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Stories That Must Be Heard: Circus Concerto by Chloé Charody",
+   "date": "2026-11-06",
+   "time": "",
+   "venue": "Sydney Opera House",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/stories-that-must-be-heard-circus-concerto-by-chloe-charody",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787700010/k7h9gk6i1z6d/6URFPXkOgLqu2mtU3eZw9T/cd984860-a0da-11f1-96fa-a71c41d45204--Stories-That-Must-Be-Heard--Circus-Concerto-by-Chlo--Charody-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Australian Ballet: Copland Dance Episodes",
+   "date": "2026-11-06",
+   "time": "",
+   "venue": "Sydney Opera House",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-australian-ballet-copland-dance-episodes",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779761930/k7h9gk6i1z6d/3gMqB3xNDIXbT5suFMGtZz/31470011-58a9-11f1-a639-dd812aa9747a--The-Australian-Ballet--Copland-Dance-Episodes--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "IKSRE \"in all her forms (sound meditations vol. 2)\" launch",
+   "date": "2026-11-06",
+   "time": "",
+   "venue": "Golden Age Cinema & Bar",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/iksre-in-all-her-forms-sound-meditations-vol-2-launch",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792403968/k7h9gk6i1z6d/1c6fPeowRXPh0ogBLshIj3/a7fd3b01-cba1-11f1-b720-0f696b840567--IKSRE--in-all-her-forms--sound-meditations-vol--2---Launch-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Spoiler Alert at Blackwattle Bar + Brewery",
+   "date": "2026-11-06",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/spoiler-alert-at-blackwattle-bar-brewery",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790842869/k7h9gk6i1z6d/4Kg2Ka9MkWdho1ZCLXWHVq/dff6b430-bd70-11f1-b2f7-1b879455eb27--Spoiler-Alert-at-Blackwattle-Bar---Brewery-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -5252,116 +5022,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Beginner Shakuhachi workshop",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "Sydney Conservatorium of Music",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/beginner-shakuhachi-workshop",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779931576/k7h9gk6i1z6d/wQAQTM0e90CTrjogXMYSA/2c79b911-5a34-11f1-9644-97b3edc6b93d--Beginner-Shakuhachi-workshop-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Ella Haber @ Seymour Sounds",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ella-haber-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792468215/k7h9gk6i1z6d/5WfcN4dozepue8Dmbtg7t9/19e6e301-cc39-11f1-b716-1166aad2f6a9--Ella-Haber---Seymour-Sounds-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Peking Duk Paradise Tour",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "Roundhouse",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/peking-duk-paradise-tour",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791542232/k7h9gk6i1z6d/13zYh2xSAgbG9EjMRauq3F/e1c0f520-c3cc-11f1-9d8a-13c0af5841d0--Peking-Duk-Paradise-Tour-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Peter and the Wolf an Organ Celebration",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "St James Church",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/st-james-international-organ-festival",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1761612557/k7h9gk6i1z6d/3qSURqbWMFg3U7gTq5vjgF/70ef90a1-b396-11f0-abad-a3b6799dfe46--St-James--International-Organ-Festival-2025--Marko-Sever-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sound Healing Foundations: Weekend intensive training",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sound-healing-foundations-a-weekend-intensive",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782807515/k7h9gk6i1z6d/6lHrebuNRUJcEycZi54Lsv/ab9e99e0-745b-11f1-870b-fd2ee75a8787--Sound-Healing-Foundations--Weekend-Intensive-Training-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Expanded Voice: Experimental Sound Showcase",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "Carriageworks",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-expanded-voice-experimental-sound-showcase",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791342964/k7h9gk6i1z6d/5M7ZhATEtMfJfi5v3fTFiB/c23aaa61-c1fc-11f1-a0f4-8195153ae5ab--The-Expanded-Voice--Experimental-Sound-Showcase-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "We Lost The Sea – Ten Years of Departure Songs",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/we-lost-the-sea-ten-years-of-departure-songs",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787009944/k7h9gk6i1z6d/18QoFnjxa90pyrmNs6IBzz/877c8cc1-9a94-11f1-821b-25104c443502--We-Lost-The-Sea-Ten---Years-of-Departure-Songs-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Beating burnout and stress",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/beating-burnout-and-stress",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1774580310/k7h9gk6i1z6d/4X6AIizftNM4unf7m4A9p/801336f1-2988-11f1-8c23-55f1325dc978--Beating-Burnout-and-Stress-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Kings, Queens & Clubs of The Cross – Walking history tour",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/kings-queens-and-clubs-of-the-cross-walking-history-tour",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1747656511/k7h9gk6i1z6d/3r1Kl1wSP2KRV6sVj36Tvp/bd91ed21-34a9-11f0-89ea-bd6f71faef4f--Kings--Queens---Clubs-of-The-Cross---Walking-History-Tour-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "NASA Space Apps Challenge Prep & Team Formation Day!",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "Darling Square Library",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nasa-space-apps-challenge-prep-and-team-formation-day",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791809647/k7h9gk6i1z6d/5VCRijMrsVMghtuNUQCZmo/91166491-c63b-11f1-98e3-d9849094b4d6--NASA-Space-Apps-Challenge-Prep---Team-Formation-Day--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Pyrmont – Architectural time capsule walk",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "Union Square",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pyrmont-architectural-time-capsule-walk",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1707356221/k7h9gk6i1z6d/7c1PP4WtNCq3nHRVAYQXZe/189e4f81-c622-11ee-bdff-636c136b5c35--Pyrmont-architectural-time-capsule-walk-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Angus Nivison: Unfamiliar Territory",
    "date": "2026-11-07",
    "time": "",
@@ -5412,6 +5072,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Kings, Queens & Clubs of The Cross – Walking history tour",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "See listing",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/kings-queens-and-clubs-of-the-cross-walking-history-tour",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1747656511/k7h9gk6i1z6d/3r1Kl1wSP2KRV6sVj36Tvp/bd91ed21-34a9-11f0-89ea-bd6f71faef4f--Kings--Queens---Clubs-of-The-Cross---Walking-History-Tour-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Pyrmont – Architectural time capsule walk",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "Union Square",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pyrmont-architectural-time-capsule-walk",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1707356221/k7h9gk6i1z6d/7c1PP4WtNCq3nHRVAYQXZe/189e4f81-c622-11ee-bdff-636c136b5c35--Pyrmont-architectural-time-capsule-walk-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "University of Sydney community festival",
    "date": "2026-11-07",
    "time": "",
@@ -5429,26 +5109,6 @@ window.EVENT_DATA = {
    "category": "Tours & Walks",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/working-harbour-cruise",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786687919/k7h9gk6i1z6d/3TYhUVj41xKA5pTVhmuGvL/484dce61-97a6-11f1-a594-bda862610f7f--Working-Harbour-Cruise-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Erko Berzerko 2026",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/erko-berzerko-2026",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789441932/k7h9gk6i1z6d/1ByGYjRsruCn8AA8E7cCMN/9d889fc1-b0b2-11f1-b455-e991d1915c08--Erko-Berzerko-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Book Fair Australia Sydney 2026, presented by Book Addiction",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "Sydney Showground",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/book-fair-australia-sydney-2026-presented-by-book-addiction",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1776140852/k7h9gk6i1z6d/59M3E1GQGOPZAyygqixrdl/bc3c1e51-37b9-11f1-9fed-83992dbbef50--Book-Fair-Australia-Sydney-2026--presented-by-Book-Addiction-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -5472,13 +5132,33 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Guy Montgomery’s Guy Mont-Spelling Bee",
+   "name": "Beating burnout and stress",
    "date": "2026-11-07",
    "time": "",
-   "venue": "ICC Sydney Theatre",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/guy-montgomerys-guy-mont-spelling-bee",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790047683/k7h9gk6i1z6d/29qLNtxcdaLNGIS6tDKWOw/846e93f0-b634-11f1-8b58-9550d919b80a--Guy-Montgomery-s-Guy-Mont-Spelling-Bee-tile.jpg",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/beating-burnout-and-stress",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1774580310/k7h9gk6i1z6d/4X6AIizftNM4unf7m4A9p/801336f1-2988-11f1-8c23-55f1325dc978--Beating-Burnout-and-Stress-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "NASA Space Apps Challenge Prep & Team Formation Day!",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "Darling Square Library",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nasa-space-apps-challenge-prep-and-team-formation-day",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791809647/k7h9gk6i1z6d/5VCRijMrsVMghtuNUQCZmo/91166491-c63b-11f1-98e3-d9849094b4d6--NASA-Space-Apps-Challenge-Prep---Team-Formation-Day--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Erko Berzerko 2026",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "See listing",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/erko-berzerko-2026",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789441932/k7h9gk6i1z6d/1ByGYjRsruCn8AA8E7cCMN/9d889fc1-b0b2-11f1-b455-e991d1915c08--Erko-Berzerko-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -5499,6 +5179,86 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/world-renowned-magician-joshua-jay-look-closer",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785797522/k7h9gk6i1z6d/2w0CzGJssrOukV3AJy3Apz/29898db1-8f8c-11f1-a1ec-67e151ceff0a--World-Renowned-Magician-Joshua-Jay--LOOK-CLOSER-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Past and Future Seymour",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/past-and-future-seymour",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788400420/k7h9gk6i1z6d/58recFgxhLiGF94wI6OkMk/7c3f8c70-a739-11f1-a18a-43af6ba6187e--Past-and-Future-Seymour-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The ultimate Sydney stand-up comedy school experience",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "Civic Underground",
+   "category": "Comedy",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/las-vegas-international-school-of-stand-up-comedy",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1770703847/k7h9gk6i1z6d/5ZHWvji8RLOEQQ8yGG4gfp/58bd2df0-0641-11f1-8df1-c79c27f5e170--Las-Vegas-International-School-of-Stand-up-Comedy-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Ella Haber @ Seymour Sounds",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ella-haber-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792468215/k7h9gk6i1z6d/5WfcN4dozepue8Dmbtg7t9/19e6e301-cc39-11f1-b716-1166aad2f6a9--Ella-Haber---Seymour-Sounds-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Guy Montgomery’s Guy Mont-Spelling Bee",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "ICC Sydney Theatre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/guy-montgomerys-guy-mont-spelling-bee",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790047683/k7h9gk6i1z6d/29qLNtxcdaLNGIS6tDKWOw/846e93f0-b634-11f1-8b58-9550d919b80a--Guy-Montgomery-s-Guy-Mont-Spelling-Bee-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Peking Duk Paradise Tour",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "Roundhouse",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/peking-duk-paradise-tour",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791542232/k7h9gk6i1z6d/13zYh2xSAgbG9EjMRauq3F/e1c0f520-c3cc-11f1-9d8a-13c0af5841d0--Peking-Duk-Paradise-Tour-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "We Lost The Sea – Ten Years of Departure Songs",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "City Recital Hall",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/we-lost-the-sea-ten-years-of-departure-songs",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787009944/k7h9gk6i1z6d/18QoFnjxa90pyrmNs6IBzz/877c8cc1-9a94-11f1-821b-25104c443502--We-Lost-The-Sea-Ten---Years-of-Departure-Songs-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Book Fair Australia Sydney 2026, presented by Book Addiction",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "Sydney Showground",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/book-fair-australia-sydney-2026-presented-by-book-addiction",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1776140852/k7h9gk6i1z6d/59M3E1GQGOPZAyygqixrdl/bc3c1e51-37b9-11f1-9fed-83992dbbef50--Book-Fair-Australia-Sydney-2026--presented-by-Book-Addiction-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Beginner Shakuhachi workshop",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "Sydney Conservatorium of Music",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/beginner-shakuhachi-workshop",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779931576/k7h9gk6i1z6d/wQAQTM0e90CTrjogXMYSA/2c79b911-5a34-11f1-9644-97b3edc6b93d--Beginner-Shakuhachi-workshop-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -5542,16 +5302,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Past and Future Seymour",
-   "date": "2026-11-07",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/past-and-future-seymour",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788400420/k7h9gk6i1z6d/58recFgxhLiGF94wI6OkMk/7c3f8c70-a739-11f1-a18a-43af6ba6187e--Past-and-Future-Seymour-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Property Investment Workshop for Beginners",
    "date": "2026-11-07",
    "time": "",
@@ -5572,6 +5322,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Sound Healing Foundations: Weekend intensive training",
+   "date": "2026-11-07",
+   "time": "",
+   "venue": "See listing",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sound-healing-foundations-a-weekend-intensive",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782807515/k7h9gk6i1z6d/6lHrebuNRUJcEycZi54Lsv/ab9e99e0-745b-11f1-870b-fd2ee75a8787--Sound-Healing-Foundations--Weekend-Intensive-Training-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Stan Munro: Secrets of a Showbiz Dame",
    "date": "2026-11-07",
    "time": "",
@@ -5582,13 +5342,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "The ultimate Sydney stand-up comedy school experience",
+   "name": "Vagabond Press - Six New Poetry Collections",
    "date": "2026-11-07",
    "time": "",
-   "venue": "Civic Underground",
+   "venue": "Gleebooks",
    "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/las-vegas-international-school-of-stand-up-comedy",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1770703847/k7h9gk6i1z6d/5ZHWvji8RLOEQQ8yGG4gfp/58bd2df0-0641-11f1-8df1-c79c27f5e170--Las-Vegas-International-School-of-Stand-up-Comedy-tile.jpg",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/vagabond-press-six-new-poetry-collections",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792725731/k7h9gk6i1z6d/3hdZaohANIo30JYKnrGOEA/c7160e80-ce90-11f1-b659-ffd0189893e8--Vagabond-Press---Six-New-Poetry-Collections-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -5802,56 +5562,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Celtic Crossings",
-   "date": "2026-11-08",
-   "time": "",
-   "venue": "Pitt Street Uniting Church",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/celtic-crossings",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1645057707/k7h9gk6i1z6d/2QsQgWyWZmiHh5dqg9zWlW/GettyImages-1012308868.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Echoes of Us Electronic Music Festival",
-   "date": "2026-11-08",
-   "time": "",
-   "venue": "White Bay Power Station",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/echoes-of-us-electronic-music-festival",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788400122/k7h9gk6i1z6d/5sMb6cVrqwKcIK2qDxrw5n/2837dc41-a739-11f1-8930-41647462c4a9--Echoes-of-Us-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Mischa Maisky in Recital",
-   "date": "2026-11-08",
-   "time": "",
-   "venue": "Sydney Opera House",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/mischa-maisky-in-recital",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1765164035/k7h9gk6i1z6d/5yTQAsvgRSUZS3BBFQpwyv/86ae9d01-d3e4-11f0-8173-45027e8c9819--Mischa-Maisky-In-Recital--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Head On Photobook & Zine Market",
-   "date": "2026-11-08",
-   "time": "",
-   "venue": "Bondi Pavilion",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photobook-and-zine-market",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791518687/k7h9gk6i1z6d/1OcPwkIfOlpB5wuOhVUUH8/558d9990-c396-11f1-92de-cf7eacb4555d--Head-On-Photobook---Zine-Market-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sydney Queer board gamers and allies",
-   "date": "2026-11-08",
-   "time": "",
-   "venue": "Redfern Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-queer-board-gamers-and-allies",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790143615/k7h9gk6i1z6d/5TO79wNazrQ8diFGAER2jr/54cb8911-b714-11f1-938d-570c6dd0ead2--Sydney-Queer-board-gamers-and-allies-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "The Spot the War Forgot Author Talk & Exhibition",
    "date": "2026-11-08",
    "time": "",
@@ -5859,6 +5569,16 @@ window.EVENT_DATA = {
    "category": "Exhibitions",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-spot-the-war-forgot-author-talk-and-exhibition",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790731739/k7h9gk6i1z6d/4f9aeqofBVs7ISTPFHmKEV/ff759871-bc6d-11f1-b51d-c71539e68d83--The-Spot-the-War-Forgot-Author-Talk---Exhibition-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "WBBL Double Header | Sixers v Thunder | Summer Session",
+   "date": "2026-11-08",
+   "time": "",
+   "venue": "North Sydney Oval",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/summer-session-or-sixers-v-thunder-or-wbbl-double-header",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782975085/k7h9gk6i1z6d/1294pRK1mopywOm5zJQ6aW/56607751-75e1-11f1-b948-ad6c1da706ec--Summer-Session---Sixers-v-Sydney---WBBL-Double-Header-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -5882,16 +5602,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "WBBL Double Header | Sixers v Thunder | Summer Session",
-   "date": "2026-11-08",
-   "time": "",
-   "venue": "North Sydney Oval",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/summer-session-or-sixers-v-thunder-or-wbbl-double-header",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782975085/k7h9gk6i1z6d/1294pRK1mopywOm5zJQ6aW/56607751-75e1-11f1-b948-ad6c1da706ec--Summer-Session---Sixers-v-Sydney---WBBL-Double-Header-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Paradise Sunset Slices",
    "date": "2026-11-08",
    "time": "",
@@ -5909,6 +5619,46 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sunday-service-porcine",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792375002/k7h9gk6i1z6d/4yzYoioOKPlhLkpXr2SGB/4f09a5c0-cb5f-11f1-8631-3157225a208c--Sunday-Service---Porcine-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Head On Photobook & Zine Market",
+   "date": "2026-11-08",
+   "time": "",
+   "venue": "Bondi Pavilion",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photobook-and-zine-market",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791518687/k7h9gk6i1z6d/1OcPwkIfOlpB5wuOhVUUH8/558d9990-c396-11f1-92de-cf7eacb4555d--Head-On-Photobook---Zine-Market-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sydney Queer board gamers and allies",
+   "date": "2026-11-08",
+   "time": "",
+   "venue": "Redfern Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-queer-board-gamers-and-allies",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790143615/k7h9gk6i1z6d/5TO79wNazrQ8diFGAER2jr/54cb8911-b714-11f1-938d-570c6dd0ead2--Sydney-Queer-board-gamers-and-allies-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Echoes of Us Electronic Music Festival",
+   "date": "2026-11-08",
+   "time": "",
+   "venue": "White Bay Power Station",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/echoes-of-us-electronic-music-festival",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788400122/k7h9gk6i1z6d/5sMb6cVrqwKcIK2qDxrw5n/2837dc41-a739-11f1-8930-41647462c4a9--Echoes-of-Us-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Brad Forrest - Yes, You Are My Mother",
+   "date": "2026-11-08",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/brad-forrest-yes-you-are-my-mother",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792725862/k7h9gk6i1z6d/5ZOn2BjmXOWK80NmG9gcex/0b8a2a61-ce91-11f1-a03d-83e4d6541d39---Brad-Forrest---Yes--You-Are-My-Mother-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -6032,6 +5782,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Pickpockets - Australian Premiere & Q&A w. Tim Minchin",
+   "date": "2026-11-09",
+   "time": "",
+   "venue": "The Ritz Cinema",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pickpockets-australian-premiere-and-q-and-a-w-tim-minchin",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792566423/k7h9gk6i1z6d/7ioJMOAMEIV2CiZ62unDnI/e3203341-cd1d-11f1-91cf-6959f2358a4c--Pickpockets---Australian-Premiere---Q-A-w--Tim-Minchin-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Rob Hirst - World is Almost at Peace",
+   "date": "2026-11-09",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/rob-hirst-world-is-almost-at-peace",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792726003/k7h9gk6i1z6d/2bxTZ6MDUiWLNpipYkauZk/65da4861-ce91-11f1-b02c-85501996cfd9---Rob-Hirst---World-is-Almost-at-Peace-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Hair Styling Workshop: Elegant Upstyles",
    "date": "2026-11-09",
    "time": "",
@@ -6112,46 +5882,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "2026 Colin Simpson Memorial Keynote",
-   "date": "2026-11-10",
-   "time": "",
-   "venue": "State Library of NSW",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/2026-colin-simpson-memorial-keynote",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791855623/k7h9gk6i1z6d/4KcjdEKvLdN4rSRsI4TZnB/f6724231-c6a6-11f1-862b-bd9a42c8fde2--2026-Colin-Simpson-Memorial-Keynote-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Dolly Bingay!",
-   "date": "2026-11-10",
-   "time": "",
-   "venue": "The Beresford Hotel",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/country-bingay",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1734046900/k7h9gk6i1z6d/4iZELCf1HRQ3wCzcl8PLGs/28e30120-b8e2-11ef-a08a-a10a2c258f5c--Bingay-Pride-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Speed Dating North Sydney | Ages 32–45 | Tue 10 Nov 2026",
-   "date": "2026-11-10",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/speed-dating-north-sydney-or-ages-32-45-or-tue-10-nov-2026",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792015575/k7h9gk6i1z6d/5WiIIsDgPlWK4DBrqJQamT/5ea17db1-c81b-11f1-9893-8b457f03bf57--Speed-Dating-North-Sydney---Ages-32-45---Tue-10-Nov-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Playgroups in the Park",
-   "date": "2026-11-10",
-   "time": "",
-   "venue": "Redfern Park",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/playgroups-in-the-park",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792448285/k7h9gk6i1z6d/3N1AfyKcnqWsSVxIt93LLl/883d3281-cc09-11f1-9fb1-95cc8e97e237--Playgroups-in-the-Park-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Exhibition: Back in the Buff",
    "date": "2026-11-10",
    "time": "",
@@ -6192,13 +5922,63 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "2026 Colin Simpson Memorial Keynote",
+   "date": "2026-11-10",
+   "time": "",
+   "venue": "State Library of NSW",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/2026-colin-simpson-memorial-keynote",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791855623/k7h9gk6i1z6d/4KcjdEKvLdN4rSRsI4TZnB/f6724231-c6a6-11f1-862b-bd9a42c8fde2--2026-Colin-Simpson-Memorial-Keynote-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Dolly Bingay!",
+   "date": "2026-11-10",
+   "time": "",
+   "venue": "The Beresford Hotel",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/country-bingay",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1734046900/k7h9gk6i1z6d/4iZELCf1HRQ3wCzcl8PLGs/28e30120-b8e2-11ef-a08a-a10a2c258f5c--Bingay-Pride-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Speed Dating North Sydney | Ages 32–45 | Tue 10 Nov 2026",
+   "date": "2026-11-10",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/speed-dating-north-sydney-or-ages-32-45-or-tue-10-nov-2026",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792015575/k7h9gk6i1z6d/5WiIIsDgPlWK4DBrqJQamT/5ea17db1-c81b-11f1-9893-8b457f03bf57--Speed-Dating-North-Sydney---Ages-32-45---Tue-10-Nov-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Playgroups in the Park",
+   "date": "2026-11-10",
+   "time": "",
+   "venue": "Redfern Park",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/playgroups-in-the-park",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792448285/k7h9gk6i1z6d/3N1AfyKcnqWsSVxIt93LLl/883d3281-cc09-11f1-9fb1-95cc8e97e237--Playgroups-in-the-Park-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Dr Sketchy’s Sydney - November Edition",
    "date": "2026-11-10",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife & Electronic",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/dr-sketchys-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1744158124/k7h9gk6i1z6d/2fqbeZ6vanwHo7Zw2KxfGZ/9ea68511-14d8-11f0-aa13-4370a699265e--Dr-Sketchy-s-Sydney--Anti-Art-School-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "RARA by Meg Denman",
+   "date": "2026-11-10",
+   "time": "",
+   "venue": "Flight Path Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/rara-by-meg-denman",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791958076/k7h9gk6i1z6d/7iVfNK7fkewte4hX40s1Q3/41baed21-c795-11f1-812d-152f3810da1d--RARA-by-Meg-Denman-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -6229,6 +6009,16 @@ window.EVENT_DATA = {
    "category": "Workshops & Classes",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/architects-and-the-architectural-business-in-the-age-of-ai",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789109725/k7h9gk6i1z6d/3aH8dcqZEdmV2YtGrPMebt/4b73be21-adad-11f1-ad76-4b43141710b0--Architects-and-the-Architectural-Business-in-the-Age-of-AI-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Elise Stephenson - Space XX",
+   "date": "2026-11-10",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/elise-stephenson-space-xx",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792726213/k7h9gk6i1z6d/3Do1CGfsFE5XOPhHLeeCXp/e29f3361-ce91-11f1-a38e-11096b10a61e--Elise-Stephenson---Space-XX-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -6322,26 +6112,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Lunchtime concert with Miriam Lieberman",
-   "date": "2026-11-11",
-   "time": "",
-   "venue": "Bondi Pavilion",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concert-with-miriam-lieberman",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785982016/k7h9gk6i1z6d/7dxqq32YxTJiiKsTjhcMsY/4f54ede1-913b-11f1-94df-8fdac96f97c0--Lunchtime-concert-with-Miriam-Lieberman--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Oceans of Hope",
-   "date": "2026-11-11",
-   "time": "",
-   "venue": "University of New South Wales",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/oceans-of-hope",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792034187/k7h9gk6i1z6d/3zcerLfXohlr1q7mNBk7Tp/a5f8fbe1-c846-11f1-928c-671c7879f1b4--Oceans-of-Hope-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Curator talk: Curiouser and curiouser",
    "date": "2026-11-11",
    "time": "",
@@ -6369,6 +6139,36 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/handmade-gnocchi-workshop",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1756276278/k7h9gk6i1z6d/3z3ZqFqLhwA2hKl86VcOii/2bf54dd1-830f-11f0-9abd-7fd5872a1d3d--Handmade-Gnocchi-Workshop-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Oceans of Hope",
+   "date": "2026-11-11",
+   "time": "",
+   "venue": "University of New South Wales",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/oceans-of-hope",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792034187/k7h9gk6i1z6d/3zcerLfXohlr1q7mNBk7Tp/a5f8fbe1-c846-11f1-928c-671c7879f1b4--Oceans-of-Hope-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Pickpockets - Cast & Crew Q&A Screening",
+   "date": "2026-11-11",
+   "time": "",
+   "venue": "Hayden Orpheum Picture Palace",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pickpockets-cast-and-crew-q-and-a-screening",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792566605/k7h9gk6i1z6d/4zLp0XyVDByDLMVXOnV3YO/54fa9fa1-cd1e-11f1-b4a8-dd4aa3940535--Pickpockets---Cast---Crew-Q-A-Screening-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Andrew Bailey - Emily",
+   "date": "2026-11-11",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/andrew-bailey-emily",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792726341/k7h9gk6i1z6d/5lABxK1aHHXZDvhX5i3OA0/29548cb1-ce92-11f1-8cdb-0179d5b8c630--Andrew-Bailey---Emily-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -6432,13 +6232,23 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "AGUM @ Seymour Sounds",
+   "name": "Open Day: Sydney Swans x ISCA Diploma of Sport Management",
    "date": "2026-11-12",
    "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/agum-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792472312/k7h9gk6i1z6d/274lVy3rLOATXWJHuLvGK8/2f09fbc1-cc41-11f1-b5cb-99b76c206c43--AGUM---Seymour-Sounds-tile.jpg",
+   "venue": "See listing",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/open-day-sydney-swans-x-isca-diploma-of-sport-management",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790576496/k7h9gk6i1z6d/5ZP7FMzzs6AzadiOetC4fA/a655f431-baf9-11f1-b53a-bf695a6b4da9--Sydney-Swans-Diploma-of-Sport-Management-OPEN-DAY--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Singles Dinner Party | ages 38-50",
+   "date": "2026-11-12",
+   "time": "",
+   "venue": "See listing",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/singles-dinner-party-sydney-or-ages-38-50",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1699490717/k7h9gk6i1z6d/62iqYsmOaG0n1uOWmNTM3X/057e3f80-7e99-11ee-881b-4980c2c20485--Singles-Dinner-Party-Sydney---Ages-38-50-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -6446,7 +6256,7 @@ window.EVENT_DATA = {
    "date": "2026-11-12",
    "time": "",
    "venue": "See listing",
-   "category": "Other Music",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/jacks-southern-harbour-hoedown",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791500939/k7h9gk6i1z6d/7KPQ9BwT4W3oiIeOscuyuF/1ab49591-c36d-11f1-976b-05a7d9799ba6--Jack-s-Southern-Harbour-Hoedown-tile.jpg",
    "source": "City of Sydney"
@@ -6472,23 +6282,43 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Open Day: Sydney Swans x ISCA Diploma of Sport Management",
+   "name": "Pucking Rivals",
    "date": "2026-11-12",
    "time": "",
    "venue": "See listing",
-   "category": "Tours & Walks",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/open-day-sydney-swans-x-isca-diploma-of-sport-management",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790576496/k7h9gk6i1z6d/5ZP7FMzzs6AzadiOetC4fA/a655f431-baf9-11f1-b53a-bf695a6b4da9--Sydney-Swans-Diploma-of-Sport-Management-OPEN-DAY--tile.jpg",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pucking-rivals",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792713430/k7h9gk6i1z6d/I42X5xfe2VlVHyS7dDWLq/15fe46b1-ce74-11f1-9ad2-055687b95eab--Pucking-Rivals-tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "Singles Dinner Party | ages 38-50",
+   "name": "The End of Eddy by Édouard Louis",
    "date": "2026-11-12",
    "time": "",
    "venue": "See listing",
-   "category": "Tours & Walks",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/singles-dinner-party-sydney-or-ages-38-50",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1699490717/k7h9gk6i1z6d/62iqYsmOaG0n1uOWmNTM3X/057e3f80-7e99-11ee-881b-4980c2c20485--Singles-Dinner-Party-Sydney---Ages-38-50-tile.jpg",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-end-of-eddy-by-edouard-louis",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789391530/k7h9gk6i1z6d/45wmGQWuXwnUfqr7YDrREB/932e8870-b03d-11f1-8e52-435f02c2b6a0--The-End-of-Eddy-by--douard-Louis-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "AGUM @ Seymour Sounds",
+   "date": "2026-11-12",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/agum-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792472312/k7h9gk6i1z6d/274lVy3rLOATXWJHuLvGK8/2f09fbc1-cc41-11f1-b5cb-99b76c206c43--AGUM---Seymour-Sounds-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "100 Years of Australian Songwriting",
+   "date": "2026-11-12",
+   "time": "",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/100-years-of-australian-songwriting",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792726470/k7h9gk6i1z6d/4pqYDzsAobi0BVceXONxf8/766629f1-ce92-11f1-994c-050f93878141---100-Years-of-Australian-Songwriting-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -6542,14 +6372,14 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "The End of Eddy by Édouard Louis",
+   "name": "No Flowers Mahjong Club #6 at Heaps Normal Health Club",
    "date": "2026-11-12",
-   "time": "",
-   "venue": "See listing",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-end-of-eddy-by-edouard-louis",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789391530/k7h9gk6i1z6d/45wmGQWuXwnUfqr7YDrREB/932e8870-b03d-11f1-8e52-435f02c2b6a0--The-End-of-Eddy-by--douard-Louis-tile.jpg",
-   "source": "City of Sydney"
+   "time": "18:00",
+   "venue": "Heaps Normal Health Club",
+   "category": "Other",
+   "url": "https://www.moshtix.com.au/v2/event/no-flowers-mahjong-club-6-at-heaps-normal-health-club/201241",
+   "image": "https://static.moshtix.com.au/uploads/2592124f-52a3-43a8-b27a-5d98acb62d37x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Ecca Vandal ‘Looking For People to Unfollow’ Album Tour | SECOND SHOW ADDED",
@@ -6592,6 +6422,26 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "ivy Thursdays - 12th November",
+   "date": "2026-11-12",
+   "time": "21:00",
+   "venue": "ivy",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-12th-november/201864",
+   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "ivy Thursdays - 19th November",
+   "date": "2026-11-12",
+   "time": "21:00",
+   "venue": "ivy",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-19th-november/201865",
+   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Wundrful World Of Christmas",
    "date": "2026-11-13",
    "time": "",
@@ -6600,36 +6450,6 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-13-11-2026/event/2500651AE02C5E3A",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "A Night in Beirut Ft. Jimmy Dee - Arabic Music Show & Dinner",
-   "date": "2026-11-13",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-night-in-beirut-ft-jimmy-dee",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1754552201/k7h9gk6i1z6d/5byvRxZTArnaqeAm0xSGk5/e3dcfa10-7360-11f0-b818-5394078924dd--A-Night-in-Beirut-Ft--Jimmy-Dee-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Class Action play the PBH!",
-   "date": "2026-11-13",
-   "time": "",
-   "venue": "Pyrmont Bridge Hotel",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/class-action-play",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792615029/k7h9gk6i1z6d/59DF5QjWIGuPhpcbzRprZZ/fbd13d01-cd8e-11f1-ba5e-3d9fec3c80d1--Class-Action-play-the-PBH--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "2026 Sydney Peace Prize gala dinner",
-   "date": "2026-11-13",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/2026-sydney-peace-prize-gala-dinner",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788146654/k7h9gk6i1z6d/3GJsdXb61iENv8Pt9IYvYd/ec3b5551-a4ea-11f1-a5a1-f1f042531a1e--2026-Sydney-Peace-Prize-Gala-Dinner--tile.jpg",
-   "source": "City of Sydney"
   },
   {
    "name": "The Inner Landscape",
@@ -6666,9 +6486,79 @@ window.EVENT_DATA = {
    "date": "2026-11-13",
    "time": "",
    "venue": "First Fleet Park",
-   "category": "Markets & Festivals",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-cellar-door",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789095961/k7h9gk6i1z6d/4y68L6OC8cUSotp22C5n7T/82ce05d1-ad8d-11f1-9d55-5beb1cc0b1de--Sydney-Cellar-Door--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "2026 Sydney Peace Prize gala dinner",
+   "date": "2026-11-13",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/2026-sydney-peace-prize-gala-dinner",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788146654/k7h9gk6i1z6d/3GJsdXb61iENv8Pt9IYvYd/ec3b5551-a4ea-11f1-a5a1-f1f042531a1e--2026-Sydney-Peace-Prize-Gala-Dinner--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Fabbrica Darlinghurst Presents: Calabria",
+   "date": "2026-11-13",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/fabbrica-darlinghurst-presents-calabria",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792549494/k7h9gk6i1z6d/2Zwac5QIZYnLP0LestUb0l/55035961-ccf6-11f1-b4dd-af6a176a08cc--Fabbrica-Darlinghurst-Presents--Calabria-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "I Love Your Faces: The Don Lane Story",
+   "date": "2026-11-13",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/i-love-your-faces-the-don-lane-story",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790725971/k7h9gk6i1z6d/2Tv7T0iZxdmRKSnVDmQrGL/7b140d30-bc60-11f1-ad9e-6b7141ebd763--I-Love-Your-Faces--The-Don-Lane-Story-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Samhain the Spirit of Woollahra Festival Concert",
+   "date": "2026-11-13",
+   "time": "",
+   "venue": "Woollahra Library at Double Bay",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/samhain-the-spirit-of-woollahra-festival-concert",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791469674/k7h9gk6i1z6d/102dEolIruHghM9Ug565mR/c8e07161-c323-11f1-b7a9-75ec785a8c76--Samhain-the-Spirit-of-Woollahra-Festival-Concert-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Silver Tongue",
+   "date": "2026-11-13",
+   "time": "",
+   "venue": "Hayes Theatre Co",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/silver-tongue",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789023283/k7h9gk6i1z6d/2Mr0ItAmLj27P34lGk1e8I/527355c1-ace3-11f1-bd75-01587b3bf265--Silver-Tongue-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Vampire Bat - Improv In The Dark",
+   "date": "2026-11-13",
+   "time": "",
+   "venue": "See listing",
+   "category": "Comedy",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/vampire-bat-improv-in-the-dark",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792456578/k7h9gk6i1z6d/6Kih69dkG1tjmHPf59IXBr/da014431-cc1d-11f1-a580-857dc43b6f5f--Vampire-Bat---Improv-In-The-Dark-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "A Night in Beirut Ft. Jimmy Dee - Arabic Music Show & Dinner",
+   "date": "2026-11-13",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-night-in-beirut-ft-jimmy-dee",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1754552201/k7h9gk6i1z6d/5byvRxZTArnaqeAm0xSGk5/e3dcfa10-7360-11f0-b818-5394078924dd--A-Night-in-Beirut-Ft--Jimmy-Dee-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -6682,13 +6572,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Fabbrica Darlinghurst Presents: Calabria",
+   "name": "Teaching classics in prisons - Classical Association of NSW",
    "date": "2026-11-13",
    "time": "",
-   "venue": "See listing",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/fabbrica-darlinghurst-presents-calabria",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792549494/k7h9gk6i1z6d/2Zwac5QIZYnLP0LestUb0l/55035961-ccf6-11f1-b4dd-af6a176a08cc--Fabbrica-Darlinghurst-Presents--Calabria-tile.jpg",
+   "venue": "Gleebooks",
+   "category": "Workshops & Classes",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/teaching-classics-in-prisons-classical-association-of-nsw",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792726593/k7h9gk6i1z6d/6DmYfA5MoIQvGHMoFJOCKw/c458d860-ce92-11f1-90ca-9f18b11d7a6a---Teaching-classics-in-prisons---Classical-Association-of-NSW-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -6942,116 +6832,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Flux State @ Seymour Sounds",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/flux-state-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792540213/k7h9gk6i1z6d/7JzLowus59ylQsnWdXvJgp/b5f578e1-cce0-11f1-98b7-795c9e1ddb3f--Flux-State---Seymour-Sounds-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Beethoven’s Pastoral",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/beethovens-pastoral",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790216094/k7h9gk6i1z6d/Cp8T8yThWL3OsGwfr0wha/5723ec31-b7bd-11f1-a848-9b04528ee3ab--Beethoven-s-Pastoral-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Cantos Sagrados",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "St James Church",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/cantos-sagrados",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791269388/k7h9gk6i1z6d/5ADDRHmdfP2wgLNMgsNYpc/08b04ec1-c151-11f1-a202-6581b9b352cb--Cantos-Sagrados-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Dojo Live 3: Taikoz Celebrates!",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/dojo-live-3-taikoz-celebrates",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1787026605/k7h9gk6i1z6d/6eSW6rtKElJsNIjtC3gjdI/c34b69d1-9aba-11f1-a5c2-730d53d7a012--Dojo-Live-3---Taikoz-Celebrates--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Heaps Gay Offensive Trade 13th Birthday!",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "White Bay Power Station",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/heaps-gay-offensive-trade-13th-birthday",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789432329/k7h9gk6i1z6d/3ISB8pqL9wAcJydLeAW9i7/88e323d1-b09c-11f1-b544-6174501c32dc--Heaps-Gay-Offensive-Trade-13th-Birthday---tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "PUG Men's Shed Lou's Place fundraising night",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pug-menshed-parkinsons-benefit-night-musical-extravaganza",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1682127356/k7h9gk6i1z6d/22Wc2bGRrdHznkeoAHg2FF/0079ea61-e0ac-11ed-b187-b326ca598c02--PUG-Menshed-Parkinson-s-benefit-night-Musical-Extravaganza--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "RnB Saturdays – Sing, Dance & Party! FREE ENTRY",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "See listing",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/discover-spotlight-saturdays-sing-dance-and-party",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1758683543/k7h9gk6i1z6d/57IjFjqC8pg4ive35NOK78/d17b50c1-98f3-11f0-ab31-6764180f74ed--Discover-Spotlight-Saturdays---Sing--Dance---Party--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Samhain the Spirit of Woollahra, Family Fun day",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/samhain-the-spirit-of-woollahra-family-fun-day",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792046150/k7h9gk6i1z6d/76yIUIS6cThqdGak3wySFS/3d8c3de1-c861-11f1-b785-919c3786b679--Samhain-the-Spirit-of-Woollahra--Family-Fun-day-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Dharma Discussion Circle",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/dharma-discussion-circle",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792452448/k7h9gk6i1z6d/1UUzzrKnrcEpZ5jj45uWzc/53014380-cc14-11f1-b2fd-e1d8deb17ba3--Dharma-Discussion-Circle-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sydney running community end of year soiree",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-running-community-end-of-year-soiree",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785823787/k7h9gk6i1z6d/1eROlT5tYmLaaAXNnTQnSD/fdf4ca41-8fca-11f1-a68a-f530a9586224--Sydney-running-community-end-of-year-soiree--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Social Enterprise Festival",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-social-enterprise-festival",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789872706/k7h9gk6i1z6d/698YAJrj2aHZOARRcok01A/d5b79741-b49d-11f1-a745-47e287a1b879--The-Social-Enterprise-Festival-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Firstdraft's 40th Birthday Party",
    "date": "2026-11-14",
    "time": "",
@@ -7082,13 +6862,43 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Medley",
+   "name": "Dharma Discussion Circle",
    "date": "2026-11-14",
    "time": "",
-   "venue": "KXT on Broadway",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/medley",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792368023/k7h9gk6i1z6d/aWhuinz14XQ1c7HTiQusb/828ec130-cb4d-11f1-82d4-67bb84d21c80--Medley-tile.jpg",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/dharma-discussion-circle",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792452448/k7h9gk6i1z6d/1UUzzrKnrcEpZ5jj45uWzc/53014380-cc14-11f1-b2fd-e1d8deb17ba3--Dharma-Discussion-Circle-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "PUG Men's Shed Lou's Place fundraising night",
+   "date": "2026-11-14",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pug-menshed-parkinsons-benefit-night-musical-extravaganza",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1682127356/k7h9gk6i1z6d/22Wc2bGRrdHznkeoAHg2FF/0079ea61-e0ac-11ed-b187-b326ca598c02--PUG-Menshed-Parkinson-s-benefit-night-Musical-Extravaganza--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sydney running community end of year soiree",
+   "date": "2026-11-14",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-running-community-end-of-year-soiree",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785823787/k7h9gk6i1z6d/1eROlT5tYmLaaAXNnTQnSD/fdf4ca41-8fca-11f1-a68a-f530a9586224--Sydney-running-community-end-of-year-soiree--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Social Enterprise Festival",
+   "date": "2026-11-14",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-social-enterprise-festival",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789872706/k7h9gk6i1z6d/698YAJrj2aHZOARRcok01A/d5b79741-b49d-11f1-a745-47e287a1b879--The-Social-Enterprise-Festival-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -7112,33 +6922,63 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Make your own ceramic pot workshop",
-   "date": "2026-11-14",
-   "time": "",
-   "venue": "Juanita Nielsen Community Centre",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/make-your-own-ceramic-mug-workshop",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791850880/k7h9gk6i1z6d/2uNcWt22VIlgZPrfeehM21/f73285f1-c69b-11f1-8c0f-9fc667b58ff4--Make-your-own-ceramic-pot-workshop-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Mossarium Workshop",
+   "name": "Samhain the Spirit of Woollahra, Family Fun day",
    "date": "2026-11-14",
    "time": "",
    "venue": "See listing",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/mossarium-workshop",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791510894/k7h9gk6i1z6d/6Gge4egK0bdaH9L9syO8uM/e9783f60-c383-11f1-8f32-098c748bc870--Mossarium-Workshop--tile.jpg",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/samhain-the-spirit-of-woollahra-family-fun-day",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792046150/k7h9gk6i1z6d/76yIUIS6cThqdGak3wySFS/3d8c3de1-c861-11f1-b785-919c3786b679--Samhain-the-Spirit-of-Woollahra--Family-Fun-day-tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "The Unpublishable Poem Club with Claire Albrecht",
+   "name": "A Beautiful Noise: The Neil Diamond Musical",
+   "date": "2026-11-14",
+   "time": "",
+   "venue": "Sydney Lyric Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-beautiful-noise-the-neil-diamond-musical",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789033327/k7h9gk6i1z6d/7fHp3boucZ20BRz898GAfo/9838c441-acf8-11f1-bc07-51b2c698f15f--A-Beautiful-Noise--The-Neil-Diamond-Musical-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Medley",
+   "date": "2026-11-14",
+   "time": "",
+   "venue": "KXT on Broadway",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/medley",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792368023/k7h9gk6i1z6d/aWhuinz14XQ1c7HTiQusb/828ec130-cb4d-11f1-82d4-67bb84d21c80--Medley-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Flux State @ Seymour Sounds",
+   "date": "2026-11-14",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/flux-state-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792540213/k7h9gk6i1z6d/7JzLowus59ylQsnWdXvJgp/b5f578e1-cce0-11f1-98b7-795c9e1ddb3f--Flux-State---Seymour-Sounds-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Heaps Gay Offensive Trade 13th Birthday!",
+   "date": "2026-11-14",
+   "time": "",
+   "venue": "White Bay Power Station",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/heaps-gay-offensive-trade-13th-birthday",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789432329/k7h9gk6i1z6d/3ISB8pqL9wAcJydLeAW9i7/88e323d1-b09c-11f1-b544-6174501c32dc--Heaps-Gay-Offensive-Trade-13th-Birthday---tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "RnB Saturdays – Sing, Dance & Party! FREE ENTRY",
    "date": "2026-11-14",
    "time": "",
    "venue": "See listing",
-   "category": "Workshops & Classes",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-unpublishable-poem-club-with-claire-albrecht",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784252518/k7h9gk6i1z6d/gw5GfVcMSzJccbObcMgMH/7ef3cd21-8180-11f1-bb85-d301f8f8449e--The-Unpublishable-Poem-Club-with-Claire-Albrecht-tile.jpg",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/discover-spotlight-saturdays-sing-dance-and-party",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1758683543/k7h9gk6i1z6d/57IjFjqC8pg4ive35NOK78/d17b50c1-98f3-11f0-ab31-6764180f74ed--Discover-Spotlight-Saturdays---Sing--Dance---Party--tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -7372,33 +7212,13 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Bach & Charpentier – Music for Christmas",
-   "date": "2026-11-15",
-   "time": "",
-   "venue": "St James Church",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/bach-and-charpentier-music-for-christmas",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790663250/k7h9gk6i1z6d/602wz5NDDXnxZs14RwSllO/a0114721-bbce-11f1-97b1-791fb6836f71--Bach---Charpentier---Music-for-Christmas---tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Jazz in Chiswick Park",
+   "name": "Oysters + Chablis at Dear Sainte Éloise",
    "date": "2026-11-15",
    "time": "",
    "venue": "See listing",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jazz-in-chiswick-park",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792310604/k7h9gk6i1z6d/4vzcwWfFxubzRJjUQiKZQL/29bb47a0-caca-11f1-b73a-631d8e4ea2d8--Jazz-in-Chiswick-Park-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Salut! Baroque presents Charms in Musick",
-   "date": "2026-11-15",
-   "time": "",
-   "venue": "Sydney Conservatorium of Music",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/salut-baroque-presents-charms-in-musick",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1763972108/k7h9gk6i1z6d/2FCj6tTn6R6QNErYBONU23/5246e0e1-c90d-11f0-8078-4b05e40c2425--Salut--Baroque-presents-Charms-in-Musick-tile.jpg",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/oysters-chablis-at-dear-sainte-eloise",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792641195/k7h9gk6i1z6d/1BgHWjdluMEXR5Gl6ilPmh/952aeeb1-cdcb-11f1-9dd2-6f2408f61620--Oysters---Chablis-at-Dear-Sainte--loise-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -7452,6 +7272,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Jazz in Chiswick Park",
+   "date": "2026-11-15",
+   "time": "",
+   "venue": "See listing",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jazz-in-chiswick-park",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792310604/k7h9gk6i1z6d/4vzcwWfFxubzRJjUQiKZQL/29bb47a0-caca-11f1-b73a-631d8e4ea2d8--Jazz-in-Chiswick-Park-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Set sail for Pirate Academy: A workshop with Justin Somper",
    "date": "2026-11-15",
    "time": "",
@@ -7502,6 +7332,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Lvl 1 - MIKE LOVE (Hawaii) solo headline show",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-mike-love-hawaii-solo-headline-show/201763",
+   "image": "https://static.moshtix.com.au/uploads/3cfa4461-803c-40c6-ab26-bb5a8345843bx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "IRON MAIDEN - RUN FOR YOUR LIVES - WORLD TOUR 2026",
    "date": "2026-11-15",
    "time": "17:30",
@@ -7536,19 +7376,9 @@ window.EVENT_DATA = {
    "date": "2026-11-16",
    "time": "",
    "venue": "Sydney Town Hall",
-   "category": "Other Music",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-town-hall-organ-recitals",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1769652806/k7h9gk6i1z6d/LShssBKx1UYj7mzWlQwc7/99a1fc31-fcb7-11f0-818a-0f1137543c5f--Sydney-Town-Hall-organ-recitals-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Latvian Radio Choir & Genevieve Lacey",
-   "date": "2026-11-16",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/latvian-radio-choir-and-genevieve-lacey",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1761608415/k7h9gk6i1z6d/70dIgvEu3AiGK8uq1FFNRI/0b3c3b30-b38e-11f0-a74a-a51300b8240e--Latvian-Radio-Choir---Genevieve-Lacey-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -7572,26 +7402,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "The Songs of Sydney",
-   "date": "2026-11-17",
-   "time": "",
-   "venue": "State Library of NSW",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-songs-of-sydney",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792371566/k7h9gk6i1z6d/2lc40jwZZfbRX5XDykIlH6/14f50ac1-cb58-11f1-86df-4d690b26f990--The-Songs-of-Sydney-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Speed Dating Newtown | Ages 22–30",
-   "date": "2026-11-17",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/speed-dating-newtown-or-ages-22-30",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791434739/k7h9gk6i1z6d/3iOzNvJcQNOL5ylgjBw098/e17a10b1-c2d2-11f1-8e6c-33f6634e2cca--Speed-Dating-Newtown---Ages-22-30---Tue-17-Nov-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Speed Dating Sydney | Ages 30-45 | Encounter Dating",
    "date": "2026-11-17",
    "time": "",
@@ -7612,6 +7422,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Speed Dating Newtown | Ages 22–30",
+   "date": "2026-11-17",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/speed-dating-newtown-or-ages-22-30",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791434739/k7h9gk6i1z6d/3iOzNvJcQNOL5ylgjBw098/e17a10b1-c2d2-11f1-8e6c-33f6634e2cca--Speed-Dating-Newtown---Ages-22-30---Tue-17-Nov-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "The Addams Family, the musical",
    "date": "2026-11-17",
    "time": "",
@@ -7629,6 +7449,16 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/youth-oztag-games-pop-up-at-surry-hills-ages-13-18",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789453490/k7h9gk6i1z6d/6fSHtma3y9XtXRBFw6sIY6/17cdc970-b0ce-11f1-80f2-25d6060a033a--Youth-Oztag-games-Pop-up-at-Glebe---ages-13-18-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Japanese Film Festival 2026",
+   "date": "2026-11-17",
+   "time": "",
+   "venue": "Palace Norton Street",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/japanese-film-festival-2026",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788932694/k7h9gk6i1z6d/33YarSaJX0JNcizsRvOchG/254079c1-ac11-11f1-bd3f-3d74b36a4782--Japanese-Film-Festival-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -7672,16 +7502,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Lunchtime Concert: Austral Harmony Bach Springtime Pastoral",
-   "date": "2026-11-18",
-   "time": "",
-   "venue": "St James Church",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concert-austral-harmony-with-jane-downer",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791962342/k7h9gk6i1z6d/w8B0yPf9OH4rrfHOVhHnm/42e3f841-c79f-11f1-bc15-f1c4fc4515a8--Lunchtime-Concert--Austral-Harmony-Bach-Springtime-Pastoral-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Uno — Todos Somos Uno",
    "date": "2026-11-18",
    "time": "",
@@ -7722,11 +7542,21 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "Macbeth",
+   "date": "2026-11-18",
+   "time": "",
+   "venue": "Sydney Opera House",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/macbeth",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1766034772/k7h9gk6i1z6d/3nFfoBuyT2AlG3orLJYw0U/62025a80-dbcf-11f0-8e74-5515a3ef3fd7--Macbeth-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "The Memory of Water",
    "date": "2026-11-18",
    "time": "",
    "venue": "Flight Path Theatre",
-   "category": "Nightlife & Electronic",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-memory-of-water",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775628806/k7h9gk6i1z6d/4p9ABm8CzuoYo5LxwCeBqD/39fffdc1-330f-11f1-bf0b-a559b9c0c72b--The-Memory-of-Water-tile.jpg",
    "source": "City of Sydney"
@@ -7762,53 +7592,23 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Tahkoe @ Seymour Sounds",
-   "date": "2026-11-19",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/tahkoe-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792540634/k7h9gk6i1z6d/3e7WrJb03JlkCBf4xPkjD/bbfaa6b0-cce1-11f1-a881-d1dfeec2ff34--Tahkoe---Seymour-Sounds-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Crown Summer Pool Party",
+   "name": "Sky Blue Whispers - Simone Shagrin solo exhibition",
    "date": "2026-11-19",
    "time": "",
    "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/crown-summer-pool-party",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792547226/k7h9gk6i1z6d/7nw91Rbt90Wmj8Zr1AP4Oa/136cd441-ccf1-11f1-ba2e-5546a2057d2c--Crown-Summer-Pool-Party-tile.jpg",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sky-blue-whispers-simone-shagrin-solo-exhibition",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789603355/k7h9gk6i1z6d/5Av6RoECxQ0IbOFINWNfiL/59559eb0-b22a-11f1-8932-4f46b84ab042--Sky-Blue-Whispers---Simone-Shagrin-solo-exhibition--tile.jpg",
    "source": "City of Sydney"
   },
   {
-   "name": "House of Hymns: Karaoke backed by a live choir",
+   "name": "under her skin #8",
    "date": "2026-11-19",
    "time": "",
-   "venue": "Pleasure Club",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/house-of-hymns-karaoke-backed-by-choir",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790670674/k7h9gk6i1z6d/4hW3Las5BStpohVmtQAsqW/c0c58fb1-bbdf-11f1-8de2-9d33a36d49ef--House-of-Hymns-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Orpheum Jazz Lounge: Steve Barry Hammond Trio",
-   "date": "2026-11-19",
-   "time": "",
-   "venue": "Hayden Orpheum Picture Palace",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/steve-barry-hammond-trio",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789011373/k7h9gk6i1z6d/4y3jmk97XJACyKZgn1ZS0X/92368801-acc8-11f1-9032-43b17dc5d66c--The-Orpheum-Jazz-Lounge---Steve-Barry-Hammond-Trio-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Vintage Soul & Rock ‘n’ Roll - Live Music Show & Dinner",
-   "date": "2026-11-19",
-   "time": "",
-   "venue": "Cardea Barangaroo",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/vintage-soul-and-rock-n-roll-ft-double-shot-band",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782098528/k7h9gk6i1z6d/1eTWB1R07mnTt5eCcL6DjI/65857a51-6de9-11f1-990a-fd1423edc815--Women-of-Soul---Song---Live-Music-Show---Dinner--tile.jpg",
+   "venue": "m2 Gallery",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/under-her-skin-8",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789803710/k7h9gk6i1z6d/1Bc5DN8STDn5zEprGCDlqN/f4fbc561-b3fb-11f1-b481-e37102ed4d33--under-her-skin--8-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -7816,9 +7616,49 @@ window.EVENT_DATA = {
    "date": "2026-11-19",
    "time": "",
    "venue": "See listing",
-   "category": "Community",
+   "category": "Tours & Walks",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/aqua-sculpt-floating-sound-bath-coogee-beach",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792374972/k7h9gk6i1z6d/6ALwtIPgek7Aq6fWXKLdxS/d500ff21-cb5f-11f1-bce3-f14f6201f5bc--Aqua-Sculpt-Floating-Sound-Bath---Coogee-Beach-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Singles dinner party Sydney | Ages 58+",
+   "date": "2026-11-19",
+   "time": "",
+   "venue": "See listing",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/singles-dinner-party-sydney-or-ages-60",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1710202610/k7h9gk6i1z6d/4ZsE7UxOHBCLo5urUfBuDQ/b72caa01-e005-11ee-a5cc-0372935c10c5--Singles-Dinner-Party-Sydney---Ages-58--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Crown Summer Pool Party",
+   "date": "2026-11-19",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/crown-summer-pool-party",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792547226/k7h9gk6i1z6d/7nw91Rbt90Wmj8Zr1AP4Oa/136cd441-ccf1-11f1-ba2e-5546a2057d2c--Crown-Summer-Pool-Party-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Irish VS Scotch: Whiskey Masterclass",
+   "date": "2026-11-19",
+   "time": "",
+   "venue": "See listing",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/irish-vs-scotch-whiskey-masterclass",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789006189/k7h9gk6i1z6d/5PcGifn3TQj7MLgJqqcNJ6/9de70c31-acbc-11f1-b405-cd06369cc8bf--Irish-VS-Scotch--Whiskey-Masterclass-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Vintage Soul & Rock ‘n’ Roll - Live Music Show & Dinner",
+   "date": "2026-11-19",
+   "time": "",
+   "venue": "Cardea Barangaroo",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/vintage-soul-and-rock-n-roll-ft-double-shot-band",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782098528/k7h9gk6i1z6d/1eTWB1R07mnTt5eCcL6DjI/65857a51-6de9-11f1-990a-fd1423edc815--Women-of-Soul---Song---Live-Music-Show---Dinner--tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -7852,46 +7692,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Sky Blue Whispers - Simone Shagrin solo exhibition",
-   "date": "2026-11-19",
-   "time": "",
-   "venue": "See listing",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sky-blue-whispers-simone-shagrin-solo-exhibition",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789603355/k7h9gk6i1z6d/5Av6RoECxQ0IbOFINWNfiL/59559eb0-b22a-11f1-8932-4f46b84ab042--Sky-Blue-Whispers---Simone-Shagrin-solo-exhibition--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "under her skin #8",
-   "date": "2026-11-19",
-   "time": "",
-   "venue": "m2 Gallery",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/under-her-skin-8",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789803710/k7h9gk6i1z6d/1Bc5DN8STDn5zEprGCDlqN/f4fbc561-b3fb-11f1-b481-e37102ed4d33--under-her-skin--8-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Singles dinner party Sydney | Ages 58+",
-   "date": "2026-11-19",
-   "time": "",
-   "venue": "See listing",
-   "category": "Tours & Walks",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/singles-dinner-party-sydney-or-ages-60",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1710202610/k7h9gk6i1z6d/4ZsE7UxOHBCLo5urUfBuDQ/b72caa01-e005-11ee-a5cc-0372935c10c5--Singles-Dinner-Party-Sydney---Ages-58--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Irish VS Scotch: Whiskey Masterclass",
-   "date": "2026-11-19",
-   "time": "",
-   "venue": "See listing",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/irish-vs-scotch-whiskey-masterclass",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789006189/k7h9gk6i1z6d/5PcGifn3TQj7MLgJqqcNJ6/9de70c31-acbc-11f1-b405-cd06369cc8bf--Irish-VS-Scotch--Whiskey-Masterclass-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Youth comics and graphic novel club for ages 12 to 17",
    "date": "2026-11-19",
    "time": "",
@@ -7899,6 +7699,46 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/youth-comics-and-graphic-novel-club-ages-12-to-17",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792540007/k7h9gk6i1z6d/53IJYKDv7mUbFCR502ge7u/ed55c2f1-ccdf-11f1-9914-3357f0e7553a--Youth-Comics-and-Graphic-Novel-club---Glebe--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Dub Fiction",
+   "date": "2026-11-19",
+   "time": "",
+   "venue": "The Factory Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/dub-fiction",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790427284/k7h9gk6i1z6d/1GsftTreqCBWK91LqsTAJh/272d0731-b9a9-11f1-b4d3-cf5c9bc38f37--Dub-Fiction-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Tahkoe @ Seymour Sounds",
+   "date": "2026-11-19",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/tahkoe-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792540634/k7h9gk6i1z6d/3e7WrJb03JlkCBf4xPkjD/bbfaa6b0-cce1-11f1-a881-d1dfeec2ff34--Tahkoe---Seymour-Sounds-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "House of Hymns: Karaoke backed by a live choir",
+   "date": "2026-11-19",
+   "time": "",
+   "venue": "Pleasure Club",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/house-of-hymns-karaoke-backed-by-choir",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790670674/k7h9gk6i1z6d/4hW3Las5BStpohVmtQAsqW/c0c58fb1-bbdf-11f1-8de2-9d33a36d49ef--House-of-Hymns-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Orpheum Jazz Lounge: Steve Barry Hammond Trio",
+   "date": "2026-11-19",
+   "time": "",
+   "venue": "Hayden Orpheum Picture Palace",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/steve-barry-hammond-trio",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789011373/k7h9gk6i1z6d/4y3jmk97XJACyKZgn1ZS0X/92368801-acc8-11f1-9032-43b17dc5d66c--The-Orpheum-Jazz-Lounge---Steve-Barry-Hammond-Trio-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -7972,36 +7812,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Hot Dub on the Harbour",
-   "date": "2026-11-20",
-   "time": "",
-   "venue": "See listing",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/hot-dub-on-the-harbour",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1781760297/k7h9gk6i1z6d/2XlPAkrrLPIvItK27L7yuA/5ca68031-6ad5-11f1-82f7-39320e660767--Hot-Dub-on-the-Harbour-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "All aboard for the Rotary Sydney Cove SOLAS regatta",
-   "date": "2026-11-20",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/all-aboard-for-the-rotary-sydney-cove-solas-regatta",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788787484/k7h9gk6i1z6d/4oyCRT0GXjKiObwUokSSPf/1fbee0e1-aabd-11f1-99a9-475c39bdbc20--All-Aboard-for-the-Rotary-Sydney-Cove-SOLAS-Regatta-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Community Consultation - Special Entertainment Precincts",
-   "date": "2026-11-20",
-   "time": "",
-   "venue": "Redfern Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-consultation-special-entertainment-precincts",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792628535/k7h9gk6i1z6d/4Vb0qQ9KlNvPrEz6Vjg7mu/d7d8c520-cdad-11f1-b6da-5bddc8492f17--City-of-Sydney-Community-Consultation-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "SideFX Group Art Fxhibition",
    "date": "2026-11-20",
    "time": "",
@@ -8029,6 +7839,26 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-alchemists-table-gin-discovery-dinner",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792064239/k7h9gk6i1z6d/2cbHHzLTvFSABJL3NdzPBX/f4880401-c88b-11f1-9b3f-611d4f57c0dd--The-Alchemist-s-Table--Gin-Discovery-Dinner-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "All aboard for the Rotary Sydney Cove SOLAS regatta",
+   "date": "2026-11-20",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/all-aboard-for-the-rotary-sydney-cove-solas-regatta",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788787484/k7h9gk6i1z6d/4oyCRT0GXjKiObwUokSSPf/1fbee0e1-aabd-11f1-99a9-475c39bdbc20--All-Aboard-for-the-Rotary-Sydney-Cove-SOLAS-Regatta-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Community Consultation - Special Entertainment Precincts",
+   "date": "2026-11-20",
+   "time": "",
+   "venue": "Redfern Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-consultation-special-entertainment-precincts",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792628535/k7h9gk6i1z6d/4Vb0qQ9KlNvPrEz6Vjg7mu/d7d8c520-cdad-11f1-b6da-5bddc8492f17--City-of-Sydney-Community-Consultation-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -8119,6 +7949,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/mas-que-nada-brothers/201625",
    "image": "https://static.moshtix.com.au/uploads/c2cc937b-b997-46b0-a8f1-f833c20b9fe4x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "As Above (Vol. 1)",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "venue": "Bootleggers",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/as-above-vol-1-/201689",
+   "image": "https://static.moshtix.com.au/uploads/3d06c62e-0069-4e2c-8818-28f3db21b56ax140x140",
    "source": "Moshtix"
   },
   {
@@ -8232,56 +8072,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "10 Years of Modést Orchestra - Scheherazade & Pictures",
-   "date": "2026-11-21",
-   "time": "",
-   "venue": "Sydney Conservatorium of Music",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/10-years-of-modest-orchestra-scheherazade-and-pictures",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792217666/k7h9gk6i1z6d/5QhzDyEpUtbrkhdkPjbb6X/792168d1-c9f1-11f1-a416-3f9746994757--10-Years-of-Mod-st-Orchestra---Scheherazade---Pictures-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Anieszka @ Seymour Sounds",
-   "date": "2026-11-21",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/anieszka-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792541857/k7h9gk6i1z6d/4WkleQja5AdOlMQYJOsLYK/98e573a1-cce4-11f1-af42-ddca91dcfeb1--Anieszka---Seymour-Sounds-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The FilmHarmonia Orchestra Presents: Ex Machina",
-   "date": "2026-11-21",
-   "time": "",
-   "venue": "See listing",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-filmharmonia-orchestra-presents-ex-machina",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792271686/k7h9gk6i1z6d/6jGiyMd5i6n8oBKklYgcj8/90609211-ca6d-11f1-93b2-0d71d93bf194--The-FilmHarmonia-Orchestra-Presents--Ex-Machina-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "World O World",
-   "date": "2026-11-21",
-   "time": "",
-   "venue": "White Bay Power Station",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/world-o-world",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1776139240/k7h9gk6i1z6d/3Z8OKT3BOJ7QL81B2taGVe/c9983600-37b5-11f1-8e0c-8b0040bc8dfa--World-O-World-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Recycle It Saturday: a free recycling drop-off event",
-   "date": "2026-11-21",
-   "time": "",
-   "venue": "Alexandra Canal Depot",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/recycle-it-saturday-a-free-recycling-drop-off-event",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1697682667/k7h9gk6i1z6d/51naW3lCNWxFgvKgnRlY0j/609a2a00-6e27-11ee-a783-29f0e97107fd--Recycle-It-Saturday--a-free-recycling-drop-off-event-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "with, together:greens & browns - Shelley Watters,Emily Simek",
    "date": "2026-11-21",
    "time": "",
@@ -8322,13 +8112,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Art & Craft Christmas Sale at Willoughby retirement village",
+   "name": "Recycle It Saturday: a free recycling drop-off event",
    "date": "2026-11-21",
    "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-and-craft-christmas-fair-at-willoughby-village",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1759807919/k7h9gk6i1z6d/1L7pNEovLlyPi1dc5Esyjr/6b4778e0-a32c-11f0-a57d-c5d0d7f774a0--Art---Craft-Christmas-Sale-at-Willoughby-retirement-village-tile.jpg",
+   "venue": "Alexandra Canal Depot",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/recycle-it-saturday-a-free-recycling-drop-off-event",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1697682667/k7h9gk6i1z6d/51naW3lCNWxFgvKgnRlY0j/609a2a00-6e27-11ee-a783-29f0e97107fd--Recycle-It-Saturday--a-free-recycling-drop-off-event-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -8339,6 +8129,56 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/wbbl-or-sydney-sixers-v-perth-scorchers",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783043766/k7h9gk6i1z6d/5O3DvATiWLud3nM9rp8J7i/4e67cbc1-7681-11f1-ace5-6de82d0fa994--Sydney-Sixers-v-Perth-Scorchers---WBBL-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Cocktail of Murder - Murder Mystery Dinner",
+   "date": "2026-11-21",
+   "time": "",
+   "venue": "Castlereagh Boutique Hotel",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/cocktail-of-murder-murder-mystery-dinner",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1779088185/k7h9gk6i1z6d/6MBVCXIrq6AxBwZqZGGk5o/8fd6fd11-5287-11f1-b905-df6d3bfcf0d2--COCKTAIL-OF-MURDER---Murder-Mystery-Dinner-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The New Writers’ Sprint + Retreat",
+   "date": "2026-11-21",
+   "time": "",
+   "venue": "Maybanke Community Centre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-new-writers-sprint",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1755147269/k7h9gk6i1z6d/207zas2zkV0C6fSgVSm8eJ/5b97fe60-78ca-11f0-8b4d-ff597c70b4f0--The-New-Writers--Sprint--Sydney-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Anieszka @ Seymour Sounds",
+   "date": "2026-11-21",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/anieszka-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792541857/k7h9gk6i1z6d/4WkleQja5AdOlMQYJOsLYK/98e573a1-cce4-11f1-af42-ddca91dcfeb1--Anieszka---Seymour-Sounds-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The FilmHarmonia Orchestra Presents: Ex Machina",
+   "date": "2026-11-21",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-filmharmonia-orchestra-presents-ex-machina",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792271686/k7h9gk6i1z6d/6jGiyMd5i6n8oBKklYgcj8/90609211-ca6d-11f1-93b2-0d71d93bf194--The-FilmHarmonia-Orchestra-Presents--Ex-Machina-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Art & Craft Christmas Sale at Willoughby retirement village",
+   "date": "2026-11-21",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-and-craft-christmas-fair-at-willoughby-village",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1759807919/k7h9gk6i1z6d/1L7pNEovLlyPi1dc5Esyjr/6b4778e0-a32c-11f0-a57d-c5d0d7f774a0--Art---Craft-Christmas-Sale-at-Willoughby-retirement-village-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -8582,46 +8422,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Introduction to Japanese Taiko Drumming Workshop",
-   "date": "2026-11-22",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/hour-of-power-japanese-drum-workshop",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790646805/k7h9gk6i1z6d/1orwi4kmiIQr0k5QUR9PR7/292cd5a1-bba8-11f1-b148-f39f3114814f--Japanese-drum-workshop-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Neeman Piano Duo in Concert",
-   "date": "2026-11-22",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/neeman-piano-duo-in-concert",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790838697/k7h9gk6i1z6d/44iQjo0K8S5MPMg9r8B1lW/8fc6cb80-bd66-11f1-b53e-cfa8432ef848--Neeman-Piano-Duo-in-Concert-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Ultra Naté — Australia Tour 2026",
-   "date": "2026-11-22",
-   "time": "",
-   "venue": "Oxford Art Factory",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ultra-nate-australia-tour-2026",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783566510/k7h9gk6i1z6d/4IP4GKkwr2ylPrHYclUT3I/379716f0-7b43-11f1-9f53-bf84c071f21d--Ultra-Nat----AUSTRALIA-Tour-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "ANAM in Sydney: Folk Journeys",
-   "date": "2026-11-22",
-   "time": "",
-   "venue": "The Neilson",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/anam-in-sydney-folk-journeys",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788150061/k7h9gk6i1z6d/77WctNrX4JlAQcRUp0mzw2/2bf9f0b1-a4f1-11f1-b497-b168bec4692e--ANAM-in-Sydney--Folk-Journeys-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Redfern walk",
    "date": "2026-11-22",
    "time": "",
@@ -8629,6 +8429,26 @@ window.EVENT_DATA = {
    "category": "Tours & Walks",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/redfern-walk",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786499416/k7h9gk6i1z6d/1IyLZZdWpQ9v1Mtip8OUcA/08cba710-95f0-11f1-a790-11c29d0493b0--Redfern-Walk-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sleep and Awake",
+   "date": "2026-11-22",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sleep-and-awake",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792719299/k7h9gk6i1z6d/1RD8eiWF7OpygOh2dlGHlg/75570911-ce80-11f1-ace1-f1e05fd63976--Sleep-and-awake-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Ultra Naté — Australia Tour 2026",
+   "date": "2026-11-22",
+   "time": "",
+   "venue": "Oxford Art Factory",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ultra-nate-australia-tour-2026",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783566510/k7h9gk6i1z6d/4IP4GKkwr2ylPrHYclUT3I/379716f0-7b43-11f1-9f53-bf84c071f21d--Ultra-Nat----AUSTRALIA-Tour-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -8762,26 +8582,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Vox Canvas in concert",
-   "date": "2026-11-24",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/vox-canvas-in-concert",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792133325/k7h9gk6i1z6d/z00Zs2FLO6vMlfmJJss7E/171c7bd0-c92d-11f1-8a43-d78fbae76508--Vox-Canvas-in-Concert-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sir Hermann Black Memorial Lecture 2026 The Year in Review",
-   "date": "2026-11-24",
-   "time": "",
-   "venue": "Anzac Memorial",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sir-hermann-black-memorial-lecture-2026-the-year-in-review",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790854805/k7h9gk6i1z6d/5sTfsVZgVfLihwLhTGOnSe/c6753cd1-bd88-11f1-a9b2-81a00558ee0d--Sir-Hermann-Black-Memorial-Lecture-2026-The-Year-in-Review-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Australian Baroque Table Still Life Photography Exhibition",
    "date": "2026-11-24",
    "time": "",
@@ -8799,6 +8599,16 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/speed-dating-for-ages-42-55-neutral-bay",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1650599955/k7h9gk6i1z6d/2SwBrPZRlmbBzEHRxw6kGX/fd8458a1-7720-11eb-997e-8d7383ddd24b--Speed-dating-for-ages-42-55--Neutral-Bay-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sir Hermann Black Memorial Lecture 2026 The Year in Review",
+   "date": "2026-11-24",
+   "time": "",
+   "venue": "Anzac Memorial",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sir-hermann-black-memorial-lecture-2026-the-year-in-review",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790854805/k7h9gk6i1z6d/5sTfsVZgVfLihwLhTGOnSe/c6753cd1-bd88-11f1-a9b2-81a00558ee0d--Sir-Hermann-Black-Memorial-Lecture-2026-The-Year-in-Review-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -8822,6 +8632,26 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "The Business Show Australia 2026",
+   "date": "2026-11-25",
+   "time": "",
+   "venue": "ICC Sydney",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-business-show-australia",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792561627/k7h9gk6i1z6d/1w2Nm41GtRklwNhPNEn1vo/9fa6cc10-cd12-11f1-889d-0fb2d90d2a11--The-Business-Show-Australia-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Walk through time",
+   "date": "2026-11-25",
+   "time": "",
+   "venue": "Hyde Park Barracks",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/walk-through-time",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1675653153/k7h9gk6i1z6d/5jflZzxhLCnMzeqNOvIwrN/92545d60-a5cb-11ed-a1ad-310bfa41c700--Walk-through-time-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Safe. Everywhere. Always Challenge",
    "date": "2026-11-25",
    "time": "",
@@ -8842,23 +8672,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "The Business Show Australia 2026",
+   "name": "Rhythm n Bubs",
    "date": "2026-11-25",
    "time": "",
-   "venue": "ICC Sydney",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-business-show-australia",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792561627/k7h9gk6i1z6d/1w2Nm41GtRklwNhPNEn1vo/9fa6cc10-cd12-11f1-889d-0fb2d90d2a11--The-Business-Show-Australia-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Walk through time",
-   "date": "2026-11-25",
-   "time": "",
-   "venue": "Hyde Park Barracks",
-   "category": "Tours & Walks",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/walk-through-time",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1675653153/k7h9gk6i1z6d/5jflZzxhLCnMzeqNOvIwrN/92545d60-a5cb-11ed-a1ad-310bfa41c700--Walk-through-time-tile.jpg",
+   "venue": "Darling Quarter",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/rhythm-n-bubs",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1706481799/k7h9gk6i1z6d/5zgAuUQv7JBQgTXN3dmAgj/1e1e2851-be2e-11ee-99e9-d1f83599d883--Rhythm-n-Bubs-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -8890,66 +8710,6 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-25-11-2026/event/13006373871C5C39",
    "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "Pinchgut Opera presents Semele by Handel",
-   "date": "2026-11-26",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pinchgut-opera-presents-semele-by-handel",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1769574854/k7h9gk6i1z6d/1OZ5gzSvYXDFPRCCxR45yV/eb303fa1-fc01-11f0-9b75-fb57c5cbc068--Pinchgut-Opera-presents-Semele-by-Handel-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Ruby Jackson @ Seymour Sounds",
-   "date": "2026-11-26",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ruby-jackson-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792542093/k7h9gk6i1z6d/7hzXzTATGH6pGEVmZbmeaT/19a1b081-cce5-11f1-a6e1-c161ff282c4e--Ruby-Jackson---Seymour-Sounds-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "SIMA Jazz:NOW – Ghosts Between Streams II",
-   "date": "2026-11-26",
-   "time": "",
-   "venue": "Oxford Art Factory",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sima-jazz-now-ghosts-between-streams-ii",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1774319181/k7h9gk6i1z6d/333zAiRsKOM0y9jNuzvErF/94a87881-2728-11f1-8568-abaa3ef9649c--SIMA-Jazz-NOW-Ep-4---Ghosts-Between-Streams-II-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Jonathan Drew Storytelling performance",
-   "date": "2026-11-26",
-   "time": "",
-   "venue": "St Helen’s Community Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jonathan-drew-storytelling-perofrmance",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792544976/k7h9gk6i1z6d/5I4lKvKl3gLfLINRQO3YJ6/7c3b54c0-cceb-11f1-8abf-bfb4950d9784--Jonathan-Drew-Storytelling-perofrmance-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Speed Dating Chatswood | Ages 55+ | Thu 26 Nov 2026",
-   "date": "2026-11-26",
-   "time": "",
-   "venue": "See listing",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/speed-dating-chatswood-or-ages-55-or-thu-26-nov-2026",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791538318/k7h9gk6i1z6d/5saKDILZSjUfXJ8oGww6Bo/1ab2fc60-c3c4-11f1-8204-3fd0ea7659d0--Speed-Dating-Chatswood---Ages-55----Thu-26-Nov-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "WBBL Double Header | Thunder v Strikers | Sixers v Stars",
-   "date": "2026-11-26",
-   "time": "",
-   "venue": "North Sydney Oval",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/wbbl-double-header-or-thunder-v-strikers-or-sixers-v-stars",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783035225/k7h9gk6i1z6d/25KEKuyaxoOkEfyI0FNjqV/3e8da8a1-766d-11f1-b049-9bf2a9c3e8fa--WBBL-Double-Header---Thunder-v-Strikers---Sixers-v-Stars-tile.jpg",
-   "source": "City of Sydney"
   },
   {
    "name": "Supply Nation - Indigenous Business Trade Fair Sydney",
@@ -9029,6 +8789,56 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/american-thanksgiving-lunch-at-the-alcoves",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788756256/k7h9gk6i1z6d/3DPaWjUO5WMKrU2B8t7RvG/ed3b3f41-aa73-11f1-9542-c3187a8e9e53--American-Thanksgiving-Lunch-at-The-Alcoves-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Jonathan Drew Storytelling performance",
+   "date": "2026-11-26",
+   "time": "",
+   "venue": "St Helen’s Community Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jonathan-drew-storytelling-perofrmance",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792544976/k7h9gk6i1z6d/5I4lKvKl3gLfLINRQO3YJ6/7c3b54c0-cceb-11f1-8abf-bfb4950d9784--Jonathan-Drew-Storytelling-perofrmance-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Speed Dating Chatswood | Ages 55+ | Thu 26 Nov 2026",
+   "date": "2026-11-26",
+   "time": "",
+   "venue": "See listing",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/speed-dating-chatswood-or-ages-55-or-thu-26-nov-2026",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791538318/k7h9gk6i1z6d/5saKDILZSjUfXJ8oGww6Bo/1ab2fc60-c3c4-11f1-8204-3fd0ea7659d0--Speed-Dating-Chatswood---Ages-55----Thu-26-Nov-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "WBBL Double Header | Thunder v Strikers | Sixers v Stars",
+   "date": "2026-11-26",
+   "time": "",
+   "venue": "North Sydney Oval",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/wbbl-double-header-or-thunder-v-strikers-or-sixers-v-stars",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783035225/k7h9gk6i1z6d/25KEKuyaxoOkEfyI0FNjqV/3e8da8a1-766d-11f1-b049-9bf2a9c3e8fa--WBBL-Double-Header---Thunder-v-Strikers---Sixers-v-Stars-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Pinchgut Opera presents Semele by Handel",
+   "date": "2026-11-26",
+   "time": "",
+   "venue": "City Recital Hall",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pinchgut-opera-presents-semele-by-handel",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1769574854/k7h9gk6i1z6d/1OZ5gzSvYXDFPRCCxR45yV/eb303fa1-fc01-11f0-9b75-fb57c5cbc068--Pinchgut-Opera-presents-Semele-by-Handel-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Ruby Jackson @ Seymour Sounds",
+   "date": "2026-11-26",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ruby-jackson-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792542093/k7h9gk6i1z6d/7hzXzTATGH6pGEVmZbmeaT/19a1b081-cce5-11f1-a6e1-c161ff282c4e--Ruby-Jackson---Seymour-Sounds-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9122,6 +8932,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "ivy Thursdays - 26th November",
+   "date": "2026-11-26",
+   "time": "21:00",
+   "venue": "ivy",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-26th-november/201866",
+   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Wundrful World Of Christmas",
    "date": "2026-11-27",
    "time": "",
@@ -9130,26 +8950,6 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-27-11-2026/event/2500651AE02E5E54",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "Come Sit With Me",
-   "date": "2026-11-27",
-   "time": "",
-   "venue": "The Neilson",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-sit-with-me",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791802316/k7h9gk6i1z6d/auuRLy7zLnclvvXdEAbRC/bc222541-c625-11f1-9ef8-6358a453d990--Come-Sit-With-Me-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Abilities unleashed: Adults",
-   "date": "2026-11-27",
-   "time": "",
-   "venue": "Perry Park Recreation Centre",
-   "category": "Community",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/activate-inclusion-sports-day",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1754366675/k7h9gk6i1z6d/2oQhaTpA5GjSt7ek5fTGgr/4204b440-71b1-11f0-b2e5-15c2cc18aa6c--Abilities-unleashed--Adults-tile.jpg",
-   "source": "City of Sydney"
   },
   {
    "name": "The 7th Sydney Tea Expo 2026",
@@ -9182,23 +8982,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "EVOIIA - Vintage Curated Designer Sydney Pop Up",
+   "name": "Abilities unleashed: Adults",
    "date": "2026-11-27",
    "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/evoiia-vintage-curated-designer-sydney-pop-up",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792565798/k7h9gk6i1z6d/rmStoKwBkiz0JusINmbMQ/bb24acb1-cd1b-11f1-9ec6-c759d54be314--EVOIIA---Vintage-Curated-Designer-Sydney-Pop-Up-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Cabaret, Cocktails & Karaoke in November",
-   "date": "2026-11-27",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/cabaret-cocktails-and-karaoke-in-november",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784089028/k7h9gk6i1z6d/3iJyR5TjHbZUvbIFniojLX/5f681571-8003-11f1-a0d7-295f3d677f19--Cabaret--Cocktails---Karaoke-in-November-tile.jpg",
+   "venue": "Perry Park Recreation Centre",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/activate-inclusion-sports-day",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1754366675/k7h9gk6i1z6d/2oQhaTpA5GjSt7ek5fTGgr/4204b440-71b1-11f0-b2e5-15c2cc18aa6c--Abilities-unleashed--Adults-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9209,6 +8999,46 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/activate-inclusion-sports-day-youth-and-children",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1754366622/k7h9gk6i1z6d/6oEInM1Mqw8H5uTX4SzOOy/1bfed141-71b1-11f0-bd31-d1f3bc114b46--Abilities-Unleashed--Children-and-Youth--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Cabaret, Cocktails & Karaoke in November",
+   "date": "2026-11-27",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/cabaret-cocktails-and-karaoke-in-november",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784089028/k7h9gk6i1z6d/3iJyR5TjHbZUvbIFniojLX/5f681571-8003-11f1-a0d7-295f3d677f19--Cabaret--Cocktails---Karaoke-in-November-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Come Sit With Me",
+   "date": "2026-11-27",
+   "time": "",
+   "venue": "The Neilson",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-sit-with-me",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791802316/k7h9gk6i1z6d/auuRLy7zLnclvvXdEAbRC/bc222541-c625-11f1-9ef8-6358a453d990--Come-Sit-With-Me-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Midnight Murder on the Christmas Cruise of Death",
+   "date": "2026-11-27",
+   "time": "",
+   "venue": "Ensemble Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/midnight-murder-on-the-christmas-cruise-of-death",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772580982/k7h9gk6i1z6d/1VphG3jchf9FghtVErVYph/7d6957e1-1759-11f1-878a-0dc4dbd7db31--Midnight-Murder-on-the-Christmas-Cruise-of-Death-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "EVOIIA - Vintage Curated Designer Sydney Pop Up",
+   "date": "2026-11-27",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/evoiia-vintage-curated-designer-sydney-pop-up",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792565798/k7h9gk6i1z6d/rmStoKwBkiz0JusINmbMQ/bb24acb1-cd1b-11f1-9ec6-c759d54be314--EVOIIA---Vintage-Curated-Designer-Sydney-Pop-Up-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9382,33 +9212,13 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Manfredo Lament @ Seymour Sounds",
+   "name": "Papunya Tula Artists: Community XVII",
    "date": "2026-11-28",
    "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/manfredo-lament-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792542284/k7h9gk6i1z6d/56MqmiJkKpThV3sWMyI3H0/8e92d2c1-cce5-11f1-9759-f9b0241afb35--Manfredo-Lament---Seymour-Sounds-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Kim Wilde Closer Tour",
-   "date": "2026-11-28",
-   "time": "",
-   "venue": "Enmore Theatre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-kim-wilde-closer-tour",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772689065/k7h9gk6i1z6d/3N1o5HFaCh8sxklIBNEOne/6ea62de1-1854-11f1-8052-eb532aa503e4--The-Kim-Wilde-Closer-Tour-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Trout",
-   "date": "2026-11-28",
-   "time": "",
-   "venue": "The Neilson",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-trout",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792131983/k7h9gk6i1z6d/3NQMCtFln8H113Xf2GwwI9/230b5271-c92a-11f1-a91f-b38d0cb1300d--The-Trout-tile.jpg",
+   "venue": "See listing",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/papunya-tula-artists-community-xi",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1763434989/k7h9gk6i1z6d/6CcCWOmvyG50ZxUlJZ774g/cbb08861-c42a-11f0-91c3-35f25d7e0a9a--Papunya-Tula-Artists--Community-XV-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9419,16 +9229,6 @@ window.EVENT_DATA = {
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-markets-foundation-45th-annual-cherry-ball-2026",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792465553/k7h9gk6i1z6d/1nQm4JyGbUhVgWeqMWxq3s/903f61a1-cc32-11f1-9571-8d2fa08ae985--Sydney-Markets-Foundation-45th-Annual-Cherry-Ball-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Papunya Tula Artists: Community XVII",
-   "date": "2026-11-28",
-   "time": "",
-   "venue": "See listing",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/papunya-tula-artists-community-xi",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1763434989/k7h9gk6i1z6d/6CcCWOmvyG50ZxUlJZ774g/cbb08861-c42a-11f0-91c3-35f25d7e0a9a--Papunya-Tula-Artists--Community-XV-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9452,16 +9252,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Double Bay Christmas Festival",
-   "date": "2026-11-28",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/double-bay-christmas-festival",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790300847/k7h9gk6i1z6d/44i2cba1Ddr5bBjJXXiMlq/58c830d0-b882-11f1-b43d-217c337eab79--Double-Bay-Christmas-Festival-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "SOUTHEAST Aboriginal Arts Market",
    "date": "2026-11-28",
    "time": "",
@@ -9476,9 +9266,29 @@ window.EVENT_DATA = {
    "date": "2026-11-28",
    "time": "",
    "venue": "Coogee Diggers",
-   "category": "Nightlife & Electronic",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-velvet-rendezvous",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785399866/k7h9gk6i1z6d/5cJ0aKy25JFg1AX90C48k6/ba5f7a20-8bef-11f1-8dbe-e3c8a1260b38--A-Velvet-Rendezvous--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Manfredo Lament @ Seymour Sounds",
+   "date": "2026-11-28",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/manfredo-lament-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792542284/k7h9gk6i1z6d/56MqmiJkKpThV3sWMyI3H0/8e92d2c1-cce5-11f1-9759-f9b0241afb35--Manfredo-Lament---Seymour-Sounds-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Double Bay Christmas Festival",
+   "date": "2026-11-28",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/double-bay-christmas-festival",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790300847/k7h9gk6i1z6d/44i2cba1Ddr5bBjJXXiMlq/58c830d0-b882-11f1-b43d-217c337eab79--Double-Bay-Christmas-Festival-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9622,6 +9432,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "RVN//NT - ‘No Consequences’ Tour",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "venue": "Elton chong",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/rvn-nt-no-consequences-tour/201405",
+   "image": "https://static.moshtix.com.au/uploads/a46e9827-e864-4e38-bebe-80ad4c9cfc5dx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Elliot & Vincent (NZ)",
    "date": "2026-11-28",
    "time": "20:00",
@@ -9629,6 +9449,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/elliot-vincent-nz-/201824",
    "image": "https://static.moshtix.com.au/uploads/5fe42b53-58b2-4adc-b401-e774dbba24f0x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "GRASS GOO [FREE ENTRY]",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "venue": "Oxford Art Factory, Gallery Bar",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/grass-goo-free-entry-/201885",
+   "image": "https://static.moshtix.com.au/uploads/d025d006-ecd9-4a33-8de6-dea36940aa8ex140x140",
    "source": "Moshtix"
   },
   {
@@ -9692,33 +9522,13 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "100 women 100 stories concert",
-   "date": "2026-11-29",
-   "time": "",
-   "venue": "Bondi Pavilion",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/100-women-100-stories-concert",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786596317/k7h9gk6i1z6d/MZ8geOA5QoMfbJITw14Ch/06822601-96d1-11f1-9896-639b23b27781--100-Women-100-Stories-Concert-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "An afternoon with accordionist James Crabb",
+   "name": "Christmas in Pyrmont 2026",
    "date": "2026-11-29",
    "time": "",
    "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/an-afternoon-with-accordionist-james-crabb",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1772709954/k7h9gk6i1z6d/3cjiCXYZn8Pt0VyEaCgJMC/8d27aa61-1885-11f1-88f0-4388023d9550--An-Afternoon-With-Accordionist-James-Crabb-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Swing West Big Band featuring Jessica Zamprogno",
-   "date": "2026-11-29",
-   "time": "",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jessica-zamprogno-and-the-swing-west-jazz-orchestra",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785113036/k7h9gk6i1z6d/6BIUnrr9ZCObmZEibEEj3e/02ef15b1-8953-11f1-babe-318da3764f24--Swing-West-Big-Band-featuring-Jessica-Zamprogno-tile.jpg",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-in-pyrmont",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1729101488/k7h9gk6i1z6d/1gWu2ApTXquLbgsG9ZrCho/de4ad411-5167-11ec-9dd6-5d261707935c--Christmas-In-Pyrmont-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9752,21 +9562,11 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Christmas in Pyrmont 2026",
-   "date": "2026-11-29",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-in-pyrmont",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1729101488/k7h9gk6i1z6d/1gWu2ApTXquLbgsG9ZrCho/de4ad411-5167-11ec-9dd6-5d261707935c--Christmas-In-Pyrmont-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Sugar Fest Oceanic Culture History & Music 2026",
    "date": "2026-11-29",
    "time": "",
    "venue": "Chau Chak Wing Museum",
-   "category": "Markets & Festivals",
+   "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sugar-fest-oceanic-culture-history-and-music-2026",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790853439/k7h9gk6i1z6d/69hDJ4nf6STQaGBoeIRai/4a32da31-bd86-11f1-9de8-3b874f384b90--Sugar-Fest-Oceanic-Culture-History---Music-2027-tile.jpg",
    "source": "City of Sydney"
@@ -9872,6 +9672,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Christmas Lunch Special at NSW Parliament House",
+   "date": "2026-11-30",
+   "time": "",
+   "venue": "Strangers' Restaurant",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-lunch-special-at-nsw-parliament-house",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784166908/k7h9gk6i1z6d/2BEWuGDkG5WJ0N0siSPkzh/dd4c02c1-80b8-11f1-a634-1707dc6ccec6--Christmas-Lunch-Special-at-NSW-Parliament-House-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "James temp event -TEST PRODtest",
    "date": "2026-11-30",
    "time": "",
@@ -9882,13 +9692,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Christmas Lunch Special at NSW Parliament House",
+   "name": "AU.X Screenworks",
    "date": "2026-11-30",
    "time": "",
-   "venue": "Strangers' Restaurant",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-lunch-special-at-nsw-parliament-house",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784166908/k7h9gk6i1z6d/2BEWuGDkG5WJ0N0siSPkzh/dd4c02c1-80b8-11f1-a634-1707dc6ccec6--Christmas-Lunch-Special-at-NSW-Parliament-House-tile.jpg",
+   "venue": "Sydney Opera House",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/au-x-screenworks",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791431999/k7h9gk6i1z6d/6tVPvxOQ3rvtyFLO60eTJB/91bd3850-c2cc-11f1-9d8c-391cc70a4b1d--AU-X-Screenworks-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9912,16 +9722,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Choirs in the City: Martin Place",
-   "date": "2026-12-01",
-   "time": "",
-   "venue": "Martin Place",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/choirs-in-the-city-martin-place",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1697429495/k7h9gk6i1z6d/7bI9AMQlwLBKdY0Hmu77NA/6952d3d0-402b-11ec-8907-b1cb9aaa1749--Choirs-in-the-city--Martin-Place-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Economic Abuse Awareness Day",
    "date": "2026-12-01",
    "time": "",
@@ -9929,6 +9729,16 @@ window.EVENT_DATA = {
    "category": "Community",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/economic-abuse-awareness-day",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788827138/k7h9gk6i1z6d/1B8rpt0nQ1kmLCrkDEHwaB/e13d8201-ab1a-11f1-a17d-f5059fd8e987--Economic-Abuse-Awareness-Day-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Choirs in the City: Martin Place",
+   "date": "2026-12-01",
+   "time": "",
+   "venue": "Martin Place",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/choirs-in-the-city-martin-place",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1697429495/k7h9gk6i1z6d/7bI9AMQlwLBKdY0Hmu77NA/6952d3d0-402b-11ec-8907-b1cb9aaa1749--Choirs-in-the-city--Martin-Place-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -9992,16 +9802,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Carols with Cassy and The Sunshine Singers",
-   "date": "2026-12-02",
-   "time": "",
-   "venue": "Bondi Pavilion",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/carols-with-cassy-and-the-sunshine-singers",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785982511/k7h9gk6i1z6d/1BXeG0WcHHOUkNLWvziXtS/5c994591-913c-11f1-8770-4987908da55b--Carols-with-Cassy-and-The-Sunshine-Singers-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Blooming into the new beginning",
    "date": "2026-12-02",
    "time": "",
@@ -10009,6 +9809,16 @@ window.EVENT_DATA = {
    "category": "Exhibitions",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/blooming-into-the-new-beginning",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1782449817/k7h9gk6i1z6d/1ulF5khF3Y1HJWPVQBhNOS/980065c0-7119-11f1-a40c-f3772ce9afe8--Blooming-into-the-new-beginning-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Wake in Fright",
+   "date": "2026-12-02",
+   "time": "",
+   "venue": "Belvoir Street Theatre",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/wake-in-fright",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1767677517/k7h9gk6i1z6d/1Lh1stYityXEcaVCC6t0Tg/b96093a1-eac0-11f0-a12b-bfba191663df--Wake-in-Fright-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -10052,16 +9862,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Cameron Jones Trio - Gypsy Jazz - Django At Camelot",
-   "date": "2026-12-03",
-   "time": "",
-   "venue": "See listing",
-   "category": "Soul, Jazz & Global",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/cameron-jones-trio-at-the-butchers-brew-bar",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791694656/k7h9gk6i1z6d/bHAKUj0bITVOUf1bje41v/2c8aec01-c530-11f1-a755-0d095b38c442--Cameron-Jones-Trio---Gypsy-Jazz---Django-At-Camelot--tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Expansion Breathwork Workshop Sydney",
    "date": "2026-12-03",
    "time": "",
@@ -10076,7 +9876,7 @@ window.EVENT_DATA = {
    "date": "2026-12-03",
    "time": "",
    "venue": "See listing",
-   "category": "Nightlife & Electronic",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/red-light-confidential",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783306924/k7h9gk6i1z6d/4DuvNHtzT6ywufYptoYnht/c312dac0-78e6-11f1-82e6-474c9d9a375c--Red-Light-Confidential---August-edition-tile.jpg",
    "source": "City of Sydney"
@@ -10162,13 +9962,23 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Paul Dempsey's Christmas Karaoke",
+   "name": "Mov’in Bed Cinema",
    "date": "2026-12-04",
    "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/paul-dempseys-christmas-karaoke",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788833237/k7h9gk6i1z6d/72ua4RNH5EWX45E1Snr30P/24b5d061-ab29-11f1-96a9-5311b34b7d2f--Paul-Dempsey-s-Christmas-Karaoke-tile.jpg",
+   "venue": "Pyrmont Bay Park",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/movin-bed-cinema",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792640531/k7h9gk6i1z6d/7px6xka0ZM0D0BnCwFtP9q/b6c6abb1-cdc9-11f1-9107-077d4f0c57f3--Mov-in-Bed-Cinema--Outdoor-Movies-From-a-Bed-in-Pyrmont-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Paradise Hotel",
+   "date": "2026-12-04",
+   "time": "",
+   "venue": "KXT on Broadway",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/paradise-hotel",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786489064/k7h9gk6i1z6d/26vHaGIBM8wGTocWVGyRTh/ffe597e1-95d7-11f1-a255-2b4de2999e87--Paradise-Hotel-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -10312,13 +10122,13 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Christmas Concert - Sydney Sings®",
+   "name": "International Student Christmas Celebration",
    "date": "2026-12-05",
    "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-concert-sydney-sings-r",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1783512627/k7h9gk6i1z6d/Gvy5zxCKgBHHC9IUpEntt/aab23361-7ac4-11f1-b66b-b14bd8bd8aba--Christmas-Concert---Sydney-Sings--tile.jpg",
+   "venue": "Customs House",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/international-student-christmas-celebration",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791847500/k7h9gk6i1z6d/3rXZ4kPKC0DKCcUFjABMGu/6368e660-c692-11f1-a468-4178586981bf--International-Student-Christmas-Celebration-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -10352,16 +10162,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "International Student Christmas Celebration",
-   "date": "2026-12-05",
-   "time": "",
-   "venue": "Customs House",
-   "category": "Tours & Walks",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/international-student-christmas-celebration",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791847500/k7h9gk6i1z6d/3rXZ4kPKC0DKCcUFjABMGu/6368e660-c692-11f1-a468-4178586981bf--International-Student-Christmas-Celebration-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Potts Point Christmas Fair",
    "date": "2026-12-05",
    "time": "",
@@ -10369,6 +10169,26 @@ window.EVENT_DATA = {
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/potts-point-christmas-fair",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792016534/k7h9gk6i1z6d/Akrgr4Oj2JvUoShO8hADV/999c9a61-c81d-11f1-8ee2-a72e5b6e3044--Potts-Point-Christmas-Fair-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Screenwriting fundamentals with Chris Phillips",
+   "date": "2026-12-05",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/screenwriting-fundamentals-with-chris-phillips",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1764800060/k7h9gk6i1z6d/3WzQXJrAFclkd3rfYHDIMX/2891daf0-d094-11f0-91d9-5fa09f2b745f--Screenwriting-fundamentals-with-Chris-Phillips--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sydney Street Fair",
+   "date": "2026-12-05",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-street-fair",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792706846/k7h9gk6i1z6d/6S2V2KOVQI4DyFqC67ALqf/1a1dfb61-ce64-11f1-996d-e94f1b734281--Sydney-Street-Fair-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -10572,6 +10392,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Pullman Sydney Hyde Park Wedding Opening Day 2026",
+   "date": "2026-12-06",
+   "time": "",
+   "venue": "See listing",
+   "category": "Exhibitions",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pullman-sydney-hyde-park-wedding-opening-day-2026",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791512126/k7h9gk6i1z6d/3CTYu8r8EFNERBmu6rPQlx/0c2971c1-c387-11f1-bc4f-95e540e0f8d0--Pullman-Sydney-Hyde-Park-Wedding-Opening-Day-2026-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Pyrmont Christmas Concert",
    "date": "2026-12-06",
    "time": "",
@@ -10582,13 +10412,13 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "Pullman Sydney Hyde Park Wedding Opening Day 2026",
+   "name": "World Partnership Walk Australia",
    "date": "2026-12-06",
    "time": "",
-   "venue": "See listing",
-   "category": "Exhibitions",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/pullman-sydney-hyde-park-wedding-opening-day-2026",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791512126/k7h9gk6i1z6d/3CTYu8r8EFNERBmu6rPQlx/0c2971c1-c387-11f1-bc4f-95e540e0f8d0--Pullman-Sydney-Hyde-Park-Wedding-Opening-Day-2026-tile.jpg",
+   "venue": "The Royal Botanic Garden",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/world-partnership-walk-australia",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792655221/k7h9gk6i1z6d/3NcuaCMPwFyHTbFBKV6rUI/6c4d4d10-cdeb-11f1-aac3-39c3851f7b42--World-Partnership-Walk-Australia-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -10792,6 +10622,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "DIVA starring Vivienne Powell & directed by Peter Blackburn",
+   "date": "2026-12-09",
+   "time": "",
+   "venue": "Eternity Playhouse",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/diva",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788987616/k7h9gk6i1z6d/45Xz7QnPVjKZvZV4BwRksy/1bda1061-ac90-11f1-ad7d-6d09ffaeb0a3--Diva-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Wankernomics: Show_v4.1_Final_USETHIS",
    "date": "2026-12-09",
    "time": "19:00",
@@ -10822,16 +10662,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Gondwana Choirs Presents Voices of Angels",
-   "date": "2026-12-10",
-   "time": "",
-   "venue": "Sydney Opera House",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/gondwana-choirs-presents-voices-of-angels",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790731504/k7h9gk6i1z6d/7ctXqO0ZyOZZ5oW6DzoxNk/b4c85101-bc6d-11f1-91db-ad9524514d8c--Gondwana-Choirs-Presents-Voices-of-Angels-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Faulty Towers The Dining Experience",
    "date": "2026-12-10",
    "time": "",
@@ -10839,6 +10669,16 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/faulty-towers-the-dining-experience",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788757995/k7h9gk6i1z6d/3RsDtZ0CFIIDlPfSVerpQa/2136fd61-aa7a-11f1-a4f3-e334a4290a6e--Faulty-Towers-The-Dining-Experience-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Line of Beauty by Alan Hollinghurst",
+   "date": "2026-12-10",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-line-of-beauty-by-alan-hollinghurst",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789391958/k7h9gk6i1z6d/5YESfWJgx9R8w5XYmDtdvK/90c2c321-b03e-11f1-8915-51c2bc10f578--The-Line-of-Beauty-by-Alan-Hollinghurst-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -10882,16 +10722,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Handel's Messiah at Sydney Opera House",
-   "date": "2026-12-11",
-   "time": "",
-   "venue": "Sydney Opera House",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/handels-messiah-at-sydney-opera-house",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1776140872/k7h9gk6i1z6d/CoMMog5sdlSWMhrDAwPCb/5d52be90-37b8-11f1-a5e0-c1963dc557ff--Handel-s-Messiah-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Bondi Beach Christmas Markets",
    "date": "2026-12-11",
    "time": "",
@@ -10906,7 +10736,7 @@ window.EVENT_DATA = {
    "date": "2026-12-11",
    "time": "",
    "venue": "Sydney Opera House",
-   "category": "Nightlife & Electronic",
+   "category": "Stage & Screen",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-choir-of-man",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789451369/k7h9gk6i1z6d/1xiiPqU7jRcQqY8KegUi3V/187d5211-b0c8-11f1-aeff-c785bff7d6af--The-Choir-of-Man-tile.jpg",
    "source": "City of Sydney"
@@ -10940,16 +10770,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/shag-rock-three-deep-breaths-tour/200391",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_CUSTOM.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "Alchemy - The Dire Straits Experience",
-   "date": "2026-12-11",
-   "time": "19:00",
-   "venue": "The Bridge Hotel",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/alchemy-the-dire-straits-experience/199453",
-   "image": "https://static.moshtix.com.au/uploads/f44fc2ca-5d51-4512-b4fa-f2c98e67bc44x140x140",
-   "source": "Moshtix"
   },
   {
    "name": "The Choir of Man | Dec 11 - Jan 24",
@@ -11032,26 +10852,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Handel’s Messiah at Sydney Town Hall",
-   "date": "2026-12-12",
-   "time": "",
-   "venue": "George Street",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/handels-messiah",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1758087610/k7h9gk6i1z6d/6qqmz7InILjAfi5zXt1oRB/2a3f4430-9388-11f0-ba2a-4b7a6d6fcf1b--Handel-s-Messiah-at-Sydney-Town-Hall-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Jerome Blazé @ Seymour Sounds",
-   "date": "2026-12-12",
-   "time": "",
-   "venue": "Seymour Centre",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jerome-blaze-seymour-sounds",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792543315/k7h9gk6i1z6d/64vthn6OZwK7b9J0NJ2cys/fca0e2f0-cce7-11f1-8b43-257660c3a3f8--Jerome-Blaz----Seymour-Sounds-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Surry Hills Christmas Fair",
    "date": "2026-12-12",
    "time": "",
@@ -11059,6 +10859,16 @@ window.EVENT_DATA = {
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/surry-hills-christmas-fair",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792016196/k7h9gk6i1z6d/25r6Az0EiliEfmxlfUXdtf/d548e601-c81c-11f1-8ab4-7d96deb0a728--Surry-Hills-Christmas-Fair-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Handel’s Messiah at Sydney Town Hall",
+   "date": "2026-12-12",
+   "time": "",
+   "venue": "George Street",
+   "category": "Community",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/handels-messiah",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1758087610/k7h9gk6i1z6d/6qqmz7InILjAfi5zXt1oRB/2a3f4430-9388-11f0-ba2a-4b7a6d6fcf1b--Handel-s-Messiah-at-Sydney-Town-Hall-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -11072,16 +10882,6 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "French Christmas Market 2026 by LCS",
-   "date": "2026-12-12",
-   "time": "",
-   "venue": "See listing",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/french-christmas-market",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1762809499/k7h9gk6i1z6d/wRIeDkSDONXAXjtbTlS1U/5641ef40-be78-11f0-bbe1-a9fab53fc18e--French-Christmas-Market-2025-by-LCS-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Surry Hills Christmas Fair: Santa Paws Dog Parade",
    "date": "2026-12-12",
    "time": "",
@@ -11089,6 +10889,26 @@ window.EVENT_DATA = {
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/surry-hills-christmas-fair-santa-paws-dog-parade",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1762213447/k7h9gk6i1z6d/4zPPPhXFjo5DA7OWs2G5sI/cc69f400-b90b-11f0-9db6-f1ac607cddde--Surry-Hills-Christmas-Fair---Santa-Paws-Dog-Parade--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Jerome Blazé @ Seymour Sounds",
+   "date": "2026-12-12",
+   "time": "",
+   "venue": "Seymour Centre",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jerome-blaze-seymour-sounds",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792543315/k7h9gk6i1z6d/64vthn6OZwK7b9J0NJ2cys/fca0e2f0-cce7-11f1-8b43-257660c3a3f8--Jerome-Blaz----Seymour-Sounds-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "French Christmas Market 2026 by LCS",
+   "date": "2026-12-12",
+   "time": "",
+   "venue": "See listing",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/french-christmas-market",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1762809499/k7h9gk6i1z6d/wRIeDkSDONXAXjtbTlS1U/5641ef40-be78-11f0-bbe1-a9fab53fc18e--French-Christmas-Market-2025-by-LCS-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -11272,21 +11092,11 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Crooners and cocktails show Christmas special",
-   "date": "2026-12-13",
-   "time": "",
-   "venue": "Cardea Barangaroo",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/crooners-and-cocktails-show-christmas-special",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788755354/k7h9gk6i1z6d/5FJyjAsGVHa3kD89cj2m6n/c2d117c1-aa73-11f1-b72b-07a13828bc0f--Crooners-and-Cocktails-Show-Christmas-Special-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Live Music Night ft. Charlie Chech – Christmas Show",
    "date": "2026-12-13",
    "time": "",
    "venue": "See listing",
-   "category": "Other Music",
+   "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/las-vegas-nights-ft-charlie-chech-live",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1754551741/k7h9gk6i1z6d/6FXsJu2E4GmbCATa2yF9Ay/fed20731-735f-11f0-9b41-698520b60e21--Las-Vegas-Nights-Ft--Charlie-Chech-Live--tile.jpg",
    "source": "City of Sydney"
@@ -11299,6 +11109,26 @@ window.EVENT_DATA = {
    "category": "Community",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/alexandria-christmas-concert",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790580062/k7h9gk6i1z6d/47nLNlFjLMdllDErCglZnl/deec0f11-bb0c-11f1-a32f-fb62a1722e0e--Alexandria-Christmas-Concert--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Guenther Steiner: No Team Orders",
+   "date": "2026-12-13",
+   "time": "",
+   "venue": "City Recital Hall",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/guenther-steiner-no-team-orders",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792715709/k7h9gk6i1z6d/5onx1mDmIn92rMO5AppxRF/4f192a51-ce79-11f1-8585-0dd970da38ef--Guenther-Steiner--No-Team-Orders-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Crooners and cocktails show Christmas special",
+   "date": "2026-12-13",
+   "time": "",
+   "venue": "Cardea Barangaroo",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/crooners-and-cocktails-show-christmas-special",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788755354/k7h9gk6i1z6d/5FJyjAsGVHa3kD89cj2m6n/c2d117c1-aa73-11f1-b72b-07a13828bc0f--Crooners-and-Cocktails-Show-Christmas-Special-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -11329,6 +11159,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/steve-hogarth-marillion-h-natural/196099",
    "image": "https://static.moshtix.com.au/uploads/9bd87c2c-4df8-4170-b4f2-17ba59b81c47x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Flora - This Feeling is a Memory Tour",
+   "date": "2026-12-13",
+   "time": "18:00",
+   "venue": "The Lansdowne Hotel, Sydney",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/flora-this-feeling-is-a-memory-tour/201867",
+   "image": "https://static.moshtix.com.au/uploads/4ae8432e-08bd-4e13-a466-8ed1de8b3aedx140x140",
    "source": "Moshtix"
   },
   {
@@ -11426,7 +11266,7 @@ window.EVENT_DATA = {
    "date": "2026-12-16",
    "time": "",
    "venue": "See listing",
-   "category": "Community",
+   "category": "Exhibitions",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/unfolding-ground",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792037951/k7h9gk6i1z6d/12nEw8OneZC6ikNhJS8aNe/6b704481-c84e-11f1-8f54-cdbf28c4ef6d--Unfolding-Ground-tile.jpg",
    "source": "City of Sydney"
@@ -11476,7 +11316,7 @@ window.EVENT_DATA = {
    "date": "2026-12-17",
    "time": "",
    "venue": "Hayden Orpheum Picture Palace",
-   "category": "Soul, Jazz & Global",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-pocket-trio-with-kate-wadey",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789012145/k7h9gk6i1z6d/3zcVDsZcU6nDGpAhlapQwv/0add69d1-acca-11f1-80e3-d9411455a279--The-Orpheum-Jazz-Lounge---The-Pocket-Trio-with-Kate-Wadey-tile.jpg",
    "source": "City of Sydney"
@@ -11540,16 +11380,6 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-18-12-2026/event/2500651AE17C5F45",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "Lessons & Carols",
-   "date": "2026-12-18",
-   "time": "",
-   "venue": "St Philip's Church",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/lessons-and-carols",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1776141541/k7h9gk6i1z6d/1wy9BWXwaJZHQlguH30dbZ/3ceea1c1-37bb-11f1-8ee3-351ca12f32aa--Lessons---Carols-tile.jpg",
-   "source": "City of Sydney"
   },
   {
    "name": "CUBAN SOCIAL CLUB",
@@ -11672,6 +11502,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "SF WRENS - DANCE! Single Release w/ Versace Boys & Monstress",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "venue": "The Lansdowne Hotel, Sydney",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/sf-wrens-dance-single-release-w-versace-boys-monstress/201840",
+   "image": "https://static.moshtix.com.au/uploads/475cd4e4-1748-458c-85c1-c40feb8f74b3x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "CRYPTIC SHIFT",
    "date": "2026-12-19",
    "time": "19:30",
@@ -11720,16 +11560,6 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-20-12-2026/event/2500651AE17C5F4A",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "School Holiday Fun: Japanese Drumming Workshop for Families",
-   "date": "2026-12-20",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/school-holiday-fun-japanese-drumming-workshop-for-families",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1751245050/k7h9gk6i1z6d/38aKocSK1llFqNWzHvtiNc/9c9a9551-554b-11f0-8a1a-37e0795774e0--School-Holiday-Fun--Japanese-Drumming-Workshop-for-Families-tile.jpg",
-   "source": "City of Sydney"
   },
   {
    "name": "Culture Fest: Stories, Flavours, and Friendship",
@@ -11826,7 +11656,7 @@ window.EVENT_DATA = {
    "date": "2026-12-23",
    "time": "",
    "venue": "See listing",
-   "category": "Other Music",
+   "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-sings-christmas",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789699264/k7h9gk6i1z6d/64EZEE3bUxyJknN4043fXh/bd2915e1-b309-11f1-b016-dde4753da94b--Sydney-Sings-Christmas-tile.jpg",
    "source": "City of Sydney"
@@ -11879,6 +11709,26 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-dinner-at-altitude-shangri-la-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1784013531/k7h9gk6i1z6d/6Blw1MOhlAsk86fXYxzm6l/df075991-7f53-11f1-84e7-fd8a67315424--Christmas-Dinner-at-Altitude--Shangri-La-Sydney-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Christmas Day at Infinity by Mark Best (Sydney Tower)",
+   "date": "2026-12-25",
+   "time": "",
+   "venue": "Sydney Tower",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-day-at-infinity-by-mark-best-sydney-tower",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792715413/k7h9gk6i1z6d/mLF7W30oIzOdABtbsKXFv/67742ba1-ce78-11f1-9a49-45649bee5370--Christmas-Day-at-Infinity-by-Mark-Best--Sydney-Tower--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Christmas Day Lunch @ Yallamundi Rooms - Sydney Opera House",
+   "date": "2026-12-25",
+   "time": "",
+   "venue": "Sydney Opera House",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-day-lunch-yallamundi-rooms-sydney-opera-house",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790655565/k7h9gk6i1z6d/3mvv0LjIZSO71HLKWHCu8I/0a3a7371-bbba-11f1-822b-1509b982782c--Christmas-Day-Lunch---Yallamundi-Rooms---Sydney-Opera-House-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -11939,6 +11789,16 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-cheer-before-the-kings-take-the-court",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790559059/k7h9gk6i1z6d/3LLtgVAeK8LagsN6bidG9L/3956b030-badc-11f1-a85d-4bcefc24e77a--Christmas-Cheer-Before-the-Kings-Take-the-Court-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Christmas Day at Skyfeast Sydney Tower",
+   "date": "2026-12-25",
+   "time": "",
+   "venue": "Sydney Tower",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-day-at-skyfeast-sydney-tower",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792714391/k7h9gk6i1z6d/5Eg0cFjIY8Q9MPog1pS7Zh/5f46d891-ce75-11f1-9c50-8fc2e702b0c3--Christmas-Day---Skyfeast-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -12092,56 +11952,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "New Year's Eve at Fitzroy Dining Room",
-   "date": "2026-12-31",
-   "time": "",
-   "venue": "The Old Fitzroy Hotel",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-at-fitzroy-dining-room",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791409657/k7h9gk6i1z6d/38pScLnaG8uzgI1PlKImVG/817d3501-c298-11f1-a006-97f642fa3bdf--New-Year-s-Eve-at-Fitzroy-Dining-Room-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "New Year's Eve Soirée at View Sydney",
-   "date": "2026-12-31",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-soiree-view-sydney",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789957336/k7h9gk6i1z6d/2mTkITNgi0yLPgNDZnOaa7/b91acd81-b562-11f1-af2e-f368efc9691f--New-Year-s-Eve-Soir-e-at-View-Sydney-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "NYE at Blu Bar on 36, Shangri-La Sydney",
-   "date": "2026-12-31",
-   "time": "",
-   "venue": "Shangri-La Hotel",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nye-at-blu-bar-on-36-shangri-la-sydney",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775800042/k7h9gk6i1z6d/5UVs4yz1MBYlreHyGN5uWT/78877130-34a0-11f1-bbfd-870249be6ffd--NYE-at-Blu-Bar-on-36--Shangri-La-Sydney-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "NYE at Jacksons on George",
-   "date": "2026-12-31",
-   "time": "",
-   "venue": "Circular Quay",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nye-at-jacksons-on-george",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789443626/k7h9gk6i1z6d/61GcemP5dis7gnigsrL6en/9c16b8e1-b0b5-11f1-8a39-3f159a12f0d5--NYE---Jacksons-on-George---Fireworks-at-Circular-Quay-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Watsons Bay Hotel - New Year's Eve 2026",
-   "date": "2026-12-31",
-   "time": "",
-   "venue": "Watsons Bay Boutique Hotel",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/watsons-bay-hotel-new-years-eve-2026",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789524924/k7h9gk6i1z6d/4cCERBi9FoamTz1mCE8zCS/ad0027e1-b173-11f1-8735-730a75b77a47--Watsons-Bay-Hotel-New-Year-s-Eve-2026-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "New Year's Eve Party onboard Starship Sydney",
    "date": "2026-12-31",
    "time": "",
@@ -12202,6 +12012,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "New Year's Eve Cruise on Sydney Harbour: Bass & Flinders",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-cruise-on-sydney-harbour-bass-and-flinders",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1766102765/k7h9gk6i1z6d/4y7aKkgO8SeT4WhXccKnV9/78dc7d61-dc6c-11f0-9c28-e92a9afab036--New-Years-Eve-Cruise-on-Sydney-Harbour--Bass---Flinders-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "New Year’s Eve Extravaganza at Elements Bar & Grill WalshBay",
    "date": "2026-12-31",
    "time": "",
@@ -12242,6 +12062,26 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "New Years Eve 2026 @ Infinity by Mark best (Sydney Tower)",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "Sydney Tower",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-2026-infinity-by-mark-best-sydney-tower",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792716471/k7h9gk6i1z6d/4PHEEW57UtdE0i5okHhouk/e39762f1-ce79-11f1-bb35-1bee205c9ef1--New-Years-Eve-2026---Infinity-by-Mark-best--Sydney-Tower--tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "NYE at SkyFeast - Sydney Tower",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "Sydney Tower",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nye-at-skyfeast-at-sydney-tower",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1666655497/k7h9gk6i1z6d/110mSYpMIyUoNJwkAnfecx/683531a1-3aaa-11eb-be7a-2b0971c243c4--NYE-at-SkyFeast-at-Sydney-Tower-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "NYE26 Sydney Spectacular aboard Steam Launch Lady Hopetoun",
    "date": "2026-12-31",
    "time": "",
@@ -12269,6 +12109,16 @@ window.EVENT_DATA = {
    "category": "Tours & Walks",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/nye26-sydney-spectacular-on-the-tall-ship-james-craig-1874",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1788410231/k7h9gk6i1z6d/6RoR2VhfNrpae9MxIYUYf7/8e0aa2c1-a750-11f1-a29c-c1f73d2c0c52--NYE26-Sydney-Spectacular-on-the-Tall-Ship--James-Craig-1874-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Ring in the New Year at Sydney Tower Eye",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "Sydney Tower",
+   "category": "Tours & Walks",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/ring-in-the-new-year-at-sydney-tower-eye",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792714250/k7h9gk6i1z6d/6vLFZZSbcEE71UcIDeESYK/dc806941-ce73-11f1-adff-ffafea82b32e--Ring-in-the-New-Year-at-Sydney-Tower-Eye--tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -12422,6 +12272,16 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
+   "name": "New Year's Eve 2026 at Bar 83 - Sydney Tower",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "Sydney Tower",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nye-at-bar-83-in-sydney-tower",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1666655817/k7h9gk6i1z6d/7x0yKpvrLY47wx1G9WKfnq/40a8b931-3aab-11eb-9052-af5d6db98113--Bar-83-at-Sydney-Tower-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "New Year's Eve and Fireworks at Jounieh",
    "date": "2026-12-31",
    "time": "",
@@ -12439,6 +12299,36 @@ window.EVENT_DATA = {
    "category": "Food & Drink",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-at-altitude-shangri-la-sydney",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775799621/k7h9gk6i1z6d/6o46t9p2cyacPOzeENSi3T/621fc650-349f-11f1-b73f-ff3f8964df02--New-Year-s-Eve-at-Altitude--Shangri-La-Sydney-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "New Year's Eve at Fitzroy Dining Room",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "The Old Fitzroy Hotel",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-at-fitzroy-dining-room",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791409657/k7h9gk6i1z6d/38pScLnaG8uzgI1PlKImVG/817d3501-c298-11f1-a006-97f642fa3bdf--New-Year-s-Eve-at-Fitzroy-Dining-Room-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "NYE at Blu Bar on 36, Shangri-La Sydney",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "Shangri-La Hotel",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nye-at-blu-bar-on-36-shangri-la-sydney",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1775800042/k7h9gk6i1z6d/5UVs4yz1MBYlreHyGN5uWT/78877130-34a0-11f1-bbfd-870249be6ffd--NYE-at-Blu-Bar-on-36--Shangri-La-Sydney-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "NYE at Jacksons on George",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "Circular Quay",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/nye-at-jacksons-on-george",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789443626/k7h9gk6i1z6d/61GcemP5dis7gnigsrL6en/9c16b8e1-b0b5-11f1-8a39-3f159a12f0d5--NYE---Jacksons-on-George---Fireworks-at-Circular-Quay-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -12492,23 +12382,23 @@ window.EVENT_DATA = {
    "source": "City of Sydney"
   },
   {
-   "name": "New Year’s Eve: Opera at Sydney Opera House",
-   "date": "2026-12-31",
-   "time": "",
-   "venue": "Sydney Opera House",
-   "category": "Nightlife & Electronic",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-opera-gala-concert-at-sydney-opera-house",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1749181782/k7h9gk6i1z6d/63HEnYLkpxfO2tIOJ5rv0F/7b01f770-4287-11f0-93f6-a5ba23b376f0--New-Year-s-Eve-Opera-Gala-Concert-at-Sydney-Opera-House-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "New Year's Eve at Darling Harbour",
    "date": "2026-12-31",
    "time": "",
    "venue": "Darling Harbour",
-   "category": "Nightlife & Electronic",
+   "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-at-darling-harbour",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1764024332/k7h9gk6i1z6d/3XwqHf6yWag2jcmttLxnWZ/b15650b1-c986-11f0-8349-3d60c4325fdf--New-Year-s-Eve-at-Darling-Harbour-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "New Year’s Eve: Opera at Sydney Opera House",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "Sydney Opera House",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-opera-gala-concert-at-sydney-opera-house",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1749181782/k7h9gk6i1z6d/63HEnYLkpxfO2tIOJ5rv0F/7b01f770-4287-11f0-93f6-a5ba23b376f0--New-Year-s-Eve-Opera-Gala-Concert-at-Sydney-Opera-House-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -12519,6 +12409,26 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-at-the-oriana",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789355129/k7h9gk6i1z6d/7bRtnKi9GEzurDQ9I1TwdL/dfa1b8e0-afe7-11f1-afeb-1d52597e8808--New-Year-s-eve-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "New Year's Eve Soirée at View Sydney",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "See listing",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-soiree-view-sydney",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789957336/k7h9gk6i1z6d/2mTkITNgi0yLPgNDZnOaa7/b91acd81-b562-11f1-af2e-f368efc9691f--New-Year-s-Eve-Soir-e-at-View-Sydney-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Watsons Bay Hotel - New Year's Eve 2026",
+   "date": "2026-12-31",
+   "time": "",
+   "venue": "Watsons Bay Boutique Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/watsons-bay-hotel-new-years-eve-2026",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789524924/k7h9gk6i1z6d/4cCERBi9FoamTz1mCE8zCS/ad0027e1-b173-11f1-8735-730a75b77a47--Watsons-Bay-Hotel-New-Year-s-Eve-2026-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -12602,16 +12512,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Watsons Bay Hotel - New Year's Day 2027",
-   "date": "2027-01-01",
-   "time": "",
-   "venue": "Watsons Bay Boutique Hotel",
-   "category": "Other Music",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/watsons-bay-hotel-new-years-day-2027",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789950651/k7h9gk6i1z6d/5ou0DrsRpOoUa6B8l4Njgw/71793d41-b553-11f1-b61c-51d5ceaa48f2--Watsons-Bay-Hotel---New-Year-s-Day-2027-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "New Year's Eve All Inclusive Harbour Cruise: Zahara",
    "date": "2027-01-01",
    "time": "",
@@ -12619,6 +12519,16 @@ window.EVENT_DATA = {
    "category": "Tours & Walks",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/new-years-eve-all-inclusive-harbour-cruise-zahara",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785758650/k7h9gk6i1z6d/7LaG2aUwVXPjB7WKCKce4w/c6df8471-8f32-11f1-a740-81729c5d8c3b--New-Year-s-Eve-All-Inclusive-Harbour-Cruise--Zahara-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Watsons Bay Hotel - New Year's Day 2027",
+   "date": "2027-01-01",
+   "time": "",
+   "venue": "Watsons Bay Boutique Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/watsons-bay-hotel-new-years-day-2027",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789950651/k7h9gk6i1z6d/5ou0DrsRpOoUa6B8l4Njgw/71793d41-b553-11f1-b61c-51d5ceaa48f2--Watsons-Bay-Hotel---New-Year-s-Day-2027-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -12640,6 +12550,26 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/loose-ends-new-year-party/201694",
    "image": "https://static.moshtix.com.au/uploads/dde15b5a-7f3c-408f-8d8d-f132fb445193x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "La Bohème",
+   "date": "2027-01-02",
+   "time": "",
+   "venue": "Sydney Opera House",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/la-boheme",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1790745803/k7h9gk6i1z6d/B1uu3cpESoexAzEQBseBy/12544801-bc8d-11f1-9bd0-572aaebef781--La-Boh-me-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Shawshank Redemption",
+   "date": "2027-01-02",
+   "time": "",
+   "venue": "Theatre Royal Sydney",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-shawshank-redemption",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1786952533/k7h9gk6i1z6d/43USaMffJNc1hHEAK567m/cfb89971-9a0d-11f1-acfe-2f499dce30a2--The-Shawshank-Redemption-tile.jpg",
+   "source": "City of Sydney"
   },
   {
    "name": "La Boheme",
@@ -12726,7 +12656,7 @@ window.EVENT_DATA = {
    "date": "2027-01-08",
    "time": "",
    "venue": "City Recital Hall",
-   "category": "Classical & Opera",
+   "category": "Nightlife & Electronic",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/ali-sethi",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792368218/k7h9gk6i1z6d/45MTr3hXmu7JhSUqYe6Q2L/36ca5d11-cb50-11f1-94c0-4f188079b1ee--Ali-Sethi-tile.jpg",
    "source": "City of Sydney"
@@ -12752,16 +12682,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "The Others",
-   "date": "2027-01-09",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-others",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792368467/k7h9gk6i1z6d/1e9UCuRF8LvLFY8rM8EZLO/e229abc1-cb50-11f1-91e9-7f289013950b--The-Others-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Hook's Neverland",
    "date": "2027-01-09",
    "time": "",
@@ -12769,6 +12689,16 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/hooks-neverland",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1789436273/k7h9gk6i1z6d/39mSW47IIAWYVuDYfVqhnG/ea293410-b0a4-11f1-9196-5fb39b89ff80--Hook-s-Neverland-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Others",
+   "date": "2027-01-09",
+   "time": "",
+   "venue": "City Recital Hall",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-others",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792368467/k7h9gk6i1z6d/1e9UCuRF8LvLFY8rM8EZLO/e229abc1-cb50-11f1-91e9-7f289013950b--The-Others-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -12862,6 +12792,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Villa Coco by Andrew Sean Greer",
+   "date": "2027-01-14",
+   "time": "",
+   "venue": "See listing",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/villa-coco-by-andrew-sean-greer",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791540199/k7h9gk6i1z6d/1LUXhXQ2uXOTZkQrwQNj0O/8c92ea30-c3c8-11f1-bc94-25709eb31efb--Villa-Coco-by-Andrew-Sean-Greer-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Matt Mathews: Not What I Ordered World Tour",
    "date": "2027-01-14",
    "time": "19:00",
@@ -12892,16 +12832,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Wasia Project",
-   "date": "2027-01-15",
-   "time": "",
-   "venue": "City Recital Hall",
-   "category": "Classical & Opera",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/wasia-project",
-   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792368704/k7h9gk6i1z6d/5k6wYzYJdFuDtORUmYORyy/66648811-cb51-11f1-adee-3f354a24fcac--Wasia-Project-tile.jpg",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Sydney Smash | Sydney Sixers v Sydney Thunder",
    "date": "2027-01-15",
    "time": "",
@@ -12909,6 +12839,16 @@ window.EVENT_DATA = {
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-smash-or-sydney-sixers-v-sydney-thunder",
    "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1785899450/k7h9gk6i1z6d/1YX5nhPc7OFR8AN5NwfTKy/fac5c170-907a-11f1-932d-451959fc7c1a--Sydney-Smash---Sydney-Sixers-v-Sydney-Thunder-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Wasia Project",
+   "date": "2027-01-15",
+   "time": "",
+   "venue": "City Recital Hall",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/wasia-project",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792368704/k7h9gk6i1z6d/5k6wYzYJdFuDtORUmYORyy/66648811-cb51-11f1-adee-3f354a24fcac--Wasia-Project-tile.jpg",
    "source": "City of Sydney"
   },
   {
@@ -13060,6 +13000,66 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/honestav-sweet-american-boy-tour/196689",
    "image": "https://static.moshtix.com.au/uploads/b9bd7e36-586a-4d2c-b93e-bc8e44838254x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Breathing Archive",
+   "date": "2027-01-21",
+   "time": "",
+   "venue": "Eternity Playhouse",
+   "category": "Stage & Screen",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/breathing-archive",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1791267969/k7h9gk6i1z6d/1VUfmj3MvRZvTeUfsLolPQ/48ca9fb1-c14c-11f1-808c-611e3be0ec9d--Breathing-Archive-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "The Orpheum Jazz Lounge: Leah Berry Quartet",
+   "date": "2027-01-21",
+   "time": "",
+   "venue": "Hayden Orpheum Picture Palace",
+   "category": "Nightlife & Electronic",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-orpheum-jazz-lounge-leah-berry-quartet",
+   "image": "https://res.cloudinary.com/cityofsydney/image/upload/w_600,f_auto,q_auto/v1792553525/k7h9gk6i1z6d/5gUcf6RIrNg7kQEVh22wZh/cc458171-ccff-11f1-a1a1-4fb28c015ec0--The-Orpheum-Jazz-Lounge--Leah-Berry-Quartet-tile.jpg",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Lvl 1 - 5 SIDED CUBE + FLUX STATE+  DINK",
+   "date": "2027-01-21",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-5-sided-cube-flux-state-dink/200134",
+   "image": "https://static.moshtix.com.au/uploads/703b7818-8691-4248-9736-da2ec8d27557x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Beans on Toast Australian Tour 2027",
+   "date": "2027-01-21",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/beans-on-toast-australian-tour-2027/200174",
+   "image": "https://static.moshtix.com.au/uploads/ab63cfd4-da15-4366-92db-419e086fd0ebx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Bespoke",
+   "date": "2027-01-21",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/bespoke/201211",
+   "image": "https://static.moshtix.com.au/uploads/b37e3091-844a-43af-9098-5932bc688e3dx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "The Magic Flute",
+   "date": "2027-01-21",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-21-01-2027/event/13006531B1B85887",
+   "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   }
  ]
 };
