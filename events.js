@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-04T23:00:20.241Z",
+ "generated": "2026-11-05T23:01:37.546Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -22,76 +22,6 @@ window.EVENT_DATA = {
  ],
  "events": [
   {
-   "name": "Jazz Wednesdays - A Midweek Taste of Paris (free entry)",
-   "date": "2026-11-04",
-   "time": "17:30",
-   "venue": "Cardea Barangaroo",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/jazz-wednesdays-a-midweek-taste-of-paris-free-entry-/202187",
-   "image": "https://static.moshtix.com.au/uploads/6b2ec6b1-cd80-4b85-9c3e-d10c8731fd5fx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Bang Strutt",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/bang-strutt/199790",
-   "image": "https://static.moshtix.com.au/uploads/37ff0908-ae5c-4129-8efb-207d61ec3465x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Lvl 1 - Uncomfortable Science + DJ Undydog",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/lvl-1-uncomfortable-science-dj-undydog/200795",
-   "image": "https://static.moshtix.com.au/uploads/933e30b7-a063-4581-989d-143cac583070x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Sheaf Wednesdays | HSC AFTERPARTY 'w' ARIA",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "venue": "The Golden Sheaf",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/sheaf-wednesdays-hsc-afterparty-w-aria/201962",
-   "image": "https://static.moshtix.com.au/uploads/10ba1d50-9359-4c28-9184-50b99e6829a0x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "METRO A.i.R X FINND: SOL RADIO",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "venue": "Metro Social",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/metro-a-i-r-x-finnd-sol-radio/202001",
-   "image": "https://static.moshtix.com.au/uploads/9ba00610-46c8-4dcf-baec-5ac295d113a3x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "#1 DADS",
-   "date": "2026-11-04",
-   "time": "20:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/-1-dads/199094",
-   "image": "https://static.moshtix.com.au/uploads/3333ce2f-d661-45d2-bdea-180a65f47403x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Point & Shoot Australian Veteran Photography Exhibition",
-   "date": "2026-11-04",
-   "time": "22:00",
-   "venue": "Anzac Memorial",
-   "category": "Other",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
-   "source": "City of Sydney"
-  },
-  {
    "name": "VELVET SAX: Live Saxophone Every Thursday (Free Entry)",
    "date": "2026-11-05",
    "time": "17:30",
@@ -112,16 +42,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "ODETTE ‘BLINK’ TOUR 2026",
-   "date": "2026-11-05",
-   "time": "19:00",
-   "venue": "Oxford Art Factory",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/odette-blink-tour-2026/199155",
-   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "L1 - Lazy Arcade + Bouncer Fodder + waiyo & macska",
    "date": "2026-11-05",
    "time": "19:00",
@@ -139,6 +59,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/breaking-sound-ft-for-your-safety-sprawler-overboard-dagger-child/197908",
    "image": "https://static.moshtix.com.au/uploads/7f7e3522-a390-4896-990b-715bd938e586x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "ODETTE ‘BLINK’ TOUR 2026",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/odette-blink-tour-2026/199155",
+   "image": "https://static.moshtix.com.au/uploads/c61d2891-47e4-4d2c-9c87-f71647d2d18dx140x140",
    "source": "Moshtix"
   },
   {
@@ -162,24 +92,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Andres Cepeda - Bogota: La Gira",
-   "date": "2026-11-05",
-   "time": "20:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Other Music",
-   "url": "https://www.ticketmaster.com.au/andres-cepeda-bogota-la-gira-sydney-05-11-2026/event/130065278DAE1AA7",
-   "image": "https://s1.ticketm.net/dam/a/e44/919de220-35e2-43e6-9cfd-4f9865bbce44_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "#1 DADS",
    "date": "2026-11-05",
    "time": "20:00",
-   "venue": "Lansdowne Hotel",
+   "venue": "The Lansdowne Hotel, Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-1-dads/198561",
-   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
+   "image": "https://static.moshtix.com.au/uploads/1153d6bb-c464-4f14-90be-4b1bcd4566efx140x140",
+   "source": "Moshtix"
   },
   {
    "name": "ivy Thursdays - 5th November",
@@ -190,6 +110,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-5th-november/201608",
    "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Point & Shoot Australian Veteran Photography Exhibition",
+   "date": "2026-11-05",
+   "time": "22:00",
+   "venue": "Anzac Memorial",
+   "category": "Other",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
+   "source": "City of Sydney"
   },
   {
    "name": "Barangaroo Markets",
@@ -248,7 +178,7 @@ window.EVENT_DATA = {
    "venue": "Lazybones Lounge Restaurant & Bar",
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/the-reflection-80-s-new-wave-anthems/193791",
-   "image": "https://static.moshtix.com.au/uploads/6bc47251-9fb2-47ad-be28-91d65d05bad1x140x140",
+   "image": "https://static.moshtix.com.au/uploads/d1186b75-8acb-4e09-bad6-07fc7c5bb0a4x140x140",
    "source": "Moshtix"
   },
   {
@@ -302,12 +232,12 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Kim Churchill Live at Beach Road, Bondi",
+   "name": "CANCELLED | Kim Churchill Live at Beach Road, Bondi",
    "date": "2026-11-06",
    "time": "19:30",
    "venue": "Beach Road Hotel",
    "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/kim-churchill-live-at-beach-road-bondi/199185",
+   "url": "https://www.moshtix.com.au/v2/event/cancelled-kim-churchill-live-at-beach-road-bondi/199185",
    "image": "https://static.moshtix.com.au/uploads/e7bc28da-7bba-4676-804f-75c86b308342x140x140",
    "source": "Moshtix"
   },
@@ -2962,6 +2892,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLAT + ANDRE ZIMMER + PARTIGIRL",
+   "date": "2026-11-27",
+   "time": "21:00",
+   "venue": "Chinese Laundry",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allat-andre-zimmer-partigirl/202257",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Albion Fridays presents Traffic Light Party",
    "date": "2026-11-27",
    "time": "21:00",
@@ -3402,6 +3342,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Step In Blood ‘The Art Of Blood’ Album Launch",
+   "date": "2026-11-29",
+   "time": "20:00",
+   "venue": "Elton chong",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/step-in-blood-the-art-of-blood-album-launch/202247",
+   "image": "https://static.moshtix.com.au/uploads/efac60cb-659a-485f-ab06-7703162a590cx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "ANN WILSON & TRIPSITTER - The Voice Of Heart",
    "date": "2026-11-30",
    "time": "19:30",
@@ -3799,6 +3749,26 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/baile-inolvidable-bad-bunny-appreciation-party-sydney/201595",
    "image": "https://static.moshtix.com.au/uploads/dcc97375-9b60-4738-9f5b-6743e68db773x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Albion Fridays presents December Babies",
+   "date": "2026-12-04",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-presents-december-babies/202341",
+   "image": "https://static.moshtix.com.au/uploads/c2d7b682-48a5-4aa3-ad11-91658a6a52e5x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "CLUBHAUS x The Door List: The Factory Party",
+   "date": "2026-12-04",
+   "time": "22:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/clubhaus-x-the-door-list-the-factory-party/202332",
+   "image": "https://static.moshtix.com.au/uploads/5279ed49-4b3f-4592-a68d-4ef6351c01a3x140x140",
    "source": "Moshtix"
   },
   {
@@ -4212,6 +4182,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "The Artist Studio Academy Showcase - 9 Dec",
+   "date": "2026-12-09",
+   "time": "18:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/the-artist-studio-academy-showcase-9-dec/202036",
+   "image": "https://static.moshtix.com.au/uploads/ec18301d-7e99-43ef-acaa-5dc7f6efc9f0x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Wankernomics: Show_v4.1_Final_USETHIS",
    "date": "2026-12-09",
    "time": "19:00",
@@ -4419,6 +4399,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/jigitz-australian-tour-2026-/199181",
    "image": "https://static.moshtix.com.au/uploads/4b021ccf-8ddb-49b6-bbcd-79a9fb6c51d9x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Albion Fridays ft. RNB Sing Alongs",
+   "date": "2026-12-11",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-rnb-sing-alongs/202342",
+   "image": "https://static.moshtix.com.au/uploads/55c5ea4b-d9ea-4869-8e3c-0f10e7623cb4x140x140",
    "source": "Moshtix"
   },
   {
@@ -4762,6 +4752,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-12-14",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-14-12-2026/event/1300635BF0BA9FBB",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Lvl 1 - Risby(s)/Gander/Koopman Project",
    "date": "2026-12-14",
    "time": "18:00",
@@ -4850,6 +4850,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-16-12-2026/event/2500651AE17B5F3E",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "The Artist Studio Academy Showcase  - 16 Dec",
+   "date": "2026-12-16",
+   "time": "18:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/the-artist-studio-academy-showcase-16-dec/202038",
+   "image": "https://static.moshtix.com.au/uploads/c8100eff-c827-47c7-afcd-0d31652763fex140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Vinyl Night with Special Guest Robbie Buck on Level 1",
@@ -5022,6 +5032,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Albion Fridays ft. Boycey",
+   "date": "2026-12-18",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-boycey/202343",
+   "image": "https://static.moshtix.com.au/uploads/bbe2b1df-018c-4d3e-8519-e1a440113adex140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Wundrful World Of Christmas",
    "date": "2026-12-19",
    "time": "",
@@ -5099,6 +5119,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/sf-wrens-dance-single-release-w-versace-boys-monstress/201840",
    "image": "https://static.moshtix.com.au/uploads/475cd4e4-1748-458c-85c1-c40feb8f74b3x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Sea, You and Tea: Mad Tea Party",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "venue": "Bootleggers",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/sea-you-and-tea-mad-tea-party/202266",
+   "image": "https://static.moshtix.com.au/uploads/43c30d85-ddae-4f4f-81c1-9ec878d67c8bx140x140",
    "source": "Moshtix"
   },
   {
@@ -5192,6 +5222,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-12-21",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-21-12-2026/event/1300635BF0BB9FC7",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Nic Jeffries’ Funkin’ Soul Review",
    "date": "2026-12-21",
    "time": "18:00",
@@ -5209,6 +5249,16 @@ window.EVENT_DATA = {
    "category": "Other",
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-22-12-2026/event/2500651AE17D5F4E",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2026-12-22",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-22-12-2026/event/1300635BF0BB9FCD",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
   },
   {
@@ -5478,8 +5528,18 @@ window.EVENT_DATA = {
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-ivy-lab-farewell-tour-/202298",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Lost Sundays Block Party - January 3 ft. Ewan McVicar, Faster Horses, Riordan, Anetha, Benwal, Supergloss, DART, Helena Lauwaert, Soul Mass Transit System & more",
+   "date": "2027-01-03",
+   "time": "14:00",
+   "venue": "ivy Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/lost-sundays-block-party-january-3-ft-ewan-mcvicar-faster-horses-riordan-anetha-benwal-supergloss-dart-helena-lauwaert-soul-mass-transit-system-more/202316",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "After",
@@ -5568,8 +5628,8 @@ window.EVENT_DATA = {
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-dj-zinc-uk-/202299",
-   "image": "https://static.moshtix.com.au/uploads/f66363c9-ced1-4f5f-8268-7cc57bc4c2b0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Hook's Neverland",
@@ -6022,6 +6082,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Touch of Funk",
+   "date": "2027-01-23",
+   "time": "19:00",
+   "venue": "Oxford Art Factory, Whole Venue",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/touch-of-funk/202264",
+   "image": "https://static.moshtix.com.au/uploads/63f5b571-c0b3-4ac9-ad25-d721fe811e9dx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Troy Hawke - Never Stop, Never Change!",
    "date": "2027-01-23",
    "time": "19:30",
@@ -6260,6 +6330,26 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-02-02-2027/event/13006531B1B958CD",
    "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "La Boheme",
+   "date": "2027-02-03",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/la-boheme-sydney-03-02-2027/event/130065319D343CA4",
+   "image": "https://s1.ticketm.net/dam/a/e00/be278740-5cf8-4eb0-be44-c09aa0f3fe00_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Corrella",
+   "date": "2027-02-03",
+   "time": "19:30",
+   "venue": "Beach Road Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/corrella/200672",
+   "image": "https://static.moshtix.com.au/uploads/76cd59f0-0bb6-404e-bdac-972773618f46x140x140",
+   "source": "Moshtix"
   }
  ]
 };
