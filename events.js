@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-08T21:28:44.977Z",
+ "generated": "2026-11-10T00:58:49.534Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -21,106 +21,6 @@ window.EVENT_DATA = {
   "Other"
  ],
  "events": [
-  {
-   "name": "Leyla Sabo *ALL AGES*",
-   "date": "2026-11-08",
-   "time": "14:00",
-   "venue": "The Vanguard",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/leyla-sabo-all-ages-/200682",
-   "image": "https://static.moshtix.com.au/uploads/5a92298a-0987-444e-806e-f67d06f76c45x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Freeform Open Air → Midland / Galcher Lustwerk / Adi Toohey b2b Lauren Hansom",
-   "date": "2026-11-08",
-   "time": "15:00",
-   "venue": "Poor Tom's Oltra",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/freeform-open-air-midland-galcher-lustwerk-adi-toohey-b2b-lauren-hansom/201456",
-   "image": "https://static.moshtix.com.au/uploads/6ba9f5ef-9032-4e6e-bb89-a0892e3bcf36x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "MK",
-   "date": "2026-11-08",
-   "time": "16:00",
-   "venue": "ivy",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/mk/200659",
-   "image": "https://static.moshtix.com.au/uploads/2a2a542a-2536-4d51-a720-9f5ce99a0bcbx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Celia Pacquola - Gift Horse | 4:30pm & 7:00pm",
-   "date": "2026-11-08",
-   "time": "16:30",
-   "venue": "Sydney Opera House - Joan Sutherland Theatre",
-   "category": "Comedy",
-   "url": "https://www.moshtix.com.au/v2/event/celia-pacquola-gift-horse-4-30pm-7-00pm/200529",
-   "image": "https://static.moshtix.com.au/uploads/75d9d8e1-be2d-44c5-8b37-c31ee353e02ax140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Platinum Elvis on Tour",
-   "date": "2026-11-08",
-   "time": "17:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/platinum-elvis-on-tour/190772",
-   "image": "https://static.moshtix.com.au/uploads/57b858ef-a6c7-468b-aa6d-f5e50dd84913x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "BARREL OF LAUGHS - COMEDY NIGHT",
-   "date": "2026-11-08",
-   "time": "18:00",
-   "venue": "Felons Barrel Room",
-   "category": "Comedy",
-   "url": "https://www.moshtix.com.au/v2/event/barrel-of-laughs-comedy-night/201411",
-   "image": "https://static.moshtix.com.au/uploads/75f07e7e-afe0-409a-b236-60551636d785x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Point & Shoot Australian Veteran Photography Exhibition",
-   "date": "2026-11-08",
-   "time": "22:00",
-   "venue": "Anzac Memorial",
-   "category": "Other",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "The Jack Earle Big Band",
-   "date": "2026-11-09",
-   "time": "18:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/the-jack-earle-big-band/200693",
-   "image": "https://static.moshtix.com.au/uploads/45060dca-e18f-445c-9c0f-69762dab4d67x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "The Spare Keys",
-   "date": "2026-11-09",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Stage & Screen",
-   "url": "https://www.moshtix.com.au/v2/event/the-spare-keys/199784",
-   "image": "https://static.moshtix.com.au/uploads/3bbd2b0d-ea75-4a65-9c4f-ceabba81a230x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Greg Davies: Full Fat Legend",
-   "date": "2026-11-09",
-   "time": "20:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Stage & Screen",
-   "url": "https://www.ticketmaster.com.au/greg-davies-full-fat-legend-sydney-09-11-2026/event/13006454CD9CC6C4",
-   "image": "https://s1.ticketm.net/dam/a/9e9/ce8ea1f3-1f2a-4f39-a965-03d01482a9e9_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
   {
    "name": "Dulwich High School of Visual Arts & Design Presents: Ensembles Night",
    "date": "2026-11-10",
@@ -338,7 +238,7 @@ window.EVENT_DATA = {
    "venue": "The Bridge Hotel",
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/steel-assassins-2026-two-day-pass/195538",
-   "image": "https://static.moshtix.com.au/uploads/d6cd26cd-c833-4ce6-8997-d09d8dbf38f6x140x140",
+   "image": "https://static.moshtix.com.au/uploads/8117f3c0-235b-4f5d-805d-ce2e854db389x140x140",
    "source": "Moshtix"
   },
   {
@@ -348,7 +248,7 @@ window.EVENT_DATA = {
    "venue": "The Bridge Hotel",
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-1/195544",
-   "image": "https://static.moshtix.com.au/uploads/85f4d543-4f9b-48a0-b703-f1d7f97aaf2cx140x140",
+   "image": "https://static.moshtix.com.au/uploads/9065d05d-ec83-471d-96e1-1b4d24f7f0dax140x140",
    "source": "Moshtix"
   },
   {
@@ -418,7 +318,7 @@ window.EVENT_DATA = {
    "venue": "Lazybones Lounge Restaurant & Bar",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/cuban-social-club/200245",
-   "image": "https://static.moshtix.com.au/uploads/0420b1b6-56b6-4992-9f51-11760f9a234cx140x140",
+   "image": "https://static.moshtix.com.au/uploads/1b77a783-0716-4b5d-b98f-76babaf3680ex140x140",
    "source": "Moshtix"
   },
   {
@@ -429,6 +329,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/flow-kobra-bootleggers-w-all-regards-akira-slide-face-the-martyr/200697",
    "image": "https://static.moshtix.com.au/uploads/3d2d4c0f-d582-47bc-9c71-4a430b2be614x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Lvl 1 - Old School Funk & Groove - Fri 13 Nov",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-old-school-funk-groove-fri-13-nov/202472",
+   "image": "https://static.moshtix.com.au/uploads/31d4e91c-f6d5-4698-9fdd-c38869dbb9eex140x140",
    "source": "Moshtix"
   },
   {
@@ -762,12 +672,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry | November 14",
+   "name": "Chinese Laundry Invites DJANGO [NL] + CASUAL P & FRIENDS FT. C100 ",
    "date": "2026-11-14",
    "time": "21:00",
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-november-14/201912",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-django-nl-casual-p-friends-ft-c100/201912",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
@@ -1302,6 +1212,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Lvl 1 - Old School Funk & Groove - Fri 20 Nov",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-old-school-funk-groove-fri-20-nov/202488",
+   "image": "https://static.moshtix.com.au/uploads/31d4e91c-f6d5-4698-9fdd-c38869dbb9eex140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Louis The Child | Sydney",
    "date": "2026-11-20",
    "time": "19:30",
@@ -1382,12 +1302,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry Invites AHADADREAM + JESSE MASS [NL]",
+   "name": "Chinese Laundry Invites JESSE MASS [NL] + AHADADREAM",
    "date": "2026-11-20",
    "time": "21:00",
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-ahadadream-jesse-mass-nl-/201671",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-jesse-mass-nl-ahadadream/201671",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
@@ -1612,6 +1532,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Lvl 1 - Old School Funk & Groove - Sat 21 Nov",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-old-school-funk-groove-sat-21-nov/202489",
+   "image": "https://static.moshtix.com.au/uploads/31d4e91c-f6d5-4698-9fdd-c38869dbb9eex140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Carl Barron: Just Wondering Why",
    "date": "2026-11-21",
    "time": "20:00",
@@ -1652,12 +1582,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry Invites RIRIA",
+   "name": "Chinese Laundry Invites RIRIA [JP] + LUCA GARCIA [DE]",
    "date": "2026-11-21",
    "time": "21:00",
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-riria/201673",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-riria-jp-luca-garcia-de-/201673",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
@@ -1758,7 +1688,7 @@ window.EVENT_DATA = {
    "venue": "Lazybones Lounge Restaurant & Bar",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/miles-davis-birth-of-the-cool-with-the-birth-of-the-cool-orchestra/200725",
-   "image": "https://static.moshtix.com.au/uploads/c33633a3-ddf9-46cc-91e4-7c952499defbx140x140",
+   "image": "https://static.moshtix.com.au/uploads/d48cd1f6-7317-45b0-975d-ffa20b42ccbex140x140",
    "source": "Moshtix"
   },
   {
@@ -2612,6 +2542,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "AFRODESI FT. MR SAJ (UK) - SYDNEY (LESS THAN 100 TICKETS LEFT)",
+   "date": "2026-11-28",
+   "time": "23:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/afrodesi-ft-mr-saj-uk-sydney-less-than-100-tickets-left-/202474",
+   "image": "https://static.moshtix.com.au/uploads/3475b06d-c8cf-4353-b4ac-d6592c738489x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Wundrful World Of Christmas",
    "date": "2026-11-29",
    "time": "",
@@ -2675,11 +2615,11 @@ window.EVENT_DATA = {
    "name": "Lost Sundays - November 29 ft. Morgan Seatree, Milion & NewTone",
    "date": "2026-11-29",
    "time": "16:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/lost-sundays-november-29-ft-morgan-seatree-milion-newtone/201534",
-   "image": "https://static.moshtix.com.au/uploads/6b2484b4-4539-4e65-9b08-4cfce84c726cx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Carl Barron: Just Wondering Why",
@@ -2729,6 +2669,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/don-t-change-ultimate-inxs-tribute-get-kicked-tour/197316",
    "image": "https://static.moshtix.com.au/uploads/d376c70f-1387-4388-9d3d-d65fe53c97a3x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "BARREL OF LAUGHS - COMEDY NIGHT",
+   "date": "2026-11-29",
+   "time": "18:00",
+   "venue": "Felons Barrel Room",
+   "category": "Comedy",
+   "url": "https://www.moshtix.com.au/v2/event/barrel-of-laughs-comedy-night/202508",
+   "image": "",
    "source": "Moshtix"
   },
   {
@@ -4228,7 +4178,7 @@ window.EVENT_DATA = {
    "venue": "Lazybones Lounge Restaurant & Bar",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/business-casual-does-christmas/200587",
-   "image": "https://static.moshtix.com.au/uploads/020286ec-f184-43d6-a0ac-312c89d510d2x140x140",
+   "image": "https://static.moshtix.com.au/uploads/726aaf52-20df-46c8-a7d2-02aa2715fb8ax140x140",
    "source": "Moshtix"
   },
   {
@@ -4359,6 +4309,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-latin-fusion-groove-end-of-year-party/200827",
    "image": "https://static.moshtix.com.au/uploads/822ed9e9-9def-4a0c-9b76-b40396ce0d56x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Slow Down Soldier - National EP Tour Finale",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/slow-down-soldier-national-ep-tour-finale/202464",
+   "image": "https://static.moshtix.com.au/uploads/130b2305-a191-43c3-8443-a1732ae8723bx140x140",
    "source": "Moshtix"
   },
   {
@@ -4632,6 +4592,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Lvl 1 - Zoe K Whole Experience Christmas Cabaret Party",
+   "date": "2026-12-20",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-zoe-k-whole-experience-christmas-cabaret-party/202045",
+   "image": "https://static.moshtix.com.au/uploads/ab67a72d-8f12-4759-ac18-756c522bbd6fx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Azure Ryder",
    "date": "2026-12-20",
    "time": "19:00",
@@ -4800,6 +4770,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/2026-sydney-comedy-revue-sydney-29-12-2026/event/130064F4C4B7472C",
    "image": "https://s1.ticketm.net/dam/a/3e0/af1fda16-65ac-45dd-b2f2-5819bbb393e0_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "REGGAE & SOUL NYE EVE with PAT POWELL, JO FABRO & JAMES RYAN FUNKTET!",
+   "date": "2026-12-30",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/reggae-soul-nye-eve-with-pat-powell-jo-fabro-james-ryan-funktet-/199405",
+   "image": "https://static.moshtix.com.au/uploads/7c91e52d-3d6e-46ff-98fe-cb082b0c40e7x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "New Year’s Eve: Opera at Sydney Opera House",
@@ -5515,7 +5495,7 @@ window.EVENT_DATA = {
    "name": "Touch of Funk",
    "date": "2027-01-23",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Whole Venue",
+   "venue": "Oxford Art Factory, Main Room",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/touch-of-funk/202264",
    "image": "https://static.moshtix.com.au/uploads/63f5b571-c0b3-4ac9-ad25-d721fe811e9dx140x140",
@@ -5900,6 +5880,36 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/don-t-f-k-with-disco/201632",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "2026/27 A-League Sydney FC v Melbourne City FC",
+   "date": "2027-02-07",
+   "time": "17:00",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/202627-aleague-sydney-fc-v-melbourne-sydney-07-02-2027/event/250064FFC8F094EB",
+   "image": "https://s1.ticketm.net/dam/e/53f/3de1bc76-b371-431f-8416-830eb36af53f_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Felipe Baldomir | Beach Day World Tour",
+   "date": "2027-02-07",
+   "time": "18:00",
+   "venue": "Heaps Normal Health Club",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/felipe-baldomir-beach-day-world-tour/201528",
+   "image": "https://static.moshtix.com.au/uploads/231df117-00db-4195-98f7-6b6e0ee7403bx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "ANTYTILA",
+   "date": "2027-02-07",
+   "time": "18:30",
+   "venue": "Liberty Hall",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/antytila/201454",
+   "image": "https://static.moshtix.com.au/uploads/3b832e10-710e-46dd-a6bb-fb975c6cfbeex140x140",
+   "source": "Moshtix"
   }
  ]
 };
