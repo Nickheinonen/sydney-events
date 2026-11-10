@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-10T00:58:49.534Z",
+ "generated": "2026-11-10T22:39:40.526Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -32,26 +32,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Parkway Drive: Home - Feature Documentary World Premiere",
-   "date": "2026-11-10",
-   "time": "19:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Other Music",
-   "url": "https://www.ticketmaster.com.au/parkway-drive-home-feature-documentary-world-sydney-10-11-2026/event/13006539D583E6F8",
-   "image": "https://s1.ticketm.net/dam/a/4f5/7822fb00-ed17-4ce3-8496-9239995094f5_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "Alex James' Britpop Classical Australian Tour",
-   "date": "2026-11-10",
-   "time": "19:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Other Music",
-   "url": "https://www.ticketmaster.com.au/alex-james-britpop-classical-australian-tour-sydney-10-11-2026/event/1300646FBF2681B7",
-   "image": "https://s1.ticketm.net/dam/a/3b6/6c5634d1-8a3a-486c-8ffc-88f50f3003b6_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "Lvl 1- Vinyl Night with Special Guest Cam Undy",
    "date": "2026-11-10",
    "time": "19:00",
@@ -69,6 +49,16 @@ window.EVENT_DATA = {
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
    "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/4129/images/featured-kp4wxt.webp",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Point & Shoot Australian Veteran Photography Exhibition",
+   "date": "2026-11-10",
+   "time": "22:00",
+   "venue": "Anzac Memorial",
+   "category": "Other",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
    "source": "City of Sydney"
   },
   {
@@ -362,16 +352,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "KUKO",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "venue": "Melbourne Pavilion",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/kuko/196685",
-   "image": "https://static.moshtix.com.au/uploads/a5f7d6d5-014c-4d30-84f9-9498998bb601x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Frenchy - Never Been Before",
    "date": "2026-11-13",
    "time": "19:30",
@@ -410,6 +390,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/sir-el-tom-sydney-13-11-2026/event/1300643C95FF410F",
    "image": "https://s1.ticketm.net/dam/a/6b8/b2c76b09-742b-4d7e-b385-381c547db6b8_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "KUKO",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "venue": "Melbourne Pavilion",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/kuko/196685",
+   "image": "https://static.moshtix.com.au/uploads/a5f7d6d5-014c-4d30-84f9-9498998bb601x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Sasa Matic Live with Full Band",
@@ -672,12 +662,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry Invites DJANGO [NL] + CASUAL P & FRIENDS FT. C100 ",
+   "name": "Chinese Laundry Invites REBOTAR TAKEOVER FT. DJANGO [NL] + CASUAL P & FRIENDS FT. C100 ",
    "date": "2026-11-14",
    "time": "21:00",
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-django-nl-casual-p-friends-ft-c100/201912",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-rebotar-takeover-ft-django-nl-casual-p-friends-ft-c100/201912",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
@@ -1842,13 +1832,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "METRO A.i.R X FINND: TBA",
+   "name": "METRO A.i.R X FINND: Wet Kiss, Jani Cruz & Mona Mule",
    "date": "2026-11-25",
    "time": "19:00",
    "venue": "Metro Social",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/metro-a-i-r-x-finnd-tba/202004",
-   "image": "https://static.moshtix.com.au/uploads/396b9d8f-fbab-4798-880c-293d44f819f1x140x140",
+   "url": "https://www.moshtix.com.au/v2/event/metro-a-i-r-x-finnd-wet-kiss-jani-cruz-mona-mule/202004",
+   "image": "https://static.moshtix.com.au/uploads/126ce55a-7c1d-4714-b89f-5545c2e4fbafx140x140",
    "source": "Moshtix"
   },
   {
@@ -2024,7 +2014,7 @@ window.EVENT_DATA = {
   {
    "name": "FORMA pres. Kool & The Gang + Sister Sledge ft. Sledgendary - Darling Harbour, Tumbalong Park",
    "date": "2026-11-27",
-   "time": "17:00",
+   "time": "18:00",
    "venue": "Darling Harbour - Tumbalong Park",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/forma-pres-kool-the-gang-sister-sledge-ft-sledgendary-darling-harbour-tumbalong-park/197718",
@@ -2602,16 +2592,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "FORMA pres. Lime Cordiale + Pacific Avenue & more - Darling Harbour, Tumbalong Park",
-   "date": "2026-11-29",
-   "time": "15:00",
-   "venue": "Darling Harbour - Tumbalong Park",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/forma-pres-lime-cordiale-pacific-avenue-more-darling-harbour-tumbalong-park/197722",
-   "image": "https://static.moshtix.com.au/uploads/4ef97ad4-0df3-4179-b6d6-5f9b8755c751x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Lost Sundays - November 29 ft. Morgan Seatree, Milion & NewTone",
    "date": "2026-11-29",
    "time": "16:00",
@@ -2620,6 +2600,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/lost-sundays-november-29-ft-morgan-seatree-milion-newtone/201534",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "FORMA pres. Lime Cordiale + Pacific Avenue & more - Darling Harbour, Tumbalong Park",
+   "date": "2026-11-29",
+   "time": "16:00",
+   "venue": "Darling Harbour - Tumbalong Park",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/forma-pres-lime-cordiale-pacific-avenue-more-darling-harbour-tumbalong-park/197722",
+   "image": "https://static.moshtix.com.au/uploads/4ef97ad4-0df3-4179-b6d6-5f9b8755c751x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Carl Barron: Just Wondering Why",
@@ -2872,16 +2862,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "FORMA pres. The Veronicas & Peach PRC - Darling Harbour, Tumbalong Park",
-   "date": "2026-12-03",
-   "time": "17:00",
-   "venue": "Darling Harbour - Tumbalong Park",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/forma-pres-the-veronicas-peach-prc-darling-harbour-tumbalong-park/197726",
-   "image": "https://static.moshtix.com.au/uploads/c75c1a4a-21e2-447e-a140-e201e2e8de99x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Juna - she's coming over again EP Release NZ Tour",
    "date": "2026-12-03",
    "time": "17:30",
@@ -2900,6 +2880,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/dmas-sydney-03-12-2026/event/13006495D8BB76D3",
    "image": "https://s1.ticketm.net/dam/a/d08/ee42189a-1b9d-4127-8960-c8a6af519d08_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "FORMA pres. The Veronicas & Peach PRC - Darling Harbour, Tumbalong Park",
+   "date": "2026-12-03",
+   "time": "18:00",
+   "venue": "Darling Harbour - Tumbalong Park",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/forma-pres-the-veronicas-peach-prc-darling-harbour-tumbalong-park/197726",
+   "image": "https://static.moshtix.com.au/uploads/c75c1a4a-21e2-447e-a140-e201e2e8de99x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "StorySaloon",
@@ -2962,16 +2952,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "FORMA pres. SIX60 & SUB-TRIBE - Darling Harbour, Tumbalong Park",
-   "date": "2026-12-04",
-   "time": "17:00",
-   "venue": "Darling Harbour - Tumbalong Park",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/forma-pres-six60-sub-tribe-darling-harbour-tumbalong-park/197740",
-   "image": "https://static.moshtix.com.au/uploads/7754ca2a-ba6b-4547-a259-1c1ba052fde1x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Wolf Alice | Australian Tour 2026",
    "date": "2026-12-04",
    "time": "18:00",
@@ -2980,6 +2960,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/wolf-alice-australian-tour-2026-sydney-04-12-2026/event/1300643EE746E004",
    "image": "https://s1.ticketm.net/dam/a/42d/e4bd87bb-98f3-40da-99dd-399a3215a42d_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "FORMA pres. SIX60 & SUB-TRIBE - Darling Harbour, Tumbalong Park",
+   "date": "2026-12-04",
+   "time": "18:00",
+   "venue": "Darling Harbour - Tumbalong Park",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/forma-pres-six60-sub-tribe-darling-harbour-tumbalong-park/197740",
+   "image": "https://static.moshtix.com.au/uploads/7754ca2a-ba6b-4547-a259-1c1ba052fde1x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "The 5th Annual Ogescars",
@@ -3192,16 +3182,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "FORMA pres. Hoodoo Gurus 'Rewind' Tour (Sydney) - Darling Harbour, Tumbalong Park",
-   "date": "2026-12-05",
-   "time": "17:00",
-   "venue": "Darling Harbour - Tumbalong Park",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/forma-pres-hoodoo-gurus-rewind-tour-sydney-darling-harbour-tumbalong-park/196693",
-   "image": "https://static.moshtix.com.au/uploads/65a8c8a0-cf0e-4f0a-b0cc-1c7a3f10fa16x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Dizzee Rascal",
    "date": "2026-12-05",
    "time": "18:00",
@@ -3210,6 +3190,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/dizzee-rascal-sydney-05-12-2026/event/130064DDA821316D",
    "image": "https://s1.ticketm.net/dam/a/87b/01a29442-1ed0-4696-95c2-5f23e437787b_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "FORMA pres. Hoodoo Gurus 'Rewind' Tour (Sydney) - Darling Harbour, Tumbalong Park",
+   "date": "2026-12-05",
+   "time": "18:00",
+   "venue": "Darling Harbour - Tumbalong Park",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/forma-pres-hoodoo-gurus-rewind-tour-sydney-darling-harbour-tumbalong-park/196693",
+   "image": "https://static.moshtix.com.au/uploads/65a8c8a0-cf0e-4f0a-b0cc-1c7a3f10fa16x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "DIZZEE RASCAL | We Want Bass Tour",
@@ -3259,6 +3249,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-fever-pitch/198822",
    "image": "https://static.moshtix.com.au/uploads/a0c4736a-3c31-41e2-beff-b095a06b3efex140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Lamestream Live",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "category": "Comedy",
+   "url": "https://www.moshtix.com.au/v2/event/lamestream-live/202428",
+   "image": "https://static.moshtix.com.au/uploads/b1945095-0ac5-4dec-b568-72bced9a3af1x140x140",
    "source": "Moshtix"
   },
   {
@@ -4382,6 +4382,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "#beenwasted",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/-beenwasted/202520",
+   "image": "https://static.moshtix.com.au/uploads/7e09f870-8170-48c3-b5eb-02812a8e5389x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "2026/27 A-League Sydney FC v Perth Glory",
    "date": "2026-12-18",
    "time": "19:40",
@@ -4580,6 +4590,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/the-christmas-spectacular-sydney-20-12-2026/event/13006505E7A163AB",
    "image": "https://s1.ticketm.net/dam/a/a03/7a47ad84-4452-4e66-99cd-d5fc05fbba03_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Freeform Open Air → Marcellus Pittman / James 'D-Train' Williams (Live) / DJ JNETT / Mimi J b2b Benny Chiu",
+   "date": "2026-12-20",
+   "time": "15:00",
+   "venue": "Poor Tom's Oltra",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/freeform-open-air-marcellus-pittman-james-d-train-williams-live-dj-jnett-mimi-j-b2b-benny-chiu/202533",
+   "image": "https://static.moshtix.com.au/uploads/2fc037c7-2b49-45d6-ab0a-242fe4c91485x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Soul Roots Revival Band - Soul Funk Xmas Celebration",
@@ -5910,6 +5930,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/antytila/201454",
    "image": "https://static.moshtix.com.au/uploads/3b832e10-710e-46dd-a6bb-fb975c6cfbeex140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "The Magic Flute",
+   "date": "2027-02-08",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-08-02-2027/event/13006531B1BA58D1",
+   "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   }
  ]
 };
