@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-12T22:58:42.353Z",
+ "generated": "2026-11-13T23:00:56.190Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -21,96 +21,6 @@ window.EVENT_DATA = {
   "Other"
  ],
  "events": [
-  {
-   "name": "No Flowers Mahjong Club #6 at Heaps Normal Health Club",
-   "date": "2026-11-12",
-   "time": "18:00",
-   "venue": "Heaps Normal Health Club",
-   "category": "Other",
-   "url": "https://www.moshtix.com.au/v2/event/no-flowers-mahjong-club-6-at-heaps-normal-health-club/201241",
-   "image": "https://static.moshtix.com.au/uploads/2592124f-52a3-43a8-b27a-5d98acb62d37x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Ecca Vandal ‘Looking For People to Unfollow’ Album Tour | SECOND SHOW ADDED",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour-second-show-added/197300",
-   "image": "https://static.moshtix.com.au/uploads/a50d7d0a-75c9-4046-955b-34dd469f529cx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Holly Throsby",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/holly-throsby/198056",
-   "image": "https://static.moshtix.com.au/uploads/d9df4589-9f90-49d7-8e41-1726bd650c4dx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "S.MILES AND HIS ALL-STAR BIG BAND RETURNS!",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/s-miles-and-his-all-star-big-band-returns-/200191",
-   "image": "https://static.moshtix.com.au/uploads/eb78ae02-363d-48df-8729-891337464e51x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Steel Assassins warm up show w/RAWTISM + PESTILENT DOOM + HEATHENSPAWN + SHATTERFACE",
-   "date": "2026-11-12",
-   "time": "19:30",
-   "venue": "MoshPit Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/steel-assassins-warm-up-show-w-rawtism-pestilent-doom-heathenspawn-shatterface/201008",
-   "image": "https://static.moshtix.com.au/uploads/3d156f1f-f0ed-4cb6-9b4d-39b9c36af444x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "ivy Thursdays - 12th November",
-   "date": "2026-11-12",
-   "time": "21:00",
-   "venue": "ivy",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-12th-november/201864",
-   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Point & Shoot Australian Veteran Photography Exhibition",
-   "date": "2026-11-12",
-   "time": "22:00",
-   "venue": "Anzac Memorial",
-   "category": "Other",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Wundrful World Of Christmas",
-   "date": "2026-11-13",
-   "time": "",
-   "venue": "Wundr Store",
-   "category": "Other",
-   "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-13-11-2026/event/2500651AE02C5E3A",
-   "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "Sydney Cellar Door",
-   "date": "2026-11-13",
-   "time": "05:00",
-   "venue": "First Fleet Park",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-cellar-door",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6348/images/featured-uwifzt.webp",
-   "source": "City of Sydney"
-  },
   {
    "name": "Steel Assassins 2026 Two Day Pass",
    "date": "2026-11-13",
@@ -165,21 +75,11 @@ window.EVENT_DATA = {
    "name": "Ecca Vandal ‘Looking For People to Unfollow’ Album Tour",
    "date": "2026-11-13",
    "time": "19:00",
-   "venue": "Oxford Art Factory",
-   "category": "Other Music",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ecca-vandal-looking-for-people-to-unfollow-album-tour/195987",
-   "image": "https://s1.ticketm.net/dam/a/474/2d3ad16b-1c90-4dcf-9268-c89bf4948474_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "THE TULLAMARINES 2026 TOUR",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "venue": "Lansdowne Hotel",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
-   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
+   "image": "https://static.moshtix.com.au/uploads/a50d7d0a-75c9-4046-955b-34dd469f529cx140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Ella Thompson",
@@ -189,6 +89,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/ella-thompson/199243",
    "image": "https://static.moshtix.com.au/uploads/6f4c042d-745c-4eb7-b105-035ecc96ebd3x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "THE TULLAMARINES 2026 TOUR",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "venue": "The Lansdowne Hotel, Sydney",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/the-tullamarines-2026-tour/199368",
+   "image": "https://static.moshtix.com.au/uploads/c1b38bf9-62cd-4433-a48a-c412aa930e48x140x140",
    "source": "Moshtix"
   },
   {
@@ -222,16 +132,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "daine - the In Endless Awe & Agony tour (18+) ",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "venue": "Metro Theatre",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18-/197886",
-   "image": "https://s1.ticketm.net/dam/a/2f1/03a32579-247e-4e53-84c7-6ccfccfe12f1_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "THE REVEREND HORTON HEAT - Australian Tour 2026",
    "date": "2026-11-13",
    "time": "19:30",
@@ -239,6 +139,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/the-reverend-horton-heat-australian-tour-2026/193973",
    "image": "https://static.moshtix.com.au/uploads/0f5bec45-f967-461d-afd3-ac79c9fcd582x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "daine - the In Endless Awe & Agony tour (18+)",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "venue": "Metro Social",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-18-/197886",
+   "image": "https://static.moshtix.com.au/uploads/1cba39e2-da93-455f-94fa-20673e45c5abx140x140",
    "source": "Moshtix"
   },
   {
@@ -269,26 +179,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/good-music-fridays/201827",
    "image": "https://static.moshtix.com.au/uploads/8f360b01-a50b-4a9d-a66e-cb8adf27ecbax140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Sir El Tom",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Other Music",
-   "url": "https://www.ticketmaster.com.au/sir-el-tom-sydney-13-11-2026/event/1300643C95FF410F",
-   "image": "https://s1.ticketm.net/dam/a/6b8/b2c76b09-742b-4d7e-b385-381c547db6b8_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "KUKO",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "venue": "Melbourne Pavilion",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/kuko/196685",
-   "image": "https://static.moshtix.com.au/uploads/a5f7d6d5-014c-4d30-84f9-9498998bb601x140x140",
    "source": "Moshtix"
   },
   {
@@ -342,16 +232,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry Invites MiNNA (UK) [ALL NIGHT LONG] + BNX & FRIENDS TAKEOVER",
-   "date": "2026-11-13",
-   "time": "21:00",
-   "venue": "Chinese Laundry",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-minna-uk-all-night-long-bnx-friends-takeover/201911",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "The Entertainment Quarter Markets (EQ Markets)",
    "date": "2026-11-13",
    "time": "21:00",
@@ -372,14 +252,34 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Chinese Laundry Invites MiNNA (UK) [ALL NIGHT LONG] + BNX & FRIENDS TAKEOVER",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "venue": "Chinese Laundry",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-minna-uk-all-night-long-bnx-friends-takeover/201911",
+   "image": "https://static.moshtix.com.au/uploads/bee2788f-2d43-400e-9ded-3eeba7579f67x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "FRI 13 NOV - WAO SUPERCLUB @ IVY",
    "date": "2026-11-13",
    "time": "21:30",
-   "venue": "ivy Sydney",
+   "venue": "ivy",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-13-nov-wao-superclub-ivy/201728",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
-   "source": "Ticketmaster"
+   "image": "https://static.moshtix.com.au/uploads/e9860733-7e35-4543-bd74-1885a6f63cbcx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Point & Shoot Australian Veteran Photography Exhibition",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "venue": "Anzac Memorial",
+   "category": "Other",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
+   "source": "City of Sydney"
   },
   {
    "name": "Wundrful World Of Christmas",
@@ -390,6 +290,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-14-11-2026/event/2500651AE02D5E3E",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Sydney Cellar Door",
+   "date": "2026-11-14",
+   "time": "01:00",
+   "venue": "First Fleet Park",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-cellar-door",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6348/images/featured-uwifzt.webp",
+   "source": "City of Sydney"
   },
   {
    "name": "Steel Assassins 2026 Day 2",
@@ -1322,6 +1232,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Secret International Headliner (3 Hour Set) | Manly",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "venue": "Hotel Steyne",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/secret-international-headliner-3-hour-set-manly/202678",
+   "image": "https://static.moshtix.com.au/uploads/5ac25763-b8dd-4e0e-ac40-042e3c0b7cb6x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Eric Hutchinson ",
    "date": "2026-11-21",
    "time": "19:00",
@@ -2052,12 +1972,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLAT + ANDRE ZIMMER + PARTIGIRL",
+   "name": "Chinese Laundry Invites C'EST LA VIE FEAT. BLASHA & ALLATT + ANDRE ZIMMER + PARTIGIRL",
    "date": "2026-11-27",
    "time": "21:00",
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allat-andre-zimmer-partigirl/202257",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-c-est-la-vie-feat-blasha-allatt-andre-zimmer-partigirl/202257",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
@@ -2802,6 +2722,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "heaven + hell",
+   "date": "2026-12-03",
+   "time": "18:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/heaven-hell/202697",
+   "image": "https://static.moshtix.com.au/uploads/b680c234-b181-47bd-94c1-9cb9af17531fx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Playne Jayne live at Goodspace Gallery with Orange Empress & Our Thing",
    "date": "2026-12-03",
    "time": "18:30",
@@ -2829,6 +2759,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/slum-village/200959",
    "image": "https://static.moshtix.com.au/uploads/28b887f9-2b54-4b2a-b3bc-f3a2d05495d9x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "ivy Thursdays - 3rd December",
+   "date": "2026-12-03",
+   "time": "21:00",
+   "venue": "ivy",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-3rd-december/202691",
+   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
    "source": "Moshtix"
   },
   {
@@ -2912,12 +2852,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "CALI RD LIVE",
+   "name": "CALI RD - EP LAUNCH PARTY",
    "date": "2026-12-04",
    "time": "19:00",
    "venue": "Bootleggers",
    "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/cali-rd-live/202478",
+   "url": "https://www.moshtix.com.au/v2/event/cali-rd-ep-launch-party/202478",
    "image": "https://static.moshtix.com.au/uploads/debbc480-2079-4945-b9f7-7fa02f6fbe8ax140x140",
    "source": "Moshtix"
   },
@@ -3572,6 +3512,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "ivy Thursdays - 10th December",
+   "date": "2026-12-10",
+   "time": "21:00",
+   "venue": "ivy",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-10th-december/202692",
+   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Gen Xi",
    "date": "2026-12-10",
    "time": "23:00",
@@ -3659,6 +3609,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/the-casual-slacks-with-the-hastings-and-semistatic/202424",
    "image": "https://static.moshtix.com.au/uploads/9c4faf52-4b87-45a6-a6df-23f149be8216x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "entundra 4 — Mitch Elliott with Hinano Fujisaki and Jasper c-a",
+   "date": "2026-12-11",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/entundra-4-mitch-elliott-with-hinano-fujisaki-and-jasper-c-a/202686",
+   "image": "https://static.moshtix.com.au/uploads/f096f6d1-d4b2-4fc5-be78-4134b929a75dx140x140",
    "source": "Moshtix"
   },
   {
@@ -3762,13 +3722,13 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Handel’s Messiah at Sydney Town Hall",
+   "name": "Jerome Blazé",
    "date": "2026-12-12",
-   "time": "04:00",
-   "venue": "George Street",
+   "time": "07:00",
+   "venue": "Seymour Centre",
    "category": "Other",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/handels-messiah",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6877/images/featured-85exbs.webp",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/jerome-blaze-seymour-sounds",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/8119/images/featured-ulzh5u.webp",
    "source": "City of Sydney"
   },
   {
@@ -4312,6 +4272,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "ivy Thursdays - 17th December",
+   "date": "2026-12-17",
+   "time": "21:00",
+   "venue": "ivy",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-17th-december/202693",
+   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Wundrful World Of Christmas",
    "date": "2026-12-18",
    "time": "",
@@ -4319,6 +4289,16 @@ window.EVENT_DATA = {
    "category": "Other",
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-18-12-2026/event/2500651AE17C5F45",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "#beenwasted",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/-beenwasted/202520",
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
   {
@@ -4339,16 +4319,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/raised-as-wolves/202006",
    "image": "https://static.moshtix.com.au/uploads/33d6284d-950a-4534-96af-f8a5fe11cf9ax140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "#beenwasted",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/-beenwasted/202520",
-   "image": "https://static.moshtix.com.au/uploads/7e09f870-8170-48c3-b5eb-02812a8e5389x140x140",
    "source": "Moshtix"
   },
   {
@@ -4722,6 +4692,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "ivy Thursdays XMAS EVE",
+   "date": "2026-12-24",
+   "time": "21:00",
+   "venue": "ivy",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-xmas-eve/202695",
+   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Somewhere Else: Kyle Starkey b2b Faster Horses (All Day Long) (SOLD OUT)",
    "date": "2026-12-26",
    "time": "15:00",
@@ -4882,6 +4862,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Afrojamz: Good Times Gathering — Sydney Edition (( Thur, Dec 31st )) New Years Eve",
+   "date": "2026-12-31",
+   "time": "21:00",
+   "venue": "Liberty Hall",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/afrojamz-good-times-gathering-sydney-edition-thur-dec-31st-new-years-eve/202582",
+   "image": "https://static.moshtix.com.au/uploads/3000bf46-1d2a-4883-8bb1-5f46f6f1b0aax140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Field Day 2027",
    "date": "2027-01-01",
    "time": "12:00",
@@ -4985,11 +4975,11 @@ window.EVENT_DATA = {
    "name": "Charlotte Plank",
    "date": "2027-01-05",
    "time": "19:30",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
+   "venue": "Lansdowne Hotel",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/charlotte-plank/202543",
-   "image": "https://static.moshtix.com.au/uploads/4c28d784-0191-44a3-b6aa-d4a473d46dccx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Telegraph Road – The Dire Straits Legacy",
@@ -5185,11 +5175,11 @@ window.EVENT_DATA = {
    "name": "The Preatures :: All Roads Lead to OAF",
    "date": "2027-01-14",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/the-preatures-all-roads-lead-to-oaf/202537",
-   "image": "https://static.moshtix.com.au/uploads/2f509bc3-9b00-4442-aba3-98fcd81cda8bx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dbimages/182884a.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "La Boheme",
@@ -5430,6 +5420,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-21-01-2027/event/13006531B1B85887",
    "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "OGRE YOU ASSHOLE",
+   "date": "2027-01-21",
+   "time": "20:00",
+   "venue": "Metro Social",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/ogre-you-asshole/202635",
+   "image": "https://static.moshtix.com.au/uploads/75fa09d5-e145-4a08-bc20-8ef69200769bx140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Afronesian Roots & Soul Presents The Reggae Rise Up Sessions",
@@ -5832,14 +5832,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Zion Garcia :: All Roads Lead to OAF",
+   "name": "Zion Garcia :: All Roads Lead to OAF ",
    "date": "2027-02-04",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/zion-garcia-all-roads-lead-to-oaf/202563",
-   "image": "https://static.moshtix.com.au/uploads/616cfec4-063b-4253-9ce9-b37dfedbb8dex140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "The Magic Flute",
@@ -5902,6 +5902,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Every Breath You Take",
+   "date": "2027-02-06",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/every-breath-you-take/197817",
+   "image": "https://static.moshtix.com.au/uploads/dbadb550-649e-4455-ae4c-50457b55f75ex140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "DRAMA",
    "date": "2027-02-06",
    "time": "19:00",
@@ -5932,6 +5942,26 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Starjunk 95",
+   "date": "2027-02-06",
+   "time": "19:30",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/starjunk-95/202326",
+   "image": "https://s1.ticketm.net/dam/a/5a7/b35ce18f-3da2-4690-b19e-a97625a295a7_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "RA RA VIPER",
+   "date": "2027-02-06",
+   "time": "19:30",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/ra-ra-viper/202539",
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "IGORRR",
    "date": "2027-02-06",
    "time": "19:30",
@@ -5939,26 +5969,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/igorrr/196890",
    "image": "https://static.moshtix.com.au/uploads/0a4cfbc2-868c-48df-8407-a3bb8bdd27c4x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Starjunk 95",
-   "date": "2027-02-06",
-   "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/starjunk-95/202326",
-   "image": "https://static.moshtix.com.au/uploads/57943318-6af1-482d-a61e-37e30d1ad855x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "RA RA VIPER",
-   "date": "2027-02-06",
-   "time": "19:30",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/ra-ra-viper/202539",
-   "image": "https://static.moshtix.com.au/uploads/3e1965db-3892-47c8-8436-fa83dfb1187cx140x140",
    "source": "Moshtix"
   },
   {
@@ -6090,6 +6100,36 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/horsegiirl/201944",
    "image": "https://static.moshtix.com.au/uploads/579d530c-6d6a-467a-8eb0-54268337f550x140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Thrown Australian Tour 2027 with Boundaries & 156/Silence",
+   "date": "2027-02-11",
+   "time": "18:30",
+   "venue": "Liberty Hall",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/thrown-australian-tour-2027-with-boundaries-156-silence/198956",
+   "image": "https://static.moshtix.com.au/uploads/7dc3523d-5286-496b-a1d9-0f62b2f4fcf9x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "La Boheme",
+   "date": "2027-02-11",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/la-boheme-sydney-11-02-2027/event/130065319DA53D44",
+   "image": "https://s1.ticketm.net/dam/a/e00/be278740-5cf8-4eb0-be44-c09aa0f3fe00_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "rommulas",
+   "date": "2027-02-11",
+   "time": "19:30",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/rommulas/201682",
+   "image": "https://s1.ticketm.net/dam/a/7bd/200a230f-561c-4a6c-b14f-d442936ba7bd_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   }
  ]
 };
