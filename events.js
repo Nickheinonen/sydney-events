@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-14T21:48:57.082Z",
+ "generated": "2026-11-15T22:16:49.401Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -22,266 +22,6 @@ window.EVENT_DATA = {
  ],
  "events": [
   {
-   "name": "Steel Assassins 2026 Day 2",
-   "date": "2026-11-14",
-   "time": "13:30",
-   "venue": "The Bridge Hotel",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/steel-assassins-2026-day-2/195545",
-   "image": "https://static.moshtix.com.au/uploads/4d5e900f-45dc-4b72-ba09-42d3a29ec118x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Sandbox presents Kuko",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "venue": "ivy",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/sandbox-presents-kuko/200920",
-   "image": "https://static.moshtix.com.au/uploads/87987a43-94b6-42fa-bbe2-aebad6a2a2e2x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "For The Cause VOL002",
-   "date": "2026-11-14",
-   "time": "17:00",
-   "venue": "Yulli's Brews",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/for-the-cause-vol002/201672",
-   "image": "https://static.moshtix.com.au/uploads/63a08f42-35bd-4a0a-8761-3926e749006ax140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "daine - the In Endless Awe & Agony tour (ALL AGES)",
-   "date": "2026-11-14",
-   "time": "18:00",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/daine-the-in-endless-awe-agony-tour-all-ages-/198643",
-   "image": "https://static.moshtix.com.au/uploads/1cba39e2-da93-455f-94fa-20673e45c5abx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Sydney Contender 29",
-   "date": "2026-11-14",
-   "time": "18:00",
-   "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Family",
-   "url": "https://www.moshtix.com.au/v2/event/sydney-contender-29/201520",
-   "image": "https://static.moshtix.com.au/uploads/bfe631d9-e5be-4eca-a88b-899a6e08d888x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "MX Burlesque NSW 2026 Competition!",
-   "date": "2026-11-14",
-   "time": "18:30",
-   "venue": "Paddo RSL",
-   "category": "Comedy",
-   "url": "https://www.moshtix.com.au/v2/event/mx-burlesque-nsw-2026-competition-/194179",
-   "image": "https://static.moshtix.com.au/uploads/925d054e-5e40-4dfc-9000-a671a9287208x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Good Music House Party",
-   "date": "2026-11-14",
-   "time": "18:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/good-music-house-party/199985",
-   "image": "https://static.moshtix.com.au/uploads/e96d2302-f6bb-4e56-a044-60f9090cc7b6x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "SHAKTOORA — BLUE & WHITE EDITION 💙🤍🇱🇧",
-   "date": "2026-11-14",
-   "time": "18:30",
-   "venue": "SEADECK - EASTERN PONTOON, CIRCULAR QUAY",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/shaktoora-blue-white-edition-/200816",
-   "image": "https://static.moshtix.com.au/uploads/07e19ef4-03a7-4f9f-a156-eda30b348f78x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "BOOGIE AFFAIR",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/boogie-affair/195338",
-   "image": "https://static.moshtix.com.au/uploads/916a61ac-cb09-4866-a5dc-29a5ee253f54x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "All India Radio + USER",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/all-india-radio-user/196511",
-   "image": "https://static.moshtix.com.au/uploads/74eb25a0-4955-4d7e-9b38-8ca16fe9be4fx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "NANA'S PIE Till The Morning Tour",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "venue": "Bootleggers",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/nana-s-pie-till-the-morning-tour/200850",
-   "image": "https://static.moshtix.com.au/uploads/336d93c3-924d-4e5a-8bf0-e397706ad59ex140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "VIBE Saturdays - The Biggest Party in the West",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "venue": "The Albion Hotel",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/vibe-saturdays-the-biggest-party-in-the-west/202301",
-   "image": "https://static.moshtix.com.au/uploads/7f790386-db2e-421d-8f97-e22751737b30x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "LAPIS - SPOTS AND STRIPES SINGLE LAUNCH FT. LEO ABISAAB [FREE ENTRY]",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "venue": "Oxford Art Factory, Gallery Bar",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/lapis-spots-and-stripes-single-launch-ft-leo-abisaab-free-entry-/201401",
-   "image": "https://static.moshtix.com.au/uploads/4e869fd6-f993-4918-b35b-1cc30dc66235x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Burlesk of The Bizarre METAL MAYHEM",
-   "date": "2026-11-14",
-   "time": "20:30",
-   "venue": "Elton chong",
-   "category": "Other",
-   "url": "https://www.moshtix.com.au/v2/event/burlesk-of-the-bizarre-metal-mayhem/200256",
-   "image": "https://static.moshtix.com.au/uploads/895fd30f-210d-451b-8e2b-67e54d1c1ce6x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "QURIO: SA DILIM",
-   "date": "2026-11-14",
-   "time": "21:00",
-   "venue": "Tokyo Sing Song",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/qurio-sa-dilim/199632",
-   "image": "https://static.moshtix.com.au/uploads/d31a3bb3-13aa-40d9-9246-22d584029771x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Saltatio opening party",
-   "date": "2026-11-14",
-   "time": "21:00",
-   "venue": "Mansions Potts point",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/saltatio-opening-party/200968",
-   "image": "https://static.moshtix.com.au/uploads/44888056-3859-49fc-bec6-3b00e1c850c7x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Chinese Laundry Invites REBOTAR TAKEOVER FT. DJANGO [NL] + CASUAL P & FRIENDS FT. C100",
-   "date": "2026-11-14",
-   "time": "21:00",
-   "venue": "Chinese Laundry",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-rebotar-takeover-ft-django-nl-casual-p-friends-ft-c100/201912",
-   "image": "https://static.moshtix.com.au/uploads/160a5d8d-3cd5-4ba5-8492-988f0f3542a1x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Point & Shoot Australian Veteran Photography Exhibition",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "venue": "Anzac Memorial",
-   "category": "Other",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Above - Nov 14 ft. Gudfella",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "venue": "ivy",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/above-nov-14-ft-gudfella/198750",
-   "image": "https://static.moshtix.com.au/uploads/09ec492b-1ea4-4e1c-b709-5d5ec57bd04fx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "DIGI: Hyperpop, Digicore, Cloud Rap Club Night - Sydney",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "venue": "The Imperial Erskineville",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/digi-hyperpop-digicore-cloud-rap-club-night-sydney/200439",
-   "image": "https://static.moshtix.com.au/uploads/ff928b7e-117b-4ae4-b021-0f6d2813860bx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "★ S.A.S.H Sydney ★ X ★ Saturday 14th November ★",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "venue": "Carousel Bar & Ballroom",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-x-saturday-14th-november-/201565",
-   "image": "https://static.moshtix.com.au/uploads/c1495048-fbed-4acf-836b-b1e93985a5c5x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Last Words | Free Entry DJ's | Sydney Emo Night",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "venue": "Bootleggers",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/last-words-free-entry-dj-s-sydney-emo-night/201780",
-   "image": "https://static.moshtix.com.au/uploads/353c5e73-6d5e-416d-a9c8-75f9e7cf81e7x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "RELIKIA 2000 - RJ EDITION",
-   "date": "2026-11-14",
-   "time": "23:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/relikia-2000-rj-edition/201996",
-   "image": "https://static.moshtix.com.au/uploads/819fe8ae-1b9d-497e-91c1-a2b0d9a93e40x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "HOUSE PARTY SATURDAYS - 14TH NOVEMBER",
-   "date": "2026-11-14",
-   "time": "23:00",
-   "venue": "Marlborough Hotel",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/house-party-saturdays-14th-november/202246",
-   "image": "https://static.moshtix.com.au/uploads/14cb6071-9e8c-40ed-80b5-53324ce0fb4fx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Wundrful World Of Christmas",
-   "date": "2026-11-15",
-   "time": "",
-   "venue": "Wundr Store",
-   "category": "Other",
-   "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-15-11-2026/event/2500651AE02D5E42",
-   "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "Sydney Cellar Door",
-   "date": "2026-11-15",
-   "time": "01:00",
-   "venue": "First Fleet Park",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-cellar-door",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6348/images/featured-uwifzt.webp",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Gilles Peterson",
    "date": "2026-11-15",
    "time": "15:00",
@@ -290,16 +30,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/gilles-peterson/196010",
    "image": "https://static.moshtix.com.au/uploads/41a34916-94b7-44ff-bf52-7d9e49ed8f91x140x140",
    "source": "Moshtix"
-  },
-  {
-   "name": "James Morrison with Special Guest Mahalia Barnes",
-   "date": "2026-11-15",
-   "time": "16:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Other Music",
-   "url": "https://www.ticketmaster.com.au/james-morrison-with-special-guest-mahalia-sydney-15-11-2026/event/1300647E8663184C",
-   "image": "https://s1.ticketm.net/dam/a/982/467e7bd1-c322-4ecf-8623-3d8bde7c5982_CUSTOM.jpg",
-   "source": "Ticketmaster"
   },
   {
    "name": "Rohan Windle, Piano Man",
@@ -332,16 +62,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "IRON MAIDEN - RUN FOR YOUR LIVES - WORLD TOUR 2026",
-   "date": "2026-11-15",
-   "time": "17:30",
-   "venue": "Allianz Stadium",
-   "category": "Other Music",
-   "url": "https://www.ticketmaster.com.au/iron-maiden-run-for-your-lives-sydney-15-11-2026/event/2500645788A53CB3",
-   "image": "https://s1.ticketm.net/dam/a/0d0/7395c6e7-8a78-4028-ac20-f053c22fa0d0_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "An Evening With Kristin Hersh (US)",
    "date": "2026-11-15",
    "time": "19:00",
@@ -360,6 +80,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/dom-roche-quartet/200911",
    "image": "https://static.moshtix.com.au/uploads/9476f366-2b97-448f-bc13-66f5a8092cccx140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "Point & Shoot Australian Veteran Photography Exhibition",
+   "date": "2026-11-15",
+   "time": "22:00",
+   "venue": "Anzac Memorial",
+   "category": "Other",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
+   "source": "City of Sydney"
   },
   {
    "name": "Sydney Town Hall organ recitals",
@@ -702,16 +432,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Mas Que Nada Brothers",
-   "date": "2026-11-20",
-   "time": "19:00",
-   "venue": "SEADECK - EASTERN PONTOON, CIRCULAR QUAY",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/mas-que-nada-brothers/201625",
-   "image": "https://static.moshtix.com.au/uploads/c2cc937b-b997-46b0-a8f1-f833c20b9fe4x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "As Above (Vol. 1)",
    "date": "2026-11-20",
    "time": "19:00",
@@ -830,6 +550,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-jesse-mass-nl-ahadadream/201671",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Mas Que Nada Brothers",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "venue": "Arq",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/mas-que-nada-brothers/201625",
+   "image": "https://static.moshtix.com.au/uploads/617f4d9c-f5b4-4229-8f36-44dbe691dba2x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Albion Fridays ft. Nino Brown",
@@ -972,13 +702,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Secret International Headliner (3 Hour Set) | Manly",
+   "name": "Hercules & Love Affair (3 Hour Set) | Manly",
    "date": "2026-11-21",
    "time": "18:00",
    "venue": "Hotel Steyne",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/secret-international-headliner-3-hour-set-manly/202678",
-   "image": "https://static.moshtix.com.au/uploads/5ac25763-b8dd-4e0e-ac40-042e3c0b7cb6x140x140",
+   "url": "https://www.moshtix.com.au/v2/event/hercules-love-affair-3-hour-set-manly/202678",
+   "image": "https://static.moshtix.com.au/uploads/8d837d07-fa23-4068-8b98-7caaf5fe601ax140x140",
    "source": "Moshtix"
   },
   {
@@ -1569,6 +1299,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/silvas-w-genevieve-lily-the-rose-street-band-stephanie-milostic-the-duke-of-randwick/202009",
    "image": "https://static.moshtix.com.au/uploads/e86d9073-5158-4a01-b43c-5d60dc2f2e5dx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Mantra : Antim Adhyay | Bollywood & BeyondMantra : Antim Adhyay | Bollywood & Beyond",
+   "date": "2026-11-27",
+   "time": "18:30",
+   "venue": "Le Bleu Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/mantra-antim-adhyay-bollywood-beyondmantra-antim-adhyay-bollywood-beyond/202714",
+   "image": "https://static.moshtix.com.au/uploads/a72ebdf8-e600-4139-9c2f-c35bd8479cd4x140x140",
    "source": "Moshtix"
   },
   {
@@ -3812,6 +3552,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "A VERY FUNKD CHRISTMAS",
+   "date": "2026-12-14",
+   "time": "18:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/a-very-funkd-christmas/202504",
+   "image": "https://static.moshtix.com.au/uploads/17031e26-edfd-4fd5-9f66-c1328af4442cx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Samara Cyn - The Detour",
    "date": "2026-12-14",
    "time": "19:30",
@@ -5900,6 +5650,46 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/the-australian-beach-boys-show/201462",
    "image": "https://static.moshtix.com.au/uploads/6b5851df-70c5-4813-a1ba-79003179c60cx140x140",
    "source": "Moshtix"
+  },
+  {
+   "name": "The Magic Flute",
+   "date": "2027-02-13",
+   "time": "12:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-13-02-2027/event/13006531B1BB58F9",
+   "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "CHICANE - 30 YEAR ANNIVERSARY TOUR @ IVY, SYDNEY ",
+   "date": "2027-02-13",
+   "time": "15:00",
+   "venue": "ivy Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/chicane-30-year-anniversary-tour-ivy-sydney/199771",
+   "image": "https://s1.ticketm.net/dam/a/749/f8b437e1-aa2a-4fe9-82c1-417c6b33e749_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Winyah - Right Here, Right Now World Tour 2027",
+   "date": "2027-02-13",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/winyah-right-here-right-now-world-tour-2027/198396",
+   "image": "https://s1.ticketm.net/dam/a/307/d3c8b73c-a990-4655-ab7b-7ef9977dc307_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "La Boheme",
+   "date": "2027-02-13",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/la-boheme-sydney-13-02-2027/event/130065319DC93D7D",
+   "image": "https://s1.ticketm.net/dam/a/e00/be278740-5cf8-4eb0-be44-c09aa0f3fe00_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   }
  ]
 };
