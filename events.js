@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-18T00:11:49.522Z",
+ "generated": "2026-11-18T23:42:47.430Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -52,14 +52,24 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Carl Barron: Just Wondering Why",
+   "name": "Point & Shoot Australian Veteran Photography Exhibition",
    "date": "2026-11-18",
-   "time": "20:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Stage & Screen",
-   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-18-11-2026/event/13006373871C5C2E",
-   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
+   "time": "22:00",
+   "venue": "Anzac Memorial",
+   "category": "Other",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6786/images/featured-x3h8cm.webp",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "OTHELLO By Come You Spirits Theatre",
+   "date": "2026-11-19",
+   "time": "00:00",
+   "venue": "Darling Quarter Theatre",
+   "category": "Other",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/othello-by-come-you-spirits-theatre",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/10706/images/featured-6ucuxw.webp",
+   "source": "City of Sydney"
   },
   {
    "name": "Summer Pool Party at Crown Sydney",
@@ -202,16 +212,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Urthboy - Reckless Bloom - Album Tour",
-   "date": "2026-11-20",
-   "time": "18:00",
-   "venue": "Heaps Normal Health Club",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/urthboy-reckless-bloom-album-tour/199900",
-   "image": "https://static.moshtix.com.au/uploads/75182f4c-17a2-4c15-abef-74b4c685f78fx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "SAFS X AAA – FRIDAY★ // MINA // CEDAR",
    "date": "2026-11-20",
    "time": "18:00",
@@ -269,6 +269,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/monstr/199010",
    "image": "https://static.moshtix.com.au/uploads/b14ffd11-7e70-402e-ab9c-41518e07703ax140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Urthboy - Reckless Bloom - Album Tour",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "venue": "Heaps Normal Health Club",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/urthboy-reckless-bloom-album-tour/199900",
+   "image": "https://static.moshtix.com.au/uploads/75182f4c-17a2-4c15-abef-74b4c685f78fx140x140",
    "source": "Moshtix"
   },
   {
@@ -410,6 +420,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-jesse-mass-nl-kerfew-takeover-ft-ahadadream-uk-/201671",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "The Entertainment Quarter Markets (EQ Markets)",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "venue": "The Entertainment Quarter",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/4129/images/featured-kp4wxt.webp",
+   "source": "City of Sydney"
   },
   {
    "name": "Mas Que Nada Brothers",
@@ -728,7 +748,7 @@ window.EVENT_DATA = {
    "venue": "Carousel Bar & Ballroom",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-distrikt-saturday-21st-november-/201566",
-   "image": "https://static.moshtix.com.au/uploads/e1f4ef31-1ae4-42ba-a81d-ae3d815678d1x140x140",
+   "image": "https://static.moshtix.com.au/uploads/4c9d0bdf-c0cb-4b1d-bb5f-e0db166d8264x140x140",
    "source": "Moshtix"
   },
   {
@@ -869,6 +889,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/mouseatouille-w-the-enthusiast-and-our-mutual-friend/201514",
    "image": "https://static.moshtix.com.au/uploads/bcc8128d-b332-4771-8d62-e7f8294c66f8x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "FDS Graduate Matinee Runway Show 2026",
+   "date": "2026-11-23",
+   "time": "12:30",
+   "venue": "Campbell's Stores, The Rock's, Sydney",
+   "category": "Exhibitions",
+   "url": "https://www.moshtix.com.au/v2/event/fds-graduate-matinee-runway-show-2026/200838",
+   "image": "https://static.moshtix.com.au/uploads/3ac4c810-d202-4a1c-b593-4ad4f95f3c2dx140x140",
    "source": "Moshtix"
   },
   {
@@ -1018,7 +1048,7 @@ window.EVENT_DATA = {
    "venue": "Martin Place",
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/santas-sydney-sleigh-ride",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-rxf9p1.webp",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-zmbull.webp",
    "source": "City of Sydney"
   },
   {
@@ -2602,6 +2632,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Free Yoga Session",
+   "date": "2026-12-06",
+   "time": "10:00",
+   "venue": "Tumbalong Park",
+   "category": "Family",
+   "url": "https://www.moshtix.com.au/v2/event/free-yoga-session/202749",
+   "image": "https://static.moshtix.com.au/uploads/55affc6c-bc4f-45af-9556-623dfae24601x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "2026/27 A-League Sydney FC v Melbourne Victory FC",
    "date": "2026-12-06",
    "time": "17:00",
@@ -3092,6 +3132,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "FRI 11 DEC - WAO BLACK CHAPTER 11 @ WAO SUPERCLUB",
+   "date": "2026-12-11",
+   "time": "21:30",
+   "venue": "ivy Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/fri-11-dec-wao-black-chapter-11-wao-superclub/202812",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Rukus Takeover @ OAF",
    "date": "2026-12-11",
    "time": "23:00",
@@ -3229,6 +3279,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/large-mirage-pleasure-club-newtown-trilogy/202468",
    "image": "https://static.moshtix.com.au/uploads/7f52e008-93bd-4619-b2f5-bfd910c29272x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Music in Exile's Artist First Fundraiser",
+   "date": "2026-12-12",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/music-in-exile-s-artist-first-fundraiser/202838",
+   "image": "https://static.moshtix.com.au/uploads/b79174dc-3636-4cf5-8758-4e5ccdabcf89x140x140",
    "source": "Moshtix"
   },
   {
@@ -3802,6 +3862,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "FRI 18 DEC - INT GUEST DJ TERRY @ WAO SUPERCLUB",
+   "date": "2026-12-18",
+   "time": "21:30",
+   "venue": "ivy Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/fri-18-dec-int-guest-dj-terry-wao-superclub/202813",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Wundrful World Of Christmas",
    "date": "2026-12-19",
    "time": "",
@@ -4268,7 +4338,7 @@ window.EVENT_DATA = {
    "venue": "Lazybones Lounge Restaurant & Bar",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/nye-2026-with-old-school-funk-groove-labyrinth-takeover-on-level-1/200747",
-   "image": "https://static.moshtix.com.au/uploads/d5ec2f57-a7c3-4083-9382-329b392602f0x140x140",
+   "image": "https://static.moshtix.com.au/uploads/00f31192-14e8-4f12-91a9-d2945410a8a9x140x140",
    "source": "Moshtix"
   },
   {
@@ -4412,6 +4482,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Emma Zander & David Frank Present: For the Lore",
+   "date": "2027-01-03",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/emma-zander-david-frank-present-for-the-lore/202825",
+   "image": "https://static.moshtix.com.au/uploads/5f08ccd7-b2e3-4a0f-b69e-dfda4e2b05ccx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "After",
    "date": "2027-01-03",
    "time": "19:00",
@@ -4520,16 +4600,6 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/hooks-neverland",
    "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6381/images/featured-5dq7rx.webp",
    "source": "City of Sydney"
-  },
-  {
-   "name": "SUMMER DANCE X RINSE. FM FT JME, YUNG SINGH, MIA KODEN + MORE",
-   "date": "2027-01-09",
-   "time": "14:00",
-   "venue": "Liberty Hall",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/summer-dance-x-rinse-fm-ft-jme-yung-singh-mia-koden-more/198362",
-   "image": "https://static.moshtix.com.au/uploads/9d5c4631-e6f6-4e08-8072-88155b6804c7x140x140",
-   "source": "Moshtix"
   },
   {
    "name": "SUMMER DANCE X RINSE. FM FT JME, YUNG SINGH, MIA KODEN + MORE | NOW AT SAYWELL ST IN MARRICKVILLE",
@@ -4805,11 +4875,11 @@ window.EVENT_DATA = {
    "name": "LOWERTOWN",
    "date": "2027-01-19",
    "time": "18:00",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
+   "venue": "Metro Theatre",
+   "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/lowertown/202743",
-   "image": "https://static.moshtix.com.au/uploads/ab1cf3f8-7c14-4acd-ad56-50185cd8ab59x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/f33/453cb8a2-57d3-49b1-80b1-04d3ba163f33_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Clare Sands (IRE)",
@@ -4919,6 +4989,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/afronesian-roots-soul-presents-the-reggae-rise-up-sessions/201583",
    "image": "https://static.moshtix.com.au/uploads/81900cbf-0b01-458a-84ef-749093d6fe30x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Euphoria 2 | Sydney",
+   "date": "2027-01-22",
+   "time": "19:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/euphoria-2-sydney/202756",
+   "image": "https://static.moshtix.com.au/uploads/cf8f8343-1803-4e5d-81dd-bd7cf8c9466dx140x140",
    "source": "Moshtix"
   },
   {
@@ -5512,6 +5592,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Dave Hole - Legendary Bluesman with special guest: Mal Eastick",
+   "date": "2027-02-07",
+   "time": "17:00",
+   "venue": "The Bridge Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/dave-hole-legendary-bluesman-with-special-guest-mal-eastick/202837",
+   "image": "https://static.moshtix.com.au/uploads/28c7a61e-7c6f-448e-8625-7b20634985e3x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Felipe Baldomir | Beach Day World Tour",
    "date": "2027-02-07",
    "time": "18:00",
@@ -5722,6 +5812,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Thorny Valentine's Night",
+   "date": "2027-02-13",
+   "time": "19:00",
+   "venue": "Elton chong",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/thorny-valentine-s-night/202815",
+   "image": "https://static.moshtix.com.au/uploads/4ba42219-52c8-43c8-926a-d24b076aa954x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "La Boheme",
    "date": "2027-02-13",
    "time": "19:30",
@@ -5775,11 +5875,11 @@ window.EVENT_DATA = {
    "name": "Bleech 9:3",
    "date": "2027-02-16",
    "time": "20:00",
-   "venue": "Oxford Art Factory, Main Room",
+   "venue": "Oxford Art Factory",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/bleech-9-3/199810",
-   "image": "https://static.moshtix.com.au/uploads/2a9b8a4c-0aa0-44cc-bb56-ceed5a5c262fx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/1c8/893436d0-ac83-4fe4-b8a7-b2aa62a781c8_CUSTOM.jpg",
+   "source": "Ticketmaster"
   }
  ]
 };
