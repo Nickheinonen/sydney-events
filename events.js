@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-17T01:17:26.003Z",
+ "generated": "2026-11-18T00:11:49.522Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -21,56 +21,6 @@ window.EVENT_DATA = {
   "Other"
  ],
  "events": [
-  {
-   "name": "Ultimo TAFE Music Showcase - 17 Nov",
-   "date": "2026-11-17",
-   "time": "18:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/ultimo-tafe-music-showcase-17-nov/200269",
-   "image": "https://static.moshtix.com.au/uploads/d19cfabe-fa58-4b4a-ad1a-af25a0ba86a8x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Gilles Peterson - Liner Notes: Tales from Down Under",
-   "date": "2026-11-17",
-   "time": "18:00",
-   "venue": "The Vanguard",
-   "category": "Stage & Screen",
-   "url": "https://www.moshtix.com.au/v2/event/gilles-peterson-liner-notes-tales-from-down-under/201493",
-   "image": "https://static.moshtix.com.au/uploads/b7431b78-4f9f-4c96-8984-63457383b9bbx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "YVES. Australian Tour 2026.",
-   "date": "2026-11-17",
-   "time": "19:00",
-   "venue": "Liberty Hall",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/yves-australian-tour-2026-/199175",
-   "image": "https://static.moshtix.com.au/uploads/d305ad96-5497-4617-a734-ae1acd9f99a1x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Carl Barron: Just Wondering Why",
-   "date": "2026-11-17",
-   "time": "20:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Stage & Screen",
-   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-17-11-2026/event/130063737A914DC7",
-   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "The Entertainment Quarter Markets (EQ Markets)",
-   "date": "2026-11-17",
-   "time": "21:00",
-   "venue": "The Entertainment Quarter",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/4129/images/featured-kp4wxt.webp",
-   "source": "City of Sydney"
-  },
   {
    "name": "Ultimo TAFE Music Showcase - 18 Nov",
    "date": "2026-11-18",
@@ -172,6 +122,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Robert Baxter - PARTYANIMAL EAST COAST EP TOUR",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "venue": "Tokyo Sing Song",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/robert-baxter-partyanimal-east-coast-ep-tour/201951",
+   "image": "https://static.moshtix.com.au/uploads/98e4c6c4-4341-46ed-b29f-32e688cf534ex140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "An Evening with Alastair Campbell",
    "date": "2026-11-19",
    "time": "19:30",
@@ -200,16 +160,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-ft-bbyclose-19th-november/201865",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "Robert Baxter - PARTYANIMAL EAST COAST EP TOUR",
-   "date": "2026-11-19",
-   "time": "21:00",
-   "venue": "Tokyo Sing Song",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/robert-baxter-partyanimal-east-coast-ep-tour/201951",
-   "image": "https://static.moshtix.com.au/uploads/98e4c6c4-4341-46ed-b29f-32e688cf534ex140x140",
-   "source": "Moshtix"
   },
   {
    "name": "Barangaroo Markets",
@@ -442,12 +392,22 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry Invites JESSE MASS [NL] + AHADADREAM",
+   "name": "Rox Lavi - 'Fall Off' Single Launch Party [FREE ENTRY]",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "venue": "Oxford Art Factory, Gallery Bar",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/rox-lavi-fall-off-single-launch-party-free-entry-/202387",
+   "image": "https://static.moshtix.com.au/uploads/e6f58d41-1ffd-4dd4-aa03-0c3d4bf55d3fx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Chinese Laundry Invites JESSE MASS [NL] + KERFEW TAKEOVER FT. AHADADREAM [UK]",
    "date": "2026-11-20",
    "time": "21:00",
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-jesse-mass-nl-ahadadream/201671",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-jesse-mass-nl-kerfew-takeover-ft-ahadadream-uk-/201671",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
@@ -782,6 +742,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "WET FLOOR 2.0 [FREE ENTRY]",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "venue": "Oxford Art Factory, Gallery Bar",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/wet-floor-2-0-free-entry-/202773",
+   "image": "https://static.moshtix.com.au/uploads/a9eed519-34ea-40a4-8b8e-7008fb2ef18dx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "HOUSE PARTY SATURDAYS - 21ST NOVEMBER",
    "date": "2026-11-21",
    "time": "23:00",
@@ -932,6 +902,26 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "FDS Graduate Runway Show - Group A - 2026",
+   "date": "2026-11-23",
+   "time": "19:45",
+   "venue": "Campbell's Stores, The Rock's, Sydney",
+   "category": "Exhibitions",
+   "url": "https://www.moshtix.com.au/v2/event/fds-graduate-runway-show-group-a-2026/200839",
+   "image": "https://static.moshtix.com.au/uploads/1b13017a-19ea-41ca-ae77-5bd1463b9a5ax140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "FDS Graduate Fashion Show - Group B  2026",
+   "date": "2026-11-23",
+   "time": "21:00",
+   "venue": "Campbell's Stores, The Rock's, Sydney",
+   "category": "Exhibitions",
+   "url": "https://www.moshtix.com.au/v2/event/fds-graduate-fashion-show-group-b-2026/200840",
+   "image": "https://static.moshtix.com.au/uploads/6d3b4b7c-1d18-40f0-a1fc-ea8018f6d2cdx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "News & Reviews: GarnerRama LIVE!",
    "date": "2026-11-24",
    "time": "18:00",
@@ -1028,7 +1018,7 @@ window.EVENT_DATA = {
    "venue": "Martin Place",
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/santas-sydney-sleigh-ride",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-21m9fq.webp",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-rxf9p1.webp",
    "source": "City of Sydney"
   },
   {
@@ -1418,7 +1408,7 @@ window.EVENT_DATA = {
    "venue": "Martin Place",
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/martin-place-christmas-markets",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6425/images/featured-eur08h.webp",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/6425/images/featured-n7zdo6.webp",
    "source": "City of Sydney"
   },
   {
@@ -2542,12 +2532,12 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Chinese Laundry Invites LEVOS [ALL NIGHT LONG]",
+   "name": "Chinese Laundry Invites LEVOS [ALL NIGHT LONG] + MORE TBA",
    "date": "2026-12-05",
    "time": "21:00",
    "venue": "Chinese Laundry",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-levos-all-night-long-/202628",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-levos-all-night-long-more-tba/202628",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
   },
@@ -3092,6 +3082,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "SURGE CTRL",
+   "date": "2026-12-11",
+   "time": "21:00",
+   "venue": "Selina's, Coogee Bay Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/surge-ctrl/202354",
+   "image": "https://static.moshtix.com.au/uploads/75ee41bb-755f-4a55-b9e1-a86980cf3dbcx140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Rukus Takeover @ OAF",
    "date": "2026-12-11",
    "time": "23:00",
@@ -3578,7 +3578,7 @@ window.EVENT_DATA = {
    "venue": "Lazybones Lounge Restaurant & Bar",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/vinyl-night-with-special-guest-robbie-buck-on-level-1/202044",
-   "image": "https://static.moshtix.com.au/uploads/fbb935de-8336-4cf1-ab9a-377b2a97a3d7x140x140",
+   "image": "https://static.moshtix.com.au/uploads/6e922a10-c9ac-4daa-bce5-02b8dd138a5bx140x140",
    "source": "Moshtix"
   },
   {
@@ -3642,12 +3642,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Slow Down Soldier - National EP Tour Finale",
+   "name": "Debaser Presents : Slow Down Soldier - National EP Tour Finale",
    "date": "2026-12-17",
    "time": "19:00",
    "venue": "Oxford Art Factory, Main Room",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/slow-down-soldier-national-ep-tour-finale/202464",
+   "url": "https://www.moshtix.com.au/v2/event/debaser-presents-slow-down-soldier-national-ep-tour-finale/202464",
    "image": "https://static.moshtix.com.au/uploads/130b2305-a191-43c3-8443-a1732ae8723bx140x140",
    "source": "Moshtix"
   },
@@ -3700,6 +3700,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-18-12-2026/event/2500651AE17C5F45",
    "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "LUBBY's Canadian Christmas",
+   "date": "2026-12-18",
+   "time": "18:00",
+   "venue": "The Vanguard",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/lubby-s-canadian-christmas/202757",
+   "image": "https://static.moshtix.com.au/uploads/7ab6f740-9f6e-4712-a501-2c95f385f004x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "#beenwasted",
@@ -4308,7 +4318,7 @@ window.EVENT_DATA = {
    "venue": "Liberty Hall",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/afrojamz-good-times-gathering-sydney-edition-new-years-eve-thur-dec-31st/202582",
-   "image": "https://static.moshtix.com.au/uploads/3000bf46-1d2a-4883-8bb1-5f46f6f1b0aax140x140",
+   "image": "https://static.moshtix.com.au/uploads/f1e0a1f4-5d7b-4cfb-92d8-54b32626ff0cx140x140",
    "source": "Moshtix"
   },
   {
@@ -4339,6 +4349,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/fri-1-jan-closed/202049",
    "image": "https://static.moshtix.com.au/uploads/5a22e319-2210-4a7f-894d-840af513fda0x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Albion Fridays Pres. NEW YEAR'S DAY NIGHT FT. TIMOMATIC",
+   "date": "2027-01-01",
+   "time": "19:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-pres-new-year-s-day-night-ft-timomatic/202800",
+   "image": "https://static.moshtix.com.au/uploads/42a3cfb4-9510-4e40-b786-d2624216f82ex140x140",
    "source": "Moshtix"
   },
   {
@@ -4783,7 +4803,7 @@ window.EVENT_DATA = {
   },
   {
    "name": "LOWERTOWN",
-   "date": "2027-01-17",
+   "date": "2027-01-19",
    "time": "18:00",
    "venue": "Metro Social",
    "category": "Rock & Indie",
@@ -4885,11 +4905,11 @@ window.EVENT_DATA = {
    "name": "OGRE YOU ASSHOLE",
    "date": "2027-01-21",
    "time": "20:00",
-   "venue": "Metro Social",
-   "category": "Rock & Indie",
+   "venue": "Metro Theatre",
+   "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/ogre-you-asshole/202635",
-   "image": "https://static.moshtix.com.au/uploads/75fa09d5-e145-4a08-bc20-8ef69200769bx140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/c/797/5e693c26-2881-4776-8f0c-3aa94bfa3797_106511_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Afronesian Roots & Soul Presents The Reggae Rise Up Sessions",
@@ -4982,6 +5002,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Touch of Funk",
+   "date": "2027-01-23",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/touch-of-funk/202264",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Apache Rose - Red Hot Chili Peppers Tribute",
    "date": "2027-01-23",
    "time": "19:00",
@@ -4989,16 +5019,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/apache-rose-red-hot-chili-peppers-tribute/201758",
    "image": "https://static.moshtix.com.au/uploads/ffbedc15-00f5-40af-ac5c-c8872912058cx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Touch of Funk",
-   "date": "2027-01-23",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/touch-of-funk/202264",
-   "image": "https://static.moshtix.com.au/uploads/63f5b571-c0b3-4ac9-ad25-d721fe811e9dx140x140",
    "source": "Moshtix"
   },
   {
@@ -5190,6 +5210,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-30-01-2027/event/13006531B1B958BC",
    "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Rupaul (DJ Set)",
+   "date": "2027-01-30",
+   "time": "16:30",
+   "venue": "Greenwood Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/rupaul-dj-set-/202725",
+   "image": "https://static.moshtix.com.au/uploads/c2145a16-2c45-4dd5-bc3b-ab13f3197c27x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "TearShxtUp & Phi11a: ITS ALL RED TOUR! | Sydney",
@@ -5672,6 +5702,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Somewhere Else: Dr Banana (All Day Long)",
+   "date": "2027-02-13",
+   "time": "15:00",
+   "venue": "Holme Courtyard",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/somewhere-else-dr-banana-all-day-long-/202647",
+   "image": "https://static.moshtix.com.au/uploads/66a7ed88-2c94-4318-9429-64be3d0e3e76x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Winyah - Right Here, Right Now World Tour 2027",
    "date": "2027-02-13",
    "time": "19:00",
@@ -5719,6 +5759,26 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/the-king-s-songbook-valentine-s-day-/201318",
    "image": "https://static.moshtix.com.au/uploads/31348b6c-4a89-4844-af56-7750a3ba43dbx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "The Magic Flute",
+   "date": "2027-02-15",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-15-02-2027/event/13006531B1BB58FD",
+   "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Bleech 9:3",
+   "date": "2027-02-16",
+   "time": "20:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/bleech-9-3/199810",
+   "image": "https://static.moshtix.com.au/uploads/2a9b8a4c-0aa0-44cc-bb56-ceed5a5c262fx140x140",
    "source": "Moshtix"
   }
  ]
