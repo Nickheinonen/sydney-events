@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-20T00:02:01.220Z",
+ "generated": "2026-11-20T23:29:58.228Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -22,134 +22,14 @@ window.EVENT_DATA = {
  ],
  "events": [
   {
-   "name": "Summer Pool Party at Crown Sydney",
-   "date": "2026-11-19",
-   "time": "18:00",
-   "venue": "Crown Sydney",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/summer-pool-party-at-crown-sydney/202092",
-   "image": "https://static.moshtix.com.au/uploads/bf65cc87-9e5f-4be1-b438-4e392abd790bx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Get Folked on Level 2",
-   "date": "2026-11-19",
-   "time": "18:59",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/get-folked-on-level-2/200728",
-   "image": "https://static.moshtix.com.au/uploads/38b1cf86-2801-4a4c-a3e8-c3ab49fae0aex140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Lvl 1 - Steve Sedergreen & Friends",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/lvl-1-steve-sedergreen-friends/193881",
-   "image": "https://static.moshtix.com.au/uploads/04720a27-1e28-4aaf-9f39-7f7ec2e4ce1fx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Ryan Harris Live in Sydney",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/ryan-harris-live-in-sydney/196620",
-   "image": "https://static.moshtix.com.au/uploads/4b8b6e4a-1178-49b7-8de5-0a3939222962x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "ChillCheney - Worlds Collide, Regional & Remote Tour",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Gallery Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/chillcheney-worlds-collide-regional-remote-tour/199941",
-   "image": "https://static.moshtix.com.au/uploads/824f84ab-8c70-462d-8e19-8b8a1d928aa9x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "SELECT ALL",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/select-all/201949",
-   "image": "https://static.moshtix.com.au/uploads/2bf1bf94-d071-4b1a-ae91-cee251dc9040x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Robert Baxter - PARTYANIMAL EAST COAST EP TOUR",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "venue": "Tokyo Sing Song",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/robert-baxter-partyanimal-east-coast-ep-tour/201951",
-   "image": "https://static.moshtix.com.au/uploads/98e4c6c4-4341-46ed-b29f-32e688cf534ex140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Venna",
-   "date": "2026-11-19",
-   "time": "19:30",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/venna/196220",
-   "image": "https://static.moshtix.com.au/uploads/9cf4ca93-9c83-4b59-84a7-3529375ee2eax140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "ivy Thursdays ft Bbyclose - 19th November",
-   "date": "2026-11-19",
-   "time": "21:00",
-   "venue": "ivy",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-ft-bbyclose-19th-november/201865",
-   "image": "https://static.moshtix.com.au/uploads/945df282-37e6-48d2-8c11-2939812a8572x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Barangaroo Markets",
-   "date": "2026-11-19",
-   "time": "23:00",
-   "venue": "Watermans Quay",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/barangaroo-markets",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/5915/images/featured-815y0p.webp",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Wundrful World Of Christmas",
-   "date": "2026-11-20",
-   "time": "",
-   "venue": "Wundr Store",
-   "category": "Other",
-   "url": "https://www.ticketmaster.com.au/wundrful-world-of-christmas-sydney-20-11-2026/event/2500651AE02D5E44",
-   "image": "https://s1.ticketm.net/dam/a/c35/dd17dc31-4925-40aa-8509-fbb073ae3c35_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "Good Food & Wine Show",
-   "date": "2026-11-20",
-   "time": "05:00",
-   "venue": "ICC Sydney",
-   "category": "Food & Drink",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/good-food-and-wine-show",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/8449/images/featured-9yzskx.webp",
-   "source": "City of Sydney"
-  },
-  {
    "name": "Hot Dub on the Harbour 2026",
    "date": "2026-11-20",
    "time": "18:00",
-   "venue": "Mrs Macquaries Point",
+   "venue": "Fleet Steps",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/hot-dub-on-the-harbour-2026/196073",
-   "image": "https://s1.ticketm.net/dam/a/e26/b4e44a16-3b4a-46ed-a7fc-506e8ede2e26_68701_CUSTOM.jpg",
-   "source": "Ticketmaster"
+   "image": "https://static.moshtix.com.au/uploads/cf7c8cf9-62ad-486d-8fa1-2181e1f2b37bx140x140",
+   "source": "Moshtix"
   },
   {
    "name": "SAFS X AAA – FRIDAY★ // MINA // CEDAR",
@@ -170,16 +50,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/marly-fridays-nov-20th/201871",
    "image": "https://static.moshtix.com.au/uploads/ca01b3ed-0f2f-4a44-8377-e747ddbf785cx140x140",
    "source": "Moshtix"
-  },
-  {
-   "name": "Day We Ran - The Naked At Your Door Tour",
-   "date": "2026-11-20",
-   "time": "19:00",
-   "venue": "Oxford Art Factory",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443",
-   "image": "https://s1.ticketm.net/dam/a/fb4/7b1a25ef-af9c-470f-827b-4749162eefb4_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
   },
   {
    "name": "Keyim Ba",
@@ -209,6 +79,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/monstr/199010",
    "image": "https://static.moshtix.com.au/uploads/b14ffd11-7e70-402e-ab9c-41518e07703ax140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Day We Ran - The Naked At Your Door Tour",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/day-we-ran-the-naked-at-your-door-tour/199443",
+   "image": "https://static.moshtix.com.au/uploads/0c7b77fd-8e7d-481a-9d02-33fba2536634x140x140",
    "source": "Moshtix"
   },
   {
@@ -262,16 +142,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Louis The Child | Sydney",
-   "date": "2026-11-20",
-   "time": "19:30",
-   "venue": "King Street Wharf",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/louis-the-child-sydney/199335",
-   "image": "https://s1.ticketm.net/dam/a/f37/26c9a874-b5fc-489f-bc0c-f52430136f37_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "Regurgitator Live at Beach Road, Bondi",
    "date": "2026-11-20",
    "time": "19:30",
@@ -279,6 +149,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/regurgitator-live-at-beach-road-bondi/199179",
    "image": "https://static.moshtix.com.au/uploads/e9b1db25-76e0-45ef-8810-4796f00c571ex140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Louis The Child | Sydney",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "venue": "Cadman Cruises",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/louis-the-child-sydney/199335",
+   "image": "https://static.moshtix.com.au/uploads/f328e3b2-a6f6-476c-9a58-bd410e1fd887x140x140",
    "source": "Moshtix"
   },
   {
@@ -290,16 +170,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/arbiter-performing-their-debut-album-in-full-/200590",
    "image": "https://static.moshtix.com.au/uploads/80957627-b7b3-427c-ac5d-d7073fdab0c5x140x140",
    "source": "Moshtix"
-  },
-  {
-   "name": "Carl Barron: Just Wondering Why",
-   "date": "2026-11-20",
-   "time": "20:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Stage & Screen",
-   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-20-11-2026/event/13006373871C5C30",
-   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
   },
   {
    "name": "KOFI STONE | ALL THE FLOWERS HAVE BLOOMED",
@@ -352,16 +222,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Chinese Laundry Invites JESSE MASS [NL] + KERFEW TAKEOVER FT. AHADADREAM [UK]",
-   "date": "2026-11-20",
-   "time": "21:00",
-   "venue": "Chinese Laundry",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-jesse-mass-nl-kerfew-takeover-ft-ahadadream-uk-/201671",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "The Entertainment Quarter Markets (EQ Markets)",
    "date": "2026-11-20",
    "time": "21:00",
@@ -392,24 +252,44 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Chinese Laundry Invites JESSE MASS [NL] + KERFEW TAKEOVER FT. AHADADREAM [UK]",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "venue": "Chinese Laundry",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-jesse-mass-nl-kerfew-takeover-ft-ahadadream-uk-/201671",
+   "image": "https://static.moshtix.com.au/uploads/bca1348f-54d5-4892-926c-46e148cd7d54x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "FRI 20 NOV - WAO SUPERCLUB @ IVY",
    "date": "2026-11-20",
    "time": "21:30",
-   "venue": "ivy Sydney",
+   "venue": "ivy",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/fri-20-nov-wao-superclub-ivy/201729",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
-   "source": "Ticketmaster"
+   "image": "https://static.moshtix.com.au/uploads/8c210502-2ae6-4b42-8b75-db59814eb3f0x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Good Food & Wine Show",
+   "date": "2026-11-20",
+   "time": "23:00",
+   "venue": "ICC Sydney",
+   "category": "Food & Drink",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/good-food-and-wine-show",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/8449/images/featured-9yzskx.webp",
+   "source": "City of Sydney"
   },
   {
    "name": "Marcel Dettmann & Gerd Janson [GER]",
    "date": "2026-11-20",
    "time": "23:00",
-   "venue": "Oxford Art Factory",
+   "venue": "Oxford Art Factory, Main Room",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/marcel-dettmann-gerd-janson-ger-/198613",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
-   "source": "Ticketmaster"
+   "image": "https://static.moshtix.com.au/uploads/e0720897-cb0f-437f-aed1-f593b158c8b6x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Wundrful World Of Christmas",
@@ -872,16 +752,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "FDS Graduate Runway Show - Group A - 2026",
-   "date": "2026-11-23",
-   "time": "19:45",
-   "venue": "Campbell's Stores, The Rock's, Sydney",
-   "category": "Exhibitions",
-   "url": "https://www.moshtix.com.au/v2/event/fds-graduate-runway-show-group-a-2026/200839",
-   "image": "https://static.moshtix.com.au/uploads/1b13017a-19ea-41ca-ae77-5bd1463b9a5ax140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "FDS Graduate Fashion Show - Group B  2026",
    "date": "2026-11-23",
    "time": "21:00",
@@ -1172,12 +1042,12 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Live Baby Live - The INXS Tribute Show",
+   "name": "CANCELLED | Live Baby Live - The INXS Tribute Show",
    "date": "2026-11-27",
    "time": "19:00",
    "venue": "The Whalers at Mosman Club",
    "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/live-baby-live-the-inxs-tribute-show/200124",
+   "url": "https://www.moshtix.com.au/v2/event/cancelled-live-baby-live-the-inxs-tribute-show/200124",
    "image": "https://static.moshtix.com.au/uploads/3bd6271f-0447-44a2-bf2d-a5563f483ae4x140x140",
    "source": "Moshtix"
   },
@@ -2122,6 +1992,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Barangaroo Markets",
+   "date": "2026-12-03",
+   "time": "23:00",
+   "venue": "Watermans Quay",
+   "category": "Markets & Festivals",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/barangaroo-markets",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/5915/images/featured-815y0p.webp",
+   "source": "City of Sydney"
+  },
+  {
    "name": "Wundrful World Of Christmas",
    "date": "2026-12-04",
    "time": "",
@@ -2300,16 +2180,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-house-plant-4th-birthday-ft-bibi-seck-be-dina-de-auramatic-uk-/202626",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
-  },
-  {
-   "name": "BAILE INoLVIDABLE: Bad Bunny Appreciation Party - Sydney",
-   "date": "2026-12-04",
-   "time": "21:00",
-   "venue": "Tokio Hotel at Home Nightclub",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/baile-inolvidable-bad-bunny-appreciation-party-sydney/201595",
-   "image": "https://static.moshtix.com.au/uploads/dcc97375-9b60-4738-9f5b-6743e68db773x140x140",
-   "source": "Moshtix"
   },
   {
    "name": "Albion Fridays presents December Babies",
@@ -2662,13 +2532,13 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "UNCLASSIC w/ Smokey Bubblin' B (UK), MAD.DAY",
+   "name": "UNCLASSIC w/ Smokey Bubblin' B (UK), MAD.DAY, Lucky Jim",
    "date": "2026-12-06",
    "time": "18:00",
    "venue": "Felons Barrel Room",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/unclassic-w-smokey-bubblin-b-uk-mad-day/202903",
-   "image": "https://static.moshtix.com.au/uploads/0ab70651-d09a-44f3-a913-8e4235265d35x140x140",
+   "url": "https://www.moshtix.com.au/v2/event/unclassic-w-smokey-bubblin-b-uk-mad-day-lucky-jim/202903",
+   "image": "https://static.moshtix.com.au/uploads/612af8ac-b1aa-4ddc-b5b9-674d54cf7c35x140x140",
    "source": "Moshtix"
   },
   {
@@ -4332,6 +4202,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Sweethearts Teerraza NYE 2026",
+   "date": "2026-12-31",
+   "time": "19:30",
+   "venue": "Sweethearts Terraza",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/sweethearts-teerraza-nye-2026/202442",
+   "image": "https://static.moshtix.com.au/uploads/caab699d-2d3a-49e7-a465-97e7515002cax140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "The Last Dance NYE ft Dusky & Friends",
    "date": "2026-12-31",
    "time": "20:00",
@@ -4482,6 +4362,26 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2027-01-04",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-04-01-2027/event/1300656397667198",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2027-01-05",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-05-01-2027/event/130065639767719E",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "La Boheme",
    "date": "2027-01-05",
    "time": "19:30",
@@ -4499,6 +4399,26 @@ window.EVENT_DATA = {
    "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/charlotte-plank/202543",
    "image": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2027-01-06",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-06-01-2027/event/13006563976771A4",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2027-01-07",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-07-01-2027/event/13006563976871AF",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
   },
   {
@@ -4542,6 +4462,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Palace of Dreams Guided Tours",
+   "date": "2027-01-08",
+   "time": "10:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Other",
+   "url": "https://www.ticketmaster.com.au/palace-of-dreams-guided-tours-sydney-08-01-2027/event/13006563976971B3",
+   "image": "https://s1.ticketm.net/dam/a/307/dce16144-d2ed-4689-a744-2838889a1307_1536371_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "The East Pointers Australian Tour",
    "date": "2027-01-08",
    "time": "19:00",
@@ -4580,6 +4510,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/chinese-laundry-invites-dj-zinc-uk-/202299",
    "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Albion Fridays ft. Boycey",
+   "date": "2027-01-08",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-boycey/202849",
+   "image": "https://static.moshtix.com.au/uploads/60d3cf36-40c6-4a8b-a392-604d168cb4d7x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Hook's Neverland",
@@ -4769,6 +4709,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/start-making-sense-talking-heads-tribute-usa-/198135",
    "image": "https://static.moshtix.com.au/uploads/1be978eb-338c-40db-b910-7c5893317057x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Albion Fridays ft. Nino Brown",
+   "date": "2027-01-15",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-nino-brown/202850",
+   "image": "https://static.moshtix.com.au/uploads/22b5a5b3-aad4-4a64-85a5-04f6c9c4542ex140x140",
    "source": "Moshtix"
   },
   {
@@ -4982,6 +4932,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Euphoria 2 | Sydney",
+   "date": "2027-01-22",
+   "time": "19:00",
+   "venue": "Oxford Art Factory",
+   "category": "Other Music",
+   "url": "https://www.moshtix.com.au/v2/event/euphoria-2-sydney/202756",
+   "image": "https://s1.ticketm.net/dam/a/780/d5201ab8-d289-4d9d-870d-e7155f6b3780_363001_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Afronesian Roots & Soul Presents The Reggae Rise Up Sessions",
    "date": "2027-01-22",
    "time": "19:00",
@@ -4989,16 +4949,6 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/afronesian-roots-soul-presents-the-reggae-rise-up-sessions/201583",
    "image": "https://static.moshtix.com.au/uploads/81900cbf-0b01-458a-84ef-749093d6fe30x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Euphoria 2 | Sydney",
-   "date": "2027-01-22",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/euphoria-2-sydney/202756",
-   "image": "https://static.moshtix.com.au/uploads/cf8f8343-1803-4e5d-81dd-bd7cf8c9466dx140x140",
    "source": "Moshtix"
   },
   {
@@ -5029,6 +4979,26 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/real-young-lazy-horse-ny-usa-/201642",
    "image": "https://static.moshtix.com.au/uploads/45d8a4ed-7348-4f7c-a050-b9ec34c22ebex140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Hector Jr. Australian Tour",
+   "date": "2027-01-22",
+   "time": "20:00",
+   "venue": "Selina's, Coogee Bay Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/hector-jr-australian-tour/202880",
+   "image": "https://static.moshtix.com.au/uploads/f6861b9e-af55-43e4-a5c2-a9d5e9c989f3x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Albion Fridays ft. Hawaiian Theme Night",
+   "date": "2027-01-22",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-hawaiian-theme-night/202851",
+   "image": "https://static.moshtix.com.au/uploads/6e81d54c-ab2b-4d17-a6a9-e6364b0995dfx140x140",
    "source": "Moshtix"
   },
   {
@@ -5280,6 +5250,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/joe-jackson-australian-nz-tour-sydney-29-01-2027/event/130064DDDE695CCA",
    "image": "https://s1.ticketm.net/dam/a/a20/efec3bf7-f090-40f2-b753-1ab73044da20_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Albion Fridays ft. K-Time",
+   "date": "2027-01-29",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-ft-k-time/202852",
+   "image": "https://static.moshtix.com.au/uploads/85bba6f3-d1f8-41bc-beaf-eea2c93566fex140x140",
+   "source": "Moshtix"
   },
   {
    "name": "The Magic Flute",
@@ -5909,6 +5889,36 @@ window.EVENT_DATA = {
    "category": "Other Music",
    "url": "https://www.moshtix.com.au/v2/event/violet-grohl/201684",
    "image": "https://s1.ticketm.net/dam/a/8e2/8a55ecd3-85b2-490c-9cf6-0b3af8edd8e2_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "The Music of Hans Zimmer vs John Williams",
+   "date": "2027-02-18",
+   "time": "14:00",
+   "venue": "Sydney Opera House - Concert Hall",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/the-music-of-hans-zimmer-vs-sydney-18-02-2027/event/130065358D371B4D",
+   "image": "https://s1.ticketm.net/dam/a/c92/e4b10076-e06b-4089-bc52-0ae478b76c92_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "The Music of Hans Zimmer vs John Williams | 2pm & 7pm",
+   "date": "2027-02-18",
+   "time": "14:00",
+   "venue": "Sydney Opera House - Concert Hall",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/the-music-of-hans-zimmer-vs-john-williams-2pm-7pm/200291",
+   "image": "https://static.moshtix.com.au/uploads/59934b22-9e51-4353-b75b-c05813003782x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "The Magic Flute",
+   "date": "2027-02-18",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-18-02-2027/event/13006531B1BB5927",
+   "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
   }
  ]
