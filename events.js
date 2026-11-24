@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-22T22:57:21.836Z",
+ "generated": "2026-11-24T03:36:47.733Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -22,146 +22,6 @@ window.EVENT_DATA = {
  ],
  "events": [
   {
-   "name": "Dirty Deeds Sydney Harbour Xmas Cruise 2026",
-   "date": "2026-11-22",
-   "time": "11:45",
-   "venue": "Harbour Spirit",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/dirty-deeds-sydney-harbour-xmas-cruise-2026/199563",
-   "image": "https://static.moshtix.com.au/uploads/11e9650e-caa4-4571-8b02-f95f078cce97x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Lost Sundays - November 22 ft. Omar+, The Trip & Lewis Taylor",
-   "date": "2026-11-22",
-   "time": "16:00",
-   "venue": "ivy",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/lost-sundays-november-22-ft-omar-the-trip-lewis-taylor/200897",
-   "image": "https://static.moshtix.com.au/uploads/8e617459-0318-447e-ba4d-3f2cb3d1b144x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "EDGE Band & Vyoma - Live in Sydney",
-   "date": "2026-11-22",
-   "time": "17:00",
-   "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/edge-band-vyoma-live-in-sydney/200323",
-   "image": "https://static.moshtix.com.au/uploads/104f220b-ae9a-4412-93f3-ca8c493e76fax140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Miles Davis BIRTH OF THE COOL with the Birth of the Cool Orchestra",
-   "date": "2026-11-22",
-   "time": "17:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/miles-davis-birth-of-the-cool-with-the-birth-of-the-cool-orchestra/200725",
-   "image": "https://static.moshtix.com.au/uploads/d48cd1f6-7317-45b0-975d-ffa20b42ccbex140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Lvl 1 - Motor City",
-   "date": "2026-11-22",
-   "time": "17:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/lvl-1-motor-city/201135",
-   "image": "https://static.moshtix.com.au/uploads/fc587928-d65c-4bb1-9e8f-8e520c4f4e42x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "The Vampires",
-   "date": "2026-11-22",
-   "time": "18:30",
-   "venue": "The Vanguard",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/the-vampires/199659",
-   "image": "https://static.moshtix.com.au/uploads/60ca75b2-1c34-40ff-839d-9bb5f6a0abadx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "NEW DATE | HAYWIRE (USA) Australian Tour - Sydney",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/new-date-haywire-usa-australian-tour-sydney/197273",
-   "image": "https://static.moshtix.com.au/uploads/df242566-2c67-4bbc-b994-cb8c79dd3bb1x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Ultra Naté | SYDNEY",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/ultra-nat-sydney/197707",
-   "image": "https://static.moshtix.com.au/uploads/22d2c577-8846-4f4a-a9b1-6e741a9af392x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Mouseatouille w/ The Enthusiast and Our Mutual Friend",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "venue": "The Lansdowne Hotel, Sydney",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/mouseatouille-w-the-enthusiast-and-our-mutual-friend/201514",
-   "image": "https://static.moshtix.com.au/uploads/bcc8128d-b332-4771-8d62-e7f8294c66f8x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "FDS Graduate Matinee Runway Show 2026",
-   "date": "2026-11-23",
-   "time": "12:30",
-   "venue": "Campbell's Stores, The Rock's, Sydney",
-   "category": "Exhibitions",
-   "url": "https://www.moshtix.com.au/v2/event/fds-graduate-matinee-runway-show-2026/200838",
-   "image": "https://static.moshtix.com.au/uploads/3ac4c810-d202-4a1c-b593-4ad4f95f3c2dx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "The Underground Brass Band (TUBB)",
-   "date": "2026-11-23",
-   "time": "18:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/the-underground-brass-band-tubb-/199129",
-   "image": "https://static.moshtix.com.au/uploads/cefc9847-32af-4ae4-92a4-0ed05cd1aed6x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Allegra Krieger (USA)",
-   "date": "2026-11-23",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/allegra-krieger-usa-/199537",
-   "image": "https://static.moshtix.com.au/uploads/e452ed90-a90a-4ba9-9926-6c2699161044x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "An Evening with Mary Beard Talking Classics",
-   "date": "2026-11-23",
-   "time": "19:30",
-   "venue": "State Theatre, Sydney",
-   "category": "Stage & Screen",
-   "url": "https://www.ticketmaster.com.au/an-evening-with-mary-beard-talking-sydney-23-11-2026/event/130064D796BD52AF",
-   "image": "https://s1.ticketm.net/dam/a/7f0/aa61842b-e9bc-4b6f-b3ec-e0fbe526d7f0_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "FDS Graduate Fashion Show - Group B  2026",
-   "date": "2026-11-23",
-   "time": "21:00",
-   "venue": "Campbell's Stores, The Rock's, Sydney",
-   "category": "Exhibitions",
-   "url": "https://www.moshtix.com.au/v2/event/fds-graduate-fashion-show-group-b-2026/200840",
-   "image": "https://static.moshtix.com.au/uploads/6d3b4b7c-1d18-40f0-a1fc-ea8018f6d2cdx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "News & Reviews: GarnerRama LIVE!",
    "date": "2026-11-24",
    "time": "18:00",
@@ -179,6 +39,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/local-business-bear-the-knee-seldoon-and-insteria/201137",
    "image": "https://static.moshtix.com.au/uploads/035015ab-30ff-4656-86d0-14dfcc3b8eb6x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Level 1 - Vinyl Night with Rominimal Sessions",
+   "date": "2026-11-24",
+   "time": "18:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/level-1-vinyl-night-with-rominimal-sessions/202986",
+   "image": "https://static.moshtix.com.au/uploads/b644f42b-aa3b-4431-9037-58e08947f3ffx140x140",
    "source": "Moshtix"
   },
   {
@@ -268,7 +138,7 @@ window.EVENT_DATA = {
    "venue": "Martin Place",
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/santas-sydney-sleigh-ride",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-zmbull.webp",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-m99f3l.webp",
    "source": "City of Sydney"
   },
   {
@@ -472,13 +342,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "PUSIKI",
+   "name": "Zoe K & The Band of Lost Souls",
    "date": "2026-11-27",
    "time": "19:00",
    "venue": "Lazybones Lounge Restaurant & Bar",
    "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/pusiki/201715",
-   "image": "https://static.moshtix.com.au/uploads/78f4e04c-54ad-4bda-b0ad-65ef65e2b664x140x140",
+   "url": "https://www.moshtix.com.au/v2/event/zoe-k-the-band-of-lost-souls/201715",
+   "image": "https://static.moshtix.com.au/uploads/e45bea5f-c9ab-465b-addb-ebd2e5d03eaax140x140",
    "source": "Moshtix"
   },
   {
@@ -668,7 +538,7 @@ window.EVENT_DATA = {
    "venue": "Glebe Point Road between St Johns and Parramatta roads",
    "category": "Markets & Festivals",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/glebe-christmas-fair",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/8461/images/featured-4l3lj8.webp",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/8461/images/featured-h07u3g.webp",
    "source": "City of Sydney"
   },
   {
@@ -962,12 +832,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "AFRODESI FT. MR SAJ (UK) - SYDNEY (LESS THAN 100 TICKETS LEFT)",
+   "name": "AFRODESI FT. MR SAJ (UK) - SYDNEY",
    "date": "2026-11-28",
    "time": "22:30",
    "venue": "Oxford Art Factory, Main Room",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/afrodesi-ft-mr-saj-uk-sydney-less-than-100-tickets-left-/202474",
+   "url": "https://www.moshtix.com.au/v2/event/afrodesi-ft-mr-saj-uk-sydney/202474",
    "image": "https://static.moshtix.com.au/uploads/3475b06d-c8cf-4353-b4ac-d6592c738489x140x140",
    "source": "Moshtix"
   },
@@ -1150,6 +1020,16 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/ann-wilson-tripsitter-the-voice-of-sydney-30-11-2026/event/130064FDBF62688F",
    "image": "https://s1.ticketm.net/dam/a/06a/25ae514d-4ef2-4299-9a59-ed6f5a1d506a_CUSTOM.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "DATE CHANGE | Allegra Krieger (USA)",
+   "date": "2026-11-30",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/date-change-allegra-krieger-usa-/199537",
+   "image": "https://static.moshtix.com.au/uploads/e452ed90-a90a-4ba9-9926-6c2699161044x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Wundrful World Of Christmas",
@@ -1589,6 +1469,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/after-dark-w-maxwell-jxhn-exit-future-static-haven/202278",
    "image": "https://static.moshtix.com.au/uploads/36a99815-6de3-4d76-abaf-4d9efc6832cfx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Elton Chong Presents: Halcyon Reign, Bitter Kings, Aircrash + Tamara Roldan",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "venue": "Elton chong",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/elton-chong-presents-halcyon-reign-bitter-kings-aircrash-tamara-roldan/202822",
+   "image": "https://static.moshtix.com.au/uploads/b9976fba-c7ef-4221-a15a-df313af237eax140x140",
    "source": "Moshtix"
   },
   {
@@ -3512,6 +3402,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "VIBE SATURDAYS: 🔥 YALLA HABIBI – BOXING DAY SPECIAL 🔥",
+   "date": "2026-12-26",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/vibe-saturdays-yalla-habibi-boxing-day-special-/202961",
+   "image": "https://static.moshtix.com.au/uploads/6d1510f1-1cb5-4456-89fc-80c04a1bde20x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "★ S.A.S.H Sydney ★ Lauren Lo Sung ★ Saturday 26th December ★",
    "date": "2026-12-26",
    "time": "22:00",
@@ -3622,12 +3522,12 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Sweethearts Teerraza NYE 2026",
+   "name": "Sweethearts Terraza NYE 2026",
    "date": "2026-12-31",
    "time": "19:30",
    "venue": "Sweethearts Terraza",
    "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/sweethearts-teerraza-nye-2026/202442",
+   "url": "https://www.moshtix.com.au/v2/event/sweethearts-terraza-nye-2026/202442",
    "image": "https://static.moshtix.com.au/uploads/caab699d-2d3a-49e7-a465-97e7515002cax140x140",
    "source": "Moshtix"
   },
@@ -3659,6 +3559,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/tmrw-music-pres-nye-with-judge-jules-uk-/200648",
    "image": "https://static.moshtix.com.au/uploads/dfeddc37-62aa-4a0d-ba94-6d684685c1c8x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "NYE at The Marly - THUR 31ST DEC",
+   "date": "2026-12-31",
+   "time": "21:00",
+   "venue": "Marlborough Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/nye-at-the-marly-thur-31st-dec/202347",
+   "image": "https://static.moshtix.com.au/uploads/91d60152-99d4-4f87-be53-43c666a9df4bx140x140",
    "source": "Moshtix"
   },
   {
@@ -3922,6 +3832,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Willie J's 6V6's - FREE ENTRY",
+   "date": "2027-01-08",
+   "time": "20:00",
+   "venue": "The Whalers at Mosman Club",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/willie-j-s-6v6-s-free-entry/202977",
+   "image": "",
+   "source": "Moshtix"
+  },
+  {
    "name": "RUN THE NUMBERS ft. 4AM KRU [UK] ",
    "date": "2027-01-08",
    "time": "21:00",
@@ -4152,6 +4072,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "H1GHR SEASON IN AUSTRALIA 2027",
+   "date": "2027-01-15",
+   "time": "20:00",
+   "venue": "Liberty Hall",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/h1ghr-season-in-australia-2027/202964",
+   "image": "https://static.moshtix.com.au/uploads/06b0c17f-1c96-45d2-8184-61f6a95bbccex140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Albion Fridays ft. Nino Brown",
    "date": "2027-01-15",
    "time": "21:00",
@@ -4245,11 +4175,11 @@ window.EVENT_DATA = {
    "name": "One Hit & Gustavo ft. Tobiahs",
    "date": "2027-01-16",
    "time": "22:00",
-   "venue": "ivy",
+   "venue": "ivy Sydney",
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/one-hit-gustavo-ft-tobiahs/200369",
-   "image": "https://static.moshtix.com.au/uploads/12975af3-d16e-4b07-a936-d01f97f4d8f0x140x140",
-   "source": "Moshtix"
+   "image": "https://s1.ticketm.net/dam/a/f2a/8a2f01c9-4e68-40de-9842-5005c49c5f2a_CUSTOM.jpg",
+   "source": "Ticketmaster"
   },
   {
    "name": "Cinema Show - The Australian Genesis Show",
@@ -4428,7 +4358,7 @@ window.EVENT_DATA = {
    "venue": "Selina's, Coogee Bay Hotel",
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/hector-jr-australian-tour/202880",
-   "image": "https://static.moshtix.com.au/uploads/f6861b9e-af55-43e4-a5c2-a9d5e9c989f3x140x140",
+   "image": "https://static.moshtix.com.au/uploads/c7035998-a1e6-41fe-841b-3d120b2b3375x140x140",
    "source": "Moshtix"
   },
   {
@@ -4512,6 +4442,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Katanga Junior & Band – Hope Summer Tour",
+   "date": "2027-01-23",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/katanga-junior-band-hope-summer-tour/201907",
+   "image": "https://static.moshtix.com.au/uploads/cd76e60e-3c7d-441e-b2d7-2ecbfcd28c45x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Troy Hawke - Never Stop, Never Change!",
    "date": "2027-01-23",
    "time": "19:30",
@@ -4542,6 +4482,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "Nowhere To Wear It Party - Sydney",
+   "date": "2027-01-23",
+   "time": "22:00",
+   "venue": "The Imperial Erskineville",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/nowhere-to-wear-it-party-sydney/202963",
+   "image": "https://static.moshtix.com.au/uploads/cea83ff0-bfa7-4960-8c16-1b533c9e1804x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Remembering Whitney",
    "date": "2027-01-24",
    "time": "17:00",
@@ -4549,6 +4499,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/remembering-whitney/198904",
    "image": "https://static.moshtix.com.au/uploads/80bf4e53-64f1-4bff-a65a-8cec122c0d36x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Lvl 1 - Tired AF",
+   "date": "2027-01-24",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-tired-af/201950",
+   "image": "https://static.moshtix.com.au/uploads/792cf3af-ac2f-48bc-ad7c-d5da8ce957a7x140x140",
    "source": "Moshtix"
   },
   {
@@ -4712,6 +4672,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Benny Benassi & Fedde Le Grand",
+   "date": "2027-01-30",
+   "time": "14:00",
+   "venue": "ivy",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/benny-benassi-fedde-le-grand/202910",
+   "image": "https://static.moshtix.com.au/uploads/f6ebb370-3ca9-498d-b32a-bfec33b12206x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Somewhere Else: 6 SENSE (5 HOURS)",
    "date": "2027-01-30",
    "time": "15:00",
@@ -4769,6 +4739,26 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/mc-collection-amar-baina-uu-tsagaan-sar/201618",
    "image": "https://static.moshtix.com.au/uploads/75519531-24e1-49b1-af49-2b28b601bdd5x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Andre Soueid presents the 11:11 Tour - Ivy Sydney",
+   "date": "2027-01-30",
+   "time": "21:00",
+   "venue": "ivy Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/andre-soueid-presents-the-11-11-tour-ivy-sydney/202808",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Hyperpunk: Emo | Pop Punk | Hyperpop Club Night - Sydney",
+   "date": "2027-01-30",
+   "time": "21:00",
+   "venue": "Oxford Art Factory, Gallery Bar",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/hyperpunk-emo-pop-punk-hyperpop-club-night-sydney/202962",
+   "image": "https://static.moshtix.com.au/uploads/422edca0-1170-4da4-bf01-c74711dacf4bx140x140",
    "source": "Moshtix"
   },
   {
@@ -5519,6 +5509,66 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/hockey-dad-10-years-of-boronia/202679",
    "image": "https://static.moshtix.com.au/uploads/a33e8574-304d-41ba-b5da-6ad324c0a2e5x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "NSW Waratahs v Fijian Drua",
+   "date": "2027-02-20",
+   "time": "19:35",
+   "venue": "Allianz Stadium",
+   "category": "Sport",
+   "url": "https://www.ticketmaster.com.au/nsw-waratahs-v-fijian-drua-sydney-20-02-2027/event/2500656BB952ACA5",
+   "image": "https://s1.ticketm.net/dam/e/692/d7dc097e-1fb1-4038-ac5a-33124b2cc692_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Kaftana Pool Party",
+   "date": "2027-02-21",
+   "time": "14:00",
+   "venue": "Jimmy's Rooftop",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/kaftana-pool-party/201230",
+   "image": "https://static.moshtix.com.au/uploads/2d109b28-37f4-4b80-926c-2fd91fa3a620x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Return to Rio Presents GUY J",
+   "date": "2027-02-21",
+   "time": "15:00",
+   "venue": "ivy Sydney",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/return-to-rio-presents-guy-j/201947",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Lucy Darling: Cheers",
+   "date": "2027-02-21",
+   "time": "16:00",
+   "venue": "State Theatre, Sydney",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/lucy-darling-cheers-sydney-21-02-2027/event/13006565E951F1A6",
+   "image": "https://s1.ticketm.net/dam/a/646/9cea3d04-736d-4108-816a-7becd236e646_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Calvin Harris - Australia Tour 2027",
+   "date": "2027-02-21",
+   "time": "17:00",
+   "venue": "The Domain",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-21-02-2027/event/1300652FD003AABD",
+   "image": "https://s1.ticketm.net/dam/a/8cf/8010686b-362d-47e1-8254-0d7eee6328cf_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "DJ Shadow Celebrates 30 Years of Endtroducing.....",
+   "date": "2027-02-21",
+   "time": "19:00",
+   "venue": "ROUNDHOUSE, SYDNEY",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/dj-shadow-celebrates-30-years-of-endtroducing-/202030",
+   "image": "https://static.moshtix.com.au/uploads/66c7ccc7-e8d4-43a0-bd41-8f46852ce9bax140x140",
    "source": "Moshtix"
   }
  ]
