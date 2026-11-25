@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-24T03:36:47.733Z",
+ "generated": "2026-11-25T01:45:02.061Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -21,56 +21,6 @@ window.EVENT_DATA = {
   "Other"
  ],
  "events": [
-  {
-   "name": "News & Reviews: GarnerRama LIVE!",
-   "date": "2026-11-24",
-   "time": "18:00",
-   "venue": "The Vanguard",
-   "category": "Comedy",
-   "url": "https://www.moshtix.com.au/v2/event/news-reviews-garnerrama-live-/199884",
-   "image": "https://static.moshtix.com.au/uploads/c10b821f-ca45-4af0-b55e-c180b8da8138x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Local Business, Bear the Knee, Seldoon and Insteria",
-   "date": "2026-11-24",
-   "time": "18:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/local-business-bear-the-knee-seldoon-and-insteria/201137",
-   "image": "https://static.moshtix.com.au/uploads/035015ab-30ff-4656-86d0-14dfcc3b8eb6x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Level 1 - Vinyl Night with Rominimal Sessions",
-   "date": "2026-11-24",
-   "time": "18:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/level-1-vinyl-night-with-rominimal-sessions/202986",
-   "image": "https://static.moshtix.com.au/uploads/b644f42b-aa3b-4431-9037-58e08947f3ffx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Carl Barron: Just Wondering Why",
-   "date": "2026-11-24",
-   "time": "20:00",
-   "venue": "State Theatre, Sydney",
-   "category": "Stage & Screen",
-   "url": "https://www.ticketmaster.com.au/carl-barron-just-wondering-why-sydney-24-11-2026/event/13006373871C5C37",
-   "image": "https://s1.ticketm.net/dam/a/39c/8be671d4-931b-4630-9311-0a761146a39c_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "The Entertainment Quarter Markets (EQ Markets)",
-   "date": "2026-11-24",
-   "time": "21:00",
-   "venue": "The Entertainment Quarter",
-   "category": "Markets & Festivals",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/4129/images/featured-kp4wxt.webp",
-   "source": "City of Sydney"
-  },
   {
    "name": "Burlyflexx",
    "date": "2026-11-25",
@@ -138,7 +88,7 @@ window.EVENT_DATA = {
    "venue": "Martin Place",
    "category": "Family",
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/santas-sydney-sleigh-ride",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-m99f3l.webp",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-413vu8.webp",
    "source": "City of Sydney"
   },
   {
@@ -1732,6 +1682,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "LF SYSTEM | SYDNEY",
+   "date": "2026-12-05",
+   "time": "22:00",
+   "venue": "Oxford Art Factory",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/lf-system-sydney/197788",
+   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
    "name": "Last Words | Free Entry DJ's | Sydney Emo Night",
    "date": "2026-12-05",
    "time": "22:00",
@@ -1752,14 +1712,14 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "LF SYSTEM | SYDNEY",
+   "name": "Silk Road [FREE ENTRY]",
    "date": "2026-12-05",
-   "time": "23:00",
-   "venue": "Oxford Art Factory",
+   "time": "22:30",
+   "venue": "Oxford Art Factory, Gallery Bar",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/lf-system-sydney/197788",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
+   "url": "https://www.moshtix.com.au/v2/event/silk-road-free-entry-/203031",
+   "image": "https://static.moshtix.com.au/uploads/cf9fd42b-72a9-4054-9e35-caa4528bf0d9x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Wundrful World Of Christmas",
@@ -2440,16 +2400,6 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/music-in-exile-s-artist-first-fundraiser-w-hugh-b-setwun-ashkan-shafiei-anso-d-grade-dj-liars-dj-/202838",
    "image": "https://static.moshtix.com.au/uploads/ea5a2ac9-af5f-4ae4-b85f-4d55d40a2065x140x140",
    "source": "Moshtix"
-  },
-  {
-   "name": "LUCY GRAY: Sydney",
-   "date": "2026-12-12",
-   "time": "19:30",
-   "venue": "Lansdowne Hotel",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/lucy-gray-sydney/201370",
-   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
   },
   {
    "name": "Carl Barron: Just Wondering Why",
@@ -3419,6 +3369,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-lauren-lo-sung-saturday-26th-december-/201803",
    "image": "https://static.moshtix.com.au/uploads/e262123b-3d11-40a0-ac6d-7cbcf812889ax140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Boxing Day at The Marly - SAT 26TH DEC",
+   "date": "2026-12-26",
+   "time": "23:00",
+   "venue": "Marlborough Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/boxing-day-at-the-marly-sat-26th-dec/202345",
+   "image": "https://static.moshtix.com.au/uploads/411f3d54-b5d4-4b7d-9dc8-db194256eb3ex140x140",
    "source": "Moshtix"
   },
   {
@@ -4412,12 +4372,12 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "NOT DOLLAR SHORT",
+   "name": "NOT DOLLAR SHORT + IRRELEVANT",
    "date": "2027-01-23",
    "time": "18:00",
    "venue": "Metro Social",
    "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/not-dollar-short/200096",
+   "url": "https://www.moshtix.com.au/v2/event/not-dollar-short-irrelevant/200096",
    "image": "https://static.moshtix.com.au/uploads/5f135d54-dd77-40a8-8f91-10101fb63205x140x140",
    "source": "Moshtix"
   },
@@ -5012,6 +4972,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Live Forever: Lil Peep Appreciation Night - Sydney",
+   "date": "2027-02-06",
+   "time": "23:00",
+   "venue": "Oxford Art Factory, Gallery Bar",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/live-forever-lil-peep-appreciation-night-sydney/203017",
+   "image": "https://static.moshtix.com.au/uploads/d9f9c026-7151-47a4-8e7f-44dfbae1dee7x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "2026/27 A-League Sydney FC v Melbourne City FC",
    "date": "2027-02-07",
    "time": "17:00",
@@ -5170,6 +5140,16 @@ window.EVENT_DATA = {
    "url": "https://www.moshtix.com.au/v2/event/teenage-bottlerocket-usa-brendan-kelly-the-lawrence-arms-/198342",
    "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Nathan Ball - What's new old friend? Australian Album Tour",
+   "date": "2027-02-12",
+   "time": "19:00",
+   "venue": "Bootleggers",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/nathan-ball-what-s-new-old-friend-australian-album-tour/202802",
+   "image": "https://static.moshtix.com.au/uploads/d21c751e-e575-4fbb-bb07-6484c1d6c4d9x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Tijuana Cartel with Future Roots",
@@ -5569,6 +5549,36 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/dj-shadow-celebrates-30-years-of-endtroducing-/202030",
    "image": "https://static.moshtix.com.au/uploads/66c7ccc7-e8d4-43a0-bd41-8f46852ce9bax140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Calvin Harris - Australia Tour 2027",
+   "date": "2027-02-22",
+   "time": "17:00",
+   "venue": "The Domain",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-22-02-2027/event/13006537D860BE0B",
+   "image": "https://s1.ticketm.net/dam/a/8cf/8010686b-362d-47e1-8254-0d7eee6328cf_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "The Magic Flute",
+   "date": "2027-02-22",
+   "time": "19:30",
+   "venue": "Sydney Opera House- Joan Sutherland Theatre",
+   "category": "Stage & Screen",
+   "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-22-02-2027/event/13006531B1BC594D",
+   "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "SOJA Australia Tour 2027 with special guest Bradamon",
+   "date": "2027-02-23",
+   "time": "19:00",
+   "venue": "Liberty Hall",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/soja-australia-tour-2027-with-special-guest-bradamon/202927",
+   "image": "https://static.moshtix.com.au/uploads/2c8ebcd8-8bcf-4937-a56d-95714063daa1x140x140",
    "source": "Moshtix"
   }
  ]
