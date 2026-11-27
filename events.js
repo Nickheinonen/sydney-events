@@ -1,5 +1,5 @@
 window.EVENT_DATA = {
- "generated": "2026-11-26T01:18:31.097Z",
+ "generated": "2026-11-27T01:16:31.211Z",
  "shelfOrder": [
   "Rock & Indie",
   "Comedy",
@@ -22,156 +22,6 @@ window.EVENT_DATA = {
  ],
  "events": [
   {
-   "name": "Portraits with a voice",
-   "date": "2026-11-26",
-   "time": "",
-   "venue": "See listing",
-   "category": "Other",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/portraits-with-a-voice",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/12882/images/featured-zahicb.webp",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Martin Place Christmas tree",
-   "date": "2026-11-26",
-   "time": "",
-   "venue": "Martin Place",
-   "category": "Family",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/martin-place-christmas-tree",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7399/images/featured-whvhhh.webp",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Santa’s Sydney sleigh ride and tree lighting",
-   "date": "2026-11-26",
-   "time": "07:30",
-   "venue": "Martin Place",
-   "category": "Family",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/santas-sydney-sleigh-ride",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7346/images/featured-413vu8.webp",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "Sydney Town Hall Christmas lights show",
-   "date": "2026-11-26",
-   "time": "09:00",
-   "venue": "Sydney Town Hall",
-   "category": "Other",
-   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-town-hall-christmas-lights-show",
-   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/12921/images/featured-enihnu.webp",
-   "source": "City of Sydney"
-  },
-  {
-   "name": "FREE OPENING NIGHT EVENT",
-   "date": "2026-11-26",
-   "time": "18:00",
-   "venue": "Tumbalong Park",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/free-opening-night-event/202032",
-   "image": "https://static.moshtix.com.au/uploads/80132cd6-2ed8-4fe2-bb8f-e682a6e6cba8x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Caroline Rose (USA)",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "venue": "Lansdowne Hotel",
-   "category": "Other Music",
-   "url": "https://www.moshtix.com.au/v2/event/caroline-rose-usa-/199596",
-   "image": "https://s1.ticketm.net/dam/a/22e/6fcfc0fc-a764-40ae-baf5-2c1ec50c722e_ARTIST_PAGE_3_2.jpg",
-   "source": "Ticketmaster"
-  },
-  {
-   "name": "Lvl 1 - Sounds Fab! The music of the Beatles reimagined",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/lvl-1-sounds-fab-the-music-of-the-beatles-reimagined/196517",
-   "image": "https://static.moshtix.com.au/uploads/79ebf319-0538-4980-a7ce-a5fc44a07dc9x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Josh Orange ‘The Fire & The Call‘ Album Launch with Special Guest Joseph Trueman",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/josh-orange-the-fire-the-call-album-launch-with-special-guest-joseph-trueman/198176",
-   "image": "https://static.moshtix.com.au/uploads/fbe55761-4917-4265-a323-7afc92ef251cx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Total Order \"Into Oblivion\" @ Bootleggers Newtown w/ Hokkaido and Watching Wolves",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "venue": "Bootleggers",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/total-order-into-oblivion-bootleggers-newtown-w-hokkaido-and-watching-wolves/201391",
-   "image": "https://static.moshtix.com.au/uploads/e60f247a-f331-42da-9ba7-5aa03fec5e26x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Jazz:NOW 2026 Episode #4 - Tom Avgenicos' 'Ghosts Between Streams'",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/jazz-now-2026-episode-4-tom-avgenicos-ghosts-between-streams-/193267",
-   "image": "https://static.moshtix.com.au/uploads/6c413bab-b0fb-40a7-b6c9-591dd5e0f6a9x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Thursday R&B at \"the Brass\" ft KILN / PRANNAY SASTRY / BALA II",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "venue": "Kiss My Brass",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/thursday-r-b-at-the-brass-ft-kiln-prannay-sastry-bala-ii/202023",
-   "image": "https://static.moshtix.com.au/uploads/87aa8f8b-8f86-4b68-abe8-3141424ee6fcx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "MICO | VENUE UPGRADE",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/mico-venue-upgrade/196827",
-   "image": "https://static.moshtix.com.au/uploads/1f01b254-bcb4-46e0-b76d-48f009528483x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Asha Jefferies - 'Desire Is An Angel' Album Tour",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "venue": "Oxford Art Factory, Gallery Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/asha-jefferies-desire-is-an-angel-album-tour/199722",
-   "image": "https://static.moshtix.com.au/uploads/ee33f7e3-e7ab-42b9-a238-3cc4595a7966x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "DJ KOCO aka Shimokita",
-   "date": "2026-11-26",
-   "time": "19:30",
-   "venue": "Felons Barrel Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/dj-koco-aka-shimokita/201065",
-   "image": "https://static.moshtix.com.au/uploads/64335297-cbda-4e27-9df9-be2fc66c832ex140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "ivy Thursdays - 26th November",
-   "date": "2026-11-26",
-   "time": "21:00",
-   "venue": "ivy Sydney",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/ivy-thursdays-26th-november/201866",
-   "image": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_CUSTOM.jpg",
-   "source": "Ticketmaster"
-  },
-  {
    "name": "Wundrful World Of Christmas",
    "date": "2026-11-27",
    "time": "",
@@ -182,24 +32,34 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Kool & the Gang + Sister Sledge ft. Slegendary",
+   "name": "Portraits with a voice",
    "date": "2026-11-27",
-   "time": "18:00",
-   "venue": "Australian Tour",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/kool-the-gang-sister-sledge-ft-slegendary/203072",
-   "image": "https://static.moshtix.com.au/uploads/f98498f6-d252-4d77-8044-669690b906eax140x140",
-   "source": "Moshtix"
+   "time": "",
+   "venue": "See listing",
+   "category": "Other",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/portraits-with-a-voice",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/12882/images/featured-zahicb.webp",
+   "source": "City of Sydney"
   },
   {
-   "name": "MARLY FRIDAYS | NOV 27TH",
+   "name": "Martin Place Christmas tree",
    "date": "2026-11-27",
-   "time": "18:00",
-   "venue": "Marlborough Hotel",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/marly-fridays-nov-27th/201872",
-   "image": "https://static.moshtix.com.au/uploads/25c8b582-f7b7-45fc-b327-c403417c5d80x140x140",
-   "source": "Moshtix"
+   "time": "",
+   "venue": "Martin Place",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/martin-place-christmas-tree",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7399/images/featured-whvhhh.webp",
+   "source": "City of Sydney"
+  },
+  {
+   "name": "Sydney Town Hall Christmas lights show",
+   "date": "2026-11-27",
+   "time": "09:00",
+   "venue": "Sydney Town Hall",
+   "category": "Other",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-town-hall-christmas-lights-show",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/12921/images/featured-enihnu.webp",
+   "source": "City of Sydney"
   },
   {
    "name": "FORMA pres. Kool & The Gang + Sister Sledge ft. Sledgendary - Darling Harbour, Tumbalong Park",
@@ -219,6 +79,26 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/forma/197753",
    "image": "https://static.moshtix.com.au/uploads/6085d90a-9f19-430c-bae5-e2344098b760x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "MARLY FRIDAYS | NOV 27TH",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "venue": "Marlborough Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/marly-fridays-nov-27th/201872",
+   "image": "https://static.moshtix.com.au/uploads/25c8b582-f7b7-45fc-b327-c403417c5d80x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Kool & the Gang + Sister Sledge ft. Slegendary",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "venue": "Australian Tour",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/kool-the-gang-sister-sledge-ft-slegendary/203072",
+   "image": "https://static.moshtix.com.au/uploads/f98498f6-d252-4d77-8044-669690b906eax140x140",
    "source": "Moshtix"
   },
   {
@@ -252,16 +132,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Zoe K & The Band of Lost Souls",
-   "date": "2026-11-27",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/zoe-k-the-band-of-lost-souls/201715",
-   "image": "https://static.moshtix.com.au/uploads/e45bea5f-c9ab-465b-addb-ebd2e5d03eaax140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "CANCELLED | Live Baby Live - The INXS Tribute Show",
    "date": "2026-11-27",
    "time": "19:00",
@@ -279,6 +149,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/echt-bel-special-guest-haztet/200265",
    "image": "https://static.moshtix.com.au/uploads/a5e64f1c-9587-4009-8ce8-73d277f107d2x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Zoe K & The Band of Lost Souls",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/zoe-k-the-band-of-lost-souls/201715",
+   "image": "https://static.moshtix.com.au/uploads/e45bea5f-c9ab-465b-addb-ebd2e5d03eaax140x140",
    "source": "Moshtix"
   },
   {
@@ -410,6 +290,16 @@ window.EVENT_DATA = {
    "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
    "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/4129/images/featured-kp4wxt.webp",
    "source": "City of Sydney"
+  },
+  {
+   "name": "Albion Fridays presents Traffic Light Party",
+   "date": "2026-11-27",
+   "time": "21:00",
+   "venue": "The Albion Hotel",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/albion-fridays-presents-traffic-light-party/201663",
+   "image": "https://static.moshtix.com.au/uploads/be613c6b-97dc-44ee-bfa3-bade0b2286d5x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "FRI 27 NOV - INT GUEST DJ ANIME @ WAO SUPERCLUB",
@@ -562,16 +452,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "SWEETIE | 'DOGTOOTH' ALBUM LAUNCH feat. The BiZ & Ponzi Scheme",
-   "date": "2026-11-28",
-   "time": "19:00",
-   "venue": "Heaps Normal Health Club",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/sweetie-dogtooth-album-launch-feat-the-biz-ponzi-scheme/199702",
-   "image": "https://static.moshtix.com.au/uploads/7582389f-8af8-42bb-8697-113fd36f736dx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Floyd Vincent and the Temple Dogs + The Loud Hailers + Lark",
    "date": "2026-11-28",
    "time": "19:00",
@@ -579,6 +459,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/floyd-vincent-and-the-temple-dogs-the-loud-hailers-lark/197900",
    "image": "https://static.moshtix.com.au/uploads/a02443c9-0b59-4893-8f64-2f7c28a1242ex140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "SWEETIE | 'DOGTOOTH' ALBUM LAUNCH feat. The BiZ & Ponzi Scheme",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "venue": "Heaps Normal Health Club",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/sweetie-dogtooth-album-launch-feat-the-biz-ponzi-scheme/199702",
+   "image": "https://static.moshtix.com.au/uploads/7582389f-8af8-42bb-8697-113fd36f736dx140x140",
    "source": "Moshtix"
   },
   {
@@ -792,6 +682,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "Rosebery Christmas Concert",
+   "date": "2026-11-29",
+   "time": "06:30",
+   "venue": "Turruwul Park",
+   "category": "Family",
+   "url": "https://whatson.cityofsydney.nsw.gov.au/events/rosebery-christmas-concert",
+   "image": "https://whatson.cityofsydney.nsw.gov.au/api/v1/events/events/7223/images/featured-omeglu.webp",
+   "source": "City of Sydney"
+  },
+  {
    "name": "TREPAN presents : Ghazza, Jade Yee Smith, Trepan, Failsafe and Embrosia [ALL AGES SHOW]",
    "date": "2026-11-29",
    "time": "12:00",
@@ -862,16 +762,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Lvl 1 -  JC & The Tree - Lost in the Wild album release tour with support Jarrah F Smith",
-   "date": "2026-11-29",
-   "time": "17:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/lvl-1-jc-the-tree-lost-in-the-wild-album-release-tour-with-support-jarrah-f-smith/201108",
-   "image": "https://static.moshtix.com.au/uploads/91059ba2-2a53-48f2-bb35-76e7bee61d44x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Swing West Jazz Orchestra",
    "date": "2026-11-29",
    "time": "17:00",
@@ -879,6 +769,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/swing-west-jazz-orchestra/193808",
    "image": "https://static.moshtix.com.au/uploads/4dcd98e7-a06f-4b7e-a598-9decf493a451x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Lvl 1 -  JC & The Tree - Lost in the Wild album release tour with support Jarrah F Smith",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-jc-the-tree-lost-in-the-wild-album-release-tour-with-support-jarrah-f-smith/201108",
+   "image": "https://static.moshtix.com.au/uploads/91059ba2-2a53-48f2-bb35-76e7bee61d44x140x140",
    "source": "Moshtix"
   },
   {
@@ -892,13 +792,13 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Don't Change - Ultimate INXS Tribute Get Kicked Tour",
+   "name": "ALBATROSS “IBTIDAA”  LIVE IN SYDNEY",
    "date": "2026-11-29",
    "time": "18:00",
-   "venue": "Bridge Hotel",
+   "venue": "ROUNDHOUSE, SYDNEY",
    "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/don-t-change-ultimate-inxs-tribute-get-kicked-tour/197316",
-   "image": "https://static.moshtix.com.au/uploads/d376c70f-1387-4388-9d3d-d65fe53c97a3x140x140",
+   "url": "https://www.moshtix.com.au/v2/event/albatross-ibtidaa-live-in-sydney/197066",
+   "image": "https://static.moshtix.com.au/uploads/544565b0-99cc-44f7-a15f-e322325aa09dx140x140",
    "source": "Moshtix"
   },
   {
@@ -909,6 +809,16 @@ window.EVENT_DATA = {
    "category": "Comedy",
    "url": "https://www.moshtix.com.au/v2/event/barrel-of-laughs-comedy-night/202508",
    "image": "https://static.moshtix.com.au/uploads/6a165604-5b61-4a3e-bb98-9c40ea356fe7x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Don't Change - Ultimate INXS Tribute Get Kicked Tour",
+   "date": "2026-11-29",
+   "time": "18:00",
+   "venue": "Bridge Hotel",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/don-t-change-ultimate-inxs-tribute-get-kicked-tour/197316",
+   "image": "https://static.moshtix.com.au/uploads/d376c70f-1387-4388-9d3d-d65fe53c97a3x140x140",
    "source": "Moshtix"
   },
   {
@@ -929,16 +839,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/ricky-albeck-the-belair-line-band/199110",
    "image": "https://static.moshtix.com.au/uploads/215eac61-4492-4bfe-9453-5bc1ebd649b0x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "ALBATROSS “IBTIDAA”  LIVE IN SYDNEY",
-   "date": "2026-11-29",
-   "time": "19:00",
-   "venue": "ROUNDHOUSE, SYDNEY",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/albatross-ibtidaa-live-in-sydney/197066",
-   "image": "https://static.moshtix.com.au/uploads/544565b0-99cc-44f7-a15f-e322325aa09dx140x140",
    "source": "Moshtix"
   },
   {
@@ -1142,16 +1042,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Kosher Groove with Strings over two rooms",
-   "date": "2026-12-03",
-   "time": "18:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/kosher-groove-with-strings-over-two-rooms/200729",
-   "image": "https://static.moshtix.com.au/uploads/392b31c9-f29b-4e3d-8af2-13e3c266907ex140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "heaven + hell",
    "date": "2026-12-03",
    "time": "18:00",
@@ -1159,6 +1049,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/heaven-hell/202697",
    "image": "https://static.moshtix.com.au/uploads/b680c234-b181-47bd-94c1-9cb9af17531fx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "StorySaloon",
+   "date": "2026-12-03",
+   "time": "18:00",
+   "venue": "The Vanguard",
+   "category": "Other",
+   "url": "https://www.moshtix.com.au/v2/event/storysaloon/198598",
+   "image": "https://static.moshtix.com.au/uploads/8df6efb0-30c1-4988-9788-4596f04af5d1x140x140",
    "source": "Moshtix"
   },
   {
@@ -1172,13 +1072,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "StorySaloon",
+   "name": "Kosher Groove with Strings over two rooms",
    "date": "2026-12-03",
    "time": "18:00",
-   "venue": "The Vanguard",
-   "category": "Other",
-   "url": "https://www.moshtix.com.au/v2/event/storysaloon/198598",
-   "image": "https://static.moshtix.com.au/uploads/8df6efb0-30c1-4988-9788-4596f04af5d1x140x140",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/kosher-groove-with-strings-over-two-rooms/200729",
+   "image": "https://static.moshtix.com.au/uploads/392b31c9-f29b-4e3d-8af2-13e3c266907ex140x140",
    "source": "Moshtix"
   },
   {
@@ -1252,6 +1152,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "The 5th Annual Ogescars",
+   "date": "2026-12-04",
+   "time": "18:00",
+   "venue": "Selina's, Coogee Bay Hotel",
+   "category": "Other",
+   "url": "https://www.moshtix.com.au/v2/event/the-5th-annual-ogescars/200843",
+   "image": "https://static.moshtix.com.au/uploads/b270fee8-e1c1-4638-8dea-c732958fa4d1x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "MARLY FRIDAYS | DEC 4TH",
    "date": "2026-12-04",
    "time": "18:00",
@@ -1269,26 +1179,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/forma-pres-six60-sub-tribe-darling-harbour-tumbalong-park/197740",
    "image": "https://static.moshtix.com.au/uploads/7754ca2a-ba6b-4547-a259-1c1ba052fde1x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "The 5th Annual Ogescars",
-   "date": "2026-12-04",
-   "time": "18:00",
-   "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Other",
-   "url": "https://www.moshtix.com.au/v2/event/the-5th-annual-ogescars/200843",
-   "image": "https://static.moshtix.com.au/uploads/b270fee8-e1c1-4638-8dea-c732958fa4d1x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "DECEITS (US)",
-   "date": "2026-12-04",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/deceits-us-/196821",
-   "image": "https://static.moshtix.com.au/uploads/69f7473b-b0be-4419-a9e1-b1340f303ab9x140x140",
    "source": "Moshtix"
   },
   {
@@ -1312,6 +1202,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "DECEITS (US)",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/deceits-us-/196821",
+   "image": "https://static.moshtix.com.au/uploads/69f7473b-b0be-4419-a9e1-b1340f303ab9x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Zoe Kemp And Friends [FREE ENTRY]",
    "date": "2026-12-04",
    "time": "19:00",
@@ -1332,16 +1232,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "The Sharp \"Live & Loud\" at The Bridge Hotel",
-   "date": "2026-12-04",
-   "time": "19:30",
-   "venue": "Bridge Hotel",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/the-sharp-live-loud-at-the-bridge-hotel/195573",
-   "image": "https://static.moshtix.com.au/uploads/60949af4-4c54-4959-ba51-ce91372bbf5ax140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Pro Wrestling Australia’s Kick Ons",
    "date": "2026-12-04",
    "time": "19:30",
@@ -1349,6 +1239,16 @@ window.EVENT_DATA = {
    "category": "Sport",
    "url": "https://www.moshtix.com.au/v2/event/pro-wrestling-australia-s-kick-ons/201497",
    "image": "https://static.moshtix.com.au/uploads/785969a3-462c-41fc-be55-52450218a9d1x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "The Sharp \"Live & Loud\" at The Bridge Hotel",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "venue": "Bridge Hotel",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/the-sharp-live-loud-at-the-bridge-hotel/195573",
+   "image": "https://static.moshtix.com.au/uploads/60949af4-4c54-4959-ba51-ce91372bbf5ax140x140",
    "source": "Moshtix"
   },
   {
@@ -1552,26 +1452,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Rising Tide - Local Talent Showcase",
-   "date": "2026-12-05",
-   "time": "19:00",
-   "venue": "Bootleggers",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/rising-tide-local-talent-showcase/202900",
-   "image": "https://static.moshtix.com.au/uploads/eec93899-93ee-4bf5-b541-4ad2f67b7b15x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "Lamestream Live",
-   "date": "2026-12-05",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Comedy",
-   "url": "https://www.moshtix.com.au/v2/event/lamestream-live/202428",
-   "image": "https://static.moshtix.com.au/uploads/b1945095-0ac5-4dec-b568-72bced9a3af1x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "The Fever Pitch",
    "date": "2026-12-05",
    "time": "19:00",
@@ -1579,6 +1459,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/the-fever-pitch/198822",
    "image": "https://static.moshtix.com.au/uploads/a0c4736a-3c31-41e2-beff-b095a06b3efex140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Rising Tide - 'Take Two' Release Event",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "venue": "Bootleggers",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/rising-tide-take-two-release-event/202900",
+   "image": "https://static.moshtix.com.au/uploads/f56d336d-d647-4bd1-ad78-06abb4b0b0d3x140x140",
    "source": "Moshtix"
   },
   {
@@ -1609,6 +1499,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/the-reflex-80s-new-wave/199859",
    "image": "https://static.moshtix.com.au/uploads/3d9a58a5-62c2-442d-99a9-d287be02503cx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Lamestream Live",
+   "date": "2026-12-05",
+   "time": "20:00",
+   "venue": "The Vanguard",
+   "category": "Comedy",
+   "url": "https://www.moshtix.com.au/v2/event/lamestream-live/202428",
+   "image": "https://static.moshtix.com.au/uploads/b1945095-0ac5-4dec-b568-72bced9a3af1x140x140",
    "source": "Moshtix"
   },
   {
@@ -1662,16 +1562,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "★ S.A.S.H Sydney ★ Cristina Lazic ★ Saturday 5th December ★",
-   "date": "2026-12-05",
-   "time": "22:00",
-   "venue": "Carousel Bar & Ballroom",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-cristina-lazic-saturday-5th-december-/201800",
-   "image": "https://static.moshtix.com.au/uploads/d326cce4-184f-46d0-bea2-c67c6ce2fd6dx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Last Words | Free Entry DJ's | Sydney Emo Night",
    "date": "2026-12-05",
    "time": "22:00",
@@ -1679,6 +1569,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/last-words-free-entry-dj-s-sydney-emo-night/201782",
    "image": "https://static.moshtix.com.au/uploads/353c5e73-6d5e-416d-a9c8-75f9e7cf81e7x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "★ S.A.S.H Sydney ★ Cristina Lazic ★ Saturday 5th December ★",
+   "date": "2026-12-05",
+   "time": "22:00",
+   "venue": "Carousel Bar & Ballroom",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-cristina-lazic-saturday-5th-december-/201800",
+   "image": "https://static.moshtix.com.au/uploads/d326cce4-184f-46d0-bea2-c67c6ce2fd6dx140x140",
    "source": "Moshtix"
   },
   {
@@ -1722,6 +1622,26 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "4KINGS DO THE 'BLUES, ROCK, FUNKIN GOODNESS SHOW' on Lvl 1",
+   "date": "2026-12-06",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/4kings-do-the-blues-rock-funkin-goodness-show-on-lvl-1/201113",
+   "image": "https://static.moshtix.com.au/uploads/16af88eb-7b77-45ac-a242-2b04ad1df0dfx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "The Joe Cocker Story",
+   "date": "2026-12-06",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/the-joe-cocker-story/200726",
+   "image": "https://static.moshtix.com.au/uploads/198f3c44-2565-4b52-94a9-d67b39602fb1x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Jordie Lane",
    "date": "2026-12-06",
    "time": "17:00",
@@ -1739,26 +1659,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/forma-pres-don-west-jordan-rakei-darling-harbour-tumbalong-park/198256",
    "image": "https://static.moshtix.com.au/uploads/7b0f6f73-1568-423e-a624-b38d7d38c3a1x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "The Joe Cocker Story",
-   "date": "2026-12-06",
-   "time": "17:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/the-joe-cocker-story/200726",
-   "image": "https://static.moshtix.com.au/uploads/198f3c44-2565-4b52-94a9-d67b39602fb1x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "4KINGS DO THE 'BLUES, ROCK, FUNKIN GOODNESS SHOW' on Lvl 1",
-   "date": "2026-12-06",
-   "time": "17:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/4kings-do-the-blues-rock-funkin-goodness-show-on-lvl-1/201113",
-   "image": "https://static.moshtix.com.au/uploads/16af88eb-7b77-45ac-a242-2b04ad1df0dfx140x140",
    "source": "Moshtix"
   },
   {
@@ -1802,16 +1702,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "THE WALLFLOWERS  30 Years of Bringing Down the Horse + more",
-   "date": "2026-12-06",
-   "time": "19:30",
-   "venue": "Liberty Hall",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/the-wallflowers-30-years-of-bringing-down-the-horse-more/199403",
-   "image": "https://static.moshtix.com.au/uploads/cd2088af-36a8-466f-af79-c0fa52ac1965x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "CANCELLED | Evening Elephants Australian Tour",
    "date": "2026-12-06",
    "time": "19:30",
@@ -1819,6 +1709,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/cancelled-evening-elephants-australian-tour/198152",
    "image": "https://static.moshtix.com.au/uploads/19c00f8e-a15c-42d3-b6b7-697ea43a08bfx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "THE WALLFLOWERS  30 Years of Bringing Down the Horse + more",
+   "date": "2026-12-06",
+   "time": "19:30",
+   "venue": "Liberty Hall",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/the-wallflowers-30-years-of-bringing-down-the-horse-more/199403",
+   "image": "https://static.moshtix.com.au/uploads/cd2088af-36a8-466f-af79-c0fa52ac1965x140x140",
    "source": "Moshtix"
   },
   {
@@ -2082,6 +1982,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "BOHEMIO! + Los Halcones Dorados",
+   "date": "2026-12-11",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/bohemio-los-halcones-dorados/200692",
+   "image": "https://static.moshtix.com.au/uploads/fa31d5b6-ee5e-422d-81e1-e05427d1d6b9x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "The Casual Slacks with The Hastings and Semistatic",
    "date": "2026-12-11",
    "time": "19:00",
@@ -2099,16 +2009,6 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/entundra-4-mitch-elliott-with-hinano-fujisaki-and-jasper-c-a/202686",
    "image": "https://static.moshtix.com.au/uploads/f096f6d1-d4b2-4fc5-be78-4134b929a75dx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "BOHEMIO! + Los Halcones Dorados",
-   "date": "2026-12-11",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/bohemio-los-halcones-dorados/200692",
-   "image": "https://static.moshtix.com.au/uploads/fa31d5b6-ee5e-422d-81e1-e05427d1d6b9x140x140",
    "source": "Moshtix"
   },
   {
@@ -2152,16 +2052,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "CB Ghost All Good Things Take Time Tour",
-   "date": "2026-12-11",
-   "time": "20:00",
-   "venue": "Elton chong",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/cb-ghost-all-good-things-take-time-tour/202039",
-   "image": "https://static.moshtix.com.au/uploads/f23cf0df-20b8-484a-bae0-68a6728d8651x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Mark Wilkinson: Home For Christmas",
    "date": "2026-12-11",
    "time": "20:00",
@@ -2169,6 +2059,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/mark-wilkinson-home-for-christmas/200512",
    "image": "https://static.moshtix.com.au/uploads/02a52a62-851b-4994-861f-f6ca44a7ec01x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "CB Ghost All Good Things Take Time Tour",
+   "date": "2026-12-11",
+   "time": "20:00",
+   "venue": "Elton chong",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/cb-ghost-all-good-things-take-time-tour/202039",
+   "image": "https://static.moshtix.com.au/uploads/f23cf0df-20b8-484a-bae0-68a6728d8651x140x140",
    "source": "Moshtix"
   },
   {
@@ -2192,13 +2092,13 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "SURGE CTRL",
+   "name": "JIGITZ. Australian Tour 2026.",
    "date": "2026-12-11",
    "time": "21:00",
-   "venue": "Selina's, Coogee Bay Hotel",
+   "venue": "Liberty Hall",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/surge-ctrl/202354",
-   "image": "https://static.moshtix.com.au/uploads/75ee41bb-755f-4a55-b9e1-a86980cf3dbcx140x140",
+   "url": "https://www.moshtix.com.au/v2/event/jigitz-australian-tour-2026-/199181",
+   "image": "https://static.moshtix.com.au/uploads/4b021ccf-8ddb-49b6-bbcd-79a9fb6c51d9x140x140",
    "source": "Moshtix"
   },
   {
@@ -2212,13 +2112,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "JIGITZ. Australian Tour 2026.",
+   "name": "SURGE CTRL",
    "date": "2026-12-11",
    "time": "21:00",
-   "venue": "Liberty Hall",
+   "venue": "Selina's, Coogee Bay Hotel",
    "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/jigitz-australian-tour-2026-/199181",
-   "image": "https://static.moshtix.com.au/uploads/4b021ccf-8ddb-49b6-bbcd-79a9fb6c51d9x140x140",
+   "url": "https://www.moshtix.com.au/v2/event/surge-ctrl/202354",
+   "image": "https://static.moshtix.com.au/uploads/75ee41bb-755f-4a55-b9e1-a86980cf3dbcx140x140",
    "source": "Moshtix"
   },
   {
@@ -2332,16 +2232,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "ANDRO MARTINEZ presents  LOOPSTATE",
-   "date": "2026-12-12",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/andro-martinez-presents-loopstate/200745",
-   "image": "https://static.moshtix.com.au/uploads/78989a74-ce63-4ce7-a258-458b2ce1e2a6x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Last Words 2nd Birthday + Xmas Party w/ RinRin, st.sinner, Live Like Animals & 51st Avenue",
    "date": "2026-12-12",
    "time": "19:00",
@@ -2352,13 +2242,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "LARGE MIRAGE - PLEASURE CLUB, NEWTOWN - TRILOGY",
+   "name": "ANDRO MARTINEZ presents  LOOPSTATE",
    "date": "2026-12-12",
    "time": "19:00",
-   "venue": "Pleasure Club",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/large-mirage-pleasure-club-newtown-trilogy/202468",
-   "image": "https://static.moshtix.com.au/uploads/7f52e008-93bd-4619-b2f5-bfd910c29272x140x140",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/andro-martinez-presents-loopstate/200745",
+   "image": "https://static.moshtix.com.au/uploads/78989a74-ce63-4ce7-a258-458b2ce1e2a6x140x140",
    "source": "Moshtix"
   },
   {
@@ -2369,6 +2259,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/music-in-exile-s-artist-first-fundraiser-w-hugh-b-setwun-ashkan-shafiei-anso-d-grade-dj-liars-dj-/202838",
    "image": "https://static.moshtix.com.au/uploads/ea5a2ac9-af5f-4ae4-b85f-4d55d40a2065x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "LARGE MIRAGE - PLEASURE CLUB, NEWTOWN - TRILOGY",
+   "date": "2026-12-12",
+   "time": "19:00",
+   "venue": "Pleasure Club",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/large-mirage-pleasure-club-newtown-trilogy/202468",
+   "image": "https://static.moshtix.com.au/uploads/7f52e008-93bd-4619-b2f5-bfd910c29272x140x140",
    "source": "Moshtix"
   },
   {
@@ -2662,16 +2562,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Lvl 1- Vinyl Night with Special Guest Cam Undy",
-   "date": "2026-12-15",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/lvl-1-vinyl-night-with-special-guest-cam-undy/201437",
-   "image": "https://static.moshtix.com.au/uploads/bc88edae-0a3b-41af-9561-6e2ffb342488x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Show Me The Body",
    "date": "2026-12-15",
    "time": "19:00",
@@ -2679,6 +2569,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/show-me-the-body/200881",
    "image": "https://static.moshtix.com.au/uploads/2e0bd5f7-f5c0-40fc-8313-fec8fea8ccdbx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Lvl 1- Vinyl Night with Special Guest Cam Undy",
+   "date": "2026-12-15",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-vinyl-night-with-special-guest-cam-undy/201437",
+   "image": "https://static.moshtix.com.au/uploads/bc88edae-0a3b-41af-9561-6e2ffb342488x140x140",
    "source": "Moshtix"
   },
   {
@@ -2762,13 +2662,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Lvl 1 - LATIN FUSION GROOVE - End of Year Party",
+   "name": "Debaser Presents : Slow Down Soldier - National EP Tour Finale",
    "date": "2026-12-17",
    "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/lvl-1-latin-fusion-groove-end-of-year-party/200827",
-   "image": "https://static.moshtix.com.au/uploads/822ed9e9-9def-4a0c-9b76-b40396ce0d56x140x140",
+   "venue": "Oxford Art Factory, Main Room",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/debaser-presents-slow-down-soldier-national-ep-tour-finale/202464",
+   "image": "https://static.moshtix.com.au/uploads/130b2305-a191-43c3-8443-a1732ae8723bx140x140",
    "source": "Moshtix"
   },
   {
@@ -2782,13 +2682,13 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Debaser Presents : Slow Down Soldier - National EP Tour Finale",
+   "name": "Lvl 1 - LATIN FUSION GROOVE - End of Year Party",
    "date": "2026-12-17",
    "time": "19:00",
-   "venue": "Oxford Art Factory, Main Room",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/debaser-presents-slow-down-soldier-national-ep-tour-finale/202464",
-   "image": "https://static.moshtix.com.au/uploads/130b2305-a191-43c3-8443-a1732ae8723bx140x140",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/lvl-1-latin-fusion-groove-end-of-year-party/200827",
+   "image": "https://static.moshtix.com.au/uploads/822ed9e9-9def-4a0c-9b76-b40396ce0d56x140x140",
    "source": "Moshtix"
   },
   {
@@ -2862,16 +2762,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Raised As Wolves",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "venue": "Bootleggers",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/raised-as-wolves/202006",
-   "image": "https://static.moshtix.com.au/uploads/33d6284d-950a-4534-96af-f8a5fe11cf9ax140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "CUBAN SOCIAL CLUB",
    "date": "2026-12-18",
    "time": "19:00",
@@ -2879,6 +2769,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/cuban-social-club/200744",
    "image": "https://static.moshtix.com.au/uploads/0420b1b6-56b6-4992-9f51-11760f9a234cx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Raised As Wolves",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "venue": "Bootleggers",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/raised-as-wolves/202006",
+   "image": "https://static.moshtix.com.au/uploads/33d6284d-950a-4534-96af-f8a5fe11cf9ax140x140",
    "source": "Moshtix"
   },
   {
@@ -3032,16 +2932,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "LARGE MIRAGE - PLEASURE CLUB, NEWTOWN - TRILOGY",
-   "date": "2026-12-19",
-   "time": "19:00",
-   "venue": "Pleasure Club",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/large-mirage-pleasure-club-newtown-trilogy/202469",
-   "image": "https://static.moshtix.com.au/uploads/7f52e008-93bd-4619-b2f5-bfd910c29272x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Sea, You and Tea: Mad Tea Party",
    "date": "2026-12-19",
    "time": "19:00",
@@ -3049,6 +2939,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/sea-you-and-tea-mad-tea-party/202266",
    "image": "https://static.moshtix.com.au/uploads/43c30d85-ddae-4f4f-81c1-9ec878d67c8bx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "LARGE MIRAGE - PLEASURE CLUB, NEWTOWN - TRILOGY",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "venue": "Pleasure Club",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/large-mirage-pleasure-club-newtown-trilogy/202469",
+   "image": "https://static.moshtix.com.au/uploads/7f52e008-93bd-4619-b2f5-bfd910c29272x140x140",
    "source": "Moshtix"
   },
   {
@@ -3112,16 +3012,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Last Words | Free Entry DJ's | Sydney Emo Night",
-   "date": "2026-12-19",
-   "time": "22:00",
-   "venue": "Bootleggers",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/last-words-free-entry-dj-s-sydney-emo-night/201783",
-   "image": "https://static.moshtix.com.au/uploads/353c5e73-6d5e-416d-a9c8-75f9e7cf81e7x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "★ S.A.S.H Sydney ★ Saturday 19th December ★",
    "date": "2026-12-19",
    "time": "22:00",
@@ -3129,6 +3019,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/-s-a-s-h-sydney-saturday-19th-december-/201802",
    "image": "https://static.moshtix.com.au/uploads/af8d1b5a-2f17-4a74-99db-94ea8ee43345x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Last Words | Free Entry DJ's | Sydney Emo Night",
+   "date": "2026-12-19",
+   "time": "22:00",
+   "venue": "Bootleggers",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/last-words-free-entry-dj-s-sydney-emo-night/201783",
+   "image": "https://static.moshtix.com.au/uploads/353c5e73-6d5e-416d-a9c8-75f9e7cf81e7x140x140",
    "source": "Moshtix"
   },
   {
@@ -3162,16 +3062,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Soul Roots Revival Band - Soul Funk Xmas Celebration",
-   "date": "2026-12-20",
-   "time": "17:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/soul-roots-revival-band-soul-funk-xmas-celebration/200758",
-   "image": "https://static.moshtix.com.au/uploads/7c9f9b33-7ada-460c-86ae-ba86c4a31cf5x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Lvl 1 - Zoe K Whole Experience Christmas Cabaret Party",
    "date": "2026-12-20",
    "time": "17:00",
@@ -3179,6 +3069,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-zoe-k-whole-experience-christmas-cabaret-party/202045",
    "image": "https://static.moshtix.com.au/uploads/ab67a72d-8f12-4759-ac18-756c522bbd6fx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Soul Roots Revival Band - Soul Funk Xmas Celebration",
+   "date": "2026-12-20",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/soul-roots-revival-band-soul-funk-xmas-celebration/200758",
+   "image": "https://static.moshtix.com.au/uploads/7c9f9b33-7ada-460c-86ae-ba86c4a31cf5x140x140",
    "source": "Moshtix"
   },
   {
@@ -3312,16 +3212,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "LARGE MIRAGE - PLEASURE CLUB, NEWTOWN - TRILOGY",
-   "date": "2026-12-26",
-   "time": "19:00",
-   "venue": "Pleasure Club",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/large-mirage-pleasure-club-newtown-trilogy/202470",
-   "image": "https://static.moshtix.com.au/uploads/7f52e008-93bd-4619-b2f5-bfd910c29272x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "La Tertulia  🎁",
    "date": "2026-12-26",
    "time": "19:00",
@@ -3329,6 +3219,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/la-tertulia-/201985",
    "image": "https://static.moshtix.com.au/uploads/b6b29d29-fa9a-4e1a-a7d9-372131ade4fdx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "LARGE MIRAGE - PLEASURE CLUB, NEWTOWN - TRILOGY",
+   "date": "2026-12-26",
+   "time": "19:00",
+   "venue": "Pleasure Club",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/large-mirage-pleasure-club-newtown-trilogy/202470",
+   "image": "https://static.moshtix.com.au/uploads/7f52e008-93bd-4619-b2f5-bfd910c29272x140x140",
    "source": "Moshtix"
   },
   {
@@ -3442,16 +3342,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "NYE 2026 with Old School Funk & Groove + Labyrinth takeover on Level 1",
-   "date": "2026-12-31",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/nye-2026-with-old-school-funk-groove-labyrinth-takeover-on-level-1/200747",
-   "image": "https://static.moshtix.com.au/uploads/00f31192-14e8-4f12-91a9-d2945410a8a9x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Club Dirty Martini NYE",
    "date": "2026-12-31",
    "time": "19:00",
@@ -3459,6 +3349,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/club-dirty-martini-nye/202259",
    "image": "https://static.moshtix.com.au/uploads/d6a14f3a-aa15-4e4c-9755-7aa7dd4b3fcax140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "NYE 2026 with Old School Funk & Groove + Labyrinth takeover on Level 1",
+   "date": "2026-12-31",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/nye-2026-with-old-school-funk-groove-labyrinth-takeover-on-level-1/200747",
+   "image": "https://static.moshtix.com.au/uploads/00f31192-14e8-4f12-91a9-d2945410a8a9x140x140",
    "source": "Moshtix"
   },
   {
@@ -3472,6 +3372,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "The Last Dance NYE ft Dusky & Friends",
+   "date": "2026-12-31",
+   "time": "20:00",
+   "venue": "Selina's, Coogee Bay Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/the-last-dance-nye-ft-dusky-friends/196998",
+   "image": "https://static.moshtix.com.au/uploads/c4e7a43e-b51b-44e0-9c2f-978f10624344x140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "TMRW MUSIC pres. NYE with JUDGE JULES (UK)",
    "date": "2026-12-31",
    "time": "20:00",
@@ -3479,16 +3389,6 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/tmrw-music-pres-nye-with-judge-jules-uk-/200648",
    "image": "https://static.moshtix.com.au/uploads/dfeddc37-62aa-4a0d-ba94-6d684685c1c8x140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "The Last Dance NYE ft Dusky & Friends",
-   "date": "2026-12-31",
-   "time": "20:00",
-   "venue": "Selina's, Coogee Bay Hotel",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/the-last-dance-nye-ft-dusky-friends/196998",
-   "image": "https://static.moshtix.com.au/uploads/b07ed305-1027-4dac-81f4-fc9eec44033bx140x140",
    "source": "Moshtix"
   },
   {
@@ -3612,16 +3512,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Emma Zander & David Frank Present: For the Lore",
-   "date": "2027-01-03",
-   "time": "17:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/emma-zander-david-frank-present-for-the-lore/202825",
-   "image": "https://static.moshtix.com.au/uploads/5f08ccd7-b2e3-4a0f-b69e-dfda4e2b05ccx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Lvl 1 - Chris Endrey",
    "date": "2027-01-03",
    "time": "17:00",
@@ -3629,6 +3519,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-chris-endrey/202806",
    "image": "https://static.moshtix.com.au/uploads/431cd986-4c00-4a01-aa18-2bf6ed227ff7x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Emma Zander & David Frank Present: For the Lore",
+   "date": "2027-01-03",
+   "time": "17:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/emma-zander-david-frank-present-for-the-lore/202825",
+   "image": "https://static.moshtix.com.au/uploads/5f08ccd7-b2e3-4a0f-b69e-dfda4e2b05ccx140x140",
    "source": "Moshtix"
   },
   {
@@ -3992,16 +3892,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Joel Sarakula (Band)",
-   "date": "2027-01-15",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/joel-sarakula-band-/194415",
-   "image": "https://static.moshtix.com.au/uploads/d6bca7a4-acf8-46de-ba53-1ade9b5a1d0cx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Crime & the City Solution - Australian Acoustic Tour 2027",
    "date": "2027-01-15",
    "time": "19:00",
@@ -4009,6 +3899,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/crime-the-city-solution-australian-acoustic-tour-2027/201159",
    "image": "https://static.moshtix.com.au/uploads/66352646-5c36-46de-8e74-9eb7c4256b1cx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Joel Sarakula (Band)",
+   "date": "2027-01-15",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/joel-sarakula-band-/194415",
+   "image": "https://static.moshtix.com.au/uploads/d6bca7a4-acf8-46de-ba53-1ade9b5a1d0cx140x140",
    "source": "Moshtix"
   },
   {
@@ -4050,6 +3950,26 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/the-magic-flute-sydney-16-01-2027/event/130065319C543AF1",
    "image": "https://s1.ticketm.net/dam/a/4ae/d1c0175e-eb44-4b15-a147-61b5f0f1b4ae_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Somewhere Else: Not Without Friends (All Day Long)",
+   "date": "2027-01-16",
+   "time": "15:00",
+   "venue": "Holme Courtyard",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/somewhere-else-not-without-friends-all-day-long-/203131",
+   "image": "https://static.moshtix.com.au/uploads/dcceb74d-555f-4468-8863-b31bac0a3cc7x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Tilly Fenton - The Serendipity Tour",
+   "date": "2027-01-16",
+   "time": "18:00",
+   "venue": "Metro Social",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/tilly-fenton-the-serendipity-tour/202871",
+   "image": "https://static.moshtix.com.au/uploads/0e076d38-ac8e-4fce-a6b0-980c52edfca4x140x140",
+   "source": "Moshtix"
   },
   {
    "name": "Sycco 'Look Up' Album Tour",
@@ -4202,16 +4122,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Beans on Toast Australian Tour 2027",
-   "date": "2027-01-21",
-   "time": "19:00",
-   "venue": "The Vanguard",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/beans-on-toast-australian-tour-2027/200174",
-   "image": "https://static.moshtix.com.au/uploads/ab63cfd4-da15-4366-92db-419e086fd0ebx140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Bespoke Folk Music is BRINGING THE GOODS!",
    "date": "2027-01-21",
    "time": "19:00",
@@ -4229,6 +4139,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-5-sided-cube-flux-state-dink/200134",
    "image": "https://static.moshtix.com.au/uploads/703b7818-8691-4248-9736-da2ec8d27557x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Beans on Toast Australian Tour 2027",
+   "date": "2027-01-21",
+   "time": "19:00",
+   "venue": "The Vanguard",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/beans-on-toast-australian-tour-2027/200174",
+   "image": "https://static.moshtix.com.au/uploads/ab63cfd4-da15-4366-92db-419e086fd0ebx140x140",
    "source": "Moshtix"
   },
   {
@@ -4282,16 +4202,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Against the Current - Till Death and Back Australian Tour",
-   "date": "2027-01-22",
-   "time": "19:30",
-   "venue": "Liberty Hall",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/against-the-current-till-death-and-back-australian-tour/196714",
-   "image": "https://static.moshtix.com.au/uploads/dfc852b4-b9b2-4704-8303-eb641d708614x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Real Young & Lazy Horse (NY, USA)",
    "date": "2027-01-22",
    "time": "19:30",
@@ -4299,6 +4209,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/real-young-lazy-horse-ny-usa-/201642",
    "image": "https://static.moshtix.com.au/uploads/45d8a4ed-7348-4f7c-a050-b9ec34c22ebex140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Against the Current - Till Death and Back Australian Tour",
+   "date": "2027-01-22",
+   "time": "19:30",
+   "venue": "Liberty Hall",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/against-the-current-till-death-and-back-australian-tour/196714",
+   "image": "https://static.moshtix.com.au/uploads/dfc852b4-b9b2-4704-8303-eb641d708614x140x140",
    "source": "Moshtix"
   },
   {
@@ -4332,16 +4252,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "TMRW Music & One Hit pres. BRIGHTER DAZE Sydney",
-   "date": "2027-01-23",
-   "time": "14:00",
-   "venue": "Greenwood Hotel",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/tmrw-music-one-hit-pres-brighter-daze-sydney/201289",
-   "image": "https://static.moshtix.com.au/uploads/5be38eec-3bc9-42e3-809a-c68bc113ecaax140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Bella Claxton [Sydney]",
    "date": "2027-01-23",
    "time": "14:00",
@@ -4349,6 +4259,16 @@ window.EVENT_DATA = {
    "category": "Nightlife & Electronic",
    "url": "https://www.moshtix.com.au/v2/event/bella-claxton-sydney-/201184",
    "image": "https://static.moshtix.com.au/uploads/b460c4b7-3071-418a-96de-0dffa3caf1f6x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "TMRW Music & One Hit pres. BRIGHTER DAZE Sydney",
+   "date": "2027-01-23",
+   "time": "14:00",
+   "venue": "Greenwood Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/tmrw-music-one-hit-pres-brighter-daze-sydney/201289",
+   "image": "https://static.moshtix.com.au/uploads/5be38eec-3bc9-42e3-809a-c68bc113ecaax140x140",
    "source": "Moshtix"
   },
   {
@@ -4522,16 +4442,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "Arsène DeLay & Charlie Wooton",
-   "date": "2027-01-28",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Rock & Indie",
-   "url": "https://www.moshtix.com.au/v2/event/ars-ne-delay-charlie-wooton/202086",
-   "image": "https://static.moshtix.com.au/uploads/09f769cc-dcaf-4931-9d0c-60775feae151x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Lvl 1 - Imaginary Numbers",
    "date": "2027-01-28",
    "time": "19:00",
@@ -4539,6 +4449,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/lvl-1-imaginary-numbers/201369",
    "image": "https://static.moshtix.com.au/uploads/ad485eeb-20df-43e6-96be-9826a999d012x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Arsène DeLay & Charlie Wooton",
+   "date": "2027-01-28",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Rock & Indie",
+   "url": "https://www.moshtix.com.au/v2/event/ars-ne-delay-charlie-wooton/202086",
+   "image": "https://static.moshtix.com.au/uploads/09f769cc-dcaf-4931-9d0c-60775feae151x140x140",
    "source": "Moshtix"
   },
   {
@@ -4582,16 +4502,6 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
-   "name": "Rops1 & CV - The Takeover Tour",
-   "date": "2027-01-29",
-   "time": "19:30",
-   "venue": "Factory Theatre",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/rops1-cv-the-takeover-tour/199406",
-   "image": "https://static.moshtix.com.au/uploads/850f99bf-81d6-49da-a392-c6ada9d0f213x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Horrorshow & Grieves (USA) - In Heat Tour, Australia 2027",
    "date": "2027-01-29",
    "time": "19:30",
@@ -4599,6 +4509,16 @@ window.EVENT_DATA = {
    "category": "Soul, Jazz & Global",
    "url": "https://www.moshtix.com.au/v2/event/horrorshow-grieves-usa-in-heat-tour-australia-2027/202580",
    "image": "https://static.moshtix.com.au/uploads/fc1f04df-6ab9-4773-8f2a-18f99a8044aex140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Rops1 & CV - The Takeover Tour",
+   "date": "2027-01-29",
+   "time": "19:30",
+   "venue": "Factory Theatre",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/rops1-cv-the-takeover-tour/199406",
+   "image": "https://static.moshtix.com.au/uploads/850f99bf-81d6-49da-a392-c6ada9d0f213x140x140",
    "source": "Moshtix"
   },
   {
@@ -4832,16 +4752,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "BUSTIN’ LOOSE - A Night of Pure Soul & Heavy Funk",
-   "date": "2027-02-05",
-   "time": "19:00",
-   "venue": "Lazybones Lounge Restaurant & Bar",
-   "category": "Soul, Jazz & Global",
-   "url": "https://www.moshtix.com.au/v2/event/bustin-loose-a-night-of-pure-soul-heavy-funk/198639",
-   "image": "https://static.moshtix.com.au/uploads/ff1f7f4d-4858-43de-b059-af1ca6180c39x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "PALEFACE SWISS + COUNTERPARTS + FOX LAKE",
    "date": "2027-02-05",
    "time": "19:00",
@@ -4849,6 +4759,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/paleface-swiss-counterparts-fox-lake/197535",
    "image": "https://static.moshtix.com.au/uploads/4eed076c-4ea7-4e33-8467-99172d723bb9x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "BUSTIN’ LOOSE - A Night of Pure Soul & Heavy Funk",
+   "date": "2027-02-05",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/bustin-loose-a-night-of-pure-soul-heavy-funk/198639",
+   "image": "https://static.moshtix.com.au/uploads/ff1f7f4d-4858-43de-b059-af1ca6180c39x140x140",
    "source": "Moshtix"
   },
   {
@@ -5112,6 +5032,16 @@ window.EVENT_DATA = {
    "source": "Moshtix"
   },
   {
+   "name": "JESSE BARRERA | Sydney",
+   "date": "2027-02-10",
+   "time": "19:30",
+   "venue": "The Lansdowne Hotel, Sydney",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/jesse-barrera-sydney/202617",
+   "image": "https://static.moshtix.com.au/uploads/80c97977-d6d4-432b-85f7-9b78029ce56ex140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "Thrown Australian Tour 2027 with Boundaries & 156/Silence",
    "date": "2027-02-11",
    "time": "18:30",
@@ -5172,6 +5102,16 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
+   "name": "VOXNEON - REWIRED\\RELOADED - DOUBLE HEADER FRI 12 + SAT 13 FEB",
+   "date": "2027-02-12",
+   "time": "19:30",
+   "venue": "The Bridge Hotel",
+   "category": "Nightlife & Electronic",
+   "url": "https://www.moshtix.com.au/v2/event/voxneon-rewired-reloaded-double-header-fri-12-sat-13-feb/202634",
+   "image": "https://static.moshtix.com.au/uploads/bb3e014d-a2a8-4e2e-b9dc-430eb6d1891ex140x140",
+   "source": "Moshtix"
+  },
+  {
    "name": "The Australian Beach Boys Show",
    "date": "2027-02-12",
    "time": "19:30",
@@ -5179,16 +5119,6 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/the-australian-beach-boys-show/201462",
    "image": "https://static.moshtix.com.au/uploads/6b5851df-70c5-4813-a1ba-79003179c60cx140x140",
-   "source": "Moshtix"
-  },
-  {
-   "name": "VOXNEON - REWIRED\\RELOADED",
-   "date": "2027-02-12",
-   "time": "19:30",
-   "venue": "The Bridge Hotel",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/voxneon-rewired-reloaded/202634",
-   "image": "https://static.moshtix.com.au/uploads/bb3e014d-a2a8-4e2e-b9dc-430eb6d1891ex140x140",
    "source": "Moshtix"
   },
   {
@@ -5262,16 +5192,6 @@ window.EVENT_DATA = {
    "source": "Ticketmaster"
   },
   {
-   "name": "VOXNEON - REWIRED\\RELOADED",
-   "date": "2027-02-13",
-   "time": "19:30",
-   "venue": "The Bridge Hotel",
-   "category": "Nightlife & Electronic",
-   "url": "https://www.moshtix.com.au/v2/event/voxneon-rewired-reloaded/202636",
-   "image": "https://static.moshtix.com.au/uploads/bfd022fb-b6d8-4b6d-96ef-48e544b201f7x140x140",
-   "source": "Moshtix"
-  },
-  {
    "name": "Fair Day",
    "date": "2027-02-14",
    "time": "10:00",
@@ -5289,6 +5209,16 @@ window.EVENT_DATA = {
    "category": "Rock & Indie",
    "url": "https://www.moshtix.com.au/v2/event/the-king-s-songbook-valentine-s-day-/201318",
    "image": "https://static.moshtix.com.au/uploads/31348b6c-4a89-4844-af56-7750a3ba43dbx140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "The Royal Heart Revue Burlesque - Valentines Day Edition",
+   "date": "2027-02-14",
+   "time": "18:00",
+   "venue": "The Vanguard",
+   "category": "Stage & Screen",
+   "url": "https://www.moshtix.com.au/v2/event/the-royal-heart-revue-burlesque-valentines-day-edition/203149",
+   "image": "https://static.moshtix.com.au/uploads/905e386a-d6e7-43c2-816b-a123928a568dx140x140",
    "source": "Moshtix"
   },
   {
@@ -5620,6 +5550,36 @@ window.EVENT_DATA = {
    "url": "https://www.ticketmaster.com.au/la-boheme-sydney-23-02-2027/event/130065319E663ED8",
    "image": "https://s1.ticketm.net/dam/a/e00/be278740-5cf8-4eb0-be44-c09aa0f3fe00_ARTIST_PAGE_3_2.jpg",
    "source": "Ticketmaster"
+  },
+  {
+   "name": "Calvin Harris - Australia Tour 2027",
+   "date": "2027-02-24",
+   "time": "17:00",
+   "venue": "The Domain",
+   "category": "Other Music",
+   "url": "https://www.ticketmaster.com.au/calvin-harris-australia-tour-2027-sydney-24-02-2027/event/13006536E29698D0",
+   "image": "https://s1.ticketm.net/dam/a/8cf/8010686b-362d-47e1-8254-0d7eee6328cf_CUSTOM.jpg",
+   "source": "Ticketmaster"
+  },
+  {
+   "name": "Mardi Gala Ball",
+   "date": "2027-02-25",
+   "time": "18:30",
+   "venue": "Carriageworks",
+   "category": "Other",
+   "url": "https://www.moshtix.com.au/v2/event/mardi-gala-ball/202286",
+   "image": "https://static.moshtix.com.au/uploads/0f3163cc-1968-40e8-8fa5-3c5ec820b649x140x140",
+   "source": "Moshtix"
+  },
+  {
+   "name": "Carl Orr's London  Underground",
+   "date": "2027-02-25",
+   "time": "19:00",
+   "venue": "Lazybones Lounge Restaurant & Bar",
+   "category": "Soul, Jazz & Global",
+   "url": "https://www.moshtix.com.au/v2/event/carl-orr-s-london-underground/199809",
+   "image": "https://static.moshtix.com.au/uploads/dc1671f5-43ef-4fc5-9083-bd23f4155d3dx140x140",
+   "source": "Moshtix"
   }
  ]
 };
